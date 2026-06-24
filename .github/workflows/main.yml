@@ -1,0 +1,135 @@
+name: Generate and Sync Ivan-FluX to Dual Cloudflare KV
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # প্রতি ৫ মিনিটে অটো রান হবে
+  workflow_dispatch:      # ম্যানুয়ালি রান করার জন্য
+  repository_dispatch:    # বাইরের ট্রাফিকের জন্য
+    types: [manual_push]
+
+jobs:
+  build_and_sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # ধাপ ১: পাইথন স্ক্রিপ্ট রান করে Ivan-FluX.json ফাইলটি জেনারেট করা
+      - name: Run Data Generator
+        env:
+          LIVXOW_URL: ${{ secrets.LIVXOW_URL }}
+        run: python main.py
+
+      # ধাপ ২: ১ম ক্লাউডফ্লেয়ার KV-তে ডেটা আপলোড এবং ক্যাশ পার্জ (Primary)
+      - name: Sync & Purge Cloudflare 1
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID_1 }}
+          CF_KV_NAMESPACE_ID: ${{ secrets.CF_KV_NAMESPACE_ID_1 }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN_1 }}
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID_1 }}
+          CF_PURGE_URL: "https://footmad-ivan-flux.shop/ivan-flux" # ১ম ডোমেইন এপিআই লিঙ্ক
+        run: |
+          if [ -f "Ivan-FluX.json" ]; then
+            echo "Uploading to Cloudflare 1..."
+            upload_response=$(curl -s -w "%{http_code}" -o response.json -X PUT \
+              "https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/storage/kv/namespaces/${CF_KV_NAMESPACE_ID}/values/ivan-flux" \
+              -H "Authorization: Bearer ${CF_API_TOKEN}" \
+              -H "Content-Type: application/json" \
+              --data-binary @"Ivan-FluX.json")
+            
+            if [ "$upload_response" -eq 200 ]; then
+              echo "Successfully uploaded to Cloudflare 1."
+              
+              # ১ম ডোমেইনের ক্যাশ ইনস্ট্যান্ট ক্লিয়ার করা (Purge Cache)
+              if [ ! -z "${CF_ZONE_ID}" ]; then
+                echo "Purging cache for ${CF_PURGE_URL}..."
+                purge_response=$(curl -s -w "%{http_code}" -o purge_response.json -X POST \
+                  "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
+                  -H "Authorization: Bearer ${CF_API_TOKEN}" \
+                  -H "Content-Type: application/json" \
+                  -d "{\"files\":[\"${CF_PURGE_URL}\"]}")
+                
+                if [ "$purge_response" -eq 200 ]; then
+                  echo "Successfully purged cache on Cloudflare 1."
+                else
+                  echo "Failed to purge cache on Cloudflare 1. HTTP: $purge_response"
+                  cat purge_response.json
+                fi
+              fi
+            else
+              echo "Failed to upload to Cloudflare 1. HTTP: $upload_response"
+              cat response.json
+              exit 1
+            fi
+          else
+            echo "Error: Ivan-FluX.json was not generated!"
+            exit 1
+          fi
+
+      # ধাপ ৩: ২য় ক্লাউডফ্লেয়ার KV-তে ডেটা আপলোড এবং ক্যাশ পার্জ (Secondary)
+      - name: Sync & Purge Cloudflare 2
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID_2 }}
+          CF_KV_NAMESPACE_ID: ${{ secrets.CF_KV_NAMESPACE_ID_2 }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN_2 }}
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID_2 }}
+          CF_PURGE_URL: "https://আপনার-২য়-ডোমেইন.com/ivan-flux" # আপনার ২য় ডোমেইন এপিআই লিঙ্ক
+        run: |
+          if [ -f "Ivan-FluX.json" ]; then
+            echo "Uploading to Cloudflare 2..."
+            upload_response=$(curl -s -w "%{http_code}" -o response.json -X PUT \
+              "https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/storage/kv/namespaces/${CF_KV_NAMESPACE_ID}/values/ivan-flux" \
+              -H "Authorization: Bearer ${CF_API_TOKEN}" \
+              -H "Content-Type: application/json" \
+              --data-binary @"Ivan-FluX.json")
+            
+            if [ "$upload_response" -eq 200 ]; then
+              echo "Successfully uploaded to Cloudflare 2."
+              
+              # ২য় ডোমেইনের ক্যাশ ইনস্ট্যান্ট ক্লিয়ার করা (Purge Cache)
+              if [ ! -z "${CF_ZONE_ID}" ]; then
+                echo "Purging cache for ${CF_PURGE_URL}..."
+                purge_response=$(curl -s -w "%{http_code}" -o purge_response.json -X POST \
+                  "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
+                  -H "Authorization: Bearer ${CF_API_TOKEN}" \
+                  -H "Content-Type: application/json" \
+                  -d "{\"files\":[\"${CF_PURGE_URL}\"]}")
+                
+                if [ "$purge_response" -eq 200 ]; then
+                  echo "Successfully purged cache on Cloudflare 2."
+                else
+                  echo "Failed to purge cache on Cloudflare 2. HTTP: $purge_response"
+                  cat purge_response.json
+                fi
+              fi
+            else
+              echo "Failed to upload to Cloudflare 2. HTTP: $upload_response"
+              cat response.json
+              exit 1
+            fi
+          else
+            echo "Error: Ivan-FluX.json was not generated!"
+            exit 1
+          fi
+
+      # ধাপ ৪: গিটহাবে ব্যাকআপ ফাইল পুশ করা
+      - name: Commit and Push Changes to GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Ivan-FluX.json
+          git commit -m "Update Ivan-FluX.json (Plain JSON) [Skip CI]" || exit 0
+          git push

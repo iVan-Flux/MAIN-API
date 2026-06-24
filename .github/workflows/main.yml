@@ -86,7 +86,7 @@ jobs:
           CF_KV_NAMESPACE_ID: ${{ secrets.CF_KV_NAMESPACE_ID_2 }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN_2 }}
           CF_ZONE_ID: ${{ secrets.CF_ZONE_ID_2 }}
-          CF_PURGE_URL: "https://আপনার-২য়-ডোমেইন.com/ivan-flux" # আপনার ২য় ডোমেইন এপিআই লিঙ্ক
+          CF_PURGE_URL: "https://api-ivan-flux.janinakoitumi.site/ivan-flux" # আপনার ২য় ডোমেইন এপিআই লিঙ্ক
         run: |
           if [ -f "Ivan-FluX.json" ]; then
             echo "Uploading to Cloudflare 2..."

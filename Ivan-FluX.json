@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:15:46 AM 26-06-2026",
+    "Last update time": "01:20:47 AM 26-06-2026",
     "Live": "00",
     "Upcoming": "35",
     "Finish": "00",
@@ -1220,6 +1220,30 @@
                 {
                     "title": "HD SERVER AR",
                     "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BeIN SPORTS AQ",
+                    "link": "https://ataide0.formaturamaxi.com.br/bein2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS AQ",
+                    "link": "https://602.formaturamaxi.com.br/fs1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TELEMUNDO AQ",
+                    "link": "https://daffodil.formaturamaxi.com.br/universo.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

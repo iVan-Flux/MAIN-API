@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:10:48 PM 25-06-2026",
+    "Last update time": "08:15:48 PM 25-06-2026",
     "Live": "00",
     "Upcoming": "35",
     "Finish": "00",
@@ -109,6 +109,14 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
                     "logo": "",
@@ -117,11 +125,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE SD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "api": "13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2",
                     "tokenApi": ""
                 },
                 {
@@ -138,14 +146,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "024b12ed56ef6d009b165ffa1e026f46:1962fbc99c0922ac1408cd401b3c0851",
                     "tokenApi": ""
                 }
             ]

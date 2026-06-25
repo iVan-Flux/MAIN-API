@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:45:48 PM 25-06-2026",
+    "Last update time": "06:55:39 PM 25-06-2026",
     "Live": "00",
     "Upcoming": "35",
     "Finish": "00",
@@ -878,11 +878,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW AD FRRE",
+                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/uzjaeqqxjg/out/v1/a0d9730817a44d068012502c9ef91a25/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "43a2009b3337b2e07dab18fe517077d2:afa22aa7e0638f1cc0958ba5e6cc0f9f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW FHD AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                     "tokenApi": ""
                 }
             ]

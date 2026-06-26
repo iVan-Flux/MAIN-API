@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:01:00 PM 26-06-2026",
+    "Last update time": "02:05:40 PM 26-06-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -299,6 +299,14 @@
                 "endTime": "  +0000"
             },
             "channels_data": [
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
+                    "tokenApi": ""
+                },
                 {
                     "title": "FANCODE FHD",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",

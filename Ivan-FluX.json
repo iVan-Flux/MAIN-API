@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:55:36 PM 26-06-2026",
+    "Last update time": "05:01:01 PM 26-06-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -186,55 +186,55 @@
             "channels_data": [
                 {
                     "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
                     "tokenApi": ""
                 },
                 {
-                    "title": "beIN SPORTS FHD",
-                    "link": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY SPORTS DE",
-                    "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FORMULA 1 HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "AUTO SERVER",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40aa2a2b-3054-481c-9d98-ddf12ac5ed88/master.m3u8",
+                    "title": "SKY SPORTS FHD",
+                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/8977c6ac6f223921fe330e74808321e0/index.m3u8?|referer=https://pushembdz.store/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SKY GERMAN FHD",
-                    "link": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+                    "title": "DAZN ESPANOL",
+                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/053885fcb23afa8c714d7c365de9c928/index.m3u8?|referer=https://pushembdz.store/",
                     "logo": "",
                     "type": 0,
-                    "api": "ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "DAZN ESPANOL HD",
-                    "link": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8|referer=https://pushembdz.store/",
+                    "title": "SKY ITALY FHD",
+                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/3a80e1c254551ba268416f3a752d9c14/index.m3u8?|referer=https://pushembdz.store/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW RES",
+                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/b927ea9a648871f9c0d00da01e4b9732/index.m3u8?|referer=https://pushembdz.store/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORTS F1",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -278,6 +278,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORTS HD",
+                    "link": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

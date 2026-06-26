@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:50:50 AM 27-06-2026",
+    "Last update time": "12:55:39 AM 27-06-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1829,6 +1829,22 @@
                 {
                     "title": "SKY CRICKET",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/skynz2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://tmaxapp.site/willoweng.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

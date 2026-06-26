@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:45:43 PM 26-06-2026",
+    "Last update time": "10:50:43 PM 26-06-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -1247,8 +1247,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rdehfonok6/out/v1/a9ac9104d73a4538ac1d6ef58c37d801/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6ffcc00004008873e754e8e743a32900:1f9207b15bbd497222b3a3013781db49",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rdehfonok6/out/v1/a9ac9104d73a4538ac1d6ef58c37d801/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6ffcc00004008873e754e8e743a32900:1f9207b15bbd497222b3a3013781db49",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/skynz4.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "http://193.47.62.42/hls/tfffqQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

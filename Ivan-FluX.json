@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:55:36 AM 28-06-2026",
+    "Last update time": "03:00:57 AM 28-06-2026",
     "Live": "00",
     "Upcoming": "49",
     "Finish": "00",
@@ -1792,11 +1792,27 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "WILLOW ALT",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/naw2ujp0kp/out/v1/3860c899aeff494eaa813614df1382ce/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4efe3974fd23018c815a14d12fb03980:5b0bbfdae1b6245ea22653c34fa75471",
+                    "tokenApi": ""
+                },
+                {
                     "title": "WILLOW HD",
                     "link": "https://tmaxapp.site/willoweng.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/naw2ujp0kp/out/v1/3860c899aeff494eaa813614df1382ce/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4efe3974fd23018c815a14d12fb03980:5b0bbfdae1b6245ea22653c34fa75471",
                     "tokenApi": ""
                 }
             ]
@@ -2556,11 +2572,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
                     "tokenApi": ""
                 }
             ]

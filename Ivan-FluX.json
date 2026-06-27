@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:45:44 PM 27-06-2026",
+    "Last update time": "07:50:47 PM 27-06-2026",
     "Live": "00",
     "Upcoming": "48",
     "Finish": "00",
@@ -263,10 +263,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9l2vb6syd/out/v1/aa21c8df2e9d4f42828895734934385a/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "5ac9a949be51e3bac478a2b6b89fd53e:1fab3b9de1c50dd740e473d439e15fce",
+                    "api": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336",
                     "tokenApi": ""
                 },
                 {
@@ -278,11 +278,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r9l2vb6syd/out/v1/aa21c8df2e9d4f42828895734934385a/cenc.mpd",
+                    "title": "CRICBUZZ FHD",
+                    "link": "https://wcupzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11946/152416/master.m3u8|Referer=https://livecricketsl.cc.nf/",
                     "logo": "",
                     "type": 0,
-                    "api": "5ac9a949be51e3bac478a2b6b89fd53e:1fab3b9de1c50dd740e473d439e15fce",
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336",
                     "tokenApi": ""
                 },
                 {

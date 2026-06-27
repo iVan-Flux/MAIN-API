@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:45:45 AM 27-06-2026",
+    "Last update time": "05:50:45 AM 27-06-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1926,7 +1926,7 @@
                 },
                 {
                     "title": "SD SERVER [ENG]",
-                    "link": "h",
+                    "link": "http://193.47.62.47/hls/JJJJQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1934,15 +1934,7 @@
                 },
                 {
                     "title": "ENG SD SERVER",
-                    "link": "d",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER [SWE]",
-                    "link": "w",
+                    "link": "http://193.47.62.47/hls/FFFFFFF.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1950,7 +1942,7 @@
                 },
                 {
                     "title": "beiN SPORTS FR",
-                    "link": "ss",
+                    "link": "http://193.47.62.47/hls/JJJJQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1958,7 +1950,23 @@
                 },
                 {
                     "title": "ESPANOL SD",
-                    "link": "e5e",
+                    "link": "http://193.47.62.47/hls/RFRFRFQQX.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ENGLISH SD",
+                    "link": "https://live06.zuqiu106.com/live/79635460.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER AR",
+                    "link": "http://193.47.62.55/hls/JJJJ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

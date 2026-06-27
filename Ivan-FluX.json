@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:40:45 PM 27-06-2026",
+    "Last update time": "10:45:47 PM 27-06-2026",
     "Live": "00",
-    "Upcoming": "48",
+    "Upcoming": "49",
     "Finish": "00",
     "events": [
         {
@@ -1833,6 +1833,33 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1563,
+            "title": "WWE Night of Champions",
+            "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png",
+            "cat": "BOXING",
+            "eventInfo": {
+                "teamA": "Night of Champions",
+                "teamB": "Night of Champions",
+                "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png",
+                "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png",
+                "eventName": "WWE Night of Champions",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/06/27 17:15:00 +0000",
+                "endTime": "2026/06/27 20:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "a",
                     "logo": "",
                     "type": 0,
                     "api": "",

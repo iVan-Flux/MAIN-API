@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:50:43 AM 28-06-2026",
+    "Last update time": "07:55:36 AM 28-06-2026",
     "Live": "00",
     "Upcoming": "49",
     "Finish": "00",
@@ -2134,14 +2134,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WC TV FHD",
-                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TIPIK FR FHD",
                     "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
                     "logo": "",
@@ -2367,7 +2359,7 @@
                 },
                 {
                     "title": "SD SERVER [ENG]",
-                    "link": "ge",
+                    "link": "http://193.47.62.55/hls/fllll.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2375,7 +2367,7 @@
                 },
                 {
                     "title": "ENG SD SERVER",
-                    "link": "eg",
+                    "link": "http://193.47.62.42/hls/JCCCC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2383,7 +2375,7 @@
                 },
                 {
                     "title": "SD SERVER [SWE]",
-                    "link": "ey",
+                    "link": "http://193.47.62.55/hls/skkkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2391,7 +2383,7 @@
                 },
                 {
                     "title": "beiN SPORTS FR",
-                    "link": "sgs",
+                    "link": "http://193.47.62.47/hls/skkkk.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2399,7 +2391,7 @@
                 },
                 {
                     "title": "ESPANOL SD",
-                    "link": "syd",
+                    "link": "http://193.47.62.47/hls/skkkkqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2472,6 +2464,14 @@
                 "endTime": "2026/06/28 04:40:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FIFA FEED HD",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+                    "tokenApi": ""
+                },
                 {
                     "title": "FOX SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/52650/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
@@ -2665,32 +2665,32 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER [ENG]",
-                    "link": "ege",
+                    "title": "BBC SPORTS SD",
+                    "link": "http://193.47.62.55/hls/DIIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "ENG SERVER SD",
-                    "link": "eye",
+                    "title": "AZAM SPORTS SD",
+                    "link": "http://193.47.62.55/hls/skkkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "beIN SPORTS FR",
-                    "link": "eye",
+                    "title": "beiN SPORTS FR",
+                    "link": "http://193.47.62.47/hls/HCCCCE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER [AR]",
-                    "link": "wye",
+                    "title": "beiN ARABIC SD",
+                    "link": "http://193.47.62.55/hls/CMMMM.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

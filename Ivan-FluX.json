@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:35 AM 29-06-2026",
+    "Last update time": "01:01:01 AM 29-06-2026",
     "Live": "00",
-    "Upcoming": "45",
+    "Upcoming": "44",
     "Finish": "00",
     "events": [
         {
@@ -186,113 +186,6 @@
                 {
                     "title": "BACKUP HD",
                     "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1516,
-            "title": "T20 International",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "IRE",
-                "teamB": "IND",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-                "eventName": "T20 International",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/06/28 12:30:00 +0000",
-                "endTime": "2026/06/28 17:10:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TNT SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j9ltx4zek5/out/v1/5bb73ac9fa904dcfafc4972c496d831b/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "3a2433a92dedb0c0c1d7cdc1b5bd8d1b:b78e03fc79ff67f1d68d34a1f0d161b9",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TNT SPORTS HD",
-                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW HD",
-                    "link": "https://tmaxapp.site/willoweng.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW SERVER",
-                    "link": "http://193.47.62.42/hls/FIIIQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV ENG [ASIA]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782692275~acl=/*~id=60236465035991762383021886157758~hmac=1f60e75e3e5f38420c7ac40efaecaed19b3693265e95a9e63c9420434f11ed45",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV HIN [ASIA]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi2806/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782692275~acl=/*~id=60236465035991762383021886157758~hmac=1f60e75e3e5f38420c7ac40efaecaed19b3693265e95a9e63c9420434f11ed45",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV TAM [ASIA]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2806/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782692275~acl=/*~id=60236465035991762383021886157758~hmac=1f60e75e3e5f38420c7ac40efaecaed19b3693265e95a9e63c9420434f11ed45",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV TEL [ASIA]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi2806/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782692275~acl=/*~id=60236465035991762383021886157758~hmac=1f60e75e3e5f38420c7ac40efaecaed19b3693265e95a9e63c9420434f11ed45",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV KAN [ASIA]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2806/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782692275~acl=/*~id=60236465035991762383021886157758~hmac=1f60e75e3e5f38420c7ac40efaecaed19b3693265e95a9e63c9420434f11ed45",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -543,7 +436,7 @@
                 "eventName": "MotoGP",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/06/28 09:00:00 +0000",
+                "startTime": "2026/07/10 08:45:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [

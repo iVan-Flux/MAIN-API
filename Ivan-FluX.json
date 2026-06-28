@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:00:56 PM 28-06-2026",
+    "Last update time": "01:05:37 PM 28-06-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -136,6 +136,14 @@
             },
             "channels_data": [
                 {
+                    "title": "TAPMAD FHD",
+                    "link": "https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FANCODE SD",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                     "logo": "",
@@ -176,7 +184,15 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE [IND]",
+                    "title": "FANCODE 🇧🇩",
+                    "link": "https://bd-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇮🇳",
                     "link": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
                     "logo": "",
                     "type": 0,

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:35:38 PM 28-06-2026",
+    "Last update time": "04:40:48 PM 28-06-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -144,16 +144,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FOX CRICKET HD",
-                    "link": "https://tmaxapp.site/foxcricket.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "T SPORTS FHD",
-                    "link": "http://starhub.pro/live/Anthony2/Anthony123/52500.ts",
+                    "title": "Tapmad HD+",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|Referer=tapmad.com",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -192,8 +184,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW SD",
-                    "link": "http://104.251.122.123:8089/BANvsZIM/index.m3u8",
+                    "title": "BACKUP HD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

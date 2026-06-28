@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:50:43 AM 29-06-2026",
+    "Last update time": "12:55:35 AM 29-06-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -380,7 +380,7 @@
                 "eventName": "Formula 1",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/06/28 13:00:00 +0000",
+                "startTime": "2026/07/03 10:00:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -944,33 +944,9 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/06/28 19:00:00 +0000",
-                "endTime": "2026/06/28 21:50:00 +0000"
+                "endTime": "2026/06/28 21:20:00 +0000"
             },
             "channels_data": [
-                {
-                    "title": "FIFA LIVE FHD",
-                    "link": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/wyLO1DfJnr_wdeHiHvXh_m15ea-DclykXwud8Pe9aUWb4qoy0SMD9UA6k2Bl4CyZHGayT7Tfp0l3ylVgVrA_wQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live|referer=https://pscp.tv",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/8yifvToWvsKfFv_yyQjyBDxU43Og9C5berCrVFnPxFJyjD8JcyUMcnq8A0wVHJfNeCeZnhw0Gs7ZNXz3LJDhxA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live|referer=https://pscp.tv",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ITV SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52669/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
                 {
                     "title": "WC ENGLISH FHD",
                     "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
@@ -1052,6 +1028,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "ITV SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52669/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TSN SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/52670/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1061,7 +1045,7 @@
                 },
                 {
                     "title": "FOX SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52655/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://damitvpro.b-cdn.net/live-hls/channel/wc/2026-06-28/rsa-can/fox/playlist.m3u8?token=0LXJbgiyQWsidMtk8crAFw&token_path=%2Flive-hls%2Fchannel%2Fwc%2F2026-06-28%2Frsa-can%2Ffox%2Fplaylist.m3u8&expires=1782676806",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1084,8 +1068,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "QAZ SPORTS FHD",
-                    "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+                    "title": "BEIN ARABIC ⭐",
+                    "link": "https://damitvpro.b-cdn.net/live-hls/channel/wc/2026-06-28/rsa-can/bein/playlist.m3u8?token=d-kWTG05TIwalmUqb5sWew&token_path=%2Flive-hls%2Fchannel%2Fwc%2F2026-06-28%2Frsa-can%2Fbein%2Fplaylist.m3u8&expires=1782676806",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1286,6 +1270,14 @@
                 {
                     "title": "beIN ARABIC 4K ⭐",
                     "link": "https://cdn011.viaplus.site/bein4k-xyz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BACKUP SD",
+                    "link": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=e188cd264228268ea9bad1b611ecc6de&txTime=6a41c36a",
                     "logo": "",
                     "type": 0,
                     "api": "",

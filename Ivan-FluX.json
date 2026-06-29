@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:05:37 PM 29-06-2026",
+    "Last update time": "04:10:44 PM 29-06-2026",
     "Live": "00",
     "Upcoming": "34",
     "Finish": "00",
@@ -27,10 +27,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hv0umqrko2/out/v1/9ccf0d5b729a4c88a42de20bbfa0d875/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa",
+                    "api": "0bfd72dcc317a46b442c5eb3f293aac6:1aca7da5cd5e6246829716334feec5c7",
                     "tokenApi": ""
                 },
                 {
@@ -43,18 +43,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hv0umqrko2/out/v1/9ccf0d5b729a4c88a42de20bbfa0d875/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
+                    "api": "0bfd72dcc317a46b442c5eb3f293aac6:1aca7da5cd5e6246829716334feec5c7",
                     "tokenApi": ""
                 },
                 {
@@ -82,8 +74,16 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SONYLIV [ASIA]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000295/Englandv2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683707~acl=/*~id=90059764072974571438912851560412~hmac=d028531eb8e50ebd1ff5f2fc2945f1361956dff837764fd012bb23cc540a1b9d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bd93df851991f163df797f8a338779ce-1782552600172",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/England_2906/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4fd49938705e76398f656a497cd2a92c-1782726600163",
                     "logo": "",
                     "type": 0,
                     "api": "",

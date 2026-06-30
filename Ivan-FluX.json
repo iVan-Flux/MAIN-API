@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:55:38 PM 30-06-2026",
+    "Last update time": "10:01:03 PM 30-06-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -812,11 +812,131 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FOX ONE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TOFFE BDIX (BD)",
+                    "link": "ok",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Binge BDIX (BD)",
+                    "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WC TV FHD",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TIPIK FR FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "RTE SPORTS FHD",
+                    "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NPO1 DUTCH FHD",
+                    "link": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CAZE TV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SporTV BR FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX ONE HD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CT SPORTS CZ",
+                    "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "QAZ SPORTS FHD",
+                    "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BBC SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52621/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "GOLTV VIVO",
+                    "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
                     "tokenApi": ""
                 }
             ]

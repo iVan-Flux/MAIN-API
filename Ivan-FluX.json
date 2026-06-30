@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:20:48 PM 30-06-2026",
+    "Last update time": "10:25:36 PM 30-06-2026",
     "Live": "00",
     "Upcoming": "44",
     "Finish": "00",
@@ -902,12 +902,29 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "ARABIC LIVE FHD",
-                    "link": "yd",
+                    "title": "PTV SPORTS SD",
+                    "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "ARABIC LIVE FHD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/wc/2026-06-30/civ-nor/bein",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 },
                 {
                     "title": "IRIB 4K",
@@ -935,7 +952,7 @@
                 },
                 {
                     "title": "TSN SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52620/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/52737/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -943,7 +960,7 @@
                 },
                 {
                     "title": "FOX SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52621/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/52735/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1027,6 +1044,30 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUSSBALL 4K [GER]",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUSSBALL2 4K [GER]",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUSSBALL2 TV FHD",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
                     "tokenApi": ""
                 }
             ]

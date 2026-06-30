@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:25:36 PM 30-06-2026",
+    "Last update time": "10:31:09 PM 30-06-2026",
     "Live": "00",
     "Upcoming": "44",
     "Finish": "00",
@@ -758,6 +758,22 @@
             },
             "channels_data": [
                 {
+                    "title": "TIPIK FR FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BIOSCOPE HD",
+                    "link": "https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FOX ONE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -795,14 +811,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TIPIK FR FHD",
-                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
                     "tokenApi": ""
                 },
                 {
@@ -925,6 +933,14 @@
                         "request_body_type": "text",
                         "ip_api": "https://api.ipify.org/"
                     }
+                },
+                {
+                    "title": "ARABIC SD",
+                    "link": "https://cd.coorting.online/homee1_480/index.m3u8|referer=https://new.poiy.online/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 },
                 {
                     "title": "IRIB 4K",

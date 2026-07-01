@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:20:51 PM 01-07-2026",
+    "Last update time": "09:25:41 PM 01-07-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -787,7 +787,7 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/07/01 16:00:00 +0000",
-                "endTime": "2026/07/01 18:20:00 +0000"
+                "endTime": "2026/07/01 17:55:00 +0000"
             },
             "channels_data": [
                 {
@@ -796,6 +796,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TIPIK FR FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WC TV FHD",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
                     "tokenApi": ""
                 },
                 {
@@ -844,22 +860,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WC TV FHD",
-                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TIPIK FR FHD",
-                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
                     "tokenApi": ""
                 },
                 {

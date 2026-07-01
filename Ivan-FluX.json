@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:15:46 PM 01-07-2026",
+    "Last update time": "11:20:50 PM 01-07-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -27,15 +27,15 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd",
+                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/jt09cufaw0/out/v1/961880143f194be58808a2811cb02647/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02",
+                    "api": "4d4f4209f2a07d2c0d6c3063b95c8ec9:8fac4c638789a43a63979e43ffd2585f",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rk7p7dafl0/out/v1/ffc1c57edf814108953aa0992b3145ff/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "2c60f5b5e6e8ad2d163532250859723b:cb11a5f25b5baded086a2e7a046b9b02",
@@ -84,6 +84,38 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.42/hls/HAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv - ENG",
+                    "link": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv - HIN",
+                    "link": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv - TAM",
+                    "link": "https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv - TEL",
+                    "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/hdntl=exp=1782966245~acl=%2f*~id=79f34744-7946-4108-94d5-a7b5e2e59be7~data=hdntl~hmac=0ac72426a5d6aaad5999a2316089d6b2ca734db5aaf8aa72fbc8d0b1456d66d6/master_3500.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

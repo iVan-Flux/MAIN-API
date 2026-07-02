@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:31:11 AM 02-07-2026",
+    "Last update time": "07:35:41 AM 02-07-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -798,11 +798,27 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8uje9qedxo/out/v1/211d62684601493ca85da522b5022450/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a445b299311555ab106e6332d300c0de:e50269ebb380c00186b07fcfed0adb00",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SKY CRICKET FHD",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8uje9qedxo/out/v1/211d62684601493ca85da522b5022450/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a445b299311555ab106e6332d300c0de:e50269ebb380c00186b07fcfed0adb00",
                     "tokenApi": ""
                 },
                 {
@@ -819,14 +835,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/89ab95gaiw/out/v1/35f97c3a3148420fbcacaca0cb994e00/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "b28e49d4e74f33c1f23dcf259205c618:977f6bb2d526755a623382e845da589b",
                     "tokenApi": ""
                 }
             ]

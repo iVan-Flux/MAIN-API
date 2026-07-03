@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:31:15 AM 04-07-2026",
+    "Last update time": "03:35:38 AM 04-07-2026",
     "Live": "00",
     "Upcoming": "41",
     "Finish": "00",
@@ -928,6 +928,40 @@
                     "tokenApi": {
                         "url": "",
                         "api": "https://vileembeds.pages.dev/embed/fox4k-usa",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "TSN ENG (ALT AQ)",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://ziangel.com/rampages/argentina-vs-cape-verde/",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "TSN ENG 2 (ALT AQ)",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/wc/2026-07-03/arg-cpv",
                         "type": "embed",
                         "link_key": "playback_url",
                         "default_string": "N8x7Y%m+6n",

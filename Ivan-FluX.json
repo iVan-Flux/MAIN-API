@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:05:38 PM 03-07-2026",
+    "Last update time": "06:10:47 PM 03-07-2026",
     "Live": "00",
     "Upcoming": "41",
     "Finish": "00",
@@ -235,40 +235,64 @@
             },
             "channels_data": [
                 {
+                    "title": "SKY SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eydwn9gauv/out/v1/c1364545813240c69f1ee7f19f4c8022/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e4b8a499e49c9b01428957e7ad5f1f70:b732e701f7430995c55bddd46c22ad35",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
                     "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
                     "tokenApi": ""
                 },
                 {
-                    "title": "FORMULA 1 HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "APPLE TV+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tevjza8kdk/out/v1/e352f4bb82fc4e87b05e2f5dbffd6bd9/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d0403e43d30f01318493f9b268a569b6:eb7685f8492f29dc403a901cc585bf70",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BEIN SPORTS FHD",
+                    "link": "https://co2-bks400-05.starhubgo.com/bpk-token/1ac@afwyawdsycdy4yldk4s5tmrbmpjrfgq3af50phda/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY F1 HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52853/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "FORMULA 1 FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d19b67ce-0e97-4f3b-b9c3-950e06ca4eec/master.m3u8",
+                    "title": "APPLE TV FHD",
+                    "link": "https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-45/9rr2-ntiy/chunklist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SKY F1 4K",
-                    "link": "https://inproviszon.st/sky-sports-f1-uhd.m3u8",
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/b74afe3974777b76e407dfb181f55a21/index.m3u8?|referer=https://pushembdz.store/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SKY SPORTS FHD",
-                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/dd1edec200ffc32f52a13bf21908ee2c/index.m3u8?|referer=https://pushembdz.store/",
+                    "title": "SKY F1 FHD",
+                    "link": "https://inproviszon.st/sky-sports-f1.m3u8?|referer=https://vileembeds.pages.dev/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -276,7 +300,7 @@
                 },
                 {
                     "title": "DAZN ESPANOL",
-                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/053885fcb23afa8c714d7c365de9c928/index.m3u8?|referer=https://pushembdz.store/",
+                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/f6ff498a6abd018b2d6c24aa77f6e001/index.m3u8?|referer=https://pushembdz.store/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -284,31 +308,7 @@
                 },
                 {
                     "title": "SKY ITALY FHD",
-                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/3a80e1c254551ba268416f3a752d9c14/index.m3u8?|referer=https://pushembdz.store/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW RES",
-                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/b927ea9a648871f9c0d00da01e4b9732/index.m3u8?|referer=https://pushembdz.store/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY SPORTS F1",
-                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY SPORTS HD",
-                    "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/264a05ba99b8850a8fbc750ae109cc03/index.m3u8?|referer=https://pushembdz.store/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -323,27 +323,43 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "Sky F1 DE",
-                    "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "LOW RES",
+                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/4839b7fb4a693edb7f595e681bccf101/tracks-v0a0/mono.ts.m3u8?|referer=https://pushembdz.store/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "F1 TV FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+                    "title": "SKY SPORTS F1",
+                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8",
                     "logo": "",
                     "type": 0,
-                    "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "FOX SPORTS AQ",
-                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+                    "title": "F1 GERMANY [USA]",
+                    "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+                    "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY F1 ITALY [USA]",
+                    "link": "https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Tipik FRANCE FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
                     "tokenApi": ""
                 },
                 {
@@ -355,24 +371,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "F1 ENG SD",
-                    "link": "http://193.47.62.59/hls/HHHH.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "F1 ENG HD",
-                    "link": "http://193.47.62.52/hls/HHHH.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "F1 SWE SD",
-                    "link": "http://193.47.62.47/hls/HHHHZ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SKY SPORTS F1 UHD",
+                    "link": "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

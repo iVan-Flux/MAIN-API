@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:40 AM 03-07-2026",
+    "Last update time": "07:31:12 AM 03-07-2026",
     "Live": "00",
-    "Upcoming": "38",
+    "Upcoming": "39",
     "Finish": "00",
     "events": [
         {
@@ -2460,6 +2460,33 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1628,
+            "title": "Wimbledon Championships",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/2361/image",
+            "cat": "Tennis",
+            "eventInfo": {
+                "teamA": "Wimbledon",
+                "teamB": "Wimbledon",
+                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2361/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/2361/image",
+                "eventName": "Wimbledon Championships",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/03 10:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "ok",
                     "logo": "",
                     "type": 0,
                     "api": "",

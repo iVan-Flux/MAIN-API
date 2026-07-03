@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:10:55 AM 04-07-2026",
+    "Last update time": "03:15:43 AM 04-07-2026",
     "Live": "00",
     "Upcoming": "41",
     "Finish": "00",
@@ -790,6 +790,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FIFA WC FEED AQ",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FOX ONE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -815,7 +823,7 @@
                 },
                 {
                     "title": "TOFFE BDIX (BD)",
-                    "link": "ok",
+                    "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1783196552~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBjsehYx6X0TbpUdw_nasgU01Y2dgq3t2taCzEoAyJn6-aoZFF5d02wTLN_O14BwSfGXqamEzTqM57rRJw0r74G",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -824,6 +832,38 @@
                 {
                     "title": "Binge BDIX (BD)",
                     "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ARABIC LOW",
+                    "link": "http://193.47.62.55/hls/dTHXCZckkkqr.m3u8|Referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAMPAD - PK 🇵🇰",
+                    "link": "https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8|Referer=https://www.tapmad.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN FAST",
+                    "link": "http://193.47.62.47/hls/dTHXCZzsssQ.m3u8|Referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BEIN MAX DIRECTO",
+                    "link": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:25:36 AM 05-07-2026",
+    "Last update time": "02:31:18 AM 05-07-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1425,6 +1425,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TOFFEE FHD (BD)",
+                    "link": "https://cdn-tt.pages.dev/ch2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FIFA LIVE HD",
                     "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
                     "logo": "",
@@ -2290,8 +2298,24 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52919/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "MLB+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52920/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2570,6 +2594,14 @@
             },
             "channels_data": [
                 {
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52926/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://instreams.pro/US/NBA3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
                     "logo": "",
@@ -2640,8 +2672,24 @@
             },
             "channels_data": [
                 {
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52927/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NBA+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52928/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

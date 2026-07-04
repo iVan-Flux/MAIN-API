@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:31:16 PM 04-07-2026",
+    "Last update time": "04:35:39 PM 04-07-2026",
     "Live": "00",
     "Upcoming": "44",
     "Finish": "00",
@@ -227,11 +227,11 @@
             },
             "channels_data": [
                 {
-                    "title": "SKY SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eydwn9gauv/out/v1/c1364545813240c69f1ee7f19f4c8022/cenc.mpd|user-agent=Mozilla/5.0",
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "e4b8a499e49c9b01428957e7ad5f1f70:b732e701f7430995c55bddd46c22ad35",
+                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
                     "tokenApi": ""
                 },
                 {
@@ -243,22 +243,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "APPLE TV+ FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tevjza8kdk/out/v1/e352f4bb82fc4e87b05e2f5dbffd6bd9/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d0403e43d30f01318493f9b268a569b6:eb7685f8492f29dc403a901cc585bf70",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "BEIN SPORTS FHD",
-                    "link": "https://co2-bks400-05.starhubgo.com/bpk-token/1ac@afwyawdsycdy4yldk4s5tmrbmpjrfgq3af50phda/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query",
-                    "logo": "",
-                    "type": 0,
-                    "api": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48",
-                    "tokenApi": ""
-                },
-                {
                     "title": "SKY F1 HD",
                     "link": "https://chatgpt.hereisman.net/playlist/52853/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -267,8 +251,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "APPLE TV FHD",
-                    "link": "https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-45/9rr2-ntiy/chunklist.m3u8",
+                    "title": "SportCast F1",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2166cc6c-f005-47ed-a7ca-09f1bcfe10bd/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

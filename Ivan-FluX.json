@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:41:17 AM 05-07-2026",
+    "Last update time": "02:45:43 AM 05-07-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -214,7 +214,7 @@
                 "eventName": "Formula 1",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/04 11:00:00 +0000",
+                "startTime": "2026/07/05 14:00:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -1688,7 +1688,7 @@
                 "eventName": "Wimbledon Championships",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/04 10:00:00 +0000",
+                "startTime": "2026/07/05 10:00:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -2852,6 +2852,14 @@
                     "type": 0,
                     "api": "8370c8490fca9c58239937a074d626db:7e3c295364138149a03e96ce1b013030",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.40/hls/NAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2894,6 +2902,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "8370c8490fca9c58239937a074d626db:7e3c295364138149a03e96ce1b013030",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.40/hls/NAAAQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

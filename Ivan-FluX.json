@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:01:03 AM 06-07-2026",
+    "Last update time": "01:05:35 AM 06-07-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -753,7 +753,7 @@
                 "eventName": "World Championship",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/05 20:00:00 +0000",
+                "startTime": "2026/07/05 19:50:00 +0000",
                 "endTime": "2026/07/05 23:00:00 +0000"
             },
             "channels_data": [
@@ -927,7 +927,7 @@
                 },
                 {
                     "title": "FAST SERVER",
-                    "link": "ok",
+                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTH6xbyFKVkzJ.m3u8?txSecret=f9607e95612eab37c00e9a7979ccb825&txTime=6A4AD980",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1039,7 +1039,7 @@
                 },
                 {
                     "title": "SD SERVER [ENG]",
-                    "link": "x",
+                    "link": "http://193.47.62.47/hls/BcdTHXCZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1047,7 +1047,15 @@
                 },
                 {
                     "title": "SD SERVER [ENG]",
-                    "link": "c",
+                    "link": "http://193.47.62.55/hls/BcdTHXCZzsssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER [AR]",
+                    "link": "http://193.47.62.51/hls/BcdTHXCZckkkqr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1055,7 +1063,7 @@
                 },
                 {
                     "title": "beiN SPORTS FR",
-                    "link": "c",
+                    "link": "http://193.47.62.55/hls/BcdTHXCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1063,7 +1071,7 @@
                 },
                 {
                     "title": "ESPANOL SD",
-                    "link": "d",
+                    "link": "http://193.47.62.51/hls/BcdTHXCZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1111,10 +1119,10 @@
                 },
                 {
                     "title": "PEACOCK FHD [ALT]",
-                    "link": "ok",
+                    "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021747-723605-491377d3d55)/master_2hr.mpd?c3.ri=6a4aabdf_Q1ZYMDc_1_RkFTVExZ_7a68641c5e48%3A0&aws.sessionId=e85a4339-78b1-46d3-9538-88b034b889a0&ck=eyIwMDIyMjRkZWEzMjc4YzM4ZTM2MjUxMTQyOWE2MmY0MyI6IjRhMWE0MWEyNGNkMjU3ZDcyMDFlY2MzYWM1YmNiMjYxIn0%3D",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "002224dea3278c38e362511429a62f43:4a1a41a24cd257d7201ecc3ac5bcb261",
                     "tokenApi": ""
                 },
                 {
@@ -1717,6 +1725,14 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52969/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -2079,6 +2095,14 @@
                 "endTime": "2026/07/05 22:30:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/52970/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",

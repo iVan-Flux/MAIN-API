@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:50:58 PM 06-07-2026",
+    "Last update time": "12:55:36 PM 06-07-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -125,40 +125,16 @@
             },
             "channels_data": [
                 {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "tokenApi": ""
+                },
+                {
                     "title": "Tapmad HD+",
                     "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|Referer=tapmad.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://pastebin.com/raw/U2LaqQne?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE (BD)",
-                    "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "T SPORTS HD",
-                    "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE - IN",
-                    "link": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -170,6 +146,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "T SPORTS HD",
+                    "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:31:41 PM 07-07-2026",
+    "Last update time": "04:35:41 PM 07-07-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -790,6 +790,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TSN3 SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TSN5 SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -827,54 +835,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN2 SPORTS SD",
-                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-33990-1/31b4468de9ac/1638.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CENTER COURT",
-                    "link": "https://inproviszon.st/wimbledon-centre.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "COURT No. 1",
-                    "link": "https://inproviszon.st/wimbledon-crt1.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "COURT No. 3",
-                    "link": "https://inproviszon.st/wimbledon-crt3.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "COURT No. 4",
-                    "link": "https://inproviszon.st/wimbledon-crt4.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "COURT No. 5",
-                    "link": "https://inproviszon.st/wimbledon-crt5.m3u8?|referer=https://vileembeds.pages.dev/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 },
                 {

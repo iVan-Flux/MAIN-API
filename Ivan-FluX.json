@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:01:24 PM 07-07-2026",
+    "Last update time": "10:05:42 PM 07-07-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -58,23 +58,23 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SonyLiv - ENG",
-                    "link": "https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547",
+                    "title": "SONY TEN 1 - IN",
+                    "link": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1783468988~acl=/*~id=04883445300713251857105652349602~hmac=598bcaebc52919dbb1266104a27862bd08950b042d3c4d7d67c6199e352d794f",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SonyLiv - HIN",
-                    "link": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547",
+                    "title": "SONY TEN 3 - IN",
+                    "link": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783468988~acl=/*~id=04883445300713251857105652349602~hmac=598bcaebc52919dbb1266104a27862bd08950b042d3c4d7d67c6199e352d794f",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SonyLiv - TAM",
+                    "title": "SONY TEN 4 - IN",
                     "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547",
                     "logo": "",
                     "type": 0,
@@ -82,8 +82,64 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SonyLiv - TEL",
+                    "title": "SONY TEN 5 - IN",
                     "link": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR - ENG",
+                    "link": "http://absicka6aqaaaaayo3xqmdo6eqwy3.live-ssai-cf-mum-ace.cdn.hotstar.com/cmaf/live/2108387/inallow-indveng-2026/eng/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR - HIN",
+                    "link": "http://live12p-ssai-akt-mum.cdn.hotstar.com/cmaf/live/2108404/inallow-indveng-2026/hin/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR - TAM",
+                    "link": "https://live-jiol.cdn.hotstar.com/cmaf/live/2024712/inallow-indveng-2026/tam/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR - TEL",
+                    "link": "http://live13mp-ssai-akt-mum.cdn.hotstar.com/out/v1/tel/1540072901_telugu4k_2ed37c3d/inallow-indveng-2026_cmaf_hls_unencrypted/master-a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR - KAN",
+                    "link": "http://live-ssai-jiol-mum.cdn.hotstar.com/cmaf/live/2024718/inallow-indveng-2026/kan/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR - BEN",
+                    "link": "http://live-ssai-jiol-mum.cdn.hotstar.com/cmaf/live/2024715/inallow-indveng-2026/ben/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR - HAR",
+                    "link": "http://live13mp-ssai-akt-mum.cdn.hotstar.com/out/v1/har/1540072901_haryanvi4k_16879225/inallow-indveng-2026_cmaf_hls_unencrypted/master-a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
                     "logo": "",
                     "type": 0,
                     "api": "",

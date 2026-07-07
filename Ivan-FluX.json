@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:05:42 PM 07-07-2026",
+    "Last update time": "10:11:08 PM 07-07-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -39,6 +39,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tcgcz1g3fk/out/v1/33a4bce588914c258fd9300022b50846/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "632b06f50e561ccfc3473ae057177d70:1fd0877cfa85e2617ab00f14b4fb66fe",
                     "tokenApi": ""
                 },
                 {
@@ -1430,6 +1438,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "711e06ba1ea2ab903ef6ce852b0d2801:ea2e3766b23d867d6afd3ba70358bf33",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN Espanol AQ",
+                    "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/rhv9vhxjr8/out/v1/a3d68368d1c74ccdab284b9f799fbcc6/2e8c87fa-123b-4477-be26-be97241cd16a-cenc.mpd?|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9d608811a2aa00a1c17151bf2c85d8c8:f8be5b2c41d9ab006462044763cd5ea0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN Arabic AQ",
+                    "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4oyauil6pz/out/v1/53e824228c9d4ff2884cffd2eda4c433/2bb701e9-147c-4e8b-83dd-7003c7a48ab8-cenc.mpd?|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "647d7e5a44751b08641c1de5daa0e398:c4f950d89e8f3b8ec27f91a75367d650",
                     "tokenApi": ""
                 }
             ]

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:21:02 PM 09-07-2026",
+    "Last update time": "09:25:35 PM 09-07-2026",
     "Live": "00",
-    "Upcoming": "46",
+    "Upcoming": "47",
     "Finish": "00",
     "events": [
         {
@@ -1839,6 +1839,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/10 10:00:00 +0000",
                 "endTime": "2026/07/10 11:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1709,
+            "title": "Test International, Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "ENG-W",
+                "teamB": "IND-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+                "eventName": "Test International, Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/10 10:00:00 +0000",
+                "endTime": "  +0000"
             },
             "channels_data": [
                 {

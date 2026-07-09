@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:05:35 PM 09-07-2026",
+    "Last update time": "11:11:02 PM 09-07-2026",
     "Live": "00",
     "Upcoming": "47",
     "Finish": "00",
@@ -1515,6 +1515,14 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53116/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -1523,8 +1531,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "MLB HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/7634027632/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "MLB+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53117/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1844,8 +1852,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/7699722072/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

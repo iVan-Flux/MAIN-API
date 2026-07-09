@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:21:04 AM 10-07-2026",
+    "Last update time": "01:25:37 AM 10-07-2026",
     "Live": "00",
     "Upcoming": "47",
     "Finish": "00",
@@ -1327,6 +1327,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PEACOCK FHD [ALT]",
+                    "link": "ok",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "ORF (GERMAN IP)",
                     "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
                     "logo": "",
@@ -1356,6 +1364,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Match Football FHD",
+                    "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
                     "tokenApi": ""
                 }
             ]

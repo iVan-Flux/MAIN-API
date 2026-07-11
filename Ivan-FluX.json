@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:42:57 PM 11-07-2026",
+    "Last update time": "11:45:49 PM 11-07-2026",
     "Live": "00",
-    "Upcoming": "49",
+    "Upcoming": "50",
     "Finish": "00",
     "events": [
         {
@@ -1428,8 +1428,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://admin.formaturamaxi.com.br/mlb9.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|Referer=https://streamcenter.xyz/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8|Referer=https://streams.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2061,6 +2077,33 @@
                 {
                     "title": "SKY SPORTS SD",
                     "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1772,
+            "title": "UFC",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+            "cat": "Mixed Martial Arts",
+            "eventInfo": {
+                "teamA": "C. McGregor",
+                "teamB": "M. Holloway",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/471736/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/469993/image",
+                "eventName": "UFC",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/11 23:00:00 +0000",
+                "endTime": "2026/07/12 00:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

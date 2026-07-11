@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:15:49 AM 12-07-2026",
+    "Last update time": "02:21:17 AM 12-07-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1654,24 +1654,16 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53228/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://admin.formaturamaxi.com.br/mlb8.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|Referer=https://streamcenter.xyz/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://edgestreams.pro/hls/ojzkajnach21.m3u8|Referer=https://streams.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1767,8 +1759,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53231/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2398,112 +2390,48 @@
             },
             "channels_data": [
                 {
-                    "title": "UFC+ - AQ",
-                    "link": "https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
-                    "tokenApi": ""
-                },
-                {
                     "title": "PARAMOUNT+ HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52603/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/53239/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "Paramount+ WEB",
-                    "link": "https://streamtpday1.xyz/global2.php?stream=paramount3",
+                    "title": "PARAMOUNT+ AQ",
+                    "link": "https://semijaunais.s3.eu-central-1.amazonaws.com/paramount.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "UFC FIGHT PASS",
-                    "link": "https://pradeepklmsu.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
+                    "title": "PARAMOUNT+ S2",
+                    "link": "https://chatgpt.hereisman.net/playlist/53238/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SPORT CAST FHD",
-                    "link": "https://word.onnext.site/dailymotion/live/playlist/22.m3u8",
+                    "title": "PARAMOUNT+ BR",
+                    "link": "https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "UFC+ HD",
-                    "link": "https://instreams.pro/US/NFLHD30/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "title": "SD TV (USE VPN)",
+                    "link": "http://193.47.62.41/hls/TBBBQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "TNT Sports FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PARAMOUNT+ FHD",
-                    "link": "https://idunjericho.s3.ap-southeast-2.amazonaws.com/macnaj.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "RMC SPORTS LIVE",
-                    "link": "https://tmaxapp.site/rmcsports.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TNT SPORTS HD",
-                    "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.42/hls/ZDDDQQq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Paramount+ BR",
-                    "link": "https://streamtpday1.xyz/global2.php?stream=paramount2",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Paramount ES",
-                    "link": "https://streamtpday1.xyz/global2.php?stream=paramount1",
+                    "title": "UFC LIVE HD",
+                    "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "",

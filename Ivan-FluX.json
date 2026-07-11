@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:11:07 AM 12-07-2026",
+    "Last update time": "01:15:44 AM 12-07-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1045,8 +1045,56 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TIPIK FR FHD",
+                    "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ITV SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53234/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53221/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "RTE SPORTS FHD",
+                    "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4661fa2a-637f-4a69-bf86-31e73a99d2c2:BRU/manifest.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST [NO Comment]",
+                    "link": "|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER FR",
+                    "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTH6xbyFKVkzJ.m3u8?txSecret=f9607e95612eab37c00e9a7979ccb825&txTime=6A4AD980",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
                     "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
@@ -1054,7 +1102,7 @@
                 },
                 {
                     "title": "ITV SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
                     "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
@@ -1074,6 +1122,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN4 SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CTV SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
                     "tokenApi": ""
                 }
             ]

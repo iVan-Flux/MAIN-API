@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:25:37 AM 12-07-2026",
+    "Last update time": "02:31:35 AM 12-07-2026",
     "Live": "00",
-    "Upcoming": "50",
+    "Upcoming": "54",
     "Finish": "00",
     "events": [
         {
@@ -1126,7 +1126,7 @@
                 },
                 {
                     "title": "TOFFE BDIX (BD)",
-                    "link": "ok",
+                    "link": "http://sm-monirul.top/fifa/play/toffee1.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2416,6 +2416,114 @@
                 {
                     "title": "UFC LIVE HD",
                     "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1773,
+            "title": "Major League Cricket",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "SO",
+                "teamB": "SFU",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/485014/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/485013/image",
+                "eventName": "Major League Cricket",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/12 00:30:00 +0000",
+                "endTime": "2026/07/12 05:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1774,
+            "title": "Major League Cricket",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "TSK",
+                "teamB": "WF",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/485010/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/485015/image",
+                "eventName": "Major League Cricket",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/11 20:30:00 +0000",
+                "endTime": "2026/07/12 01:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1775,
+            "title": "Major League Cricket",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "MINY",
+                "teamB": "WF",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/485012/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/485015/image",
+                "eventName": "Major League Cricket",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/12 20:30:00 +0000",
+                "endTime": "2026/07/13 01:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1776,
+            "title": "Major League Cricket",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "TSK",
+                "teamB": "LAKR",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/485010/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/485011/image",
+                "eventName": "Major League Cricket",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 00:30:00 +0000",
+                "endTime": "2026/07/13 05:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

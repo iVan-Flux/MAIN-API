@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:21:17 AM 12-07-2026",
+    "Last update time": "02:25:37 AM 12-07-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1045,6 +1045,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "WC TV FHD",
+                    "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TIPIK FR FHD",
                     "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
                     "logo": "",
@@ -1533,24 +1541,16 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53226/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://admin.formaturamaxi.com.br/mlb6.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|Referer=https://streamcenter.xyz/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8|Referer=https://streams.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1716,24 +1716,16 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53233/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://admin.formaturamaxi.com.br/mlb9.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|Referer=https://streamcenter.xyz/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8|Referer=https://streams.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1856,24 +1848,16 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53222/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://admin.formaturamaxi.com.br/mlb5.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8|Referer=https://streamcenter.xyz/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8|Referer=https://streams.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1980,24 +1964,16 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53224/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "http://193.47.62.41/hls/PPPPQQQQQ.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|Referer=https://streamcenter.xyz/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://edgestreams.pro/hls/dazhfiach15.m3u8|Referer=https://streams.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2166,8 +2142,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53219/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2247,8 +2231,8 @@
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "WNBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53217/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

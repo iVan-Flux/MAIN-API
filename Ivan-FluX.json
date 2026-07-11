@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:51:09 AM 12-07-2026",
+    "Last update time": "02:54:56 AM 12-07-2026",
     "Live": "00",
     "Upcoming": "54",
     "Finish": "00",
@@ -2026,8 +2026,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53241/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/GAGAGA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2441,11 +2457,35 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b3039b6143a9a6b71c7dbcc9c5fd0e28:7c54779ae1d6eb264929fb88911484bc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR (IND)",
+                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
                     "tokenApi": ""
                 }
             ]
@@ -2468,11 +2508,51 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b3039b6143a9a6b71c7dbcc9c5fd0e28:7c54779ae1d6eb264929fb88911484bc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b3039b6143a9a6b71c7dbcc9c5fd0e28:7c54779ae1d6eb264929fb88911484bc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW SD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/x2gsqpgf9v/out/v1/171c6ca793784c919401b42f2cf2fa38/cenc-sd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "60e18e2ca7de363d708d81a61a1214db:e84ed731f8423ac252ac24470967ce9f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR (IND)",
+                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
                     "tokenApi": ""
                 }
             ]

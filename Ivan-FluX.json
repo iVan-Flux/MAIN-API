@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:15:44 AM 12-07-2026",
+    "Last update time": "01:21:08 AM 12-07-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1069,14 +1069,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "RTE SPORTS FHD",
-                    "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4661fa2a-637f-4a69-bf86-31e73a99d2c2:BRU/manifest.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FAST [NO Comment]",
                     "link": "|Referer=https://player.online909.com/",
                     "logo": "",
@@ -1093,6 +1085,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "CANAL5 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TSN SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -1106,6 +1106,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "RTE SPORTS FHD",
+                    "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4661fa2a-637f-4a69-bf86-31e73a99d2c2:BRU/manifest.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
                     "tokenApi": ""
                 },
                 {
@@ -1138,6 +1146,46 @@
                     "logo": "",
                     "type": 0,
                     "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CAZE TV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TUDN MEXICO",
+                    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX ONE 4K",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ds6pjm8gzg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CT SPORTS CZ",
+                    "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                     "tokenApi": ""
                 }
             ]

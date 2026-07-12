@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:01:15 AM 12-07-2026",
+    "Last update time": "09:05:48 AM 12-07-2026",
     "Live": "00",
     "Upcoming": "37",
     "Finish": "00",
@@ -219,8 +219,8 @@
                 "eventName": "One Day International",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/11 18:30:00 +0000",
-                "endTime": "2026/07/12 03:30:00 +0000"
+                "startTime": "2026/07/13 18:30:00 +0000",
+                "endTime": "2026/07/14 03:45:00 +0000"
             },
             "channels_data": [
                 {
@@ -278,8 +278,8 @@
                 "eventName": "Test International, Women",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/11 10:00:00 +0000",
-                "endTime": "2026/07/11 19:00:00 +0000"
+                "startTime": "2026/07/12 10:00:00 +0000",
+                "endTime": "2026/07/12 19:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -2399,10 +2399,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/lgmfiovhzf/out/v1/63bea75c73214832b3584bd0f83c867b/cenc-sd.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "b3039b6143a9a6b71c7dbcc9c5fd0e28:7c54779ae1d6eb264929fb88911484bc",
+                    "api": "9e60d4b810867d218a89c5683c8f7d60:edce5730c719ad1dd27e3bebc5c86d0e",
                     "tokenApi": ""
                 },
                 {
@@ -2427,6 +2427,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/lgmfiovhzf/out/v1/63bea75c73214832b3584bd0f83c867b/cenc-sd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9e60d4b810867d218a89c5683c8f7d60:edce5730c719ad1dd27e3bebc5c86d0e",
                     "tokenApi": ""
                 }
             ]

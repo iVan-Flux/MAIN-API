@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:41:12 PM 12-07-2026",
+    "Last update time": "03:45:49 PM 12-07-2026",
     "Live": "00",
     "Upcoming": "49",
     "Finish": "00",
@@ -284,10 +284,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "1d63df11bb77a72701ae3233bdbfa1ab:95598b0c96d8c75ec60041e9151c1b11",
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                     "tokenApi": ""
                 },
                 {
@@ -315,14 +315,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
                     "title": "SKY SPORTS NZ",
                     "link": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz.m3u8",
                     "logo": "",
@@ -333,6 +325,22 @@
                 {
                     "title": "WILLOW HD",
                     "link": "https://tmaxapp.site/willoweng.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/cricodi1107/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54eac2245e0f4496fac43f80ea197c26-1783762200160",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONY TEN 5 - IN",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783719307~acl=/*~id=93990197163189329710487836056018~hmac=f3dc79fa525d6349508ae77d9891919455c7ce84cf84d32d3b89f92643f80c24",
                     "logo": "",
                     "type": 0,
                     "api": "",

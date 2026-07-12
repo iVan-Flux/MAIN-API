@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:25:42 PM 12-07-2026",
+    "Last update time": "06:31:27 PM 12-07-2026",
     "Live": "00",
     "Upcoming": "49",
     "Finish": "00",
@@ -284,10 +284,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "api": "9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e",
                     "tokenApi": ""
                 },
                 {
@@ -300,10 +300,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "1d63df11bb77a72701ae3233bdbfa1ab:95598b0c96d8c75ec60041e9151c1b11",
+                    "api": "9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e",
                     "tokenApi": ""
                 },
                 {
@@ -316,7 +316,7 @@
                 },
                 {
                     "title": "SKY SPORTS NZ",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz.m3u8",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -332,7 +332,7 @@
                 },
                 {
                     "title": "SonyLiv",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/cricodi1107/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54eac2245e0f4496fac43f80ea197c26-1783762200160",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000299/cricodi1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783903682~acl=/*~id=47211635567706225105239043131590~hmac=3524829785271b6576591578d89de02ff4522ccf2ff4d7fdb06bb8cfcb8acb47",
                     "logo": "",
                     "type": 0,
                     "api": "",

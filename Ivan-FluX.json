@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:21:15 PM 13-07-2026",
+    "Last update time": "04:25:40 PM 13-07-2026",
     "Live": "00",
-    "Upcoming": "45",
+    "Upcoming": "47",
     "Finish": "00",
     "events": [
         {
@@ -2241,6 +2241,60 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1770,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mohun Bagan SG Reserves",
+                "teamB": "Patha Chakra",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1116646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/294069/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 11:00:00 +0000",
+                "endTime": "2026/07/13 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1771,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "United Kolkata SC",
+                "teamB": "Railway FC",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1116647/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1116516/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 09:30:00 +0000",
+                "endTime": "2026/07/13 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live-n10.videostech.cloud/match/unitedkolkatasportsclub_vs_railwayfc/HLS/master.m3u8?hdnea=exp=1783940104~acl=/~hmac=2b89642c5caf5e242094bf708c4d53c2802e03463dc7091d7182c67170f7ed0a",
                     "logo": "",
                     "type": 0,
                     "api": "",

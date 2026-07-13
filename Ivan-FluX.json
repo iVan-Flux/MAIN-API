@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:31:32 PM 13-07-2026",
+    "Last update time": "04:35:38 PM 13-07-2026",
     "Live": "00",
     "Upcoming": "47",
     "Finish": "00",
@@ -283,19 +283,19 @@
             },
             "channels_data": [
                 {
-                    "title": "ICC TV FHD",
-                    "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783963527~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=a52111765afdb90aa53807f7fda3806eac1c3f031521826b7f798a7e7a2c50ef/manifest.mpd|User-agent=Mozilla/5.0",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gxcvq7x1no/out/v1/920f3a7378634062929ac47a49b3a992/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+                    "api": "3fd51d89ec662dc791e32e9be619df9f:4a4df026fcdd6f0776dc19cbf18ab23d",
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "title": "ICC TV FHD",
+                    "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783963527~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=a52111765afdb90aa53807f7fda3806eac1c3f031521826b7f798a7e7a2c50ef/manifest.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
                     "tokenApi": ""
                 },
                 {
@@ -307,11 +307,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SKY SPORTS NZ",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+                    "title": "WILLOW ALT",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gxcvq7x1no/out/v1/920f3a7378634062929ac47a49b3a992/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "3fd51d89ec662dc791e32e9be619df9f:4a4df026fcdd6f0776dc19cbf18ab23d",
                     "tokenApi": ""
                 },
                 {

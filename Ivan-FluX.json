@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:51:14 PM 13-07-2026",
+    "Last update time": "02:55:41 PM 13-07-2026",
     "Live": "00",
-    "Upcoming": "21",
+    "Upcoming": "33",
     "Finish": "00",
     "events": [
         {
@@ -1588,6 +1588,330 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/15 21:30:00 +0000",
                 "endTime": "2026/07/16 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1745,
+            "title": "MLB All Star Game",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/19443/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "National League All Stars",
+                "teamB": "American League All Stars",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/453039/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/453040/image",
+                "eventName": "MLB All Star Game",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/15 00:00:00 +0000",
+                "endTime": "2026/07/15 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1746,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Trail Blazers",
+                "teamB": "Timberwolves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/14 03:00:00 +0000",
+                "endTime": "2026/07/14 05:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1747,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Bucks",
+                "teamB": "Suns",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/14 02:00:00 +0000",
+                "endTime": "2026/07/14 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1748,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Celtics",
+                "teamB": "Hawks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 22:00:00 +0000",
+                "endTime": "2026/07/14 00:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1749,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Grizzlies",
+                "teamB": "Mavericks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 23:00:00 +0000",
+                "endTime": "2026/07/14 01:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1750,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Lynx",
+                "teamB": "Mercury",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/14 01:00:00 +0000",
+                "endTime": "2026/07/14 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1751,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Knicks",
+                "teamB": "Pistons",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 20:00:00 +0000",
+                "endTime": "2026/07/13 22:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1752,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Jazz",
+                "teamB": "Bulls",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/14 01:00:00 +0000",
+                "endTime": "2026/07/14 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1753,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Jazz",
+                "teamB": "Clippers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 02:00:00 +0000",
+                "endTime": "2026/07/13 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1754,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Pacers",
+                "teamB": "Raptors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 20:30:00 +0000",
+                "endTime": "2026/07/13 23:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1755,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Cavaliers",
+                "teamB": "Heat",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/14 00:00:00 +0000",
+                "endTime": "2026/07/14 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1756,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Dream",
+                "teamB": "Sparks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/13 23:00:00 +0000",
+                "endTime": "2026/07/14 01:30:00 +0000"
             },
             "channels_data": [
                 {

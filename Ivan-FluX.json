@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:35:36 AM 14-07-2026",
+    "Last update time": "08:41:05 AM 14-07-2026",
     "Live": "00",
     "Upcoming": "47",
     "Finish": "00",
@@ -909,7 +909,7 @@
                 "eventName": "Wimbledon Championships",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/13 15:00:00 +0000",
+                "startTime": "2026/07/14 15:00:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -1653,8 +1653,24 @@
             },
             "channels_data": [
                 {
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53346/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://hls.live123.fans/live/3923440.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

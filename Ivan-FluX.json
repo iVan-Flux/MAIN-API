@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:40 AM 15-07-2026",
+    "Last update time": "01:01:30 AM 15-07-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -954,14 +954,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FIFA LIVE FHD",
-                    "link": "https://n-121-7.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FOX SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/53349/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1140,6 +1132,14 @@
                 {
                     "title": "FAST SERVER 2",
                     "link": "https://pul-tenm.gkykp.com/live/hd-en-1-4459812.m3u8?txSecret=19e71f9ac495351782b884c41fe1b0c8&txTime=6A57C578",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FIFA LIVE FHD",
+                    "link": "https://n-121-7.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

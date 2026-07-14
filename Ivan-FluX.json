@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:15:46 PM 14-07-2026",
+    "Last update time": "03:21:09 PM 14-07-2026",
     "Live": "00",
     "Upcoming": "39",
     "Finish": "00",
@@ -27,18 +27,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4a63f817e48857c820181f7a22e8a1b4:e53140d61b7bb8c1697316c1ee7ddac8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY CRICKET FHD",
-                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
+                    "api": "63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad",
                     "tokenApi": ""
                 },
                 {
@@ -51,18 +43,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4a63f817e48857c820181f7a22e8a1b4:e53140d61b7bb8c1697316c1ee7ddac8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY MAIN EVENT",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
+                    "api": "63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad",
                     "tokenApi": ""
                 },
                 {
@@ -75,7 +59,7 @@
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1975,8 +1959,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "Link 1",
+                    "link": "https://live-n10.videostech.cloud/match/mohammedansportingclub_vs_nbprainbowathleticclub/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2002,8 +1986,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "Link 1",
+                    "link": "https://live-n10.videostech.cloud/match/calcuttapoliceclub_vs_aryanclub/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2029,8 +2013,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "Link 1",
+                    "link": "https://live-n10.videostech.cloud/match/wariathleticclub_vs_kalighatsportsla/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

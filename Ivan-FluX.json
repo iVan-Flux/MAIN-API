@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:05:39 PM 15-07-2026",
+    "Last update time": "03:11:15 PM 15-07-2026",
     "Live": "00",
-    "Upcoming": "33",
+    "Upcoming": "39",
     "Finish": "00",
     "events": [
         {
@@ -2221,6 +2221,168 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1770,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Measures Club",
+                "teamB": "POLICE A.C",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/323062/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/243866/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/15 09:30:00 +0000",
+                "endTime": "2026/07/15 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live-n10.videostech.cloud/match/measurersclub_vs_policeathleticclub/HLS/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1771,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Patha Chakra",
+                "teamB": "United Kolkata SC",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/294069/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1116647/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/16 09:30:00 +0000",
+                "endTime": "2026/07/16 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1772,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kidderpore SC",
+                "teamB": "Mohun Bagan SG Reserves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/296265/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1116646/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/16 09:30:00 +0000",
+                "endTime": "2026/07/16 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1773,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "BSS Sporting Club",
+                "teamB": "George Telegraph FC",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/326588/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/271460/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/16 09:30:00 +0000",
+                "endTime": "2026/07/16 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1774,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bidhannagar Msa",
+                "teamB": "East Bengal FC Reserves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1247322/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/492818/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/15 09:30:00 +0000",
+                "endTime": "2026/07/15 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live-n10.videostech.cloud/match/bidhannagarmsa_vs_eastbengalfc/HLS/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1775,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Railway FC",
+                "teamB": "Kalighat MS",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1116516/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/294591/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/16 09:30:00 +0000",
+                "endTime": "2026/07/16 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

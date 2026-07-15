@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:40 AM 16-07-2026",
+    "Last update time": "12:41:15 AM 16-07-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1341,6 +1341,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FAST [NO Comment]",
+                    "link": "https://pulltx.cqsycw.com/live/sd-6MvYMRTGwDjUa2BEZt.m3u8?txSecret=ca845ccaa829fa7a2c07e803f00ec27f&txTime=6A580010",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SPANISH FHD",
                     "link": "https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd",
                     "logo": "",
@@ -1397,16 +1405,16 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "beIN SPORTS HD",
-                    "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/RNEWhVHDVlEKwz30fQzu2QqaLyYmm-YzTT4IpbCqfppjUhHt1gSYjy0RqpFL9kaJNZglb3pjmaymEIs2VLcjNg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+                    "title": "UNITE8 HINDI",
+                    "link": "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-59/re4b-dm36/chunklist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "UNITE8 HINDI",
-                    "link": "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-59/re4b-dm36/chunklist.m3u8",
+                    "title": "beIN SPORTS HD",
+                    "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/RNEWhVHDVlEKwz30fQzu2QqaLyYmm-YzTT4IpbCqfppjUhHt1gSYjy0RqpFL9kaJNZglb3pjmaymEIs2VLcjNg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1418,14 +1426,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST [NO Comment]",
-                    "link": "https://pulltx.cqsycw.com/live/sd-6MvYMRTGwDjUa2BEZt.m3u8?txSecret=ca845ccaa829fa7a2c07e803f00ec27f&txTime=6A580010",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -1557,14 +1557,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FIFA LIVE HD",
-                    "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TSN SPORTS",
                     "link": "https://202-218-193-199.twitcasting.tv/tc.livehls/v1/streams/838197478/hls/1008.96/media.m3u8?useQSS=1",
                     "logo": "",
@@ -1573,8 +1565,16 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FIFA LIVE HD",
+                    "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER ENG",
-                    "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1582,7 +1582,15 @@
                 },
                 {
                     "title": "HD SERVER AR",
-                    "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "link": "https://edgestream2.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER ES",
+                    "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1605,8 +1613,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER ES",
-                    "link": "Ok",
+                    "title": "CCTV SPORTS HD",
+                    "link": "https://pullsgp.yyzb456.top/live/stream-758611_lhd.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

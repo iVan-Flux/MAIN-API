@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:15:50 AM 16-07-2026",
+    "Last update time": "12:21:23 AM 16-07-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1509,6 +1509,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FAST SERVER 1",
+                    "link": "https://pul-tenm.gkykp.com/live/hd-en-1-4459813.m3u8?txSecret=7a28de5b22ea6d0e49c6685dfaa818b4&txTime=6A591BA8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "IRIB 4K",
                     "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
                     "logo": "",
@@ -1565,6 +1573,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TAPMAD FHD [PAK]",
+                    "link": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Tapmad-10293j76r4/master.m3u8|Referer=https://www.tapmad.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PTV SPORTS",
+                    "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER ES",
                     "link": "Ok",
                     "logo": "",
@@ -1574,7 +1598,7 @@
                 },
                 {
                     "title": "BBC SPORTS SD",
-                    "link": "e",
+                    "link": "http://193.47.62.47/hls/FECZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1582,7 +1606,7 @@
                 },
                 {
                     "title": "TV4 SPORTS SD",
-                    "link": "s",
+                    "link": "http://193.47.62.47/hls/FECZckkkqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1590,7 +1614,7 @@
                 },
                 {
                     "title": "TELEMUNDO SD",
-                    "link": "s",
+                    "link": "http://193.47.62.47/hls/FECZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1598,7 +1622,7 @@
                 },
                 {
                     "title": "beiN SPORTS FR",
-                    "link": "d",
+                    "link": "http://193.47.62.47/hls/FECZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1606,7 +1630,7 @@
                 },
                 {
                     "title": "beiN ARABIC SD",
-                    "link": "e",
+                    "link": "http://193.47.62.55/hls/YYYYY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1614,7 +1638,7 @@
                 },
                 {
                     "title": "AZAM SPORTS SD",
-                    "link": "r",
+                    "link": "http://193.47.62.55/hls/FHHHH.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

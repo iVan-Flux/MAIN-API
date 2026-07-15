@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:55:43 PM 15-07-2026",
+    "Last update time": "03:58:45 PM 15-07-2026",
     "Live": "00",
     "Upcoming": "39",
     "Finish": "00",
@@ -109,19 +109,19 @@
             },
             "channels_data": [
                 {
-                    "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE SD",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
                     "tokenApi": ""
                 },
                 {
@@ -133,15 +133,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE SD",
-                    "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇧🇩",
+                    "title": "FANCODE [BD]",
                     "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143402_english.m3u8",
                     "logo": "",
                     "type": 0,
@@ -149,32 +141,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE - BD",
-                    "link": "https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE - IN",
+                    "title": "FANCODE [IN]",
                     "link": "https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE - NP",
-                    "link": "https://np-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE - SL",
-                    "link": "https://lk-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

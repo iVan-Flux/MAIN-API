@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:01:37 AM 16-07-2026",
+    "Last update time": "12:05:45 AM 16-07-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1389,6 +1389,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "UNITE8 HINDI",
+                    "link": "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-59/re4b-dm36/chunklist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "RTE SPORTS FHD",
                     "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/68a87ab9-4097-41ae-9943-b9e926472ebd:BRU/manifest.mpd",
                     "logo": "",
@@ -1527,6 +1535,14 @@
                 {
                     "title": "FIFA LIVE HD",
                     "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS",
+                    "link": "https://202-218-193-199.twitcasting.tv/tc.livehls/v1/streams/838197478/hls/1008.96/media.m3u8?useQSS=1",
                     "logo": "",
                     "type": 0,
                     "api": "",

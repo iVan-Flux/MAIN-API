@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:25:37 PM 16-07-2026",
+    "Last update time": "05:31:40 PM 16-07-2026",
     "Live": "00",
     "Upcoming": "39",
     "Finish": "00",
@@ -27,15 +27,15 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad",
+                    "api": "78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47",
                     "tokenApi": ""
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://pastebin.com/raw/wt7tUMmX?e=.m3u8",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -43,15 +43,23 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad",
+                    "api": "78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
                     "title": "SKY SPORT NZ",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -59,7 +67,7 @@
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.44/hls/zzzz.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.48/hls/ZAZAZAQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -84,6 +92,14 @@
                 {
                     "title": "SONY TEN 4 - IN",
                     "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:05:40 PM 17-07-2026",
+    "Last update time": "01:10:54 PM 17-07-2026",
     "Live": "00",
-    "Upcoming": "47",
+    "Upcoming": "52",
     "Finish": "00",
     "events": [
         {
@@ -2471,6 +2471,141 @@
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/ZGGGQQ.m3u8|Referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1797,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kalighat Sports Lovers",
+                "teamB": "Maharashtra State Police",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1116633/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/243866/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/17 09:30:00 +0000",
+                "endTime": "2026/07/17 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1798,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Techno Aryan",
+                "teamB": "Mohammedan SC Reserves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/294487/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/526594/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/17 09:30:00 +0000",
+                "endTime": "2026/07/17 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1799,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Measures Club",
+                "teamB": "Suruchi Sangha",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/323062/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/526903/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/17 09:30:00 +0000",
+                "endTime": "2026/07/17 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1800,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "ASOS Rainbow",
+                "teamB": "Wari Athletic Club",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/264308/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/482986/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/17 09:30:00 +0000",
+                "endTime": "2026/07/17 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1801,
+            "title": "Calcutta Premier Division",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Peerless SC",
+                "teamB": "Coal India Spa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/295208/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1247285/image",
+                "eventName": "Calcutta Premier Division",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/17 09:30:00 +0000",
+                "endTime": "2026/07/17 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

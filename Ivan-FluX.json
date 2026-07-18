@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:15:50 AM 19-07-2026",
+    "Last update time": "02:20:50 AM 19-07-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -855,6 +855,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FIFA TV FHD",
+                    "link": "https://cdnec02.mediaquest.com.ph/bpk-token/2ab@w544wk5y111knxfbv2itg33nvw2xxxv0wx4e31ca/bpk-tv/fifa_ppv1/default/index.mpd?bkm-query",
+                    "logo": "",
+                    "type": 0,
+                    "api": "603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc",
+                    "tokenApi": ""
+                },
+                {
                     "title": "ISCREEN BD FHD",
                     "link": "https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/playlist.m3u8?|referer=https://iscreen.com.bd/",
                     "logo": "",
@@ -900,6 +908,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN MAX HD",
+                    "link": "https://wez.khaialogy.store/dream1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -959,16 +975,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FIFA LIVE HD",
-                    "link": "j",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "HD SERVER ENG",
-                    "link": "j",
+                    "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -976,7 +984,7 @@
                 },
                 {
                     "title": "HD SERVER AR",
-                    "link": "d",
+                    "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -984,7 +992,7 @@
                 },
                 {
                     "title": "HD SERVER ES",
-                    "link": "Ok",
+                    "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",

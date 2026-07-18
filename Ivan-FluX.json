@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:40 PM 18-07-2026",
+    "Last update time": "12:40:47 PM 18-07-2026",
     "Live": "00",
-    "Upcoming": "19",
+    "Upcoming": "22",
     "Finish": "00",
     "events": [
         {
@@ -136,8 +136,8 @@
                 "eventName": "T20 International",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/17 10:30:00 +0000",
-                "endTime": "2026/07/17 15:00:00 +0000"
+                "startTime": "2026/07/19 10:30:00 +0000",
+                "endTime": "2026/07/19 15:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -613,8 +613,8 @@
                 "eventName": "AEW Dynamite",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/16 00:00:00 +0000",
-                "endTime": "2026/07/16 04:00:00 +0000"
+                "startTime": "2026/07/23 00:00:00 +0000",
+                "endTime": "2026/07/23 04:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -1260,41 +1260,6 @@
             ]
         },
         {
-            "id": 1680,
-            "title": "Lanka Premier League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "JK",
-                "teamB": "GG",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
-                "eventName": "Lanka Premier League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/17 14:00:00 +0000",
-                "endTime": "2026/07/17 18:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 1681,
             "title": "Lanka Premier League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
@@ -1390,6 +1355,114 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/18 20:00:00 +0000",
                 "endTime": "2026/07/18 23:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1804,
+            "title": "Lanka Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "DS",
+                "teamB": "JK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/369189/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+                "eventName": "Lanka Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 09:30:00 +0000",
+                "endTime": "2026/07/19 14:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1805,
+            "title": "Lanka Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "GG",
+                "teamB": "CK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image",
+                "eventName": "Lanka Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 14:00:00 +0000",
+                "endTime": "2026/07/18 18:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1806,
+            "title": "Major League Cricket",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "LAKR",
+                "teamB": "WF",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/485011/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/485015/image",
+                "eventName": "Major League Cricket",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 23:30:00 +0000",
+                "endTime": "2026/07/19 04:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1807,
+            "title": "Youth Test International - m",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/22591/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "SL-U19",
+                "teamB": "IND-U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213106/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213112/image",
+                "eventName": "Youth Test International - m",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/20 04:30:00 +0000",
+                "endTime": "  +0000"
             },
             "channels_data": [
                 {

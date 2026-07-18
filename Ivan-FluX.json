@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:40:49 PM 18-07-2026",
+    "Last update time": "04:45:47 PM 18-07-2026",
     "Live": "00",
     "Upcoming": "82",
     "Finish": "00",
@@ -283,14 +283,6 @@
             },
             "channels_data": [
                 {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FANCODE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -300,7 +292,23 @@
                 },
                 {
                     "title": "SKY F1 HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/52853/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/53414/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "APPLE TV FHD",
+                    "link": "https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -309,14 +317,6 @@
                 {
                     "title": "SportCast F1",
                     "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9f756eeb-8a38-432f-89fa-dd393d07a4b0/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX SPORTS FHD",
-                    "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/b74afe3974777b76e407dfb181f55a21/index.m3u8?|referer=https://pushembdz.store/",
                     "logo": "",
                     "type": 0,
                     "api": "",

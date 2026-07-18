@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:39 PM 18-07-2026",
+    "Last update time": "01:01:01 PM 18-07-2026",
     "Live": "00",
-    "Upcoming": "58",
+    "Upcoming": "85",
     "Finish": "00",
     "events": [
         {
@@ -2435,6 +2435,735 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/18 16:15:00 +0000",
                 "endTime": "2026/07/18 18:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1844,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Vietnam",
+                "teamB": "Myanmar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 12:00:00 +0000",
+                "endTime": "2026/07/18 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1845,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Suns",
+                "teamB": "Spurs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 02:30:00 +0000",
+                "endTime": "2026/07/19 05:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1846,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Lakers",
+                "teamB": "Warriors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 00:30:00 +0000",
+                "endTime": "2026/07/19 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1847,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Bucks",
+                "teamB": "76ers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 21:00:00 +0000",
+                "endTime": "2026/07/18 23:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1848,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Magic",
+                "teamB": "Celtics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:30:00 +0000",
+                "endTime": "2026/07/18 23:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1849,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Lynx",
+                "teamB": "Fire",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 00:00:00 +0000",
+                "endTime": "2026/07/19 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1850,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Grizzlies",
+                "teamB": "Rockets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 22:30:00 +0000",
+                "endTime": "2026/07/19 01:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1851,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Pelicans",
+                "teamB": "Pacers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 01:00:00 +0000",
+                "endTime": "2026/07/19 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1852,
+            "title": "NBA Summer League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Wizards",
+                "teamB": "Hawks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+                "eventName": "NBA Summer League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 23:00:00 +0000",
+                "endTime": "2026/07/19 01:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1853,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Valkyries",
+                "teamB": "Mystics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 00:30:00 +0000",
+                "endTime": "2026/07/19 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1854,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Fever",
+                "teamB": "Liberty",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 00:00:00 +0000",
+                "endTime": "2026/07/19 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1855,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Guardians",
+                "teamB": "Pirates",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 17:10:00 +0000",
+                "endTime": "2026/07/18 20:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1856,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Blue Jays",
+                "teamB": "White Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 19:07:00 +0000",
+                "endTime": "2026/07/18 22:07:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1857,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Diamondbacks",
+                "teamB": "Cardinals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:10:00 +0000",
+                "endTime": "2026/07/18 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1858,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Mariners",
+                "teamB": "Giants",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 00:08:00 +0000",
+                "endTime": "2026/07/19 03:08:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1859,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Angels",
+                "teamB": "Tigers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 02:07:00 +0000",
+                "endTime": "2026/07/19 05:07:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1860,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Cubs",
+                "teamB": "Twins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 18:20:00 +0000",
+                "endTime": "2026/07/18 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1861,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Athletics",
+                "teamB": "Nationals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 02:05:00 +0000",
+                "endTime": "2026/07/19 05:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1862,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Yankees",
+                "teamB": "Dodgers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/19 00:08:00 +0000",
+                "endTime": "2026/07/19 03:08:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1863,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Rockies",
+                "teamB": "Reds",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 19:10:00 +0000",
+                "endTime": "2026/07/18 22:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1864,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Red Sox",
+                "teamB": "Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:10:00 +0000",
+                "endTime": "2026/07/18 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1865,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Brewers",
+                "teamB": "Marlins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:10:00 +0000",
+                "endTime": "2026/07/18 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1866,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Guardians",
+                "teamB": "Pirates",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:10:00 +0000",
+                "endTime": "2026/07/18 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1867,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Phillies",
+                "teamB": "Mets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:05:00 +0000",
+                "endTime": "2026/07/18 23:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1868,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Astros",
+                "teamB": "Orioles",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:10:00 +0000",
+                "endTime": "2026/07/18 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1869,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Royals",
+                "teamB": "Padres",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:10:00 +0000",
+                "endTime": "2026/07/18 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1870,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Braves",
+                "teamB": "Rangers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 20:10:00 +0000",
+                "endTime": "2026/07/18 23:10:00 +0000"
             },
             "channels_data": [
                 {

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:03:53 AM 19-07-2026",
+    "Last update time": "02:05:41 AM 19-07-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -3366,11 +3366,59 @@
             },
             "channels_data": [
                 {
+                    "title": "SportsNet FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/53239/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/53500/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ S2",
+                    "link": "https://chatgpt.hereisman.net/playlist/53504/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ BR",
+                    "link": "https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD TV (USE VPN)",
+                    "link": "http://193.47.62.41/hls/suuu.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "UFC LIVE HD",
+                    "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ EN FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ju1n5asg8s/out/v1/1d92267fc4644b75934bb9be30f77d94/68caaa82-b16a-4225-a154-939a77dff44b-cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e76c6bb7dbf82e54bbb3fbb2efee2c34:c7ae7cf2c1dc3a2d4425d10bc4e63be4",
                     "tokenApi": ""
                 }
             ]

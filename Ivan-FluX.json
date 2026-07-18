@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:05:41 AM 19-07-2026",
+    "Last update time": "02:10:50 AM 19-07-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -825,6 +825,14 @@
                 {
                     "title": "BBC SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/53498/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN MAX UHD",
+                    "link": "https://netfly-asia217.autiv.in/maxx1/index.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:20:50 AM 19-07-2026",
+    "Last update time": "02:25:40 AM 19-07-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -864,7 +864,7 @@
                 },
                 {
                     "title": "ISCREEN BD FHD",
-                    "link": "https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/playlist.m3u8?|referer=https://iscreen.com.bd/",
+                    "link": "https://hjkpoi-mnbvcxza.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f76d3e5e41ea557843549782f9a/main.m3u8?|referer=https://iscreen.com.bd/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -935,19 +935,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "D SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-                    "tokenApi": ""
-                },
-                {
                     "title": "CAZE TV FHD",
                     "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
                     "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
                     "tokenApi": ""
                 },
                 {
@@ -1000,7 +1000,7 @@
                 },
                 {
                     "title": "BBC SPORTS SD",
-                    "link": "d",
+                    "link": "http://193.47.62.43/hls/XIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1008,15 +1008,15 @@
                 },
                 {
                     "title": "TV4 SPORTS SD",
-                    "link": "s",
+                    "link": "http://193.47.62.43/hls/XIIIIFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "TELEMUNDO SD",
-                    "link": "d",
+                    "title": "CCTV SPORTS HD",
+                    "link": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1024,23 +1024,7 @@
                 },
                 {
                     "title": "beiN SPORTS FR",
-                    "link": "s",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "AZAM SPORTS SD",
-                    "link": "s",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beiN ARABIC SD",
-                    "link": "s",
+                    "link": "http://193.47.62.51/hls/XIIIIF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

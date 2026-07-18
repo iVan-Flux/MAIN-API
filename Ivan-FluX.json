@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:25:39 PM 18-07-2026",
+    "Last update time": "10:31:15 PM 18-07-2026",
     "Live": "00",
-    "Upcoming": "71",
+    "Upcoming": "69",
     "Finish": "00",
     "events": [
         {
@@ -2001,33 +2001,6 @@
             ]
         },
         {
-            "id": 1835,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Rapid",
-                "teamB": "HSV",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2055/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/18 17:00:00 +0000",
-                "endTime": "2026/07/18 19:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 1836,
             "title": "Club Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
@@ -2072,35 +2045,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1840,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Alavés",
-                "teamB": "Eibar",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/18 17:00:00 +0000",
-                "endTime": "2026/07/18 19:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.42/hls/FNNNEQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2450,8 +2396,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2585,8 +2531,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",

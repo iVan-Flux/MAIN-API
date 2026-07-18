@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:50:50 PM 18-07-2026",
+    "Last update time": "08:55:38 PM 18-07-2026",
     "Live": "00",
     "Upcoming": "71",
     "Finish": "00",
@@ -1799,6 +1799,22 @@
                 {
                     "title": "HD SERVER",
                     "link": "http://193.47.62.42/hls/FNNNE.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=94753319b1eb4b586e4de04701193ace&txTime=6a5beb49",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784390905-0-0-a233898d7bb71455f86115b5d642b1e4",
                     "logo": "",
                     "type": 0,
                     "api": "",

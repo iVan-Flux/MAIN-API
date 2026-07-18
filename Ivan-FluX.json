@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:40:48 PM 18-07-2026",
+    "Last update time": "08:45:51 PM 18-07-2026",
     "Live": "00",
-    "Upcoming": "75",
+    "Upcoming": "71",
     "Finish": "00",
     "events": [
         {
@@ -1728,7 +1728,7 @@
             "channels_data": [
                 {
                     "title": "Link 1",
-                    "link": "https://no.link",
+                    "link": "http://193.47.62.47/hls/gagagagaq.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1756,33 +1756,6 @@
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.46/hls/IAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1827,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Gießen",
-                "teamB": "Frankfurt",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/291534/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/18 15:00:00 +0000",
-                "endTime": "2026/07/18 17:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1895,7 +1868,7 @@
             "channels_data": [
                 {
                     "title": "Link 1",
-                    "link": "https://no.link",
+                    "link": "http://193.47.62.46/hls/IPPPQQQQQx.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2066,60 +2039,6 @@
             ]
         },
         {
-            "id": 1837,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Brest",
-                "teamB": "Concarneau",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/6917/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/18 16:00:00 +0000",
-                "endTime": "2026/07/18 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1838,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Acd Pinzolo Valrendena",
-                "teamB": "Torino",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1242682/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/18 15:30:00 +0000",
-                "endTime": "2026/07/18 17:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 1839,
             "title": "Club Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
@@ -2215,33 +2134,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/18 18:30:00 +0000",
                 "endTime": "2026/07/18 20:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1843,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Young Boys",
-                "teamB": "Étoile Carouge",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2445/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2497/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/18 16:15:00 +0000",
-                "endTime": "2026/07/18 18:35:00 +0000"
             },
             "channels_data": [
                 {

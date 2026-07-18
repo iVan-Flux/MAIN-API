@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:50:53 PM 18-07-2026",
+    "Last update time": "03:55:40 PM 18-07-2026",
     "Live": "00",
-    "Upcoming": "84",
+    "Upcoming": "82",
     "Finish": "00",
     "events": [
         {
@@ -308,7 +308,7 @@
                 },
                 {
                     "title": "SportCast F1",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2166cc6c-f005-47ed-a7ca-09f1bcfe10bd/master.m3u8",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9f756eeb-8a38-432f-89fa-dd393d07a4b0/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1525,8 +1525,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.45/hls/EPPPQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1603,33 +1603,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/18 13:30:00 +0000",
                 "endTime": "2026/07/18 15:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1813,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "PSV",
-                "teamB": "USG",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/18 10:30:00 +0000",
-                "endTime": "2026/07/18 12:50:00 +0000"
             },
             "channels_data": [
                 {
@@ -1765,33 +1738,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/18 13:00:00 +0000",
                 "endTime": "2026/07/18 15:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1820,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Lens",
-                "teamB": "Boulogne-sur-Mer",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1711/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/18 10:00:00 +0000",
-                "endTime": "2026/07/18 12:20:00 +0000"
             },
             "channels_data": [
                 {

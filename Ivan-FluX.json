@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:50:48 PM 18-07-2026",
+    "Last update time": "12:55:39 PM 18-07-2026",
     "Live": "00",
-    "Upcoming": "37",
+    "Upcoming": "58",
     "Finish": "00",
     "events": [
         {
@@ -1868,6 +1868,573 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/18 12:00:00 +0000",
                 "endTime": "2026/07/18 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1823,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Freiberg",
+                "teamB": "Hoffenheim",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2640/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 13:30:00 +0000",
+                "endTime": "2026/07/18 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1824,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Baumberg",
+                "teamB": "Leverkusen",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/75725/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 13:30:00 +0000",
+                "endTime": "2026/07/18 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1825,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Oberhausen",
+                "teamB": "Dortmund",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2552/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 15:00:00 +0000",
+                "endTime": "2026/07/18 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1826,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Celtic",
+                "teamB": "Middlesbrough",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 14:00:00 +0000",
+                "endTime": "2026/07/18 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1827,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Gießen",
+                "teamB": "Frankfurt",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/291534/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 15:00:00 +0000",
+                "endTime": "2026/07/18 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1828,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Man Utd",
+                "teamB": "Wrexham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 15:00:00 +0000",
+                "endTime": "2026/07/18 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1829,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lotte",
+                "teamB": "Real Betis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5844/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 13:30:00 +0000",
+                "endTime": "2026/07/18 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1830,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lorient",
+                "teamB": "Nantes",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1647/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 15:00:00 +0000",
+                "endTime": "2026/07/18 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1831,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Winterthur",
+                "teamB": "Union Berlin",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2458/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/17 17:00:00 +0000",
+                "endTime": "2026/07/17 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1832,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Olot",
+                "teamB": "Espanyol",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/115059/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 18:00:00 +0000",
+                "endTime": "2026/07/18 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1833,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Zulte Waregem",
+                "teamB": "AZ",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2933/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 18:00:00 +0000",
+                "endTime": "2026/07/18 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1834,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Petro de Luanda",
+                "teamB": "Valencia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/148072/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 16:30:00 +0000",
+                "endTime": "2026/07/18 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1835,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Rapid",
+                "teamB": "HSV",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2055/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 17:00:00 +0000",
+                "endTime": "2026/07/18 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1836,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leioa",
+                "teamB": "Athletic Club",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/167160/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 17:30:00 +0000",
+                "endTime": "2026/07/18 19:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1837,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brest",
+                "teamB": "Concarneau",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6917/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 16:00:00 +0000",
+                "endTime": "2026/07/18 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1838,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Acd Pinzolo Valrendena",
+                "teamB": "Torino",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1242682/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 15:30:00 +0000",
+                "endTime": "2026/07/18 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1839,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Elche",
+                "teamB": "Kaizer Chiefs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7663/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 17:00:00 +0000",
+                "endTime": "2026/07/18 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1840,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Alavés",
+                "teamB": "Eibar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 17:00:00 +0000",
+                "endTime": "2026/07/18 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1841,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lyon",
+                "teamB": "Slavia Praha",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2216/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 18:00:00 +0000",
+                "endTime": "2026/07/18 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1842,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Braga",
+                "teamB": "Celta",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 18:30:00 +0000",
+                "endTime": "2026/07/18 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1843,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Young Boys",
+                "teamB": "Étoile Carouge",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2445/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2497/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/18 16:15:00 +0000",
+                "endTime": "2026/07/18 18:35:00 +0000"
             },
             "channels_data": [
                 {

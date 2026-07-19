@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:31:15 AM 20-07-2026",
+    "Last update time": "12:35:41 AM 20-07-2026",
     "Live": "00",
     "Upcoming": "41",
     "Finish": "00",
@@ -25,22 +25,6 @@
                 "endTime": "2026/07/20 00:00:00 +0000"
             },
             "channels_data": [
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/MFlLT9kXkB0rDa7xNFUyPxD5RC9ZQlWyo8UGWgMhjnlLTyGBdM3BhvXiSSxYGSpGE4ZnBYtM9eqSQXD6eMPfEA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live|referer=https://pscp.tv",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/LneC--tfKxKJMzh5bbzVJ8eVT7B2t6eE6O5lE0ldNbRGb4t-_nHeEabU9RTwDFeMNrBUoLGi65hsWY_gB73gqw/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live|referer=https://pscp.tv",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
                 {
                     "title": "KAN 11 FHD",
                     "link": "https://n-121-7.il.cdn-redge.media/livedash/oil/freetv/live/kan11/live.livx?manifest.mpd",
@@ -66,32 +50,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FIFA LIVE HD",
-                    "link": "https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://chatgpt.hereisman.net/playlist/53540/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TOFFEE FHD (BD)",
-                    "link": "ok",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX SPORTS FHD",
-                    "link": "https://customer-0a9dy4lca44vp867.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjRkZmM4MDZmN2U5NWQ4MWIwMGQ4NzJjNGQ2Zjg2ZGM3In0.eyJzdWIiOiI4NGYxNjYyYmFmZDI3NmNkMzAxNmJmMTgyOTQ1ODUyNiIsImtpZCI6IjRkZmM4MDZmN2U5NWQ4MWIwMGQ4NzJjNGQ2Zjg2ZGM3IiwiZXhwIjoxNzg0NDgzNjQ5LCJuYmYiOjE3ODQ0ODAwNDl9.Ok24B-lhenO2sfa0bwOxjcUpzorL80Ri-fVXkSqMqGCzZsGTpcEsGMYgsFk3uePqSGwLCCCo03a0i1ZfRnFeVnjO5Yi9_ZnCEwck2x2JCgSCfy1NWwnCiKM88Exh6T4d10a1xndcq-EF_u5lutG5ecw5kaKsj4xlBX5h0zBxts5paKs-eXxjVPNyv70Rgp9vuk3pgUPJ-2SdtPbusrrIWfb9gGwXtFncZxsloNU7vr6FisvWxE_tNU_n3hPEz1Pkw8uJKwsSE-Ou5gnIhwxBDeVil1nGEBy1N8qR7i8blnGK5tWvXhHMI8FTaHUGZxeUEDCdv50bRzS_eGS1sPLN6Q/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwatchfootball.pages.dev",
+                    "title": "ISCREEN BD FHD",
+                    "link": "https://hjkpoi-mnbvcxza.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f76d3e5e41ea557843549782f9a/main.m3u8?|referer=https://iscreen.com.bd/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -106,22 +66,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "UNIFY TV FHD",
-                    "link": "https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89",
-                    "logo": "",
-                    "type": 0,
-                    "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ISCREEN BD FHD",
-                    "link": "https://hjkpoi-mnbvcxza.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f76d3e5e41ea557843549782f9a/main.m3u8?|referer=https://iscreen.com.bd/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "beIN MAX HD",
                     "link": "https://3.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
                     "logo": "",
@@ -130,40 +74,32 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TELEMUNDO FHD",
-                    "link": "https://api.zlive.st/p/8b7d49cd99094663/index.m3u8?|referer=https://zlive.st/",
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53540/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://customer-0a9dy4lca44vp867.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6IjRkZmM4MDZmN2U5NWQ4MWIwMGQ4NzJjNGQ2Zjg2ZGM3In0.eyJzdWIiOiI4NGYxNjYyYmFmZDI3NmNkMzAxNmJmMTgyOTQ1ODUyNiIsImtpZCI6IjRkZmM4MDZmN2U5NWQ4MWIwMGQ4NzJjNGQ2Zjg2ZGM3IiwiZXhwIjoxNzg0NDgzNjQ5LCJuYmYiOjE3ODQ0ODAwNDl9.Ok24B-lhenO2sfa0bwOxjcUpzorL80Ri-fVXkSqMqGCzZsGTpcEsGMYgsFk3uePqSGwLCCCo03a0i1ZfRnFeVnjO5Yi9_ZnCEwck2x2JCgSCfy1NWwnCiKM88Exh6T4d10a1xndcq-EF_u5lutG5ecw5kaKsj4xlBX5h0zBxts5paKs-eXxjVPNyv70Rgp9vuk3pgUPJ-2SdtPbusrrIWfb9gGwXtFncZxsloNU7vr6FisvWxE_tNU_n3hPEz1Pkw8uJKwsSE-Ou5gnIhwxBDeVil1nGEBy1N8qR7i8blnGK5tWvXhHMI8FTaHUGZxeUEDCdv50bRzS_eGS1sPLN6Q/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwatchfootball.pages.dev",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "UNIFY TV FHD",
+                    "link": "https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89",
+                    "logo": "",
+                    "type": 0,
+                    "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
                     "tokenApi": ""
                 },
                 {
                     "title": "Fox Sports UHD [US VPN]",
                     "link": "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Fox Sports 4K",
-                    "link": "https://api.zlive.st/p/b8d12bcd88cf5955/index.m3u8?|referer=https://zlive.st/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://api.zlive.st/p/d786921a17ec5daf/index.m3u8?|referer=https://zlive.st/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Fusball 4K MULTI",
-                    "link": "https://api.zlive.st/p/a1e123c50c75cf09/index.m3u8?|referer=https://zlive.st/",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:40:50 AM 20-07-2026",
+    "Last update time": "01:45:48 AM 20-07-2026",
     "Live": "00",
     "Upcoming": "41",
     "Finish": "00",
@@ -76,6 +76,14 @@
                 {
                     "title": "beIN MAX HD",
                     "link": "https://3.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FIFA LIVE HD",
+                    "link": "https://live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=d279c6097dbca555ed36b0233713642d&wsABSTime=1784182720&wsSession=436e9186b699ddc3ed613af6-178448347186941&wsIPSercert=4a098db2100d1784a4dca047bd3f5e4e&wsBindIP=2&wsserid=1168201446953502087",
                     "logo": "",
                     "type": 0,
                     "api": "",

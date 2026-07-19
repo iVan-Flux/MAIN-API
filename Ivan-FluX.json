@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:05:42 AM 20-07-2026",
+    "Last update time": "12:10:50 AM 20-07-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -825,6 +825,14 @@
                 {
                     "title": "ITV SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/53550/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FIFA LIVE HD",
+                    "link": "https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

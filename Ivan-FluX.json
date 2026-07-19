@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:40:48 PM 19-07-2026",
+    "Last update time": "11:45:49 PM 19-07-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -1167,7 +1167,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FOX SPORTS (ALT)",
+                    "title": "FOX SPORTS [ALT]",
                     "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
                     "logo": "",
                     "type": 0,
@@ -1175,7 +1175,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TSN SPORTS (ALT)",
+                    "title": "TSN SPORTS [ALT]",
                     "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
                     "logo": "",
                     "type": 0,
@@ -1183,7 +1183,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FUSSBALL TV (GER)",
+                    "title": "FUSSBALL TV [GER]",
                     "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
                     "logo": "",
                     "type": 0,
@@ -1191,23 +1191,31 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "ZDF (GERMAN IP)",
-                    "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+                    "title": "FUSSBALL TV 4K [GER]",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+                    "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
                     "tokenApi": ""
                 },
                 {
-                    "title": "ORF (GERMAN IP)",
-                    "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+                    "title": "FUSSBALL2 TV [GER]",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+                    "api": "1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef",
                     "tokenApi": ""
                 },
                 {
-                    "title": "TELEMUNDO ES (USA)",
+                    "title": "FUSSBALL2 4K [GER]",
+                    "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TELEMUNDO ES [USA]",
                     "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
                     "logo": "",
                     "type": 0,
@@ -1215,7 +1223,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TELEMUNDO (USA)",
+                    "title": "TELEMUNDO [USA]",
                     "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
                     "logo": "",
                     "type": 0,

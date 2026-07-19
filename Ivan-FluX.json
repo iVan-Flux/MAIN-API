@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:55:40 AM 20-07-2026",
+    "Last update time": "03:59:50 AM 20-07-2026",
     "Live": "00",
     "Upcoming": "41",
     "Finish": "00",
@@ -2207,6 +2207,14 @@
             },
             "channels_data": [
                 {
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53572/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2260,6 +2268,14 @@
                 "endTime": "2026/07/20 01:30:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "WNBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53576/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2371,6 +2387,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CFL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53578/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

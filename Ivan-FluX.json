@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:05:40 AM 21-07-2026",
+    "Last update time": "12:10:48 AM 21-07-2026",
     "Live": "00",
-    "Upcoming": "35",
+    "Upcoming": "36",
     "Finish": "00",
     "events": [
         {
@@ -1323,6 +1323,41 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1928,
+            "title": "FIFA TROPHY CELEBRATION",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Spain Celebration",
+                "teamB": "Spain Celebration",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+                "eventName": "FIFA TROPHY CELEBRATION",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/20 18:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://video.fbjm1-1.fna.fbcdn.net/hvideo-rva-prn/_nc_cat-1/_nc_sr_t-4/v/rAScni__eWy_YJryb5WBUuCn9kW0uBBeBJ8NalqOhQ7ZKsw/_nc_ohc-1iaFTfT0cjAQ7kNvwGhlrHo/live-dash/dash-abr-ibr-audio/1578296826986905.mpd?_nc_zt=28&ccb=2-4&ms=m_CT&sc_t=1&oh=00_AQAPPJkZAJS6KQs506ydfLmqoSeOiZsgXPXLZgPc2yJ1wQ&oe=6A6049E4",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://video.fbjm1-1.fna.fbcdn.net/hvideo-rva-prn/_nc_cat-1/_nc_sr_t-4/v/rAScni__eWy_YJryb5WBUuCn9kW0uBBeBJ8NalqOhQ7ZKsw/_nc_ohc-1iaFTfT0cjAQ7kNvwGhlrHo/live-dash/dash-abr-ibr-audio/1578296826986905.mpd?_nc_zt=28&ccb=2-4&ms=m_CT&sc_t=1&oh=00_AQAPPJkZAJS6KQs506ydfLmqoSeOiZsgXPXLZgPc2yJ1wQ&oe=6A6049E4",
                     "logo": "",
                     "type": 0,
                     "api": "",

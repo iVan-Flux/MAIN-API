@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:20:55 PM 21-07-2026",
+    "Last update time": "07:25:42 PM 21-07-2026",
     "Live": "00",
     "Upcoming": "34",
     "Finish": "00",
@@ -762,11 +762,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
                     "tokenApi": ""
                 }
             ]
@@ -816,8 +824,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BBC SPORTS",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

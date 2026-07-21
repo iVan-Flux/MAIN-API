@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:10:49 AM 22-07-2026",
+    "Last update time": "12:15:50 AM 22-07-2026",
     "Live": "00",
-    "Upcoming": "46",
+    "Upcoming": "50",
     "Finish": "00",
     "events": [
         {
@@ -1196,8 +1196,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1861,6 +1861,146 @@
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.42/hls/gtgtgt.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1962,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Nacional",
+                "teamB": "Tigre",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3230/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/21 22:00:00 +0000",
+                "endTime": "2026/07/22 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SportDigital Fussball",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1963,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "UCV",
+                "teamB": "Santos",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/249952/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/22 00:30:00 +0000",
+                "endTime": "2026/07/22 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SportDigital Fussball",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1964,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Atlético-MG",
+                "teamB": "Bahia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/21 22:30:00 +0000",
+                "endTime": "2026/07/22 00:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PREMIERER BR",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SporTV BR FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SporTV BR HD",
+                    "link": "https://rdcstream.life/live/sportv/index.m3u8?|referer=https://playerembed.xyz/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1965,
+            "title": "U17 Campeonato Brasileiro",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/22794/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "São Paulo U17",
+                "teamB": "Atlético-MG U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/342890/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/481352/image",
+                "eventName": "U17 Campeonato Brasileiro",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/21 18:00:00 +0000",
+                "endTime": "2026/07/21 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:01:10 AM 22-07-2026",
+    "Last update time": "12:05:41 AM 22-07-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -53,6 +53,14 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/wpob6cyf2v/out/v1/021df1f2a9634c5eb62308818f71fbd5/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FANCODE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                     "logo": "",
@@ -83,6 +91,23 @@
                     "type": 0,
                     "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
                     "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW SD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embed.st/embed/admin/admin-willow-cricket/1",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -1677,6 +1702,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://live.vivo200.com/live/sd-1-4556530.m3u8?txSecret=addc8f6e96189968278a3cd9f9fc5631&txTime=6A5FAD43|referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.53/hls/BAAA.m3u8?|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

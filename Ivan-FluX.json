@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:40:50 AM 22-07-2026",
+    "Last update time": "06:45:47 AM 22-07-2026",
     "Live": "00",
     "Upcoming": "51",
     "Finish": "00",
@@ -2018,12 +2018,21 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://streamx488.sbs/global1.php?channel=tudnus",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
+                    "tokenApi": {
+                        "url": "https://streamx488.sbs/global1.php?channel=tudnus",
+                        "api": "https://streamx488.sbs/global1.php?channel=tudnus",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         }

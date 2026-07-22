@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:01:04 AM 22-07-2026",
+    "Last update time": "11:05:39 AM 22-07-2026",
     "Live": "00",
-    "Upcoming": "14",
+    "Upcoming": "18",
     "Finish": "00",
     "events": [
         {
@@ -36,70 +36,29 @@
             ]
         },
         {
-            "id": 1679,
-            "title": "One Day International",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+            "id": 1682,
+            "title": "ICC World Test Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
             "cat": "Cricket",
             "eventInfo": {
                 "teamA": "WI",
-                "teamB": "NZ",
+                "teamB": "PAK",
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-                "eventName": "One Day International",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+                "eventName": "ICC World Test Championship",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/21 18:30:00 +0000",
-                "endTime": "2026/07/22 04:00:00 +0000"
+                "startTime": "2026/07/25 14:00:00 +0000",
+                "endTime": "  +0000"
             },
             "channels_data": [
                 {
-                    "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|referer=https://tapmad.com",
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
-                },
-                {
-                    "title": "TNT SPORTS HD",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE SD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW SD",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://embed.st/embed/admin/admin-willow-cricket/1",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
                 }
             ]
         },
@@ -684,33 +643,6 @@
             ]
         },
         {
-            "id": 1682,
-            "title": "ICC World Test Championship",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "WI",
-                "teamB": "PAK",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-                "eventName": "ICC World Test Championship",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 14:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 1881,
             "title": "Tour de France",
             "image": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
@@ -776,6 +708,141 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/22 09:30:00 +0000",
                 "endTime": "2026/07/22 14:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1931,
+            "title": "Lanka Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "DS",
+                "teamB": "GG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/369189/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+                "eventName": "Lanka Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/22 14:00:00 +0000",
+                "endTime": "2026/07/22 18:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1932,
+            "title": "Lanka Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "KRL",
+                "teamB": "CK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/369187/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image",
+                "eventName": "Lanka Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 09:30:00 +0000",
+                "endTime": "2026/07/23 14:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1933,
+            "title": "The Hundred Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "SOB-W",
+                "teamB": "WEF-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377205/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377207/image",
+                "eventName": "The Hundred Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/22 13:45:00 +0000",
+                "endTime": "2026/07/22 18:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1934,
+            "title": "The Hundred",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "SOB",
+                "teamB": "WEF",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377177/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377179/image",
+                "eventName": "The Hundred",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/22 17:30:00 +0000",
+                "endTime": "2026/07/22 22:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1935,
+            "title": "ICC Women's Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "SL-W",
+                "teamB": "PAK-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+                "eventName": "ICC Women's Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 04:30:00 +0000",
+                "endTime": "2026/07/23 09:00:00 +0000"
             },
             "channels_data": [
                 {

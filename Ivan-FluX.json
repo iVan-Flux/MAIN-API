@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:55:42 PM 23-07-2026",
+    "Last update time": "10:01:07 PM 23-07-2026",
     "Live": "00",
     "Upcoming": "44",
     "Finish": "00",
@@ -2027,8 +2027,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.46/hls/JIIIQQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4589350.m3u8?txSecret=6148671df1a7a8b6406cd6e75b3ea965&txTime=6A637F59",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD+ SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/qarabag-cska-c2qual/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FLV SERVER",
+                    "link": "https://flv.lauthaitv.cc/live/qarabag-cska-c2qual.flv",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1784825815-0-0-0b1d783d36b8ca3a8c05080359c87467",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=008da0659765e1a5b285116ba1b963a3&txTime=6a628e27",
                     "logo": "",
                     "type": 0,
                     "api": "",

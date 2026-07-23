@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:55:46 PM 23-07-2026",
+    "Last update time": "12:01:12 AM 24-07-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1206,8 +1206,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://admin2.formaturamaxi.com.br/mlb10.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2401,8 +2409,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "#",
+                    "title": "SONYLIV [ENG] - ASIA",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784874085~acl=/*~id=58116340823589012855839637291198~hmac=10bbbe5f5f5249f912d632680305854a7461c3d6fd908006337b5e9c6efb729e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [HIN] - ASIA",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784874085~acl=/*~id=58116340823589012855839637291198~hmac=10bbbe5f5f5249f912d632680305854a7461c3d6fd908006337b5e9c6efb729e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TAM] - ASIA",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784874085~acl=/*~id=58116340823589012855839637291198~hmac=10bbbe5f5f5249f912d632680305854a7461c3d6fd908006337b5e9c6efb729e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TEL] - ASIA",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784874085~acl=/*~id=58116340823589012855839637291198~hmac=10bbbe5f5f5249f912d632680305854a7461c3d6fd908006337b5e9c6efb729e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [KAN] - ASIA",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784874085~acl=/*~id=58116340823589012855839637291198~hmac=10bbbe5f5f5249f912d632680305854a7461c3d6fd908006337b5e9c6efb729e",
                     "logo": "",
                     "type": 0,
                     "api": "",

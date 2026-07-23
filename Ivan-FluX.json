@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:50:57 PM 23-07-2026",
+    "Last update time": "09:55:42 PM 23-07-2026",
     "Live": "00",
-    "Upcoming": "35",
+    "Upcoming": "44",
     "Finish": "00",
     "events": [
         {
@@ -1158,8 +1158,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://admin2.formaturamaxi.com.br/mlb13.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "MLB SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/53660/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1770,6 +1786,249 @@
                 {
                     "title": "SD+ SERVER",
                     "link": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=612ddb3f4d2952258edbf48a2d5170aa&txTime=6a628aa3",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1959,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sheriff",
+                "teamB": "M. Tel-Aviv",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5173/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5198/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 17:00:00 +0000",
+                "endTime": "2026/07/23 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1960,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tromsø",
+                "teamB": "Hradec Králové",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/660/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2217/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 17:00:00 +0000",
+                "endTime": "2026/07/23 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1961,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Twente",
+                "teamB": "Ferencváros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 18:00:00 +0000",
+                "endTime": "2026/07/23 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1962,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hajduk",
+                "teamB": "Pafos",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2036/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/171626/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 19:00:00 +0000",
+                "endTime": "2026/07/23 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1963,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hammarby",
+                "teamB": "Anderlecht",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1758/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2900/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 17:00:00 +0000",
+                "endTime": "2026/07/23 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1964,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Dynamo Kyiv",
+                "teamB": "PAOK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3305/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3251/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 17:00:00 +0000",
+                "endTime": "2026/07/23 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1965,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Beşiktaş",
+                "teamB": "Midtjylland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1289/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 18:00:00 +0000",
+                "endTime": "2026/07/23 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1966,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "St. Gallen",
+                "teamB": "Benfica",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2442/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 18:00:00 +0000",
+                "endTime": "2026/07/23 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1967,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Qarabağ",
+                "teamB": "CSKA Sofia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5962/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3275/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 16:00:00 +0000",
+                "endTime": "2026/07/23 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

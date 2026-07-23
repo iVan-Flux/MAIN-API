@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:10:51 PM 23-07-2026",
+    "Last update time": "04:15:49 PM 23-07-2026",
     "Live": "00",
     "Upcoming": "30",
     "Finish": "00",
@@ -26,11 +26,11 @@
             },
             "channels_data": [
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://no.link",
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://www.primevideo.com&user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
                     "tokenApi": ""
                 },
                 {
@@ -42,6 +42,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FANCODE - ALT",
+                    "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TAPMAD FHD",
                     "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com",
                     "logo": "",
@@ -50,16 +58,16 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ALT",
-                    "link": "d",
+                    "title": "FANCODE SD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|Origin=https://www.primevideo.com&user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
                     "tokenApi": ""
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "y",
+                    "link": "http://193.47.62.41/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -68,30 +76,6 @@
                 {
                     "title": "SKY SPORT NZ",
                     "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONY TEN 1 - IN",
-                    "link": "x",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONY TEN 3 - IN",
-                    "link": "x",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONY TEN 4 - IN",
-                    "link": "d",
                     "logo": "",
                     "type": 0,
                     "api": "",

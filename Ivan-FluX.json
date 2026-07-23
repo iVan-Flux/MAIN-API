@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:05:48 PM 23-07-2026",
+    "Last update time": "07:10:55 PM 23-07-2026",
     "Live": "00",
     "Upcoming": "30",
     "Finish": "00",
@@ -946,8 +946,56 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-V3/master.m3u8?hdnea=exp=1784756002~acl=/*~id=01d7cb8efe80bd31ab0c0ae6a6d3175b-1784712737570-180820105164192310~hmac=aabe24ba3b5f5ca6a2e1a7eb7337660c8811f71ad4562addd0f9ffdf1fbf3ab9",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

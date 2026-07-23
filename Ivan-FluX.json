@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:20:52 PM 23-07-2026",
+    "Last update time": "09:25:44 PM 23-07-2026",
     "Live": "00",
-    "Upcoming": "31",
+    "Upcoming": "35",
     "Finish": "00",
     "events": [
         {
@@ -1417,6 +1417,114 @@
                     "logo": "",
                     "type": 0,
                     "api": "89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1955,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "FC Malisheva",
+                "teamB": "Hibernian",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/325494/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 14:30:00 +0000",
+                "endTime": "2026/07/23 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1956,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Panevėžys",
+                "teamB": "Tobol",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/192763/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5362/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 15:30:00 +0000",
+                "endTime": "2026/07/23 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1957,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Liepāja",
+                "teamB": "Austria Wien",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/146336/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2203/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 15:00:00 +0000",
+                "endTime": "2026/07/23 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1958,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Alashkert",
+                "teamB": "CFR Cluj",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/67966/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5287/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 15:00:00 +0000",
+                "endTime": "2026/07/23 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

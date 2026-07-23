@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:35:52 PM 23-07-2026",
+    "Last update time": "09:40:53 PM 23-07-2026",
     "Live": "00",
     "Upcoming": "35",
     "Finish": "00",
@@ -1640,8 +1640,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.43/hls/vaaaaQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4590872.m3u8?txSecret=55f1ccd1ad9955ffed652a40134618be&txTime=6A637940",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE+ SERVER",
+                    "link": "https://play.streamgoaldaddy.com/live/55134927182986a5.m3u8?wsSecret=826E01EFF88C5D78EDA401C3D10BFEAE&wsTime=1784821296|Referer=https://www.goaldaddyth.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/alashkert-cfrcluj-c3qual/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FLV SERVER",
+                    "link": "https://flv.lauthaitv.cc/live/alashkert-cfrcluj-c3qual.flv",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD+ SERVER",
+                    "link": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=612ddb3f4d2952258edbf48a2d5170aa&txTime=6a628aa3",
                     "logo": "",
                     "type": 0,
                     "api": "",

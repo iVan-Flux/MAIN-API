@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:05:43 PM 23-07-2026",
+    "Last update time": "12:10:50 PM 23-07-2026",
     "Live": "00",
-    "Upcoming": "16",
+    "Upcoming": "27",
     "Finish": "00",
     "events": [
         {
@@ -474,8 +474,8 @@
                 "eventName": "AEW Dynamite",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/23 00:00:00 +0000",
-                "endTime": "2026/07/23 04:00:00 +0000"
+                "startTime": "2026/07/30 00:00:00 +0000",
+                "endTime": "2026/07/30 04:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -796,6 +796,303 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/23 14:00:00 +0000",
                 "endTime": "2026/07/23 18:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1938,
+            "title": "The Hundred Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "LNS-W",
+                "teamB": "MSG-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377203/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377201/image",
+                "eventName": "The Hundred Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 13:45:00 +0000",
+                "endTime": "2026/07/23 18:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1939,
+            "title": "The Hundred",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "LNS",
+                "teamB": "MSG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+                "eventName": "The Hundred",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 17:30:00 +0000",
+                "endTime": "2026/07/23 22:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1940,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Braves",
+                "teamB": "Padres",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 16:15:00 +0000",
+                "endTime": "2026/07/23 19:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1941,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Tigers",
+                "teamB": "Royals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 22:40:00 +0000",
+                "endTime": "2026/07/24 01:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1942,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Blue Jays",
+                "teamB": "Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 19:07:00 +0000",
+                "endTime": "2026/07/23 22:07:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1943,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Cardinals",
+                "teamB": "Diamondbacks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 21:15:00 +0000",
+                "endTime": "2026/07/24 00:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1944,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Guardians",
+                "teamB": "Twins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 17:10:00 +0000",
+                "endTime": "2026/07/23 20:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1945,
+            "title": "CFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Saskatchewan",
+                "teamB": "Edmonton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+                "eventName": "CFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 01:00:00 +0000",
+                "endTime": "2026/07/24 04:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1946,
+            "title": "AFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+            "cat": "Aussie rules",
+            "eventInfo": {
+                "teamA": "Melbourne",
+                "teamB": "Geelong",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4456/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4443/image",
+                "eventName": "AFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 09:40:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1947,
+            "title": "AFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+            "cat": "Aussie rules",
+            "eventInfo": {
+                "teamA": "Fremantle",
+                "teamB": "West Coast",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4452/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4449/image",
+                "eventName": "AFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 10:10:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1948,
+            "title": "AFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+            "cat": "Aussie rules",
+            "eventInfo": {
+                "teamA": "Adelaide",
+                "teamB": "Collingwood",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4442/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4448/image",
+                "eventName": "AFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 09:30:00 +0000",
+                "endTime": "  +0000"
             },
             "channels_data": [
                 {

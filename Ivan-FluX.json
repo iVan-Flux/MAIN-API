@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:49:38 PM 23-07-2026",
+    "Last update time": "11:50:51 PM 23-07-2026",
     "Live": "00",
-    "Upcoming": "45",
+    "Upcoming": "46",
     "Finish": "00",
     "events": [
         {
@@ -2376,6 +2376,33 @@
                 {
                     "title": "Ivan-FluX",
                     "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1971,
+            "title": "commonwealth games 2026 ",
+            "image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
+            "cat": "box",
+            "eventInfo": {
+                "teamA": "OPENING CEREMONY",
+                "teamB": "OPENING CEREMONY",
+                "teamAFlag": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
+                "teamBFlag": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg",
+                "eventName": "commonwealth games 2026 ",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/23 18:00:00 +0000",
+                "endTime": "2026/07/24 00:31:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "#",
                     "logo": "",
                     "type": 0,
                     "api": "",

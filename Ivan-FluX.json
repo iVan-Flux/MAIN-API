@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:40:53 PM 23-07-2026",
+    "Last update time": "09:45:55 PM 23-07-2026",
     "Live": "00",
     "Upcoming": "35",
     "Finish": "00",
@@ -1417,6 +1417,46 @@
                     "logo": "",
                     "type": 0,
                     "api": "89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇮🇳",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇧🇩",
+                    "link": "https://bd-mc-flive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784900223~_GO=Generated~acl=/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/*~Signature=AeouRp5dHrhKdgPl7WKKvqbgmTcxXZRW1OI1HUsY_m3hEtCMLozSlG8cYH9ptZ1k_4jYIKtM6c-q5yC9v4RncGDqqNgL",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇳🇵",
+                    "link": "https://np-mc-flive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784900223~_GO=Generated~acl=/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/*~Signature=AeouRp5dHrhKdgPl7WKKvqbgmTcxXZRW1OI1HUsY_m3hEtCMLozSlG8cYH9ptZ1k_4jYIKtM6c-q5yC9v4RncGDqqNgL",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇱🇰",
+                    "link": "https://lk-mc-flive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784900223~_GO=Generated~acl=/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/*~Signature=AeouRp5dHrhKdgPl7WKKvqbgmTcxXZRW1OI1HUsY_m3hEtCMLozSlG8cYH9ptZ1k_4jYIKtM6c-q5yC9v4RncGDqqNgL",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW SD",
+                    "link": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ4Mzc1Njc0MjQ6Y2RubGl2ZXR2LnR2OjhmMWFiZTdjNWQxMmZjYzUuYWI4NGJmMzY2ODM3ZDE0MWE2NTg4YWIxY2MwMTJlMTkzYmJlOTU1NzY5NGViNzgwZDBjNjIyNDhhYTc1MmZmZA",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:10:53 PM 23-07-2026",
+    "Last update time": "11:15:54 PM 23-07-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -1036,6 +1036,22 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.43/hls/vaaaa.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf223/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjIzOjE3ODQ4NDI4MzY1NTc6Y2RubGl2ZXR2LnR2OmZlYjg2M2U5ZGJmZjA1ZTYuOTI3N2Q0OTY0MWQxMzkwYTUzODFmMTBjZGQ4MmZhYTg1ZjA0MGFhMTBmODIxZTliN2FjNmQ1ZjBkZWU4Y2U5NA",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICBUZZ SD",
+                    "link": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf242/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjQyOjE3ODQ4NDI4OTc3MTc6Y2RubGl2ZXR2LnR2OjNiODI1ODE1MDc1MTYxODYuMjNlZmZiMzhjYzI5ZjljODU5MWRiYmUxMTJiY2Q4YjJlYTgzMjE4YzNjNGYzOTU3YmY2ZTg0ODE0N2NmMDVlMA",
                     "logo": "",
                     "type": 0,
                     "api": "",

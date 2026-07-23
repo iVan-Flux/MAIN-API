@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:40:53 PM 23-07-2026",
+    "Last update time": "10:45:53 PM 23-07-2026",
     "Live": "00",
     "Upcoming": "44",
     "Finish": "00",
@@ -1959,8 +1959,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.51/hls/TPPPQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4556485.m3u8?txSecret=b35472ffa0f0efdbc920df8c7e223575&txTime=6A639381",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/hammarby-anderlecht-c2qual/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FLV SERVER",
+                    "link": "https://flv.lauthaitv.cc/live/hammarby-anderlecht-c2qual.flv",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD+ SERVER",
+                    "link": "https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=fde0fcf0341d93e84dd1a551a312663a&txTime=6a629967",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=3d4793a09d95373abe4b2c076a5c7109&txTime=6a629967",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1986,8 +2026,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.51/hls/TPPP.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4589353.m3u8?txSecret=5f2861d079d8067be471ed9bf507f153&txTime=6A639470",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/dynamokyiv-paok-c2qual/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOV SERVER",
+                    "link": "https://flv.lauthaitv.cc/live/dynamokyiv-paok-c2qual.flv",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD+ SERVER",
+                    "link": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1784828695-0-0-ab37bc75b3a7d043bd89b75ad0260d51",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1784828695-0-0-f3c72b1aeeccd9a8cb2e7e95c6d9ba5a",
                     "logo": "",
                     "type": 0,
                     "api": "",

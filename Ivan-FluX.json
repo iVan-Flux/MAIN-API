@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:35:46 PM 23-07-2026",
+    "Last update time": "11:40:50 PM 23-07-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -1875,8 +1875,56 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.54/hls/IRRRA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://play.streamgoaldaddy.com/live/a8d33465a5e5b3fc.m3u8?wsSecret=D52B7BDCAED5C2EE4E5228FF31DF1E38&wsTime=1784829558|Referer=https://www.goaldaddyth.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4589354.m3u8?txSecret=264bf1b361854dbc21291f2f5c2b3bc3&txTime=6A639FB1",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/enschede-ferenc-c2qual/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FLV SERVER",
+                    "link": "https://flv.lauthaitv.cc/live/enschede-ferenc-c2qual.flv",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD+ SERVER",
+                    "link": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=d0041fbf06f5a4f2996264c4ffa30ce7&txTime=6a62aa47",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1784833015-0-0-116f8fb0fdd3d678b431f2b1e4dad5ba",
                     "logo": "",
                     "type": 0,
                     "api": "",

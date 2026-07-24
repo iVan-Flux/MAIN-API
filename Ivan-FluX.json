@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:40:50 PM 24-07-2026",
+    "Last update time": "07:45:43 PM 24-07-2026",
     "Live": "00",
-    "Upcoming": "61",
+    "Upcoming": "59",
     "Finish": "00",
     "events": [
         {
@@ -784,68 +784,6 @@
             ]
         },
         {
-            "id": 1946,
-            "title": "AFL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-            "cat": "Aussie rules",
-            "eventInfo": {
-                "teamA": "Melbourne",
-                "teamB": "Geelong",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4456/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4443/image",
-                "eventName": "AFL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/24 09:40:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TNT SPORTS HD",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/ZLLLQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1947,
-            "title": "AFL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-            "cat": "Aussie rules",
-            "eventInfo": {
-                "teamA": "Fremantle",
-                "teamB": "West Coast",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4452/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4449/image",
-                "eventName": "AFL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/24 10:10:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/ZLLLQQQ.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 1953,
             "title": "Global Super League, T20",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10",
@@ -1029,6 +967,46 @@
                 {
                     "title": "SKY CRICKET FHD",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784922660~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708120269c5f43e02ffcd920a27b1301ae83a3d039e62575ba2cf32a86e023b3",
                     "logo": "",
                     "type": 0,
                     "api": "",

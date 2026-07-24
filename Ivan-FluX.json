@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:55:46 PM 24-07-2026",
+    "Last update time": "03:01:10 PM 24-07-2026",
     "Live": "00",
-    "Upcoming": "45",
+    "Upcoming": "59",
     "Finish": "00",
     "events": [
         {
@@ -1686,6 +1686,392 @@
                 "teamB": "Sundowns",
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/7665/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 16:00:00 +0000",
+                "endTime": "2026/07/24 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2003,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Swansea",
+                "teamB": "Udinese",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 11:00:00 +0000",
+                "endTime": "2026/07/24 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2004,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Derby",
+                "teamB": "Freiburg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 14:00:00 +0000",
+                "endTime": "2026/07/24 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2005,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Como",
+                "teamB": "Paris",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 08:30:00 +0000",
+                "endTime": "2026/07/24 10:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4594205.m3u8?txSecret=6fc5e9a9d0906c73223eacf2cd174819&txTime=6A633793|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/ziii.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2006,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wolfsburg",
+                "teamB": "Lyon",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 12:00:00 +0000",
+                "endTime": "2026/07/24 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2007,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kasımpaşa",
+                "teamB": "Gençlerbirliği",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7802/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 12:00:00 +0000",
+                "endTime": "2026/07/24 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2008,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cambuur",
+                "teamB": "Utrecht",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2970/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 10:00:00 +0000",
+                "endTime": "2026/07/24 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2009,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cremonese",
+                "teamB": "Giana",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/117232/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 16:00:00 +0000",
+                "endTime": "2026/07/24 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2010,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bournemouth",
+                "teamB": "St. Pauli",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 14:00:00 +0000",
+                "endTime": "2026/07/24 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2011,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Groningen",
+                "teamB": "Volendam",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2968/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 12:00:00 +0000",
+                "endTime": "2026/07/24 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2012,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Heracles",
+                "teamB": "Excelsior",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2977/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 16:30:00 +0000",
+                "endTime": "2026/07/24 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2013,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Eyüpspor",
+                "teamB": "İstanbulspor",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3066/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 15:00:00 +0000",
+                "endTime": "2026/07/24 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2014,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Benfica",
+                "teamB": "Belenenses",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/370446/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 17:00:00 +0000",
+                "endTime": "2026/07/24 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2015,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Rosenborg",
+                "teamB": "Man Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1161/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/24 16:00:00 +0000",
+                "endTime": "2026/07/24 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2016,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Le Havre",
+                "teamB": "Red Star",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/52874/image",
                 "eventName": "Club Friendly Games",
                 "isHot": "0",
                 "Status": "Upcoming",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:31:14 PM 24-07-2026",
+    "Last update time": "11:35:39 PM 24-07-2026",
     "Live": "00",
     "Upcoming": "60",
     "Finish": "00",
@@ -2363,7 +2363,15 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
+                    "title": "HD SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4592416.m3u8?txSecret=dafa58cee5cbf9557fc55c0f4fd0e233&txTime=6A64F401",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
                     "link": "http://193.47.62.43/hls/ILLLAAqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:45:50 PM 24-07-2026",
+    "Last update time": "09:51:26 PM 24-07-2026",
     "Live": "00",
-    "Upcoming": "58",
+    "Upcoming": "56",
     "Finish": "00",
     "events": [
         {
@@ -1728,8 +1728,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4594326.m3u8?txSecret=837c6580f1d401d3254c60351001d2d5&txTime=6A64DD81|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/FFFF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1889,33 +1897,6 @@
             ]
         },
         {
-            "id": 2009,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Cremonese",
-                "teamB": "Giana",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/117232/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/24 16:00:00 +0000",
-                "endTime": "2026/07/24 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 2010,
             "title": "Club Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
@@ -2022,35 +2003,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.56/hls/kkkk.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2016,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Le Havre",
-                "teamB": "Red Star",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/52874/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/24 16:00:00 +0000",
-                "endTime": "2026/07/24 18:20:00 +0000"
-            },
-            "channels_data": [
+                },
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FANCODE 🇮🇳",
+                    "link": "https://paste.centos.org/view/raw/03c87627#.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇧🇩",
+                    "link": "https://paste.centos.org/view/raw/ac437bad#.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇱🇰",
+                    "link": "https://paste.centos.org/view/raw/096033a0#.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇳🇵",
+                    "link": "https://paste.centos.org/view/raw/78564378#.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

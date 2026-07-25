@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:35:42 PM 25-07-2026",
+    "Last update time": "10:40:50 PM 25-07-2026",
     "Live": "00",
     "Upcoming": "81",
     "Finish": "00",
@@ -1858,8 +1858,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/53782/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD+ SERVER",
+                    "link": "https://admin2.formaturamaxi.com.br/mlb.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2878,8 +2894,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.190/hls/llllQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2905,8 +2921,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.190/hls/llllQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2932,11 +2948,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "beiN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX DEPORTES FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
                     "tokenApi": ""
                 }
             ]

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:15:48 PM 25-07-2026",
+    "Last update time": "02:20:49 PM 25-07-2026",
     "Live": "00",
-    "Upcoming": "44",
+    "Upcoming": "45",
     "Finish": "00",
     "events": [
         {
@@ -1704,6 +1704,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/25 12:00:00 +0000",
                 "endTime": "2026/07/25 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2046,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Girona",
+                "teamB": "Alavés",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/25 08:30:00 +0000",
+                "endTime": "2026/07/25 10:50:00 +0000"
             },
             "channels_data": [
                 {

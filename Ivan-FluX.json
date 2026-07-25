@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:31:17 PM 25-07-2026",
+    "Last update time": "09:35:42 PM 25-07-2026",
     "Live": "00",
-    "Upcoming": "62",
+    "Upcoming": "63",
     "Finish": "00",
     "events": [
         {
@@ -2269,8 +2269,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.190/hls/CPPPQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2325,6 +2325,41 @@
                 {
                     "title": "Ivan-FluX",
                     "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2087,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Konyaspor",
+                "teamB": "Hull",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/25 15:30:00 +0000",
+                "endTime": "2026/07/25 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4595950.m3u8?txSecret=f72b7bfbfce4bd2d9e5f4b98a68e96b0&txTime=6A662708",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.190/hls/HMMMQQQq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

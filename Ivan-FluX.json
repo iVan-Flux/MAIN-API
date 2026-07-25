@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:40:45 PM 25-07-2026",
+    "Last update time": "04:45:46 PM 25-07-2026",
     "Live": "00",
     "Upcoming": "48",
     "Finish": "00",
@@ -25,6 +25,22 @@
                 "endTime": "2026/07/25 16:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FANCODE [ENG] 🇮🇳",
+                    "link": "https://dai-fancode.pages.dev/mumbai/143352_english_hls_cd4f806e1b92407_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE HIN 🇮🇳",
+                    "link": "https://dai-fancode.pages.dev/mumbai/143352_hindi_hls_ac18250e3545689_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "TAPMAD FHD",
                     "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com",
@@ -59,11 +75,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE - BD",
-                    "link": "https://bd-mc-flive.fancode.com/mumbai/143352_english_dash_92407_1drmta-di_h264/index.mpd",
+                    "title": "FANCODE [HIN]- BD",
+                    "link": "https://bd-mc-flive.fancode.com/mumbai/143352_hindi_dash_45689_1drmta-di_h264/index.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "7148e4d133694c9e9720a1bac7159093:18d187fd131b82a360917f56da3e98d4",
+                    "api": "87e80af08df44d1184a37a449b814978:85633aaa416821e65278dcc980066447",
                     "tokenApi": ""
                 },
                 {
@@ -1288,8 +1304,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SONYLIV [ENG]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785020575~acl=/*~id=43687610650033521374727079804651~hmac=5ff82635e55cb5410031ab21faaffae07008e22fa83930bd831c008b904d1de6",
                     "logo": "",
                     "type": 0,
                     "api": "",

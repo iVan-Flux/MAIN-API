@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:20:51 AM 26-07-2026",
+    "Last update time": "03:25:42 AM 26-07-2026",
     "Live": "00",
-    "Upcoming": "84",
+    "Upcoming": "85",
     "Finish": "00",
     "events": [
         {
@@ -3144,12 +3144,38 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FANTIZ HD",
+                    "link": "https://streamx488.sbs/global1.php?channel=fanatiz9",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
+                    "tokenApi": {
+                        "url": "https://streamx488.sbs/global1.php?channel=fanatiz9",
+                        "api": "https://streamx488.sbs/global1.php?channel=fanatiz9",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "AMAZON HD",
+                    "link": "https://streamx488.sbs/global1.php?channel=amazon1",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "https://streamx488.sbs/global1.php?channel=amazon1",
+                        "api": "https://streamx488.sbs/global1.php?channel=amazon1",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -3212,6 +3238,42 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2109,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Liverpool",
+                "teamB": "Sunderland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/25 22:00:00 +0000",
+                "endTime": "2026/07/26 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "AMAZON HD",
+                    "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free",
+                        "api": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         }

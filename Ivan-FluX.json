@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:35:38 PM 25-07-2026",
+    "Last update time": "07:40:49 PM 25-07-2026",
     "Live": "00",
-    "Upcoming": "65",
+    "Upcoming": "55",
     "Finish": "00",
     "events": [
         {
@@ -1283,370 +1283,6 @@
             ]
         },
         {
-            "id": 2017,
-            "title": "NRL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-            "cat": "Rugby",
-            "eventInfo": {
-                "teamA": "Canterbury",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4253/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4267/image",
-                "eventName": "NRL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 07:30:00 +0000",
-                "endTime": "2026/07/25 09:10:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2019,
-            "title": "NRL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-            "cat": "Rugby",
-            "eventInfo": {
-                "teamA": "Cowboys",
-                "teamB": "Broncos",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4257/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image",
-                "eventName": "NRL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 09:35:00 +0000",
-                "endTime": "2026/07/25 11:15:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2026,
-            "title": "ICC CWC League 2",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "NAM",
-                "teamB": "NED",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187840/image",
-                "eventName": "ICC CWC League 2",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 09:00:00 +0000",
-                "endTime": "2026/07/25 13:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "ICC TV FHD",
-                    "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784997933~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=804b78e466db0d03199c75cb9e1580ad5c32ab10d97e245f9fdc63eecb2aa4f2/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2027,
-            "title": "Calcutta Premier Division",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Calcutta Customs",
-                "teamB": "Kidderpore SC",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/264307/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/296265/image",
-                "eventName": "Calcutta Premier Division",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 09:30:00 +0000",
-                "endTime": "2026/07/25 11:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://live-n10.videostech.cloud/match/calcuttacustomsclubvsluxurylivingkidderporesportingclub/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2028,
-            "title": "Calcutta Premier Division",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Kalighat MS",
-                "teamB": "Sangbad Pratidin Bhawanipore",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/294591/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/296264/image",
-                "eventName": "Calcutta Premier Division",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 09:30:00 +0000",
-                "endTime": "2026/07/25 11:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://live-n10.videostech.cloud/match/kalighatmilansanghavsspbhawaniporefc/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2029,
-            "title": "Calcutta Premier Division",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "George Telegraph FC",
-                "teamB": "Patha Chakra",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/271460/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/294069/image",
-                "eventName": "Calcutta Premier Division",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 09:30:00 +0000",
-                "endTime": "2026/07/25 11:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live-n10.videostech.cloud/match/tamlukkhelaghargeorgetelegraphscvsmamonigrouppathachakra/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2030,
-            "title": "Calcutta Premier Division",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Bidhannagar Msa",
-                "teamB": "Railway FC",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1247322/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1116516/image",
-                "eventName": "Calcutta Premier Division",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 09:30:00 +0000",
-                "endTime": "2026/07/25 11:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://live-n10.videostech.cloud/match/bidhannagarmsavsrailwayfc/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2033,
-            "title": "Durand Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "East Bengal",
-                "teamB": "Mohun Bagan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/370834/image",
-                "eventName": "Durand Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 11:30:00 +0000",
-                "endTime": "2026/07/25 13:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SONYLIV [ENG] - ASIA",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785020575~acl=/*~id=43687610650033521374727079804651~hmac=5ff82635e55cb5410031ab21faaffae07008e22fa83930bd831c008b904d1de6",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV FHD 🇮🇳",
-                    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Six_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1784975996~exp=1784997596~acl=/bpk-tv/Six_HD_BTS/WDVLive/*~hmac=0aff68647123e05c1300733d746d782ee03c1607f3414e9d4bfcc0c034774d3d",
-                    "logo": "",
-                    "type": 0,
-                    "api": "233d5f64b5b1547dae38f5a8b0b85efa:3b000618435f702db7d9910d8265584a",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2037,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "HSV",
-                "teamB": "Heidenheim",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 11:30:00 +0000",
-                "endTime": "2026/07/25 13:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "http://193.47.62.41/hls/joooqqQQ.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2039,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Fortuna",
-                "teamB": "Dortmund",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2588/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 11:00:00 +0000",
-                "endTime": "2026/07/25 13:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "beiN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/jooo.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER+",
-                    "link": "http://162.251.160.53:8089/SATFOT1/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2040,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Gateshead",
-                "teamB": "Newcastle",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/157/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 11:30:00 +0000",
-                "endTime": "2026/07/25 13:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "http://193.47.62.41/hls/EEGRGRQ.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD+ SERVER",
-                    "link": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2046,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Girona",
-                "teamB": "Alavés",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/25 08:30:00 +0000",
-                "endTime": "2026/07/25 10:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/EGGGQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD [USE VPN]",
-                    "link": "http://193.47.62.41/hls/EGGGQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 2047,
             "title": "Club Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
@@ -2441,6 +2077,60 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/25 23:00:00 +0000",
                 "endTime": "2026/07/26 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2076,
+            "title": "NRL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+            "cat": "Rugby",
+            "eventInfo": {
+                "teamA": "St. George Illawarra",
+                "teamB": "Gold Coast",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4265/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7313/image",
+                "eventName": "NRL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/26 04:00:00 +0000",
+                "endTime": "2026/07/26 05:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2077,
+            "title": "NRL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+            "cat": "Rugby",
+            "eventInfo": {
+                "teamA": "Manly",
+                "teamB": "Cronulla",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4259/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
+                "eventName": "NRL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/26 06:05:00 +0000",
+                "endTime": "2026/07/26 07:45:00 +0000"
             },
             "channels_data": [
                 {

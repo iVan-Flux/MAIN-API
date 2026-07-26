@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:39 AM 26-07-2026",
+    "Last update time": "07:31:22 AM 26-07-2026",
     "Live": "00",
-    "Upcoming": "86",
+    "Upcoming": "88",
     "Finish": "00",
     "events": [
         {
@@ -2904,8 +2904,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "Link 1",
+                    "link": "http://193.47.62.194/hls/TQQQAQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3090,8 +3090,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "Link 1",
+                    "link": "http://193.47.62.194/hls/DGGGGQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3144,8 +3144,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "Link 1",
+                    "link": "http://193.47.62.194/hls/DGGGG.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3552,6 +3552,60 @@
                         "request_body_type": "text",
                         "ip_api": "https://api.ipify.org/"
                     }
+                }
+            ]
+        },
+        {
+            "id": 2111,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Santos",
+                "teamB": "Atlas",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1949/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/26 03:00:00 +0000",
+                "endTime": "2026/07/26 05:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2112,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tigres",
+                "teamB": "San Luis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/26 03:00:00 +0000",
+                "endTime": "2026/07/26 05:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         }

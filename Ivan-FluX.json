@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:40:46 PM 26-07-2026",
+    "Last update time": "04:45:50 PM 26-07-2026",
     "Live": "00",
     "Upcoming": "55",
     "Finish": "00",
@@ -26,6 +26,22 @@
             },
             "channels_data": [
                 {
+                    "title": "LIVE SERVER FHD",
+                    "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/phVL6BPv_LhNCyUt0PDp8K0gTaoXM7pb7WFbt5DOaVuLQ1l4KhP9CONWvchJWk99V0nNQ6-oqorVDl5wT5ve3A/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live|referer=https://pscp.tv",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FANCODE [ENG] 🇮🇳",
                     "link": "https://in-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd",
                     "logo": "",
@@ -34,15 +50,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE ENG 🇧🇩",
-                    "link": "https://bd-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d271bd6480344bf5938574325cbbfcd7:88b68ebb9588d70ecef11f28c5099205",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE HINDI 🇮🇳",
+                    "title": "FANCODE [HIN] 🇮🇳",
                     "link": "https://in-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd",
                     "logo": "",
                     "type": 0,
@@ -58,8 +66,33 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "KAYO ENGLISH",
+                    "link": "https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-155/i8tu-5ykc/chunklist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER HD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://smartcric.ch/live/india-vs-zimbabwe-live-streaming",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
                     "title": "FANCODE [HIN] - IN",
-                    "link": "https://livecf.fancode.com/143353_hindi_hls_43373ac75166824_1ta-di_h264/index.m3u8",
+                    "link": "https://in-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/&drmScheme=clearkey&drmLicense=c108e7b44a1d4e65bd9edf19b46e5ec1:8dca625e57fa0b4c71e991016373eee4",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -67,7 +100,7 @@
                 },
                 {
                     "title": "FANCODE [ENG] - IN",
-                    "link": "https://livecf.fancode.com/143353_english_hls_63ced2230f71145_1ta-di_h264/index.m3u8",
+                    "link": "https://in-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/&drmScheme=clearkey&drmLicense=d271bd6480344bf5938574325cbbfcd7:88b68ebb9588d70ecef11f28c5099205",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -82,8 +115,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "UNITE8 HINDI 🇮🇳",
-                    "link": "https://vsd262.okcdn.ru/cmaf/18148930357767/sig/eYwCA6mY9NA/expires/1784886855882/srcIp/66.78.59.15/urls/178.237.29.13/clientType/36/srcAg/CHROME/mid/15665985898247/get/hls_15665985898247.El4GwuQfJW0.m3u8",
+                    "title": "HOTSTAR - IN",
+                    "link": "https://www.hotstar.com/ca/sports/cricket/zimbabwe-vs-india-3rd-t20i/1540074365/video/live/watch",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -91,26 +124,10 @@
                 },
                 {
                     "title": "TAPMAD FHD - PK",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE HINDI 🇧🇩",
-                    "link": "https://bd-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c108e7b44a1d4e65bd9edf19b46e5ec1:8dca625e57fa0b4c71e991016373eee4",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE HINDI 🇳🇵",
-                    "link": "https://np-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c108e7b44a1d4e65bd9edf19b46e5ec1:8dca625e57fa0b4c71e991016373eee4",
                     "tokenApi": ""
                 }
             ]

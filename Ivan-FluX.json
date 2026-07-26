@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:20:51 PM 26-07-2026",
+    "Last update time": "07:25:41 PM 26-07-2026",
     "Live": "00",
     "Upcoming": "55",
     "Finish": "00",
@@ -780,10 +780,34 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m14q6di0dr/out/v1/7a352d1daed04ebba98507e14081d8b6/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "84417eca78ea581d939c2727a93ff140:f7d946779c6fdbcbd784944a3bbcf5f8",
+                    "api": "42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇮🇳",
+                    "link": "https://livecf.fancode.com/4247431_english_hls_2e615b273261719_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇧🇩",
+                    "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/san_francisco_unicorns_vs_perth_scorchers_xi_4247431_english.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -792,46 +816,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m14q6di0dr/out/v1/7a352d1daed04ebba98507e14081d8b6/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "84417eca78ea581d939c2727a93ff140:f7d946779c6fdbcbd784944a3bbcf5f8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇮🇳",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇧🇩",
-                    "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇳🇵",
-                    "link": "https://np-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW SD",
-                    "link": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3ODQ4Mzc1Njc0MjQ6Y2RubGl2ZXR2LnR2OjhmMWFiZTdjNWQxMmZjYzUuYWI4NGJmMzY2ODM3ZDE0MWE2NTg4YWIxY2MwMTJlMTkzYmJlOTU1NzY5NGViNzgwZDBjNjIyNDhhYTc1MmZmZA",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -1098,8 +1082,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ar5vpxijr/out/v1/679fbcd854064c98b175d2efe064b7cc/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d8575cbe0b673985c268bcc0c68b6d45:175e263ff54564cfd91c23ee8ee89eda",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ar5vpxijr/out/v1/679fbcd854064c98b175d2efe064b7cc/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d8575cbe0b673985c268bcc0c68b6d45:175e263ff54564cfd91c23ee8ee89eda",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://livecf.fancode.com/4246713_english_hls_17e2efa8db87720_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (BD)",
+                    "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_dambulla_sixers_4246713_english.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

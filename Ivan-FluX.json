@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:25:38 PM 26-07-2026",
+    "Last update time": "03:31:15 PM 26-07-2026",
     "Live": "00",
     "Upcoming": "20",
     "Finish": "00",
@@ -841,11 +841,27 @@
             },
             "channels_data": [
                 {
-                    "title": "SKY CRICKET FHD",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICKET FHD",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f",
                     "tokenApi": ""
                 },
                 {
@@ -875,14 +891,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SonyLiv (Asia)",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784922660~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708120269c5f43e02ffcd920a27b1301ae83a3d039e62575ba2cf32a86e023b3",
                     "logo": "",
                     "type": 0,
                     "api": "",

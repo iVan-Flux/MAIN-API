@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:40:48 PM 27-07-2026",
+    "Last update time": "04:45:47 PM 27-07-2026",
     "Live": "00",
-    "Upcoming": "34",
+    "Upcoming": "44",
     "Finish": "00",
     "events": [
         {
@@ -1259,6 +1259,276 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/27 18:00:00 +0000",
                 "endTime": "2026/07/27 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2044,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hull",
+                "teamB": "Man Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/22 11:30:00 +0000",
+                "endTime": "2026/08/22 13:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2045,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Everton",
+                "teamB": "Crystal Palace",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/22 14:00:00 +0000",
+                "endTime": "2026/08/22 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2046,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ipswich",
+                "teamB": "Sunderland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/22 14:00:00 +0000",
+                "endTime": "2026/08/22 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2047,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brentford",
+                "teamB": "Tottenham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/22 16:30:00 +0000",
+                "endTime": "2026/08/22 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2048,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Man City",
+                "teamB": "Bournemouth",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/23 13:00:00 +0000",
+                "endTime": "2026/08/23 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2049,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brighton",
+                "teamB": "Aston Villa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/23 13:00:00 +0000",
+                "endTime": "2026/08/23 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2050,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Arsenal",
+                "teamB": "Coventry",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/21 19:00:00 +0000",
+                "endTime": "2026/08/21 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2051,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Forest",
+                "teamB": "Leeds",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/22 14:00:00 +0000",
+                "endTime": "2026/08/22 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2052,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Alavés",
+                "teamB": "Getafe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/15 17:30:00 +0000",
+                "endTime": "2026/08/15 19:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2053,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sevilla",
+                "teamB": "Rayo Vallecano",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/15 19:30:00 +0000",
+                "endTime": "2026/08/15 21:50:00 +0000"
             },
             "channels_data": [
                 {

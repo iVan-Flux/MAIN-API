@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:42 AM 27-07-2026",
+    "Last update time": "07:31:22 AM 27-07-2026",
     "Live": "00",
     "Upcoming": "27",
     "Finish": "00",
@@ -780,34 +780,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5yltcsetz/out/v1/3db47bade24140e28c96c1fd4834ef70/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇮🇳",
-                    "link": "https://livecf.fancode.com/4247431_english_hls_2e615b273261719_1ta-di_h264/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 🇧🇩",
-                    "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/san_francisco_unicorns_vs_perth_scorchers_xi_4247431_english.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
+                    "api": "a77dff256bef69d6b6b721c04a5449ba:2e67d9a402dbb469d8e106a61db4f83a",
                     "tokenApi": ""
                 },
                 {
@@ -816,6 +792,38 @@
                     "logo": "",
                     "type": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q5yltcsetz/out/v1/3db47bade24140e28c96c1fd4834ef70/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a77dff256bef69d6b6b721c04a5449ba:2e67d9a402dbb469d8e106a61db4f83a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW SD",
+                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇮🇳",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE 🇧🇩",
+                    "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -947,6 +955,14 @@
                 "endTime": "2026/07/27 02:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53877/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD QUALITY",
                     "link": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",

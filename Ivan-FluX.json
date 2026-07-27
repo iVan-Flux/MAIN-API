@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:50:48 AM 27-07-2026",
+    "Last update time": "07:55:40 AM 27-07-2026",
     "Live": "00",
     "Upcoming": "27",
     "Finish": "00",
@@ -1303,11 +1303,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
+                    "title": "SD SERVER",
                     "link": "http://193.47.62.190/hls/HRRRRQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TUDN USA",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48",
                     "tokenApi": ""
                 }
             ]

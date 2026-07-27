@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:31:20 PM 27-07-2026",
+    "Last update time": "08:35:39 PM 27-07-2026",
     "Live": "00",
     "Upcoming": "51",
     "Finish": "00",
@@ -42,21 +42,12 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LIVE SERVER",
-                    "link": "",
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://smartcric.ch/live/pakistan-vs-west-indies-live-streaming",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
+                    "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
+                    "tokenApi": ""
                 },
                 {
                     "title": "WILLOW SD",
@@ -104,14 +95,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
                     "tokenApi": ""
                 }
             ]

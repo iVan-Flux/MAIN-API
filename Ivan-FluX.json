@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:31:27 AM 29-07-2026",
+    "Last update time": "12:35:48 AM 29-07-2026",
     "Live": "00",
     "Upcoming": "88",
     "Finish": "00",
@@ -2145,6 +2145,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4594023.m3u8?txSecret=7fe544cf5716bcf95c98e0a628a09c9b&txTime=6A69070C|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.46/hls/OTTTQQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2155,6 +2163,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://pul-tenm.gkykp.com/live/sd-1-4594023.m3u8?txSecret=f71b6a4a593d5f7eb6f5798bed3ebd3b&txTime=6A6A3A00",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://hls.live123.fans/live/4594023.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2269,8 +2285,24 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4593994.m3u8?txSecret=8304cd18f3a14023a5ca98cf58882c23&txTime=6A690642|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.42/hls/OTTTQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://hls.live123.fans/live/4593994.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2898,6 +2930,14 @@
                 "endTime": "2026/07/28 20:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4556533.m3u8?txSecret=ec6d96df0032bbcd3e5da28d4f6c7d46&txTime=6A6903FF|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://pul-tenm.gkykp.com/live/sd-1-4556533.m3u8?txSecret=2a6fb2b6ad1b11675a309a547840abfb&txTime=6A6A3280",

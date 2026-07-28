@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:40 PM 28-07-2026",
+    "Last update time": "07:31:21 PM 28-07-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -27,10 +27,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cse2joomlh/out/v1/b5d5b79c707f431682623bc0bba523a4/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
+                    "api": "5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f",
                     "tokenApi": ""
                 },
                 {
@@ -43,10 +43,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cse2joomlh/out/v1/b5d5b79c707f431682623bc0bba523a4/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
+                    "api": "5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f",
                     "tokenApi": ""
                 },
                 {
@@ -67,7 +67,7 @@
                 },
                 {
                     "title": "LOW SERVER",
-                    "link": "http://193.47.62.192/hls/SOOOQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.192/hls/SOOOQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1223,8 +1223,56 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9qzz3zu84c/out/v1/72ca874e2c774b0ba038cd7a3d33dde6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "494d082382d3ef41b1857619bbe27fd7:f5722629661ef2b645d7f87aa46dac3f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9qzz3zu84c/out/v1/72ca874e2c774b0ba038cd7a3d33dde6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "494d082382d3ef41b1857619bbe27fd7:f5722629661ef2b645d7f87aa46dac3f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.42/hls/HFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

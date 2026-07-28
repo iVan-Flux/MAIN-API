@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:35:50 PM 28-07-2026",
+    "Last update time": "11:40:57 PM 28-07-2026",
     "Live": "00",
-    "Upcoming": "83",
+    "Upcoming": "87",
     "Finish": "00",
     "events": [
         {
@@ -2963,6 +2963,114 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://live2.jxa76.com/live/sd-6MwarUqL1BdCgJDvD9.m3u8?txSecret=71fac4204bbcb922d44ca6cab44050ee&txTime=19FAB2CF547",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2115,
+            "title": "Women's Africa Cup of Nations",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Nigeria",
+                "teamB": "Malawi",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7420/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/298498/image",
+                "eventName": "Women's Africa Cup of Nations",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/28 20:00:00 +0000",
+                "endTime": "2026/07/28 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2116,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Santos",
+                "teamB": "UCV",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/249952/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/29 00:30:00 +0000",
+                "endTime": "2026/07/29 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2117,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hearts",
+                "teamB": "Sturm",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2051/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/28 18:45:00 +0000",
+                "endTime": "2026/07/28 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2118,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tigre",
+                "teamB": "Nacional",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3230/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/07/28 22:00:00 +0000",
+                "endTime": "2026/07/29 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

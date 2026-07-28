@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:50:49 AM 28-07-2026",
+    "Last update time": "06:55:44 AM 28-07-2026",
     "Live": "00",
     "Upcoming": "51",
     "Finish": "00",
@@ -639,10 +639,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5yltcsetz/out/v1/3db47bade24140e28c96c1fd4834ef70/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j63vrmdvzq/out/v1/967ab88162da4df987d30ca6d319a0e1/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "a77dff256bef69d6b6b721c04a5449ba:2e67d9a402dbb469d8e106a61db4f83a",
+                    "api": "2362e3bf14adb50a0b1ba098370e0e3c:244ff12a1f95220b55f82d806ed579ea",
                     "tokenApi": ""
                 },
                 {
@@ -651,14 +651,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q5yltcsetz/out/v1/3db47bade24140e28c96c1fd4834ef70/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "a77dff256bef69d6b6b721c04a5449ba:2e67d9a402dbb469d8e106a61db4f83a",
                     "tokenApi": ""
                 },
                 {
@@ -936,6 +928,14 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53885/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
@@ -998,8 +998,24 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53899/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/EFEFEFQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1060,6 +1076,14 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53887/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
@@ -1087,8 +1111,24 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53897/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream3.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/EFEFEF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1176,8 +1216,24 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53895/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/EFEFEFQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1264,6 +1320,14 @@
                 "endTime": "2026/07/28 01:40:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53881/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:20:58 PM 28-07-2026",
+    "Last update time": "07:25:40 PM 28-07-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -713,8 +713,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/efdkd1x3jo/out/v1/d04063e0c3ba4e63a6efa8c62a940bf7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0c9eb696a9eb04a3ff57e9d982b80d3e:24acd92a160f3e8cc26514b9696daa84",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/efdkd1x3jo/out/v1/d04063e0c3ba4e63a6efa8c62a940bf7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0c9eb696a9eb04a3ff57e9d982b80d3e:24acd92a160f3e8cc26514b9696daa84",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://livecf.fancode.com/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (BD)",
+                    "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

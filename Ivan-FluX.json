@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:11:00 PM 29-07-2026",
+    "Last update time": "10:15:52 PM 29-07-2026",
     "Live": "00",
-    "Upcoming": "77",
+    "Upcoming": "75",
     "Finish": "00",
     "events": [
         {
@@ -1397,33 +1397,6 @@
             ]
         },
         {
-            "id": 2123,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Offenbach",
-                "teamB": "Stuttgart",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2586/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/29 16:30:00 +0000",
-                "endTime": "2026/07/29 18:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 2124,
             "title": "Club Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
@@ -1465,33 +1438,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/07/29 09:00:00 +0000",
                 "endTime": "2026/07/29 11:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2126,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Girona",
-                "teamB": "Castellón",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/29 16:30:00 +0000",
-                "endTime": "2026/07/29 18:50:00 +0000"
             },
             "channels_data": [
                 {
@@ -1897,8 +1843,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53942/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/ufffQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2004,6 +1966,14 @@
                 "endTime": "2026/07/29 19:10:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/53940/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:25:42 PM 29-07-2026",
+    "Last update time": "06:31:29 PM 29-07-2026",
     "Live": "00",
     "Upcoming": "78",
     "Finish": "00",
@@ -1883,6 +1883,14 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.192/hls/eeeeaaaaAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4596075.m3u8?txSecret=432865de6def7954df48543307e6fcff&txTime=6A6B3720",
                     "logo": "",
                     "type": 0,
                     "api": "",

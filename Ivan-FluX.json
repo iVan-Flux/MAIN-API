@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:55:48 PM 31-07-2026",
+    "Last update time": "12:01:12 AM 01-08-2026",
     "Live": "00",
-    "Upcoming": "73",
+    "Upcoming": "72",
     "Finish": "00",
     "events": [
         {
@@ -1237,13 +1237,21 @@
                 "eventName": "Club Friendly Games",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/07/31 12:00:00 +0000",
-                "endTime": "2026/07/31 14:20:00 +0000"
+                "startTime": "2026/07/31 18:45:00 +0000",
+                "endTime": "2026/07/31 21:00:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "HD SERVER",
-                    "link": "https://admin2.formaturamaxi.com.br/bein.m3u8",
+                    "link": "http://162.251.160.53:8089/FRIdFOT3/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.190/hls/IMMMAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1716,8 +1724,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "beiN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://162.251.160.53:8089/FRIdFOT5/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "AZAM SPORTS",
+                    "link": "http://193.47.62.191/hls/PCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1809,33 +1833,6 @@
                 {
                     "title": "FANCODE 🇱🇰",
                     "link": "https://paste.centos.org/view/raw/68770105#.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2207,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Sporting",
-                "teamB": "Forest",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/31 18:45:00 +0000",
-                "endTime": "2026/07/31 21:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2368,8 +2365,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LIVE SERVER",
+                    "link": "https://admin2.paradilux.store/mlb2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2530,8 +2535,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "beiN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SportDigital Fussball",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://hls.live123.fans/live/4557554.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4557554.m3u8?txSecret=0098b8cd1c9da66117196fb8fb477687&txTime=6A6E0721",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://162.251.160.53:8089/FRIdFOT2/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:25:43 PM 01-08-2026",
+    "Last update time": "03:31:27 PM 01-08-2026",
     "Live": "00",
-    "Upcoming": "37",
+    "Upcoming": "38",
     "Finish": "00",
     "events": [
         {
@@ -1175,8 +1175,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/YQQQAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1229,8 +1229,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrxnkti5i2/out/v1/090a5573464f43a08e94a5e2652cd304/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "71913f8a2f2dd309414f0e0254f801fe:24793adebaab2515c63635a56ca8ad97",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nrxnkti5i2/out/v1/090a5573464f43a08e94a5e2652cd304/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "71913f8a2f2dd309414f0e0254f801fe:24793adebaab2515c63635a56ca8ad97",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/KKKKA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1320,6 +1360,33 @@
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.194/hls/jaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2236,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tokyo",
+                "teamB": "Dortmund",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3147/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/01 10:00:00 +0000",
+                "endTime": "2026/08/01 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/YQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

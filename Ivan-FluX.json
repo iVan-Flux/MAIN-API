@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:21:00 PM 01-08-2026",
+    "Last update time": "07:25:40 PM 01-08-2026",
     "Live": "00",
     "Upcoming": "74",
     "Finish": "00",
@@ -1229,8 +1229,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785601231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b4bb1f37b01e2cf27775a96353ab7f725df994e7562f6dd2cc555713dfc5f302",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.190/hls/YQQQA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2429,8 +2461,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://admin2.paradilux.store/happybirthdayabby.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://admin2./tnt.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

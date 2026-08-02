@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:10:56 PM 02-08-2026",
+    "Last update time": "06:15:50 PM 02-08-2026",
     "Live": "00",
     "Upcoming": "64",
     "Finish": "00",
@@ -1235,6 +1235,14 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdYDYvD91WC2ew.m3u8?txSecret=26898f9f51ff059c9cc3fd93d3cf0f32&txTime=19FC3C006FE",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1283,8 +1291,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.191/hls/IGGGAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1461,8 +1469,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.191/hls/KFFFAAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdcfyWFZeYZ9cf.m3u8?txSecret=1592be64b125d4a3d5aad2bce59de29b&txTime=19FC3C0F2DE",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:27:35 AM 03-08-2026",
+    "Last update time": "01:31:21 AM 03-08-2026",
     "Live": "00",
     "Upcoming": "66",
     "Finish": "00",
@@ -1776,12 +1776,29 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://162.251.160.53:8089/SUNFOT7/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "beIN SPORTS [FHD]",
+                    "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/mar-ken",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/mar-ken",
+                        "api": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/mar-ken",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

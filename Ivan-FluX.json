@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:10:56 PM 02-08-2026",
+    "Last update time": "03:15:50 PM 02-08-2026",
     "Live": "00",
-    "Upcoming": "33",
+    "Upcoming": "34",
     "Finish": "00",
     "events": [
         {
@@ -95,6 +95,84 @@
                     "logo": "",
                     "type": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2168,
+            "title": "Asian Legends League, T20",
+            "image": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "Legends League",
+                "teamB": "Legends League",
+                "teamAFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
+                "teamBFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
+                "eventName": "Asian Legends League, T20",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/02 09:30:00 +0000",
+                "endTime": "2026/08/02 14:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4248193_english_hls_4f8bd291d112318_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 1935,
+            "title": "T20 International",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "SL-W",
+                "teamB": "PAK-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+                "eventName": "T20 International",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/04 04:30:00 +0000",
+                "endTime": "2026/08/04 09:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -237,41 +315,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 212,
-            "title": "WRC Rally",
-            "image": "https://img.sofascore.com/api/v1/category/84/image",
-            "cat": "Motorsport",
-            "eventInfo": {
-                "teamA": "WRC",
-                "teamB": "WRC",
-                "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
-                "eventName": "WRC Rally",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/07/19 08:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "RALLY TV",
-                    "link": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TNT SPORTS 3",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
                     "tokenApi": ""
                 }
             ]
@@ -527,84 +570,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/AWAWAW.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1935,
-            "title": "T20 International",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "SL-W",
-                "teamB": "PAK-W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-                "eventName": "T20 International",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/02 04:30:00 +0000",
-                "endTime": "2026/08/02 09:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2168,
-            "title": "Asian Legends League, T20",
-            "image": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "Legends League",
-                "teamB": "Legends League",
-                "teamAFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
-                "teamBFlag": "https://i.ibb.co/cKnDWPL8/20260730-122144.png",
-                "eventName": "Asian Legends League, T20",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/02 09:30:00 +0000",
-                "endTime": "2026/08/02 14:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4248193_english_hls_4f8bd291d112318_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1183,6 +1148,60 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/02 10:00:00 +0000",
                 "endTime": "2026/08/02 14:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2266,
+            "title": "The Hundred",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "MIL",
+                "teamB": "MSG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377172/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+                "eventName": "The Hundred",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/02 17:00:00 +0000",
+                "endTime": "2026/08/02 21:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2267,
+            "title": "Lanka Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "JK",
+                "teamB": "DS",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/369189/image",
+                "eventName": "Lanka Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/02 14:00:00 +0000",
+                "endTime": "2026/08/02 18:30:00 +0000"
             },
             "channels_data": [
                 {

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:15:52 AM 03-08-2026",
+    "Last update time": "01:20:59 AM 03-08-2026",
     "Live": "00",
     "Upcoming": "66",
     "Finish": "00",
@@ -2369,7 +2369,31 @@
             "channels_data": [
                 {
                     "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "link": "http://193.47.62.190/hls/HDDDAAAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://live2.jxa76.com/live/sd-6wXrJEqVCD6KkJasKH.m3u8?txSecret=6949e93334ed3db0b9b9a0af5bc7b11d&txTime=19FC53E9150|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niur.live/live/stream-558264_lsd.m3u8?txSecret=99566a8b889679054a6585866b23c38f&txTime=6a6fee62",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/54136/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

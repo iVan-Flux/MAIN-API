@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:15:50 PM 02-08-2026",
+    "Last update time": "03:20:59 PM 02-08-2026",
     "Live": "00",
-    "Upcoming": "34",
+    "Upcoming": "32",
     "Finish": "00",
     "events": [
         {
@@ -1010,76 +1010,6 @@
             ]
         },
         {
-            "id": 2104,
-            "title": "Durand Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Durand cup ",
-                "teamB": "Durand cup ",
-                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark",
-                "eventName": "Durand Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/01 11:00:00 +0000",
-                "endTime": "2026/08/01 14:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SonyLiv",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000299/Football0108/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=87c197f7ff741931a9c8de524c63a57e-1785577800381",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2120,
-            "title": "Calcutta 1st Division",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Calcutta Football Leuage ",
-                "teamB": "Calcutta Football Leuage",
-                "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark",
-                "eventName": "Calcutta 1st Division",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/01 09:30:00 +0000",
-                "endTime": "2026/08/01 13:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Calcutta Customs vs Mohun Bagan SG",
-                    "link": "https://live-n10.videostech.cloud/match/calcuttacustomsclub_vs_mohunbagansupergiant/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "George Telegraph SC vs Bhawanipore FC",
-                    "link": "https://live-n10.videostech.cloud/match/bhawaniporefc_vs_georgetelegraphsc/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Kalighat Milan Sangha FC vs United Kolkata SC",
-                    "link": "https://live-n10.videostech.cloud/match/kalighatmilansangha_vs_unitedkolkatasportsclub/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 2263,
             "title": "The Hundred Women",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
@@ -1151,8 +1081,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsp8wdw6zx/out/v1/8ec8b80ae2894df596d5f8458985ac07/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsp8wdw6zx/out/v1/8ec8b80ae2894df596d5f8458985ac07/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

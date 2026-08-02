@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:25:47 AM 02-08-2026",
+    "Last update time": "08:31:21 AM 02-08-2026",
     "Live": "00",
     "Upcoming": "85",
     "Finish": "00",
@@ -3398,12 +3398,62 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FOX DEPORTES FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54007/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://pul-tenm.gkykp.com/live/sd-1-4553815.m3u8?txSecret=533b13d4231e1cb16f2d5f494f2f7b71&txTime=6A6EB0D0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "AZTECHA 7 MX",
+                    "link": "https://latestmovies.net/api/live/playlist/844",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "https://latestmovies.net/api/live/playlist/844",
+                        "api": "https://latestmovies.net/api/live/playlist/844",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "EMBED PLAY",
+                    "link": "https://embedindia.st/embed/liga-mx/2026-08-01/leo-pac",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "https://embedindia.st/embed/liga-mx/2026-08-01/leo-pac",
+                        "api": "https://embedindia.st/embed/liga-mx/2026-08-01/leo-pac",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

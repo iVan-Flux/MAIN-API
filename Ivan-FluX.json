@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:56:27 PM 03-08-2026",
+    "Last update time": "03:01:08 PM 03-08-2026",
     "Live": "00",
     "Upcoming": "49",
     "Finish": "00",
@@ -1595,8 +1595,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "#",
+                    "title": "TRAU FC VS FC RAENGDAI",
+                    "link": "https://file.genoads.com/ch1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "KARBI ANGLONG MORNING STAR FC VS FC 1",
+                    "link": "https://file.genoads.com/ch1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LANGSNING FC VS MUMBAY FC",
+                    "link": "https://file.genoads.com/ch1.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

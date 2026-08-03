@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:05:48 AM 04-08-2026",
+    "Last update time": "02:10:47 AM 04-08-2026",
     "Live": "00",
     "Upcoming": "54",
     "Finish": "00",
@@ -1267,6 +1267,14 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.191/hls/GSSSDD.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://162.251.160.53:8089/SUNFOT7/index.m3u8",
                     "logo": "",
@@ -1293,6 +1301,14 @@
                 "endTime": "2026/08/03 22:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.191/hls/GSSSDDD.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW QUALITY",
                     "link": "http://162.251.160.53:8089/SUNFOT7/index.m3u8",
@@ -1410,8 +1426,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.190/hls/GSSSD.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1599,8 +1623,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8|Referer=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1868,6 +1892,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.190/hls/GSSS.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

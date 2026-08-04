@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:20:50 PM 04-08-2026",
+    "Last update time": "04:25:42 PM 04-08-2026",
     "Live": "00",
-    "Upcoming": "56",
+    "Upcoming": "62",
     "Finish": "00",
     "events": [
         {
@@ -136,49 +136,6 @@
                 {
                     "title": "FANCODE (IND)",
                     "link": "https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 1935,
-            "title": "T20 International",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "SL-W",
-                "teamB": "PAK-W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-                "eventName": "T20 International",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/04 04:30:00 +0000",
-                "endTime": "2026/08/04 09:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1368,8 +1325,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/IOOOA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1797,6 +1754,195 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/05 02:00:00 +0000",
                 "endTime": "2026/08/05 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2216,
+            "title": "The Hundred Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "SL-W",
+                "teamB": "LNS-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377206/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377203/image",
+                "eventName": "The Hundred Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/04 14:00:00 +0000",
+                "endTime": "2026/08/04 18:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2217,
+            "title": "The Hundred Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "MSG-W",
+                "teamB": "WEF-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377201/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377207/image",
+                "eventName": "The Hundred Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 10:30:00 +0000",
+                "endTime": "2026/08/05 15:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2218,
+            "title": "The Hundred",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "SL",
+                "teamB": "LNS",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/377178/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+                "eventName": "The Hundred",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/04 17:30:00 +0000",
+                "endTime": "2026/08/04 22:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2219,
+            "title": "ASEAN Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Philippines",
+                "teamB": "Thailand",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+                "eventName": "ASEAN Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/04 13:00:00 +0000",
+                "endTime": "2026/08/04 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2220,
+            "title": "ASEAN Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Myanmar",
+                "teamB": "Laos",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
+                "eventName": "ASEAN Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/04 10:00:00 +0000",
+                "endTime": "2026/08/04 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/IOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2221,
+            "title": "Women's Africa Cup of Nations",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tanzania",
+                "teamB": "Côte d'Ivoire",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/291680/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/186328/image",
+                "eventName": "Women's Africa Cup of Nations",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/04 20:00:00 +0000",
+                "endTime": "2026/08/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2222,
+            "title": "Women's Africa Cup of Nations",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burkina Faso",
+                "teamB": "South Africa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/316668/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/65336/image",
+                "eventName": "Women's Africa Cup of Nations",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/04 20:00:00 +0000",
+                "endTime": "2026/08/04 22:20:00 +0000"
             },
             "channels_data": [
                 {

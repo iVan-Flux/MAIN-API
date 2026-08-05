@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:40:54 PM 05-08-2026",
+    "Last update time": "02:46:08 PM 05-08-2026",
     "Live": "00",
-    "Upcoming": "70",
+    "Upcoming": "74",
     "Finish": "00",
     "events": [
         {
@@ -2175,6 +2175,114 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/05 23:00:00 +0000",
                 "endTime": "2026/08/06 01:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2262,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "AGF",
+                "teamB": "Sabah",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1291/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/267828/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 16:30:00 +0000",
+                "endTime": "2026/08/05 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2263,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fenerbahçe",
+                "teamB": "Sturm",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2051/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 18:00:00 +0000",
+                "endTime": "2026/08/05 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2264,
+            "title": "Women's Africa Cup of Nations",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Malawi",
+                "teamB": "Zambia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/298498/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/288601/image",
+                "eventName": "Women's Africa Cup of Nations",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 20:00:00 +0000",
+                "endTime": "2026/08/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2265,
+            "title": "Women's Africa Cup of Nations",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Egypt",
+                "teamB": "Nigeria",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/132930/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7420/image",
+                "eventName": "Women's Africa Cup of Nations",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 20:00:00 +0000",
+                "endTime": "2026/08/05 22:20:00 +0000"
             },
             "channels_data": [
                 {

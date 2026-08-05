@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:05:50 AM 06-08-2026",
+    "Last update time": "12:11:02 AM 06-08-2026",
     "Live": "00",
-    "Upcoming": "97",
+    "Upcoming": "99",
     "Finish": "00",
     "events": [
         {
@@ -3656,6 +3656,76 @@
                 {
                     "title": "Link 1",
                     "link": "https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-05/nsh-leo/playlist.m3u8?|Referer=https://ondemand.st/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2289,
+            "title": "Leagues Cup",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/13783/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Toluca",
+                "teamB": "Seattle",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 02:00:00 +0000",
+                "endTime": "2026/08/06 04:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-05/tol-sea/playlist.m3u8?|Referer=https://ondemand.st/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2290,
+            "title": "Leagues Cup",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/13783/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Los Angeles",
+                "teamB": "Guadalajara",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 02:30:00 +0000",
+                "endTime": "2026/08/06 04:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-05/lafc-gdl/playlist.m3u8?|Referer=https://ondemand.st/",
                     "logo": "",
                     "type": 0,
                     "api": "",

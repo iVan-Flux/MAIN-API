@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:31:31 PM 05-08-2026",
+    "Last update time": "04:35:43 PM 05-08-2026",
     "Live": "00",
     "Upcoming": "74",
     "Finish": "00",
@@ -1518,6 +1518,14 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://cdn.nexafootball.net/dx17hd/index.m3u8|referer=https://yahoo.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CBS NETWORK HD",
                     "link": "https://cast.zlive.st/p/auto-cbs-sports-network-0/index.m3u8?|referer=https://zlive.st/",
                     "logo": "",
@@ -1544,6 +1552,38 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.192/hls/RRRRAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://cdn.nexafootball.net/dx17fhd/index.m3u8|referer=https://yahoo.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://cdn.nexafootball.net/dx17md/index.m3u8|referer=https://yahoo.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "http://162.251.160.53:8089/WEDFOT2/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ESPN LIVE",
+                    "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1704,8 +1744,48 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://cdn.nexafootball.net/dx1hd/index.m3u8|referer=https://yahoo.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "http://162.251.160.53:8089/WEDFOT1/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.191/hls/RRRRAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://cdn.nexafootball.net/dx1fhd/index.m3u8|referer=https://yahoo.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://cdn.nexafootball.net/dx1md/index.m3u8|referer=https://yahoo.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=9f392441442827cdd466e7961093c6b8&txTime=6a73666f",
                     "logo": "",
                     "type": 0,
                     "api": "",

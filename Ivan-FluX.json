@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:35:43 PM 05-08-2026",
+    "Last update time": "11:41:02 PM 05-08-2026",
     "Live": "00",
-    "Upcoming": "79",
+    "Upcoming": "81",
     "Finish": "00",
     "events": [
         {
@@ -3109,6 +3109,60 @@
                     "logo": "",
                     "type": 0,
                     "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2271,
+            "title": "Copa Betano do Brasil",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/373/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cruzeiro",
+                "teamB": "Chapecoence",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 22:00:00 +0000",
+                "endTime": "2026/08/06 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "9k",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2272,
+            "title": "Copa Betano do Brasil",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/373/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Grêmio",
+                "teamB": "Mirassol",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/05 22:30:00 +0000",
+                "endTime": "2026/08/06 00:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "gx",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

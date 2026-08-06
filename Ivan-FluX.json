@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:02:55 PM 06-08-2026",
+    "Last update time": "09:08:39 PM 06-08-2026",
     "Live": "00",
-    "Upcoming": "62",
+    "Upcoming": "76",
     "Finish": "00",
     "events": [
         {
@@ -2014,6 +2014,384 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/06 20:00:00 +0000",
                 "endTime": "2026/08/06 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2314,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Cubs",
+                "teamB": "Blue Jays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 18:20:00 +0000",
+                "endTime": "2026/08/06 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2315,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Guardians",
+                "teamB": "Mets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 17:10:00 +0000",
+                "endTime": "2026/08/06 20:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2316,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Royals",
+                "teamB": "Twins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 23:40:00 +0000",
+                "endTime": "2026/08/07 02:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2317,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Red Sox",
+                "teamB": "White Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 23:10:00 +0000",
+                "endTime": "2026/08/07 02:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2318,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Phillies",
+                "teamB": "Nationals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 22:05:00 +0000",
+                "endTime": "2026/08/07 01:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2319,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Mariners",
+                "teamB": "Tigers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 20:10:00 +0000",
+                "endTime": "2026/08/06 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2320,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Braves",
+                "teamB": "Marlins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 23:15:00 +0000",
+                "endTime": "2026/08/07 02:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2321,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Brewers",
+                "teamB": "Pirates",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 18:10:00 +0000",
+                "endTime": "2026/08/06 21:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2322,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Reds",
+                "teamB": "Athletics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 16:40:00 +0000",
+                "endTime": "2026/08/06 19:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2323,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Orioles",
+                "teamB": "Angels",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 16:35:00 +0000",
+                "endTime": "2026/08/06 19:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2324,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Diamondbacks",
+                "teamB": "Padres",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 01:40:00 +0000",
+                "endTime": "2026/08/07 04:40:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2325,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Lynx",
+                "teamB": "Sparks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 01:00:00 +0000",
+                "endTime": "2026/08/07 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2326,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Fire",
+                "teamB": "Tempo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 02:00:00 +0000",
+                "endTime": "2026/08/07 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2327,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Fever",
+                "teamB": "Aces",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/06 23:00:00 +0000",
+                "endTime": "2026/08/07 01:30:00 +0000"
             },
             "channels_data": [
                 {

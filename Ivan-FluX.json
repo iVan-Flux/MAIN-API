@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:56:31 PM 07-08-2026",
+    "Last update time": "10:01:13 PM 07-08-2026",
     "Live": "00",
-    "Upcoming": "73",
+    "Upcoming": "80",
     "Finish": "00",
     "events": [
         {
@@ -2372,6 +2372,195 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.190/hls/EPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2375,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bochum",
+                "teamB": "Hertha",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 18:30:00 +0000",
+                "endTime": "2026/08/07 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2376,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Middlesbrough",
+                "teamB": "Wrexham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 19:00:00 +0000",
+                "endTime": "2026/08/07 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2377,
+            "title": "Pro League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Club Brugge",
+                "teamB": "Kortrijk",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2888/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4858/image",
+                "eventName": "Pro League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 18:45:00 +0000",
+                "endTime": "2026/08/07 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2378,
+            "title": "Liga Portugal Betclic",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Estoril",
+                "teamB": "Famalicão",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/49531/image",
+                "eventName": "Liga Portugal Betclic",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 19:15:00 +0000",
+                "endTime": "2026/08/07 21:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2379,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wolves",
+                "teamB": "Port Vale",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/55/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 18:45:00 +0000",
+                "endTime": "2026/08/07 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2380,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wycombe",
+                "teamB": "Stevenage",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/62/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/133/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 18:45:00 +0000",
+                "endTime": "2026/08/07 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2381,
+            "title": "VriendenLoterij Eredivisie",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cambuur",
+                "teamB": "Excelsior",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2970/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
+                "eventName": "VriendenLoterij Eredivisie",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/07 18:00:00 +0000",
+                "endTime": "2026/08/07 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

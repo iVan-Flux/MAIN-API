@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:15:50 PM 08-08-2026",
+    "Last update time": "10:18:41 PM 08-08-2026",
     "Live": "00",
     "Upcoming": "145",
     "Finish": "00",
@@ -2807,6 +2807,22 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "http://193.47.62.191/hls/KJJJAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=d17b9a3183169d8114a86b236c0c3dab&txTime=6a77ad33",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2828,8 +2844,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.191/hls/KJJJA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/54351/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MweaAQFjwRdAtJKUf_540p.m3u8?txSecret=c5991d8f4a13665a16292112659c964e&txTime=19FE380D8F3|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD+ SERVER",
+                    "link": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1786210019-0-0-41228bdeb7fed9920f4cd1504bb452c9",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1786210019-0-0-0fc63d35b0a21e7fbfd66894c1eb20dc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3372,8 +3420,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.190/hls/fiiia.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

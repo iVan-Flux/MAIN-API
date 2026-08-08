@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:05:39 AM 08-08-2026",
+    "Last update time": "09:10:57 AM 08-08-2026",
     "Live": "00",
-    "Upcoming": "82",
+    "Upcoming": "81",
     "Finish": "00",
     "events": [
         {
@@ -432,7 +432,7 @@
                 "eventName": "One Friday Fights",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/07 12:30:00 +0000",
+                "startTime": "2026/08/14 12:30:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -1060,7 +1060,7 @@
                 "eventName": "ATP & WTA TENNIS",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/07 15:00:00 +0000",
+                "startTime": "2026/08/08 15:00:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -1370,33 +1370,6 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/08/08 09:35:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2339,
-            "title": "AFL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-            "cat": "Aussie rules",
-            "eventInfo": {
-                "teamA": "Melbourne",
-                "teamB": "Fremantle",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4456/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4452/image",
-                "eventName": "AFL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/08 03:15:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:53:27 PM 08-08-2026",
+    "Last update time": "03:55:47 PM 08-08-2026",
     "Live": "00",
-    "Upcoming": "51",
+    "Upcoming": "76",
     "Finish": "00",
     "events": [
         {
@@ -1657,6 +1657,681 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
                 "eventName": "Scottish Premiership",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2386,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Grimsby",
+                "teamB": "Blackpool",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/18/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/67/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2387,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sheffield Wed",
+                "teamB": "Bolton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/12/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2388,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burton",
+                "teamB": "Blackburn",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2389,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "West Ham",
+                "teamB": "Portsmouth",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2390,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wimbledon",
+                "teamB": "Newport",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/23957/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/79/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2391,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Swansea",
+                "teamB": "Birmingham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2392,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Derby",
+                "teamB": "Lincoln",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2393,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Watford",
+                "teamB": "Crawley",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4875/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2394,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bradford",
+                "teamB": "Rochdale",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/103/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2395,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cambridge",
+                "teamB": "Barnet",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/63/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/77/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 12:00:00 +0000",
+                "endTime": "2026/08/08 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2396,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bromley",
+                "teamB": "Reading",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/28/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2397,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Crewe",
+                "teamB": "Accrington",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/19/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2398,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bristol Rovers",
+                "teamB": "Peterborough Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/76/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/54/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2399,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "QPR",
+                "teamB": "Millwall",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 13:00:00 +0000",
+                "endTime": "2026/08/08 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2400,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Gillingham",
+                "teamB": "Luton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/20/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/72/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2401,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burnley",
+                "teamB": "Notts County",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2402,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leicester",
+                "teamB": "Northampton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/57/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2403,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fleetwood",
+                "teamB": "Chesterfield",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/23959/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/68/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2404,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Stockport County",
+                "teamB": "Doncaster",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/10/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/84/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2405,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Salford",
+                "teamB": "Shrewsbury",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/37998/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/82/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2406,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Norwich",
+                "teamB": "MK Dons",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2407,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Stoke",
+                "teamB": "Oldham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/65/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2408,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Preston",
+                "teamB": "Huddersfield",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/59/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2409,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Barnsley",
+                "teamB": "Wigan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/49/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 14:00:00 +0000",
+                "endTime": "2026/08/08 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2410,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leyton Orient",
+                "teamB": "Oxford Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/83/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
+                "eventName": "EFL Cup",
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/08/08 14:00:00 +0000",

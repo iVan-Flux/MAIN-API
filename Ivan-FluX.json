@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:40:54 PM 08-08-2026",
+    "Last update time": "11:45:58 PM 08-08-2026",
     "Live": "00",
     "Upcoming": "145",
     "Finish": "00",
@@ -3529,33 +3529,6 @@
             ]
         },
         {
-            "id": 2431,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Osasuna",
-                "teamB": "Al-Ain",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/37082/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/08 18:00:00 +0000",
-                "endTime": "2026/08/08 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 2432,
             "title": "Club Friendly Games",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
@@ -3573,35 +3546,16 @@
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/54352/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "CBS NETWORK",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
                     "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2433,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Galatasaray",
-                "teamB": "Villarreal",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/08 18:00:00 +0000",
-                "endTime": "2026/08/08 20:20:00 +0000"
-            },
-            "channels_data": [
+                },
                 {
-                    "title": "Link 1",
-                    "link": "https://chatgpt.hereisman.net/playlist/54355/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "FOREST TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54352/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3678,33 +3632,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/08 19:00:00 +0000",
                 "endTime": "2026/08/08 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2437,
-            "title": "Club Friendly Games",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Celta Fortuna",
-                "teamB": "Ourense",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/263550/image",
-                "eventName": "Club Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/08 18:00:00 +0000",
-                "endTime": "2026/08/08 20:20:00 +0000"
             },
             "channels_data": [
                 {
@@ -4972,6 +4899,87 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.192/hls/iiiii.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2481,
+            "title": "Leagues Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter Miami",
+                "teamB": "Monterrey",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 00:00:00 +0000",
+                "endTime": "2026/08/09 02:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2482,
+            "title": "CFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "BC",
+                "teamB": "Hamilton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4441/image",
+                "eventName": "CFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 23:00:00 +0000",
+                "endTime": "2026/08/09 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2483,
+            "title": "CFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Montréal",
+                "teamB": "Edmonton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+                "eventName": "CFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 19:00:00 +0000",
+                "endTime": "2026/08/08 22:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:01:11 AM 09-08-2026",
+    "Last update time": "12:05:44 AM 09-08-2026",
     "Live": "00",
-    "Upcoming": "145",
+    "Upcoming": "146",
     "Finish": "00",
     "events": [
         {
@@ -3640,8 +3640,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/AZZZAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3694,8 +3694,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/AZZZAAAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4276,8 +4276,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/EIIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4963,33 +4963,6 @@
             ]
         },
         {
-            "id": 2481,
-            "title": "Leagues Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/13783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Inter Miami",
-                "teamB": "Monterrey",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image",
-                "eventName": "Leagues Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/09 00:00:00 +0000",
-                "endTime": "2026/08/09 02:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 2482,
             "title": "CFL",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
@@ -5047,6 +5020,69 @@
                     "logo": "",
                     "type": 0,
                     "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2484,
+            "title": "Leagues Cup",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/13783/image",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter Miami",
+                "teamB": "Monterrey",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+                "eventName": "Leagues Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 00:00:00 +0000",
+                "endTime": "2026/08/09 02:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "OK",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/leagues-cup/2026-08-08/mia-mty",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2485,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Galatasaray",
+                "teamB": "Villarreal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/08 18:00:00 +0000",
+                "endTime": "2026/08/08 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/EIIIIAAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

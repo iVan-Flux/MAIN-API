@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:15:57 PM 08-08-2026",
+    "Last update time": "04:20:49 PM 08-08-2026",
     "Live": "00",
     "Upcoming": "140",
     "Finish": "00",
@@ -1116,8 +1116,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "CBS SPORTS HD",
+                    "link": "https://tedesco.paradilux.store/cbssn.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS HD",
+                    "link": "https://admin2.paradilux.store/foxd.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1177,6 +1185,22 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.191/hls/GGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://tedesco.paradilux.store/golazo.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://admin2.formaturamaxi.com.br/golazo.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3607,8 +3631,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/UUUMQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

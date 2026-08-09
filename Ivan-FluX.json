@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:35:46 AM 09-08-2026",
+    "Last update time": "07:40:55 AM 09-08-2026",
     "Live": "00",
-    "Upcoming": "88",
+    "Upcoming": "87",
     "Finish": "00",
     "events": [
         {
@@ -2895,33 +2895,6 @@
                 {
                     "title": "FANCODE (IND)",
                     "link": "https://dai-fancode.pages.dev/mumbai/4246732_english_hls_f760b877e754174_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2479,
-            "title": "Most Valuable Promotions",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/24170/image/dark",
-            "cat": "Mixed Martial Arts",
-            "eventInfo": {
-                "teamA": "C. Johnson",
-                "teamB": "D. Thorslund",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1143450/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1257382/image",
-                "eventName": "Most Valuable Promotions",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/09 01:30:00 +0000",
-                "endTime": "2026/08/09 02:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

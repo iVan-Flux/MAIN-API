@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:55:45 PM 09-08-2026",
+    "Last update time": "06:01:09 PM 09-08-2026",
     "Live": "00",
     "Upcoming": "78",
     "Finish": "00",
@@ -1954,14 +1954,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
-                    "link": "https://t7.ultrastream.vip/sporttv3/index.m3u8?|Referer=https://foottime.top/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FAST SERVER",
                     "link": "https://live2.jxa76.com/live/sd-6MwarCdWqameKTHh15_540p.m3u8?txSecret=1ed4291524c10c61ba376495cd3983ad&txTime=19FE7AA7BB2",
                     "logo": "",
@@ -1970,16 +1962,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LOW SERVER",
-                    "link": "http://193.47.62.192/hls/RRRRRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "title": "SportyNET HD",
+                    "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SportyNET HD",
-                    "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
+                    "title": "HD SERVER",
+                    "link": "https://t7.ultrastream.vip/sporttv3/index.m3u8?|Referer=https://foottime.top/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/RRRRRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

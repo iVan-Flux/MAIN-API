@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:47 AM 10-08-2026",
+    "Last update time": "01:01:14 AM 10-08-2026",
     "Live": "00",
     "Upcoming": "85",
     "Finish": "00",
@@ -1966,6 +1966,14 @@
             },
             "channels_data": [
                 {
+                    "title": "WNBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54436/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -3184,6 +3192,30 @@
                 {
                     "title": "Benfica TV HD [PT]",
                     "link": "https://rdcstream.life/live/benfica-x-academico-viseu/index.m3u8?|Referer=https://bolodechocolate.fit/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://162.251.160.53:8089/SUNfot6/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beiN SPORTS ES",
+                    "link": "https://bein-esp-xumo.amagi.tv/playlist.m3u8|Referer=https://roxiestreams.info/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "MATCH FOOTBALL",
+                    "link": "http://31.148.48.15/Match_Futbol_2_HD/index.m3u8?token=test",
                     "logo": "",
                     "type": 0,
                     "api": "",

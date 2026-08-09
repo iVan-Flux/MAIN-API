@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:01:08 PM 09-08-2026",
+    "Last update time": "04:05:45 PM 09-08-2026",
     "Live": "00",
-    "Upcoming": "69",
+    "Upcoming": "74",
     "Finish": "00",
     "events": [
         {
@@ -2286,6 +2286,141 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/09 14:45:00 +0000",
                 "endTime": "2026/08/09 17:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2516,
+            "title": "Coppa Italia",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Arezzo",
+                "teamB": "Union Brescia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2731/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1110141/image",
+                "eventName": "Coppa Italia",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 17:45:00 +0000",
+                "endTime": "2026/08/09 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2517,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bahia",
+                "teamB": "Vasco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 19:00:00 +0000",
+                "endTime": "2026/08/09 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2518,
+            "title": "Liga Portugal Betclic",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Porto",
+                "teamB": "Alverca",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+                "eventName": "Liga Portugal Betclic",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 17:00:00 +0000",
+                "endTime": "2026/08/09 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2519,
+            "title": "Liga Profesional de Fútbol",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "San Lorenzo",
+                "teamB": "Huracán",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3201/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
+                "eventName": "Liga Profesional de Fútbol",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 18:00:00 +0000",
+                "endTime": "2026/08/09 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2520,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Palmeiras",
+                "teamB": "Internacional",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/09 19:00:00 +0000",
+                "endTime": "2026/08/09 21:20:00 +0000"
             },
             "channels_data": [
                 {

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:45:54 PM 09-08-2026",
+    "Last update time": "07:50:54 PM 09-08-2026",
     "Live": "00",
     "Upcoming": "78",
     "Finish": "00",
@@ -2388,6 +2388,14 @@
                 "endTime": "2026/08/09 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6Mwdq1tam4Zs3ZzvrF_540p.m3u8?txSecret=d37909df7cdf7730c7339af3dc1e7878&txTime=19FE81C12AB",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.46/hls/ZBBBA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",

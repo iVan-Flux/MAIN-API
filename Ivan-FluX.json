@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:40:55 AM 09-08-2026",
+    "Last update time": "07:45:50 AM 09-08-2026",
     "Live": "00",
-    "Upcoming": "87",
+    "Upcoming": "86",
     "Finish": "00",
     "events": [
         {
@@ -53,11 +53,11 @@
             },
             "channels_data": [
                 {
-                    "title": "TNT SPORTS FHD",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ojxdfbnbm/out/v1/54ab8ec44e64451dbb2b61a2846ef9c9/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "25cc7ef8a1d473f5efe28b3814739761:c7c71ec098f7d6c73d54f83b51d733ea",
                     "tokenApi": ""
                 },
                 {
@@ -66,6 +66,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ojxdfbnbm/out/v1/54ab8ec44e64451dbb2b61a2846ef9c9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "25cc7ef8a1d473f5efe28b3814739761:c7c71ec098f7d6c73d54f83b51d733ea",
                     "tokenApi": ""
                 },
                 {
@@ -2446,6 +2454,14 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54395/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -2472,6 +2488,14 @@
                 "endTime": "2026/08/09 03:10:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54390/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2791,6 +2815,14 @@
             },
             "channels_data": [
                 {
+                    "title": "WNBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54392/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -2961,42 +2993,6 @@
                     "type": 0,
                     "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
                     "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2484,
-            "title": "Leagues Cup",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/13783/image",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Inter Miami",
-                "teamB": "Monterrey",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image",
-                "eventName": "Leagues Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/09 00:00:00 +0000",
-                "endTime": "2026/08/09 02:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "OK",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://embedindia.st/embed/leagues-cup/2026-08-08/mia-mty",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
                 }
             ]
         },

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:45:53 PM 11-08-2026",
+    "Last update time": "03:50:58 PM 11-08-2026",
     "Live": "00",
     "Upcoming": "60",
     "Finish": "00",
@@ -1556,6 +1556,14 @@
                 "endTime": "2026/08/11 12:50:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4556856.m3u8?txSecret=1fc86e5ece39fb5fb305d17512de81ea&txTime=6A7B0AB9|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.40/hls/GVVVDDDDDD.m3u8|referer=http://www.fawanews.sc/",

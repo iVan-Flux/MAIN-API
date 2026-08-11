@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:40:55 PM 11-08-2026",
+    "Last update time": "10:46:03 PM 11-08-2026",
     "Live": "00",
     "Upcoming": "80",
     "Finish": "00",
@@ -1937,8 +1937,33 @@
             },
             "channels_data": [
                 {
+                    "title": "ARABIC HD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://3.njklokkmlgfgyggfdftjugsrtdfy.dpdns.org/ch2.html",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.40/hls/GGGGF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live2.streambylivepulse.com/live/channel22.m3u8|referer=https://xlz.livebytexscorez.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2665,6 +2690,14 @@
                 "endTime": "2026/08/11 19:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdaT1j3PfmnatB_540p.m3u8?txSecret=60a8fe297b55296b5026c8d97910477b&txTime=19FF317E17A",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.57/hls/DFFFF.m3u8|referer=http://www.fawanews.sc/",

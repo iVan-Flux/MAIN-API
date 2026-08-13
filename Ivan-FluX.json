@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:55:46 PM 13-08-2026",
+    "Last update time": "11:01:13 PM 13-08-2026",
     "Live": "00",
     "Upcoming": "96",
     "Finish": "00",
@@ -2040,6 +2040,14 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdbCLW3vDmqjnj_540p.m3u8?txSecret=cd0f335c87e6e41791bb534e7df3048a&txTime=19FFD65EAC1",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2063,6 +2071,14 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.192/hls/TIIIAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdbCAaC2C5Pdbq_540p.m3u8?txSecret=66b3b2ab589142cfd5f59cd43e5b331d&txTime=19FFD635537",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2094,6 +2110,14 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdaSBNUF7bdDAB_540p.m3u8?txSecret=ae4f69be465ef94618f90eac2a9b7ae9&txTime=19FFD647E72",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2117,6 +2141,14 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.192/hls/TIIIAAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdbCfkc2MVXHiB_540p.m3u8?txSecret=67a5eb6884533d2a33e2d543939ed38c&txTime=19FFD665C54",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2169,8 +2201,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "beiN SPORTS XTRA",
+                    "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/EEEE.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

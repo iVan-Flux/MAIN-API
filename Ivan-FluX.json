@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:15:52 AM 13-08-2026",
+    "Last update time": "09:20:49 AM 13-08-2026",
     "Live": "00",
     "Upcoming": "88",
     "Finish": "00",
@@ -187,6 +187,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "WILLOW HD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://cdn72834346.blzcdn.net/dx14hd/index.m3u8|referer=https://copyright.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "WILLOW ALT",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rxcjfnbuxt/out/v1/241044fb0e6c415192410432c2c825d0/cenc.mpd",
                     "logo": "",
@@ -197,6 +213,39 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.192/hls/NNNND.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://cdn72834346.blzcdn.net/dx14md/index.m3u8|referer=https://copyright.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://162.251.160.53:8089/BANvsAUS1/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "http://162.251.160.53:8089/BANvsAUS1/index.m3u8",
+                        "api": "http://162.251.160.53:8089/BANvsAUS1/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "TAPMAD [PK 🇵🇰]",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

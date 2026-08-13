@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:05:46 AM 14-08-2026",
+    "Last update time": "12:10:53 AM 14-08-2026",
     "Live": "00",
     "Upcoming": "96",
     "Finish": "00",
@@ -2371,6 +2371,22 @@
             },
             "channels_data": [
                 {
+                    "title": "RANGERS TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54578/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live1.kinxie.com/live/73008520_ab912981c5c3ec7a9ec4f89f422e9fca_1080p.m3u8?auth_key=1786660272-0-0-716393da08b353822bbdd36d9ea0f604",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.191/hls/KVVVAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2538,8 +2554,24 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4602555.m3u8?txSecret=3dd59d27fe04c5d76aea98d1cc2efaa6&txTime=6A7E1F9E|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.192/hls/ORRR.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Sport TV1 HD",
+                    "link": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2697,6 +2729,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PREMIER SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.191/hls/KVVVAAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2724,8 +2764,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/ORRRA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2832,8 +2872,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/ORRRAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2886,8 +2926,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/ORRRAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

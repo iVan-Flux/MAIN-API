@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:45:51 PM 13-08-2026",
+    "Last update time": "11:50:51 PM 13-08-2026",
     "Live": "00",
     "Upcoming": "96",
     "Finish": "00",
@@ -2371,8 +2371,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.191/hls/KVVVAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2398,8 +2398,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.194/hls/KVVVAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2424,6 +2424,14 @@
                 "endTime": "2026/08/13 20:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdbCAmBRYUXDNK_540p.m3u8?txSecret=2a3aa9857b8df4c606ea0dac26d40440&txTime=19FFD911494",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.194/hls/RRRRA.m3u8|referer=http://www.fawanews.sc/",
@@ -2487,8 +2495,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FAST SERVER",
+                    "link": "https://live2.jxa76.com/live/sd-6MxiZdbCAGcBEEnJNf_540p.m3u8?txSecret=1d990777320fa27bfc9582e1d3c98eda&txTime=19FFD9C731A",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.194/hls/RRRRAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

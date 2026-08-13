@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:31:25 PM 13-08-2026",
+    "Last update time": "09:35:48 PM 13-08-2026",
     "Live": "00",
     "Upcoming": "96",
     "Finish": "00",
@@ -1253,6 +1253,14 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://hls.live123.fans/live/4599540.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.190/hls/SSSSAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -1849,8 +1857,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/TIIIAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1984,8 +1992,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.191/hls/TIIIA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

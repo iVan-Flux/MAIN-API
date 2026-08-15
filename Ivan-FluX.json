@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:50:53 PM 15-08-2026",
+    "Last update time": "03:55:43 PM 15-08-2026",
     "Live": "00",
-    "Upcoming": "151",
+    "Upcoming": "152",
     "Finish": "00",
     "events": [
         {
@@ -375,6 +375,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "WILLOW HD",
+                    "link": "https://cdn72834346.blzcdn.net/dx14hd/index.m3u8|referer=https://copyright.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "WILLOW ALT",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v1jwc7b2k7/out/v1/dd824b4819b047c58496a3cf34b518de/cenc.mpd",
                     "logo": "",
@@ -384,7 +392,7 @@
                 },
                 {
                     "title": "LOW SERVER",
-                    "link": "http://193.47.62.41/hls/EOOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "link": "https://cdn72834346.blzcdn.net/dx14sd/index.m3u8|referer=https://copyright.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4584,6 +4592,73 @@
                 {
                     "title": "Ivan-FluX",
                     "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2662,
+            "title": "Golf Events",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+            "cat": "Others",
+            "eventInfo": {
+                "teamA": "GOLF EVENTOS",
+                "teamB": "GOLF EVENTOS",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+                "eventName": "Golf Events",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/15 10:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SKY SPORTS GOLF",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsgolf.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/Danish_G1408/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=58bdddc9258a07df770299350c7389a6-1786703405914",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY GOLF SD",
+                    "link": "http://193.47.62.190/hls/BBBBAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.190/hls/BBBBAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/SFSGFD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

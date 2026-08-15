@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:55:43 PM 15-08-2026",
+    "Last update time": "07:01:06 PM 15-08-2026",
     "Live": "00",
     "Upcoming": "153",
     "Finish": "00",
@@ -1754,8 +1754,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/TMMMA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1862,6 +1862,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beiN SPORTS XTRA",
                     "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
                     "logo": "",
@@ -1875,6 +1883,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS SD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/r6xfuh6cco/out/v1/d861be5c8987450b848a14be98e1c3c6/cenc-sd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b427e6e286108e53b7e3a016f22fde8d:13710fa5489e1a6ca946adb44f158cf5",
                     "tokenApi": ""
                 }
             ]
@@ -4774,6 +4790,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://live.vivo200.com/live/sd-1-4561579.m3u8?txSecret=f100075f647d80d7aa54f9bf2637241a&txTime=6A807BB8|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/TMMM.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:50:55 PM 15-08-2026",
+    "Last update time": "10:55:43 PM 15-08-2026",
     "Live": "00",
-    "Upcoming": "155",
+    "Upcoming": "152",
     "Finish": "00",
     "events": [
         {
@@ -4412,8 +4412,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54672/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4628,8 +4636,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "NFL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54671/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.194/hls/AYYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4692,33 +4716,6 @@
             ]
         },
         {
-            "id": 2650,
-            "title": "NFL Preseason",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
-            "cat": "American football",
-            "eventInfo": {
-                "teamA": "Chiefs",
-                "teamB": "Rams",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-                "eventName": "NFL Preseason",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/15 20:00:00 +0000",
-                "endTime": "2026/08/15 23:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 2651,
             "title": "NFL Preseason",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
@@ -4760,60 +4757,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/15 23:00:00 +0000",
                 "endTime": "2026/08/16 02:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2653,
-            "title": "NFL Preseason",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
-            "cat": "American football",
-            "eventInfo": {
-                "teamA": "Bears",
-                "teamB": "Browns",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4417/image",
-                "eventName": "NFL Preseason",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/15 17:00:00 +0000",
-                "endTime": "2026/08/15 20:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2654,
-            "title": "NFL Preseason",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
-            "cat": "American football",
-            "eventInfo": {
-                "teamA": "Bills",
-                "teamB": "Panthers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
-                "eventName": "NFL Preseason",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/15 17:00:00 +0000",
-                "endTime": "2026/08/15 20:00:00 +0000"
             },
             "channels_data": [
                 {

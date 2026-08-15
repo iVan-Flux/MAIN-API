@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:15:50 PM 15-08-2026",
+    "Last update time": "08:20:56 PM 15-08-2026",
     "Live": "00",
-    "Upcoming": "154",
+    "Upcoming": "155",
     "Finish": "00",
     "events": [
         {
@@ -2773,6 +2773,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/54664/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "MU TV",
                     "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
                     "logo": "",
@@ -2791,6 +2799,22 @@
                 {
                     "title": "Sport TV2 HD",
                     "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.192/hls/dtttE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -5012,6 +5036,41 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.190/hls/riiiaAAAAa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2665,
+            "title": "Tennis Evento",
+            "image": "https://sportzfy.io/wp-content/uploads/2025/09/tennis-1.png",
+            "cat": "Tennis",
+            "eventInfo": {
+                "teamA": "TENNIS",
+                "teamB": "TENNIS",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWwdt6bQdg3K2WTEigjn2XDFGQZcGCRhe-lDsDTKRJg&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWwdt6bQdg3K2WTEigjn2XDFGQZcGCRhe-lDsDTKRJg&s=10",
+                "eventName": "Tennis Evento",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/15 15:00:00 +0000",
+                "endTime": "2026/08/15 22:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a",
                     "tokenApi": ""
                 }
             ]

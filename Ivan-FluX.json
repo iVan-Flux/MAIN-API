@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:20:54 AM 17-08-2026",
+    "Last update time": "12:25:41 AM 17-08-2026",
     "Live": "00",
     "Upcoming": "94",
     "Finish": "00",
@@ -2752,6 +2752,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lhy8hqyaja/out/v1/fd7c9d32b5e94723a4b80eaf1c16a0a6/7aa47cb9-cacf-4c05-8025-a6fe3d520026-cenc.mpd?aws_sessionId=66b0f302-7337-400b-9731-d32eb910bf42|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4a2814153cfd217988bbc7586b087bf4:05875805eed3b07ee69714bdc1116c01",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PREMIER SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -2761,7 +2769,7 @@
                 },
                 {
                     "title": "LOW SERVER",
-                    "link": "http://162.251.160.53:8089/78/index.m3u8",
+                    "link": "http://193.47.62.41/hls/TDDDDQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

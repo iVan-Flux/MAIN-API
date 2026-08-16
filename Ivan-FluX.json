@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:27:49 PM 16-08-2026",
+    "Last update time": "09:31:24 PM 16-08-2026",
     "Live": "00",
     "Upcoming": "94",
     "Finish": "00",
@@ -2217,8 +2217,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.49/hls/CNNNaaaa.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2271,8 +2271,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.49/hls/djjjaaaaa.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2406,11 +2406,27 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/sq780pez2y/out/v1/cd62d7a5c5b9422f8c9d7729f0058cbd/13e93c6e-0bdf-4d64-91ae-a97329422a10-cenc.mpd?aws_sessionId=981524ed-fa25-434d-bf02-63c56675397e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a902f4827c739bc642c9e18ab7d7d14d:acb6fb61284bd2eff20a367f36c4c018",
+                    "tokenApi": ""
+                },
+                {
                     "title": "D SPORTS+ FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
                     "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.49/hls/djjj.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

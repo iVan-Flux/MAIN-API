@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:15:53 PM 16-08-2026",
+    "Last update time": "03:20:58 PM 16-08-2026",
     "Live": "00",
-    "Upcoming": "28",
+    "Upcoming": "67",
     "Finish": "00",
     "events": [
         {
@@ -1266,6 +1266,1059 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/16 10:15:00 +0000",
                 "endTime": "2026/08/16 12:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2669,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Basel",
+                "teamB": "Barcelona",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2501/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 14:30:00 +0000",
+                "endTime": "2026/08/16 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2670,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burnley",
+                "teamB": "West Ham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 15:00:00 +0000",
+                "endTime": "2026/08/16 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2671,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Newcastle",
+                "teamB": "Strasbourg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 15:00:00 +0000",
+                "endTime": "2026/08/16 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2672,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Chapecoense",
+                "teamB": "Bahia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 14:00:00 +0000",
+                "endTime": "2026/08/16 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2673,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Schalke",
+                "teamB": "Real Madrid",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 15:00:00 +0000",
+                "endTime": "2026/08/16 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2674,
+            "title": "VriendenLoterij Eredivisie",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Feyenoord",
+                "teamB": "GA Eagles",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+                "eventName": "VriendenLoterij Eredivisie",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 12:30:00 +0000",
+                "endTime": "2026/08/16 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2675,
+            "title": "Community Shield",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/346/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Arsenal",
+                "teamB": "Man City",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
+                "eventName": "Community Shield",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 14:00:00 +0000",
+                "endTime": "2026/08/16 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2676,
+            "title": "ASEAN Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Malaysia",
+                "teamB": "Vietnam",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+                "eventName": "ASEAN Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 13:00:00 +0000",
+                "endTime": "2026/08/16 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2677,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bielefeld",
+                "teamB": "Cottbus",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 11:30:00 +0000",
+                "endTime": "2026/08/16 13:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2678,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Watford",
+                "teamB": "Southampton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 12:30:00 +0000",
+                "endTime": "2026/08/16 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2679,
+            "title": "Liga Portugal Betclic",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Nacional",
+                "teamB": "Estoril",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3013/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+                "eventName": "Liga Portugal Betclic",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 14:30:00 +0000",
+                "endTime": "2026/08/16 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2680,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Dresden",
+                "teamB": "Darmstadt",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 11:30:00 +0000",
+                "endTime": "2026/08/16 13:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2681,
+            "title": "VriendenLoterij Eredivisie",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Twente",
+                "teamB": "Zwolle",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
+                "eventName": "VriendenLoterij Eredivisie",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 12:30:00 +0000",
+                "endTime": "2026/08/16 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2682,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Forest",
+                "teamB": "Brest",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 13:00:00 +0000",
+                "endTime": "2026/08/16 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2683,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Eibar",
+                "teamB": "Tenerife",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 15:00:00 +0000",
+                "endTime": "2026/08/16 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2684,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hannover",
+                "teamB": "Wolfsburg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2541/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 11:30:00 +0000",
+                "endTime": "2026/08/16 13:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2685,
+            "title": "Club Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Liverpool",
+                "teamB": "Como",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 17:00:00 +0000",
+                "endTime": "2026/08/16 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2686,
+            "title": "King's Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al Wehda",
+                "teamB": "Al-Shabab",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/32994/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+                "eventName": "King's Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 18:00:00 +0000",
+                "endTime": "2026/08/16 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2687,
+            "title": "Coppa Italia",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Genoa",
+                "teamB": "Ascoli",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2707/image",
+                "eventName": "Coppa Italia",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 16:30:00 +0000",
+                "endTime": "2026/08/16 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2688,
+            "title": "Canadian Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "SDQ",
+                "teamB": "Atl. Ottawa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1165894/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/342076/image",
+                "eventName": "Canadian Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 16:00:00 +0000",
+                "endTime": "2026/08/16 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2689,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burgos",
+                "teamB": "Córdoba",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 17:00:00 +0000",
+                "endTime": "2026/08/16 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2690,
+            "title": "Trendyol Süper Lig",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Başakşehir",
+                "teamB": "Kocaelispor",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+                "eventName": "Trendyol Süper Lig",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 16:00:00 +0000",
+                "endTime": "2026/08/16 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2691,
+            "title": "Liga Portugal Betclic",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Arouca",
+                "teamB": "Moreirense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3014/image",
+                "eventName": "Liga Portugal Betclic",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 17:00:00 +0000",
+                "endTime": "2026/08/16 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2692,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Girona",
+                "teamB": "Leganés",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 17:00:00 +0000",
+                "endTime": "2026/08/16 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2693,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Pumas",
+                "teamB": "Querétaro",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 18:00:00 +0000",
+                "endTime": "2026/08/16 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2694,
+            "title": "King's Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al Orobah",
+                "teamB": "Abha",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/114259/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/168090/image",
+                "eventName": "King's Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 16:40:00 +0000",
+                "endTime": "2026/08/16 19:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2695,
+            "title": "Coppa Italia",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Frosinone",
+                "teamB": "Juve Stabia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5324/image",
+                "eventName": "Coppa Italia",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 16:00:00 +0000",
+                "endTime": "2026/08/16 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2696,
+            "title": "Liga Portugal Betclic",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Braga",
+                "teamB": "Gil Vicente",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
+                "eventName": "Liga Portugal Betclic",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 19:30:00 +0000",
+                "endTime": "2026/08/16 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2697,
+            "title": "Trendyol Süper Lig",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Amed",
+                "teamB": "Erzurumspor",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/207011/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/55603/image",
+                "eventName": "Trendyol Süper Lig",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 18:30:00 +0000",
+                "endTime": "2026/08/16 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2698,
+            "title": "Women's Africa Cup of Nations",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cameroon",
+                "teamB": "Malawi",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/69218/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/298498/image",
+                "eventName": "Women's Africa Cup of Nations",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 19:00:00 +0000",
+                "endTime": "2026/08/16 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2699,
+            "title": "Trendyol Süper Lig",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Beşiktaş",
+                "teamB": "Eyüpspor",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+                "eventName": "Trendyol Süper Lig",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 18:30:00 +0000",
+                "endTime": "2026/08/16 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2700,
+            "title": "Liga Portugal Betclic",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Famalicão",
+                "teamB": "Marítimo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+                "eventName": "Liga Portugal Betclic",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 19:30:00 +0000",
+                "endTime": "2026/08/16 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2701,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Atlético-MG",
+                "teamB": "Grêmio",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 19:00:00 +0000",
+                "endTime": "2026/08/16 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2702,
+            "title": "Coppa Italia",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Verona",
+                "teamB": "Entella",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/43680/image",
+                "eventName": "Coppa Italia",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 18:45:00 +0000",
+                "endTime": "2026/08/16 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2703,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Las Palmas",
+                "teamB": "Albacete",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 19:30:00 +0000",
+                "endTime": "2026/08/16 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2704,
+            "title": "Brasileirão Betano",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Vasco",
+                "teamB": "Santos",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+                "eventName": "Brasileirão Betano",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 19:00:00 +0000",
+                "endTime": "2026/08/16 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2705,
+            "title": "Canadian Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter Toronto",
+                "teamB": "HFX Wanderers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/309890/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/309892/image",
+                "eventName": "Canadian Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 20:00:00 +0000",
+                "endTime": "2026/08/16 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2706,
+            "title": "Trophée des Champions",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/339/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lens",
+                "teamB": "PSG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+                "eventName": "Trophée des Champions",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 18:45:00 +0000",
+                "endTime": "2026/08/16 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2707,
+            "title": "Coppa Italia",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lazio",
+                "teamB": "Mantova",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2770/image",
+                "eventName": "Coppa Italia",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/16 19:15:00 +0000",
+                "endTime": "2026/08/16 21:35:00 +0000"
             },
             "channels_data": [
                 {

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:55:41 AM 17-08-2026",
+    "Last update time": "02:01:09 AM 17-08-2026",
     "Live": "00",
     "Upcoming": "94",
     "Finish": "00",
@@ -3770,8 +3770,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "http://193.47.62.44/hls/T555A.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/wnba/2026-08-16/chi-sea/playlist.m3u8?tk=QDoqAyWZfm6XzaDIf1WUew&e=1786955057|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3851,8 +3867,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.41/hls/T555.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/wnba/2026-08-16/ind-atl/playlist.m3u8?tk=QDoqAyWZfm6XzaDIf1WUew&e=1786955057|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

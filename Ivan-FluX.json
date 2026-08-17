@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:55:45 PM 17-08-2026",
+    "Last update time": "12:01:11 AM 18-08-2026",
     "Live": "00",
     "Upcoming": "57",
     "Finish": "00",
@@ -1425,8 +1425,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.53/hls/ZORRAARA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2180,11 +2196,27 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
                     "tokenApi": ""
                 }
             ]

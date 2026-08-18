@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:35:46 PM 18-08-2026",
+    "Last update time": "09:40:52 PM 18-08-2026",
     "Live": "00",
     "Upcoming": "62",
     "Finish": "00",
@@ -2219,8 +2219,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "ok",
+                    "title": "TAMASHA HD [PK]",
+                    "link": "https://cdn07khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026E-abr/live/HWC_N-AVOD_720p/chunks.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAMASHA SD [PK]",
+                    "link": "https://cdn07khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026E-abr/live/HWC_N-AVOD_240p/chunks.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:05:40 AM 18-08-2026",
+    "Last update time": "10:10:51 AM 18-08-2026",
     "Live": "00",
     "Upcoming": "57",
     "Finish": "00",
@@ -26,6 +26,14 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehjcsyqvx2/out/v1/f9cfef4fe2bd445b939ad4f7a24829db/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1b549c9708f7789b0d4ab6c713d4de5e:94e123e5f00b8d1caa96a8d1d553c811",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -34,31 +42,23 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/deaahgx71n/out/v1/7c443871ca8541d0812335763b75377c/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c026d347ad3c252e666d82296991a0c8:0923b37a3667f6a0670f547e08ffe010",
-                    "tokenApi": ""
-                },
-                {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wdggyj1wry/out/v1/f08035aac6c94f37ac46fee15415f96f/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ehjcsyqvx2/out/v1/f9cfef4fe2bd445b939ad4f7a24829db/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "26d1e7d0ed8205fd964f87d793ce4681:837e3f6e328319333f8d8cf9ca3ab9ec",
+                    "api": "1b549c9708f7789b0d4ab6c713d4de5e:94e123e5f00b8d1caa96a8d1d553c811",
                     "tokenApi": ""
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8?|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SUPER SPORTS",
+                    "title": "FOX CRICKET HD",
                     "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
                     "logo": "",
                     "type": 0,
@@ -83,7 +83,7 @@
                 },
                 {
                     "title": "SonyLiv [ENG]",
-                    "link": "https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0364963809a65d36dbd35c6ce8841b87-1786852462979",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000377/cricodi1808/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=291227fda3f8f53eaf70816b55eaaeac-1787022342123",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -91,7 +91,7 @@
                 },
                 {
                     "title": "SonyLiv [HIN]",
-                    "link": "http://dai.google.com/ssai/event/MArqTlj6SOeNU3ZO3-0i0Q/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000380/cricodi1808/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=291227fda3f8f53eaf70816b55eaaeac-1787022342123",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -99,7 +99,7 @@
                 },
                 {
                     "title": "SonyLiv [TAM]",
-                    "link": "http://dai.google.com/ssai/event/Fg4UsGzyQ2aN_2WDhuapiA/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000300/cricodi1808/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=291227fda3f8f53eaf70816b55eaaeac-1787022342123",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -107,7 +107,7 @@
                 },
                 {
                     "title": "SonyLiv [TEL]",
-                    "link": "http://dai.google.com/ssai/event/klT2-_bHQdKcDjmRMQzpwg/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=fd4b8b299abf4db769ebd79276e816d2-1786763403896",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1808/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=291227fda3f8f53eaf70816b55eaaeac-1787022342123",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -115,7 +115,7 @@
                 },
                 {
                     "title": "SonyLiv [KAN]",
-                    "link": "https://dai.google.com/ssai/event/AtRHWIT_QL6RJoXT7boKsQ/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=fd4b8b299abf4db769ebd79276e816d2-1786763403896",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000383/cricodi1808/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=291227fda3f8f53eaf70816b55eaaeac-1787022342123",
                     "logo": "",
                     "type": 0,
                     "api": "",

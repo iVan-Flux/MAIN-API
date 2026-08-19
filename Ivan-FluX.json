@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:15:53 AM 20-08-2026",
+    "Last update time": "12:18:59 AM 20-08-2026",
     "Live": "00",
     "Upcoming": "69",
     "Finish": "00",
@@ -1396,6 +1396,14 @@
             },
             "channels_data": [
                 {
+                    "title": "ARENA SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54857/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HBO MAX BR HD",
                     "link": "https://rdcstream.life/live/hapoel-beer-sheva-x-sabah-baku/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "logo": "",
@@ -1525,6 +1533,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54856/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HBO MAX BR HD",
                     "link": "https://rdcstream.life/live/nec-nijmegen-x-bodoglimt/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "logo": "",
@@ -1535,6 +1551,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://hls.live123.fans/live/4608845.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1745,6 +1769,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54860/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HBO MAX BR HD",
                     "link": "https://rdcstream.life/live/slovan-bratislava-x-celje/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "logo": "",
@@ -1755,6 +1787,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://hls.live123.fans/live/4608838.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1890,8 +1930,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "beIN ENGLISH",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://rdcstream.life/live/cerro-porteno-x-palmeiras/index.m3u8?|Referer=https://bolodechocolate.fit/",
                     "logo": "",
                     "type": 0,
                     "api": "",

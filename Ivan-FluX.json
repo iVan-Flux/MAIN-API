@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:35:46 PM 19-08-2026",
+    "Last update time": "03:40:56 PM 19-08-2026",
     "Live": "00",
     "Upcoming": "71",
     "Finish": "00",
@@ -760,7 +760,7 @@
         {
             "id": 2727,
             "title": "Field Hockey World Cup",
-            "image": "https://www.worldcup.hockey/images/logo_vertical.png",
+            "image": "https://i.ibb.co/B223q1Gb/20260818-210023.png",
             "cat": "Others",
             "eventInfo": {
                 "teamA": "Hockey World Cup",
@@ -775,6 +775,14 @@
             },
             "channels_data": [
                 {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TAMASHA FHD [PK]",
                     "link": "https://cdn07khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026E-abr/playlist.m3u8",
                     "logo": "",
@@ -785,6 +793,30 @@
                 {
                     "title": "TAMASHA SD [PK]",
                     "link": "https://cdn07khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026E-abr/live/HWC_N-AVOD_240p/chunks.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE HOCKEY",
+                    "link": "https://spxt.hamrimullahchy.workers.dev/852141/index.json?&e=.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE HOCKEY 2",
+                    "link": "https://spxt.hamrimullahchy.workers.dev/441099/index.json?&e=.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE HOCKEY 3",
+                    "link": "https://spxt.hamrimullahchy.workers.dev/441097/index.json?&e=.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

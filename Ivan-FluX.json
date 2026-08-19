@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:20:58 AM 20-08-2026",
+    "Last update time": "12:25:41 AM 20-08-2026",
     "Live": "00",
-    "Upcoming": "69",
+    "Upcoming": "71",
     "Finish": "00",
     "events": [
         {
@@ -317,10 +317,18 @@
             "channels_data": [
                 {
                     "title": "TNT SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8?|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -2405,8 +2413,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2467,8 +2475,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2637,8 +2645,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2664,8 +2672,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2726,8 +2734,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2780,8 +2788,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2812,6 +2820,60 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2774,
+            "title": "MLS",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Columbus",
+                "teamB": "Montréal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22006/image",
+                "eventName": "MLS",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/19 23:30:00 +0000",
+                "endTime": "2026/08/20 01:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 2775,
+            "title": "MLS",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kansas City",
+                "teamB": "St. Louis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2509/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+                "eventName": "MLS",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/20 00:00:00 +0000",
+                "endTime": "2026/08/20 02:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
                     "tokenApi": ""
                 }
             ]

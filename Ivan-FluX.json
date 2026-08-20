@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:50:59 PM 20-08-2026",
+    "Last update time": "06:55:46 PM 20-08-2026",
     "Live": "00",
     "Upcoming": "84",
     "Finish": "00",
@@ -2892,8 +2892,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SONYLIV [ENG]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/DC_Mohun2008/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f5f97c24402282bbda8188f7828a82e7-1787230203272",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [BEN]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/DC_Mohun2008/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f5f97c24402282bbda8188f7828a82e7-1787230203272",
                     "logo": "",
                     "type": 0,
                     "api": "",

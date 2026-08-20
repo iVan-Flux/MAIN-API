@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:25:43 PM 20-08-2026",
+    "Last update time": "03:31:21 PM 20-08-2026",
     "Live": "00",
-    "Upcoming": "88",
+    "Upcoming": "84",
     "Finish": "00",
     "events": [
         {
@@ -1264,114 +1264,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/22 14:00:00 +0000",
                 "endTime": "2026/08/22 16:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2776,
-            "title": "ICC Men's T20 World Cup Qualifier",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "GRE",
-                "teamB": "FUCK",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/417773/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/417769/image",
-                "eventName": "ICC Men's T20 World Cup Qualifier",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/20 13:00:00 +0000",
-                "endTime": "2026/08/20 17:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2777,
-            "title": "ICC Men's T20 World Cup Qualifier",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "CZE",
-                "teamB": "POR",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/412705/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/417770/image",
-                "eventName": "ICC Men's T20 World Cup Qualifier",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/20 08:00:00 +0000",
-                "endTime": "2026/08/20 12:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2778,
-            "title": "ICC Men's T20 World Cup Qualifier",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "FIN",
-                "teamB": "IOM",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/322676/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/417774/image",
-                "eventName": "ICC Men's T20 World Cup Qualifier",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/20 13:00:00 +0000",
-                "endTime": "2026/08/20 17:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2779,
-            "title": "ICC Men's T20 World Cup Qualifier",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/23358/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "BUL",
-                "teamB": "LUX",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/412708/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/417778/image",
-                "eventName": "ICC Men's T20 World Cup Qualifier",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/20 08:00:00 +0000",
-                "endTime": "2026/08/20 12:30:00 +0000"
             },
             "channels_data": [
                 {

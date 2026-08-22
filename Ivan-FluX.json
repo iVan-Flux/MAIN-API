@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:11:22 AM 23-08-2026",
+    "Last update time": "12:15:52 AM 23-08-2026",
     "Live": "00",
     "Upcoming": "149",
     "Finish": "00",
@@ -4087,6 +4087,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hlsxi1zfm5/out/v1/9f946893ed9846718544585b53de9b03/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e3e789757fb52e171aff2be3825d6699:abe43d5731771eecd71256cd2ed05ba4",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -4111,11 +4119,35 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "beiN ENGLISH FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4549143.m3u8?txSecret=5d5a169c7712c5606e1dc923ec08d27b&txTime=6A89FE3F|Referer=https://player.online909.com/",
                     "logo": "",
                     "type": 0,
-                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER 2",
+                    "link": "http://193.47.62.53/hls/ztttAAAAAQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/seriea/2026-08-22/gen-nap/playlist.m3u8?tk=U4_uCPTj4Gdd9hh1fTrdHA&e=1787466778|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -4165,8 +4197,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irk6hkwvbr/out/v1/b1325eb4f7de42198b398cf7b3355348/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5a041a6d26c80de0b47a6c481d71ca02:44c22d4c4dcb3fe0665bb70b3743676a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55035/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4549151.m3u8?txSecret=96f538e71bf15f9c89d7d4f713f39349&txTime=6A89FE79|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream4.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "http://193.47.62.53/hls/ztttAAAAAQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BACKUP SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/seriea/2026-08-22/par-cag/playlist.m3u8?tk=U4_uCPTj4Gdd9hh1fTrdHA&e=1787466778|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

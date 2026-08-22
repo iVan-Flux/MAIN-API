@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:15:52 AM 23-08-2026",
+    "Last update time": "12:20:52 AM 23-08-2026",
     "Live": "00",
     "Upcoming": "149",
     "Finish": "00",
@@ -3850,8 +3850,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4550847.m3u8?txSecret=8eca2901b2edfd77e618eaaf6722534f&txTime=6A89FEFC|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/nbekiurtghjhfza83.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.53/hls/ztttAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BACKUP SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/ligue1/2026-08-22/nice-lor/playlist.m3u8?tk=oJZXiheC29kbGozS5bvUww&e=1787466779|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3952,8 +3976,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4550844.m3u8?txSecret=f1ebffe5be562619f161520ad6c11d53&txTime=6A89FEB8|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream3.pro/hls/ioazuryeahrfvzed84.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "http://193.47.62.53/hls/ztttAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BACK-UP SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/ligue1/2026-08-22/mns-bre/playlist.m3u8?tk=oJZXiheC29kbGozS5bvUww&e=1787466779|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3979,8 +4027,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4550849.m3u8?txSecret=7d19d2e6ad02102c54dd1c3c6a4b5cdb&txTime=6A89FEDF|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN SPORTS HD",
+                    "link": "https://edgestream3.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.53/hls/ztttAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BACK-UP SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/ligue1/2026-08-22/tou-lyon/playlist.m3u8?tk=6HrAbYLv9Bwxz8C5JI08CQ&e=1787466780|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

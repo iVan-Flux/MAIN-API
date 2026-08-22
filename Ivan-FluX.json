@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:05:45 AM 23-08-2026",
+    "Last update time": "12:10:52 AM 23-08-2026",
     "Live": "00",
     "Upcoming": "149",
     "Finish": "00",
@@ -3649,6 +3649,30 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.666666.zip/live/4581282.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=1884783c8eafe32011fa5d57490a8dde&txTime=6a8a3e54",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BACKUP SERVER",
+                    "link": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787426820-0-0-90329941de30defdb62f6e6bbe18eefd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -3705,8 +3729,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4550850.m3u8?txSecret=31fea25121c1263bf1a4e12f3594193b&txTime=6A89FF1C|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://edgestream4.pro/hls/iozauyezaioyur82.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.53/hls/ztttAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/ligue1/2026-08-22/try-par/playlist.m3u8?tk=6HrAbYLv9Bwxz8C5JI08CQ&e=1787466780|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BACKUP SERVER",
+                    "link": "https://hwyypull.ncctrials.com/live/stream-637910_lsd.flv?auth_key=1787423669-0-0-29f46f003b8fee545a857894ec99f675",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4712,7 +4768,15 @@
             "channels_data": [
                 {
                     "title": "USA SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/54993/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b52d-hd/chunks.m3u8?is_vip=false&token=1787509051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-794e4d17d13056f835912d706e9f2532|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "USA SPORTS SD",
+                    "link": "https://chatgpt.hereisman.net/playlist/54993/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4727,7 +4791,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
+                    "title": "HD SERVER+",
                     "link": "https://hls.live123.fans/live/4546031.m3u8",
                     "logo": "",
                     "type": 0,
@@ -4737,6 +4801,30 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.51/hls/BRBRBRBRQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "https://messi.damitv.st/live-hls/channel/german-supercup/2026-08-22/dor-mun/playlist.m3u8?tk=dPe90GctR4Rk69ExZjSleA&e=1787466777|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1787426820-0-0-3eab75c990cbb70abbd4ce646e05aae8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BACKUP SERVER",
+                    "link": "https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=225c9e599063b8aa9463ccbf5533db7a&txTime=6a8a3e54",
                     "logo": "",
                     "type": 0,
                     "api": "",

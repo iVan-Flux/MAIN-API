@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:31:19 AM 22-08-2026",
+    "Last update time": "06:35:40 AM 22-08-2026",
     "Live": "00",
     "Upcoming": "64",
     "Finish": "00",
@@ -1966,6 +1966,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb64000f680c3c822b3f-hd/chunks.m3u8?is_vip=false&token=1787446074-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e522912cc4cea2a6393aba22cc3dce4a|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tigres-uanl-vs-atlante/2/playlist.m3u8?tk=DGunH7clWXcZrmjVTPIbgA&e=1787397917|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FOX ONE [MX VPN]",
                     "link": "https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE3MX_HD)/manifest.mpd",
                     "logo": "",
@@ -2159,6 +2175,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "3bd0bc0772acc1708445948f2c7bb25f:426afdc873d71265183d15cd7f9cb612",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-monterrey/2/playlist.m3u8?tk=T6QTy-KkvyiQdEOX16FthA&e=1787397939|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.41/hls/YPPPAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

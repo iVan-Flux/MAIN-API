@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:10:57 PM 23-08-2026",
+    "Last update time": "06:15:56 PM 23-08-2026",
     "Live": "00",
     "Upcoming": "92",
     "Finish": "00",
@@ -442,26 +442,26 @@
             "channels_data": [
                 {
                     "title": "APPLE TV FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dj33emtab6/out/v1/07387027812e452086103d4f68b45f06/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bloqv62cg8/out/v1/0f6b2626aef2496e97bce1b5998b49b5/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "30328037a7b5dfd5e7c35f9f0da09ced:edbcb77c8ed395cc97d0ce36b6ac9b97",
+                    "api": "c0a9d1e7eaf683120499b4017314a518:990018b9907cf9b5ae4c3dd9eb948255",
                     "tokenApi": ""
                 },
                 {
                     "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
                     "tokenApi": ""
                 },
                 {
                     "title": "Sky Via APPLE TV",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gl3ncksosm/out/v1/2d72ad983aeb461ab0f28e073cf34212/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bloqv62cg8/out/v1/0f6b2626aef2496e97bce1b5998b49b5/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "7dd89f34d230bba1401a7b4b70dda7ed:eed85ea1350b8b6af53cc991d6e1aa91",
+                    "api": "6dd170459b9d19e43bc554e783570a2b:1a86def14df85af755c5f26d7457fcea",
                     "tokenApi": ""
                 },
                 {
@@ -1125,11 +1125,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "USA NETWROK HD",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8",
+                    "title": "USA TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55106/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Cazé TV FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+                    "logo": "",
+                    "type": 0,
+                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
                     "tokenApi": ""
                 },
                 {
@@ -1141,11 +1149,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "Cazétv TV FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+                    "title": "MAIN EVENT",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
                     "logo": "",
                     "type": 0,
-                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4558470.m3u8?txSecret=6c7c0e0a6b23a2b8c025db04995b703e&txTime=6A8AFF65|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -1168,8 +1184,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SKY PREMIER TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55105/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4558465.m3u8?txSecret=373e2f60b5bbc70cbc8d8f495436693e&txTime=6A8AFF2F|Referer=https://player.online909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1683,8 +1707,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4550842.m3u8?txSecret=83bb4ec50a259c52532b6a79a5ffb7d4&txTime=6A8AFF7E|Referer=https://player.online909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:42 PM 23-08-2026",
+    "Last update time": "01:01:08 PM 23-08-2026",
     "Live": "00",
-    "Upcoming": "28",
+    "Upcoming": "21",
     "Finish": "00",
     "events": [
         {
@@ -377,7 +377,7 @@
                 "eventName": "Top End T20 Series 2026",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/23 00:30:00 +0000",
+                "startTime": "2026/08/23 07:30:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -387,6 +387,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "7644b0bd567d0adfd6e12ab85c73728c:83c67bcfbb7efb3d133232f5aa8ebe1a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAMASHA [PK]",
+                    "link": "https://cdn04khi-n.tamashaweb.com:8087/jazzauth/Tet20c-avod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDEyOjU5OjQ5IEFNJmhhc2hfdmFsdWU9L205OHZPTlF4UFZtNnJuZUNHemY2Zz09JnZhbGlkbWludXRlcz02MA==",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -408,14 +416,6 @@
                 {
                     "title": "T SPORTS HD",
                     "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAMASHA [PK]",
-                    "link": "https://cdn04khi-n.tamashaweb.com:8087/jazzauth/Tet20c-avod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDEyOjU5OjQ5IEFNJmhhc2hfdmFsdWU9L205OHZPTlF4UFZtNnJuZUNHemY2Zz09JnZhbGlkbWludXRlcz02MA==",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1146,271 +1146,6 @@
                 {
                     "title": "Ivan-FluX",
                     "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2971,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "San Jose",
-                "teamB": "Minnesota",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/23 02:30:00 +0000",
-                "endTime": "2026/08/23 04:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TSN SPORTS",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://dlstreams.st/stream/stream-157.php|referer=https://dlhd.st/",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/edddaAAAAA.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2972,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "San Diego",
-                "teamB": "Colorado",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2510/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/23 02:30:00 +0000",
-                "endTime": "2026/08/23 04:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://dlstreams.st/stream/stream-156.php|referer=https://dlhd.st/",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/edddaAAAA.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2975,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Vancouver",
-                "teamB": "Dallas",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/23 01:30:00 +0000",
-                "endTime": "2026/08/23 03:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://dlstreams.st/stream/stream-154.php|referer=https://dlhd.st/",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/edddaA.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2976,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Los Angeles",
-                "teamB": "Portland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/23 02:30:00 +0000",
-                "endTime": "2026/08/23 04:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://dlstreams.st/stream/stream-155.php|referer=https://dlhd.st/",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/edddaAAA.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2981,
-            "title": "Liga MX, Apertura",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Cruz Azul",
-                "teamB": "Atlas",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1949/image",
-                "eventName": "Liga MX, Apertura",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/23 03:00:00 +0000",
-                "endTime": "2026/08/23 05:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "CANAL5 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3000,
-            "title": "WNBA",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Mercury",
-                "teamB": "Dream",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3444/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-                "eventName": "WNBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/23 02:00:00 +0000",
-                "endTime": "2026/08/23 04:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream4.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3013,
-            "title": "NFL Preseason",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark",
-            "cat": "American football",
-            "eventInfo": {
-                "teamA": "Cardinals",
-                "teamB": "Cowboys",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4392/image",
-                "eventName": "NFL Preseason",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/23 02:00:00 +0000",
-                "endTime": "2026/08/23 05:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream1.pro/hls/cwxcnbscbsq39.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",

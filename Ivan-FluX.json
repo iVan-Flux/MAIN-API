@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:33:24 PM 23-08-2026",
+    "Last update time": "06:35:46 PM 23-08-2026",
     "Live": "00",
     "Upcoming": "92",
     "Finish": "00",
@@ -1133,19 +1133,19 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SPORTSCAST FHD",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dd15b105-8d98-47a5-9f1c-4e1b50847cf7/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "Cazé TV FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
                     "logo": "",
                     "type": 0,
                     "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY SPORT NZ",
-                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -1167,6 +1167,14 @@
                 {
                     "title": "USA NETWORK",
                     "link": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.49/hls/dpdpdpFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

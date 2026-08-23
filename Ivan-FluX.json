@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:35:46 PM 23-08-2026",
+    "Last update time": "06:40:55 PM 23-08-2026",
     "Live": "00",
     "Upcoming": "92",
     "Finish": "00",
@@ -466,7 +466,7 @@
                 },
                 {
                     "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
                     "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
@@ -474,7 +474,7 @@
                 },
                 {
                     "title": "SPORTSCAST FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4786bad5-a248-42b3-bc12-38b31cabf7d4/master.m3u8",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5f80538f-a945-4227-804f-a9c2743c0e3b/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -482,10 +482,10 @@
                 },
                 {
                     "title": "APPLE TV 4K",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zqlu8tf7gj/out/v1/49e59600f0154636b5fadce55ed30889/cenc.mpd|user-agent=Mozilla/5.0",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eihx5jcvpx/out/v1/02b3c045272c49b890e8074af2daf11b/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
                     "type": 0,
-                    "api": "dc31191ec7865a7d3ad5d03785222739:4627a2b846432603ff06fd2af4e36d7c",
+                    "api": "6e78c43952d3b415ff4e0d3ef4946347:250cfc6c4e1e0fc070298c9a8ce14830",
                     "tokenApi": ""
                 },
                 {
@@ -1200,6 +1200,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u38bs9lgbm/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c2f1290bf922a8ba99baa75cf733f8ec:bc64b8d290b9905caa19dbfc8c389c21",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SKY PREMIER TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/55105/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1208,8 +1216,24 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SPORTSCAST FHD",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f5bd6b95-dec3-4451-8a87-4475349c839a/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo200.com/live/hd-en-1-4558465.m3u8?txSecret=373e2f60b5bbc70cbc8d8f495436693e&txTime=6A8AFF2F|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.49/hls/dpdpdpFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1725,6 +1749,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo200.com/live/hd-en-1-4550842.m3u8?txSecret=83bb4ec50a259c52532b6a79a5ffb7d4&txTime=6A8AFF7E|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/7FFFQAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

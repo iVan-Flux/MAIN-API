@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:01:10 PM 23-08-2026",
+    "Last update time": "08:04:00 PM 23-08-2026",
     "Live": "00",
     "Upcoming": "92",
     "Finish": "00",
@@ -1651,6 +1651,14 @@
                 "endTime": "2026/08/23 16:50:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "Sport TV HD",
+                    "link": "https://volder.timst.cfd/main/secure/4b309ccc6f5efdd401c7366bbc79bb3afb99f7480cf9bd88e565079b5440e408/1787504411/sporttv1-pt.m3u8|referer=https://zlive.st/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo200.com/live/sd-1-4578176.m3u8?txSecret=3231ef8230dc563fc9c1294fc626918a&txTime=6A8B13F0|Referer=https://player.online909.com/",

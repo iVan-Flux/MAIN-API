@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:45:51 AM 24-08-2026",
+    "Last update time": "07:50:57 AM 24-08-2026",
     "Live": "00",
     "Upcoming": "66",
     "Finish": "00",
@@ -264,14 +264,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/okfbtyuecp/out/v1/0e389897b69844368a9967b2eeb09c87/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "420a02541b220a156ddb135725d34a4c:3118c524b8b750ef584c8b51449d4a0c",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TAPMAD FHD",
                     "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com",
                     "logo": "",
@@ -285,14 +277,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xniz6ixe0r/out/v1/aa2a70967c3246d28dd24744353e5903/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7ce177f882156fab3754c280d8b7ba3e:fdd8342dfbea719428b5dd65605d8f6c",
                     "tokenApi": ""
                 },
                 {
@@ -2193,6 +2177,14 @@
                 "endTime": "2026/08/24 03:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "TUDN USA",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "",

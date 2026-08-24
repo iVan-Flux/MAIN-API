@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:40:54 PM 24-08-2026",
+    "Last update time": "11:45:53 PM 24-08-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1303,8 +1303,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.41/hls/dbbbb.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://isofthubn.sla.homes/sla/1-6a6df50105c2e23f1289a993.m3u8?auth_key=1787616562-0-0-e7bee4097310b0acc2fa27d8fcdb3759",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1365,8 +1373,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.41/hls/dbbbba.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://isofthubn.sla.homes/sla/1-6a8239f16c5a23a8c2ccb1ff.m3u8?auth_key=1787616562-0-0-55d91cae070bf85c6204e40f9003be3a",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1566,8 +1582,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.41/hls/dbbbbaa.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://isofthubn.sla.homes/sla/1-6a6cbf8a37ef0c148eaaca28-hd.m3u8?auth_key=1787616562-0-0-8799e8c2ca36e3f48d78cdfc9eb25092",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CN TV HD",
+                    "link": "https://isofthubn.sla.homes/sla/1-6a6cbf8a37ef0c148eaaca28-cnhd.m3u8?auth_key=1787616562-0-0-0251d55f60d6e0f2878c70ae63cb4b36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TW CHANNEL SD",
+                    "link": "https://isofthubn.sla.homes/sla/1-6a6cbf8a37ef0c148eaaca28-twhd.m3u8?auth_key=1787616562-0-0-26e2315621181c19d7074832f621ea6a",
                     "logo": "",
                     "type": 0,
                     "api": "",

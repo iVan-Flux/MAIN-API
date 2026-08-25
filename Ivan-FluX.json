@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:41 AM 26-08-2026",
+    "Last update time": "01:01:13 AM 26-08-2026",
     "Live": "00",
     "Upcoming": "69",
     "Finish": "00",
@@ -1424,6 +1424,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo200.com/live/sd-1-4613211.m3u8?txSecret=9a58df83cb1748760219c7fd43aa293c&txTime=6A8DEF1D|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live4.ftlcbx.com/live/73667714_e63b244c6e38ccb46339ff8017a1b56b.m3u8?auth_key=1787697966-0-0-f0f9f1fe633596c3947e5891c2b7be88",
                     "logo": "",
                     "type": 0,
                     "api": "",

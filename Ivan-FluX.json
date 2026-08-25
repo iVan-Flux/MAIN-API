@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:05:42 AM 25-08-2026",
+    "Last update time": "06:10:53 AM 25-08-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -308,22 +308,6 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tfdpskpy5j/out/v1/fef1b4edddbe486a90e3d4de5fb9128f/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "bf1e65f466c96e820f1864d3c83f24b7:487857d720603a20a3b0e1bdbdb7cad6",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tfdpskpy5j/out/v1/fef1b4edddbe486a90e3d4de5fb9128f/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "bf1e65f466c96e820f1864d3c83f24b7:487857d720603a20a3b0e1bdbdb7cad6",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW HD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "logo": "",
                     "type": 0,
@@ -336,6 +320,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                     "tokenApi": ""
                 },
                 {
@@ -1955,8 +1947,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b6e04d2634c113adf1d2f-backup/chunks.m3u8?is_vip=false&token=1787704364-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7f28720efd853194a1d9a93c6e62d6ec|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER+",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b6e04d2634c113adf1d2f/chunks.m3u8?is_vip=false&token=1787704365-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dba7d79a7ee4250259edfae7bba8ff8a|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/ZZGGG.m3u8|referer=http://www.fawanews.sc/|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1982,8 +1990,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b6e04d2634c113adf1d2a-backup/chunks.m3u8?is_vip=false&token=1787704362-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c96d53973b57b4d6edad7c64e3eba8f8|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER+",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b6e04d2634c113adf1d2a/chunks.m3u8?is_vip=false&token=1787704363-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-03d7514d2d35daae627471f275aac19e|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/ZZGGGS.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

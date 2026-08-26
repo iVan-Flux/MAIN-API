@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:51:01 PM 26-08-2026",
+    "Last update time": "06:55:48 PM 26-08-2026",
     "Live": "00",
     "Upcoming": "64",
     "Finish": "00",
@@ -1223,8 +1223,24 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://live.ftlcbx.com/live/73865530_e90f2ba590e970a73ef0528a0db6ad0c_1080p.m3u8?auth_key=1787763335-0-0-6ec55b1e70992dac7a206eae8153d8be",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/GTTTAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/vie-tha-asean-cat/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

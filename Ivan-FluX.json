@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:45:55 PM 27-08-2026",
+    "Last update time": "04:50:53 PM 27-08-2026",
     "Live": "00",
-    "Upcoming": "19",
+    "Upcoming": "41",
     "Finish": "00",
     "events": [
         {
@@ -764,8 +764,8 @@
                 "eventName": "AEW Dynamite",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/27 00:00:00 +0000",
-                "endTime": "2026/08/27 04:00:00 +0000"
+                "startTime": "2026/09/03 00:00:00 +0000",
+                "endTime": "2026/09/03 03:45:00 +0000"
             },
             "channels_data": [
                 {
@@ -932,65 +932,6 @@
             ]
         },
         {
-            "id": 2727,
-            "title": "Field Hockey World Cup",
-            "image": "https://www.worldcup.hockey/images/logo_vertical.png",
-            "cat": "Others",
-            "eventInfo": {
-                "teamA": "Hockey World Cup",
-                "teamB": "Hockey World Cup",
-                "teamAFlag": "https://i.ibb.co/B223q1Gb/20260818-210023.png",
-                "teamBFlag": "https://i.ibb.co/B223q1Gb/20260818-210023.png",
-                "eventName": "Field Hockey World Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/24 07:30:00 +0000",
-                "endTime": "2026/08/25 00:41:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://hockey-tap.kamrukhanchy.workers.dev/&.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAMASHA FHD [PK]",
-                    "link": "https://sps-own-property.main-faahhh-tail-op-com.store/&.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE HOCKEY",
-                    "link": "https://hockey-tap2.kamrukhanchy.workers.dev/&.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE HOCKEY 2",
-                    "link": "https://sps-own-property2.main-faahhh-tail-op-com.store/&.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE HOCKEY 3",
-                    "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 2662,
             "title": "Golf Events",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
@@ -1070,8 +1011,8 @@
                 "eventName": "Tennis Evento",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/26 15:00:00 +0000",
-                "endTime": "2026/08/26 22:00:00 +0000"
+                "startTime": "2026/08/27 15:00:00 +0000",
+                "endTime": "2026/08/27 22:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -1209,6 +1150,627 @@
                 "Status": "Upcoming",
                 "startTime": "2026/08/29 14:30:00 +0000",
                 "endTime": "2026/08/29 19:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3049,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "KuPS",
+                "teamB": "Shamrock Rovers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2244/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3177/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 15:00:00 +0000",
+                "endTime": "2026/08/27 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3050,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Iberia",
+                "teamB": "Jagiellonia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/116312/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 16:00:00 +0000",
+                "endTime": "2026/08/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3051,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ararat-Armenia",
+                "teamB": "U. Craiova",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/262229/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/116223/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 16:00:00 +0000",
+                "endTime": "2026/08/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3052,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "RB Salzburg",
+                "teamB": "Mjällby",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2046/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1783/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3053,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Qarabağ",
+                "teamB": "Twente",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5962/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 16:00:00 +0000",
+                "endTime": "2026/08/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3054,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Jablonec",
+                "teamB": "Rangers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2205/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 16:00:00 +0000",
+                "endTime": "2026/08/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3055,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kauno Žalgiris",
+                "teamB": "Beşiktaş",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/80741/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3056,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Omonia",
+                "teamB": "St. Truidense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3395/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2895/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3057,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Viktoria Plzeň",
+                "teamB": "Crvena zvezda",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5149/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3058,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Freiburg",
+                "teamB": "Motherwell",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 16:45:00 +0000",
+                "endTime": "2026/08/27 19:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3059,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lillestrøm",
+                "teamB": "Egnatia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/664/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/264619/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3060,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "M. Tel-Aviv",
+                "teamB": "Lugano",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5198/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2443/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 16:00:00 +0000",
+                "endTime": "2026/08/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3061,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "AS Monaco",
+                "teamB": "Górnik",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3110/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 16:45:00 +0000",
+                "endTime": "2026/08/27 19:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3062,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Raków",
+                "teamB": "Hajduk",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35268/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2036/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3063,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brann",
+                "teamB": "PAOK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1159/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3251/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3064,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Thun",
+                "teamB": "Lech",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2454/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3121/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 18:00:00 +0000",
+                "endTime": "2026/08/27 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3065,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "AGF",
+                "teamB": "Benfica",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1291/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 18:00:00 +0000",
+                "endTime": "2026/08/27 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3066,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "København",
+                "teamB": "Inter",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1284/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2247/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3067,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Pafos",
+                "teamB": "Dinamo City",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/171626/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5217/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3068,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "CSKA Sofia",
+                "teamB": "OFI",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3275/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3241/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 18:00:00 +0000",
+                "endTime": "2026/08/27 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3069,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter",
+                "teamB": "Drita",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/37946/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/229755/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3070,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hradec Králové",
+                "teamB": "Panathinaikos",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2217/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3248/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3071,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Riga",
+                "teamB": "Klaksvík",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/162368/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5194/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/27 17:00:00 +0000",
+                "endTime": "2026/08/27 19:20:00 +0000"
             },
             "channels_data": [
                 {

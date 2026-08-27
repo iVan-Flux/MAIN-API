@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:15:58 PM 27-08-2026",
+    "Last update time": "09:21:06 PM 27-08-2026",
     "Live": "00",
     "Upcoming": "62",
     "Finish": "00",
@@ -1049,8 +1049,24 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://live2.ftlcbx.com/live/73399084_d554b642803cbe72d309a4f624bb4321_540p.m3u8?auth_key=1787858975-0-0-8d2dbeab94b07effe66b33181e08d1a8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.42/hls/FTTTACAAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a71f77232d7e68a25e24c0d-backup/chunks.m3u8?is_vip=false&token=1787932047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-438564c9bb5885be16f22dfc53e6e085|Referer=https://iframe.rumsport8.live",
                     "logo": "",
                     "type": 0,
                     "api": "",

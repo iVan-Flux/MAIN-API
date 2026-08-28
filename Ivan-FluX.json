@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:50:59 PM 28-08-2026",
+    "Last update time": "07:55:45 PM 28-08-2026",
     "Live": "00",
     "Upcoming": "68",
     "Finish": "00",
@@ -1019,8 +1019,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwgsujboav/out/v1/61297a7dfc0d4996a60588fb99bf81fa/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "79d85379d6ccd159978086e33696b902:58a756d824c66a703f9428ecda61343a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hwgsujboav/out/v1/61297a7dfc0d4996a60588fb99bf81fa/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "79d85379d6ccd159978086e33696b902:58a756d824c66a703f9428ecda61343a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (ENG)",
+                    "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (HIN)",
+                    "link": "https://dai.google.com/ssai/event/aGNPcotmQHS93Wy7COJ5dQ/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (TAM)",
+                    "link": "https://dai.google.com/ssai/event/gCbFB2FiSbO9XPsh832aaw/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

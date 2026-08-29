@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:35:49 PM 29-08-2026",
+    "Last update time": "07:41:02 PM 29-08-2026",
     "Live": "00",
     "Upcoming": "93",
     "Finish": "00",
@@ -292,10 +292,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zkueearjie/out/v1/0f433738f98b428cba6bcc6ba44e072b/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "29909175882bb66557e51b765266c822:920b51ab82b6b1250aba897885467ca3",
+                    "api": "f20e918e5df972da367108f52fa3a15c:26732c94fca0c367578472f85f15b90e",
                     "tokenApi": ""
                 },
                 {
@@ -307,19 +307,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "29909175882bb66557e51b765266c822:920b51ab82b6b1250aba897885467ca3",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TAPMAD FHD",
                     "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zkueearjie/out/v1/0f433738f98b428cba6bcc6ba44e072b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f20e918e5df972da367108f52fa3a15c:26732c94fca0c367578472f85f15b90e",
                     "tokenApi": ""
                 }
             ]
@@ -1970,6 +1970,38 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SKY BUNDESLIGA HD",
+                    "link": "https://netanjahu.hls.st/t/7f63923b3984c2a64a762881b6f02b89/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ELEVEN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/d9c632d51e2c898dad8a18729fa16ddf/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ARENA SPORT HD",
+                    "link": "https://netanjahu.hls.st/t/65f757e7a6353241d2c9f2dfd5c935a5/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/363d417c06c87bfa60045be910be3309/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CAZE TV FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1980,6 +2012,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo200.com/live/hd-en-1-4566219.m3u8?txSecret=3e21ba48ab3cd8d856e3465e195736a9&txTime=6A92EA51|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/34e0aa0b-202a-4803-95fe-8e0103f86407.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2331,8 +2371,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/55441/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.58/hls/YIIIAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2439,8 +2487,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.58/hls/YIIIAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2517,6 +2565,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.53/hls/KHHHAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
@@ -2571,8 +2627,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.53/hls/KHHHAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2598,8 +2654,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.49/hls/IBBBQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

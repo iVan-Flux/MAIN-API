@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:21:10 PM 29-08-2026",
+    "Last update time": "10:25:48 PM 29-08-2026",
     "Live": "00",
     "Upcoming": "117",
     "Finish": "00",
@@ -3063,6 +3063,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ (EN/IT)",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gbjywuosej/out/v1/6790375d65b8404aa9fcad74dd1ce1bf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "acdcb77e15ca6fa11161df81039c17f3:eef7525d2390982e61d64a4e2c05bb95",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -3084,6 +3092,54 @@
                     "logo": "",
                     "type": 0,
                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55449/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4549108.m3u8?txSecret=fad3be66215be9fba768ae8904b3603c&txTime=6A931D27|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TRUE FOOTBALL HD",
+                    "link": "https://live3.ftlcbx.com/live/71945224_955ed3417c7ab246aaa07a3687ae2e75_540p.m3u8?auth_key=1788035273-0-0-2e7e64217cbbf366468bdcf1d30f2905|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS+",
+                    "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/533375/720p/chunks.m3u8?is_vip=false&token=1788107548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aac5448ffc5330e0209841210071dbd5|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1788024421-0-0-8490c6facada5f6a46d00c05c6805669",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=7d4b150493126c3989b21be9bd2df659&txTime=6a935cb5",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -3189,8 +3245,56 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "PARAMOUNT+ (EN/IT)",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4iwyczkmpe/out/v1/869e2f9231b94d7395e732ae8fc2fd8f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8c58d0d0ba4ae5a9d56f7054bfe8dde9:9fa1518e6678bb45e29021333c578f54",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55448/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/524281/720p/chunks.m3u8?is_vip=false&token=1788107552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4645638b21c684c0268faa2e4a6af9d0|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4549160.m3u8?txSecret=a03d3f7782e2e92fac45b42269d1b4ac&txTime=6A931D01|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TRUE FOOTBALL HD",
+                    "link": "https://live1.ftlcbx.com/live/71945220_92c7a61a361d54a1da6de09aa30d0482_540p.m3u8?auth_key=1788035273-0-0-fc8ec7c81d8bb12959bf3d9b71cf5748|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788024421-0-0-cc8378198231dd0db2fd48ff4cfc2ff9",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1788024421-0-0-c063657254a31515a99e94c47206cadb",
                     "logo": "",
                     "type": 0,
                     "api": "",

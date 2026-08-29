@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:35:53 PM 29-08-2026",
+    "Last update time": "10:45:59 PM 29-08-2026",
     "Live": "00",
     "Upcoming": "117",
     "Finish": "00",
@@ -3403,19 +3403,51 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "CAZE TV",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "title": "ESPN DEPORTES",
+                    "link": "https://chatgpt.hereisman.net/playlist/55456/load-playlist.m3u8|Referer=https://gooz.aapmains.net ",
                     "logo": "",
                     "type": 0,
-                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.44/hls/EBBBAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
-                    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1788026221-0-0-b0fc7454732e00a250b42228a29083a8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/sociedad-espanyol-laliga/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE [IND]",
+                    "link": "https://in-mc-flive.fancode.com/mumbai/4247593_english_dash_15228_1drmta-di_h264/index.mpd|user-agent=iVan-flux",
+                    "logo": "",
+                    "type": 0,
+                    "api": "03ba2b8126454be2bceb76712a5627dc:d4920685af59c8dd02f1b880affdbc9d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE [BD]",
+                    "link": "https://in-mc-flive.fancode.com/mumbai/4247593_english_dash_15228_1drmta-di_h264/index.mpd|user-agent=iVan-flux",
+                    "logo": "",
+                    "type": 0,
+                    "api": "03ba2b8126454be2bceb76712a5627dc:d4920685af59c8dd02f1b880affdbc9d",
                     "tokenApi": ""
                 }
             ]
@@ -3576,6 +3608,22 @@
                     "type": 0,
                     "api": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
                     "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.44/hls/EBBBA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LA LIGA TV+",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891f31-backup/chunks.m3u8?is_vip=false&token=1788109423-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-60f681c87b1828c5d7531dd351078ae3|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -3602,6 +3650,38 @@
                     "logo": "",
                     "type": 0,
                     "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.44/hls/RXXXQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "BeIN SPORTS HD",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a735721c167105e98891f40-backup/chunks.m3u8?is_vip=false&token=1788109420-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca1524c3bee5df5669a6ee19a5392b2f|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "S8+ SD",
+                    "link": "https://hls.lauthaitv.cc/live/viseu-porto-porliga/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=4f5e2f90d8f01e3b68bd9c6589486dd7&txTime=6a9363bd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

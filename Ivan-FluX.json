@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:46:02 PM 30-08-2026",
+    "Last update time": "11:51:04 PM 30-08-2026",
     "Live": "00",
     "Upcoming": "85",
     "Finish": "00",
@@ -2717,6 +2717,14 @@
                 {
                     "title": "PREMIER SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PREMIER SPORTS 2",
+                    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",

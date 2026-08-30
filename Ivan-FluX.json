@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:45:59 PM 30-08-2026",
+    "Last update time": "07:51:05 PM 30-08-2026",
     "Live": "00",
     "Upcoming": "86",
     "Finish": "00",
@@ -220,18 +220,18 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "api": "6aa3d669577f1f94e7a235efed36fff5:13a909e97536492a83f5229b2d22867b",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "api": "6aa3d669577f1f94e7a235efed36fff5:13a909e97536492a83f5229b2d22867b",
                     "tokenApi": ""
                 },
                 {
@@ -1769,8 +1769,24 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.ftlcbx.com/live/72201608_e5f643eb1af2e8e0f5e21332cfdb3f63_540p.m3u8?auth_key=1788112962-0-0-caf958226c45cb0d3889106f4fe6add2|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/RRRROAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "GHD GLOBAL",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a77c/chunks.m3u8?is_vip=false&token=1788185014-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-68556ba31406eb7a9c51b2158901fdc1|Referer=https://iframe.rumsport8.live",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1831,8 +1847,24 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.ftlcbx.com/live/72201602_ca0e6ef067e2687a34cd6419db90d0dd_540p.m3u8?auth_key=1788112962-0-0-fdd0f7405800d7fc880fdc74cb0eebe4|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/RRRROAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "GHD GLOBAL",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c394a200e33803a77f/chunks.m3u8?is_vip=false&token=1788185015-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-879f1a2e445626838946e4a57db8d229|Referer=https://iframe.rumsport8.live",
                     "logo": "",
                     "type": 0,
                     "api": "",

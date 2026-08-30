@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:45:56 AM 30-08-2026",
+    "Last update time": "07:50:58 AM 30-08-2026",
     "Live": "00",
-    "Upcoming": "122",
+    "Upcoming": "112",
     "Finish": "00",
     "events": [
         {
@@ -4997,330 +4997,6 @@
             ]
         },
         {
-            "id": 3247,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Toronto",
-                "teamB": "NY City",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7080/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187643/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/29 23:30:00 +0000",
-                "endTime": "2026/08/30 01:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3248,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Colorado",
-                "teamB": "Salt Lake",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2510/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5133/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 01:30:00 +0000",
-                "endTime": "2026/08/30 03:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3249,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Nashville",
-                "teamB": "Cincinnati",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/337612/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/215167/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 00:30:00 +0000",
-                "endTime": "2026/08/30 02:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3250,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Kansas City",
-                "teamB": "Vancouver",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2509/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 00:30:00 +0000",
-                "endTime": "2026/08/30 02:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3251,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Houston",
-                "teamB": "San Jose",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2508/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 00:30:00 +0000",
-                "endTime": "2026/08/30 02:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3252,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Minnesota",
-                "teamB": "Orlando",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/52237/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 00:30:00 +0000",
-                "endTime": "2026/08/30 02:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3253,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "DC United",
-                "teamB": "Los Angeles",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2502/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/29 23:30:00 +0000",
-                "endTime": "2026/08/30 01:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3254,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "San Diego",
-                "teamB": "LA Galaxy",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2513/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 02:30:00 +0000",
-                "endTime": "2026/08/30 04:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3255,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "NY Red Bulls",
-                "teamB": "Philadelphia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2506/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/29 23:30:00 +0000",
-                "endTime": "2026/08/30 01:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3256,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Portland",
-                "teamB": "Austin",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/377973/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 02:30:00 +0000",
-                "endTime": "2026/08/30 04:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3257,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Seattle",
-                "teamB": "Chicago",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2505/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/29 20:30:00 +0000",
-                "endTime": "2026/08/29 22:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3259,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Atlanta",
-                "teamB": "Charlotte",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/243211/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/404108/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/29 23:30:00 +0000",
-                "endTime": "2026/08/30 01:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 3260,
             "title": "WNBA",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
@@ -5499,6 +5175,76 @@
                 {
                     "title": "Ivan-FluX",
                     "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3268,
+            "title": "MLS",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "San Diego",
+                "teamB": "LA Galaxy",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2513/image",
+                "eventName": "MLS",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/30 02:30:00 +0000",
+                "endTime": "2026/08/30 04:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/TCCCAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-diego-fc-vs-la-galaxy/2/playlist.m3u8?tk=BjNvzOBeJBnzhRR_iI9WDA&e=1788087777|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3269,
+            "title": "MLS",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Portland",
+                "teamB": "Austin",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/377973/image",
+                "eventName": "MLS",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/30 02:30:00 +0000",
+                "endTime": "2026/08/30 04:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/TCCCAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portland-timbers-vs-austin-fc/2/playlist.m3u8?tk=MDrtSOnzft06iCbjyI1VeA&e=1788087776|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

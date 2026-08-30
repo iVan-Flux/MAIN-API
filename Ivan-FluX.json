@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:35:53 PM 30-08-2026",
+    "Last update time": "05:41:06 PM 30-08-2026",
     "Live": "00",
     "Upcoming": "86",
     "Finish": "00",
@@ -1123,6 +1123,33 @@
             ]
         },
         {
+            "id": 3166,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sunderland",
+                "teamB": "Fulham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/30 13:00:00 +0000",
+                "endTime": "2026/08/30 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
             "id": 3157,
             "title": "Premier League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -1132,6 +1159,33 @@
                 "teamB": "Brentford",
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/30 13:00:00 +0000",
+                "endTime": "2026/08/30 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3168,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Chelsea",
+                "teamB": "Brighton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
                 "eventName": "Premier League",
                 "isHot": "0",
                 "Status": "Upcoming",
@@ -1430,33 +1484,6 @@
             ]
         },
         {
-            "id": 3166,
-            "title": "Premier League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Sunderland",
-                "teamB": "Fulham",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
-                "eventName": "Premier League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 13:00:00 +0000",
-                "endTime": "2026/08/30 15:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 3167,
             "title": "2. Bundesliga",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -1500,33 +1527,6 @@
                 {
                     "title": "SD SERVER+",
                     "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sv-darmstadt-98-vs-hannover-96/2/playlist.m3u8?tk=syy6zfOhyIfvneU5kYGcjg&e=1788128369|Referer=https://ondemand.st",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3168,
-            "title": "Premier League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Chelsea",
-                "teamB": "Brighton",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
-                "eventName": "Premier League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 13:00:00 +0000",
-                "endTime": "2026/08/30 15:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

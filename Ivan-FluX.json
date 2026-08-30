@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:21:01 PM 30-08-2026",
+    "Last update time": "04:25:49 PM 30-08-2026",
     "Live": "00",
-    "Upcoming": "87",
+    "Upcoming": "86",
     "Finish": "00",
     "events": [
         {
@@ -277,65 +277,6 @@
                 {
                     "title": "SONYLIV [TEL]",
                     "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788057907~acl=/*~id=54889077826330787235845526073040~hmac=010cd54aca3bd62b7c45b85e0314d5141601c0f3ff4b19b1131a594f7d280955",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 2840,
-            "title": "Top End T20 Series 2026",
-            "image": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "TOP END T20",
-                "teamB": "TOP END T20",
-                "teamAFlag": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
-                "teamBFlag": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
-                "eventName": "Top End T20 Series 2026",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 06:00:00 +0000",
-                "endTime": "2026/08/30 11:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW HD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAMASHA FHD",
-                    "link": "https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/Tet20b-avod-abr/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "T SPORTS HD",
-                    "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE (IND)",
-                    "link": "https://in-mc-flive.fancode.com/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787806268~_GO=Generated~acl=/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/*~Signature=ARB3KG28LEUcaZYVqxtsLOhtMAoMYPNaCHxieJnckN28ngwdIRo64nayBKdpOsZj91phb7SgW0Xim-iIUWuXtVg70BkP|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

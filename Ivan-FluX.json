@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:41:01 PM 30-08-2026",
+    "Last update time": "07:45:59 PM 30-08-2026",
     "Live": "00",
-    "Upcoming": "87",
+    "Upcoming": "86",
     "Finish": "00",
     "events": [
         {
@@ -1113,8 +1113,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "ok",
+                    "title": "SERVER 1",
+                    "link": "https://cdn10khi-n.tamashaweb.com:8087/jazzauth/FIH-WC2026-abr/playlist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3223,57 +3223,6 @@
                 {
                     "title": "Ivan-FluX",
                     "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3225,
-            "title": "Field Hockey World Cup",
-            "image": "https://www.worldcup.hockey/images/logo_vertical.png",
-            "cat": "Others",
-            "eventInfo": {
-                "teamA": "Hockey World Cup",
-                "teamB": "Hockey World Cup",
-                "teamAFlag": "https://i.ibb.co/B223q1Gb/20260818-210023.png",
-                "teamBFlag": "https://i.ibb.co/B223q1Gb/20260818-210023.png",
-                "eventName": "Field Hockey World Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/08/30 12:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SERVER 1",
-                    "link": "https://cdn10khi-n.tamashaweb.com:8087/jazzauth/FIH-WC2026-abr/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SERVER 2",
-                    "link": "https://hockey-tap.kamrukhanchy.workers.dev/&.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SERVER 3",
-                    "link": "https://hockey-tap2.kamrukhanchy.workers.dev/&.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SERVER 4",
-                    "link": "https://sps-own-property2.main-faahhh-tail-op-com.store/&.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

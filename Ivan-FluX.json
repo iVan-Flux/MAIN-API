@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:35:47 PM 31-08-2026",
+    "Last update time": "05:41:04 PM 31-08-2026",
     "Live": "00",
-    "Upcoming": "47",
+    "Upcoming": "48",
     "Finish": "00",
     "events": [
         {
@@ -1080,6 +1080,57 @@
                 {
                     "title": "WTA Toronto",
                     "link": "http://193.47.62.190/hls/XAXAXA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3255,
+            "title": "Cycling",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+            "cat": "Others",
+            "eventInfo": {
+                "teamA": "Cycling",
+                "teamB": "Cycling",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+                "eventName": "Cycling",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/08/31 12:30:00 +0000",
+                "endTime": "2026/08/31 18:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "EUROSPORT 1 FHD",
+                    "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "EUROSPORT 2 FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/TNNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

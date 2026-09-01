@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:10:55 AM 02-09-2026",
+    "Last update time": "12:16:01 AM 02-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1333,6 +1333,54 @@
             },
             "channels_data": [
                 {
+                    "title": "ELEVEN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/2d314ad2141fc50ce679b5bb60c7f369/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ARENA PREMIUM HD",
+                    "link": "https://netanjahu.hls.st/t/c7f5dedf42b28ac90367619ab88dcc25/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ZIGGO SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/e04434cf7af78ed83bb92104f5c2b0a4/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/e049c5765642f1366dc17e76fc3e56af/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TVP SPORT HD",
+                    "link": "https://netanjahu.hls.st/t/a738b2b2a28ec66f19deb4d5252414ea/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/kiiiqqqq.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -1451,6 +1499,14 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/55635/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portsmouth-vs-derby-county/2/playlist.m3u8?tk=VrY5aSlgKNOOcIXKSdTVIg&e=1788327641|Referer=https://ondemand.st",
                     "logo": "",
@@ -1461,6 +1517,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-01/por-der/playlist.m3u8?tk=VrY5aSlgKNOOcIXKSdTVIg&e=1788327641|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://193.47.62.57/hls/CIIIQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1500,6 +1564,14 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://193.47.62.49/hls/QIIIQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1531,6 +1603,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-01/lcn-blk/playlist.m3u8?tk=pi0PfM-ghTcCBZULYFKTow&e=1788327640|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://193.47.62.45/hls/BIIIQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1599,6 +1679,14 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/55633/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sheffield-united-vs-bolton-wanderers/2/playlist.m3u8?tk=bPJu9UNLnIWsDvI3rqhYTw&e=1788327642|Referer=https://ondemand.st",
                     "logo": "",
@@ -1609,6 +1697,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-01/shu-bol/playlist.m3u8?tk=bPJu9UNLnIWsDvI3rqhYTw&e=1788327642|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://193.47.62.55/hls/SIIIQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

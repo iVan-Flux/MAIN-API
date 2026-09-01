@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:41:00 AM 02-09-2026",
+    "Last update time": "12:45:58 AM 02-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1499,6 +1499,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live1.ftlcbx.com/live/o07dni5z69nsmkn_92ed026284e2a51f23db36dafe708a00_1080p.m3u8?auth_key=1788303060-0-0-572c173649ef93ca89f0571df4000503",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://chatgpt.hereisman.net/playlist/55635/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1660,8 +1668,24 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://netanjahu.hls.st/t/a6bc810260a939b0cc6cd62d47978f38/index.m3u8|referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-west-ham-united-vs-wolverhampton-wanderers/2/playlist.m3u8?tk=haMvdkaDiq_bWmOwm2JkfA&e=1788327643|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.ftlcbx.com/live/72339758_59dac7407416616a9124d873ae1a2ffa_1080p.m3u8?auth_key=1788302709-0-0-2e8c0c9faafe195ed840dd03fbbe4897",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2438,6 +2462,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY FOOTBALL HD",
+                    "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-01/stk-nor/playlist.m3u8?tk=OohHGjKjQS7sN6gqpRgEOw&e=1788330671|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:45:59 PM 01-09-2026",
+    "Last update time": "07:51:01 PM 01-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -306,18 +306,18 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe",
+                    "api": "b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe",
+                    "api": "b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4",
                     "tokenApi": ""
                 },
                 {
@@ -330,7 +330,7 @@
                 },
                 {
                     "title": "SONYLIV [ENG]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788315039~acl=/*~id=84540698058037244454510559050517~hmac=fd24cd55c3a39904767be010409027bad4f903798a2f01afacabcd5eb843a0d2",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -338,7 +338,7 @@
                 },
                 {
                     "title": "SONYLIV [HIN]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788315039~acl=/*~id=84540698058037244454510559050517~hmac=fd24cd55c3a39904767be010409027bad4f903798a2f01afacabcd5eb843a0d2",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -346,7 +346,7 @@
                 },
                 {
                     "title": "SONYLIV [TAM]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788315039~acl=/*~id=84540698058037244454510559050517~hmac=fd24cd55c3a39904767be010409027bad4f903798a2f01afacabcd5eb843a0d2",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -354,7 +354,7 @@
                 },
                 {
                     "title": "SONYLIV [TEL]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788315039~acl=/*~id=84540698058037244454510559050517~hmac=fd24cd55c3a39904767be010409027bad4f903798a2f01afacabcd5eb843a0d2",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -362,7 +362,7 @@
                 },
                 {
                     "title": "SONYLIV [KAN]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788315039~acl=/*~id=84540698058037244454510559050517~hmac=fd24cd55c3a39904767be010409027bad4f903798a2f01afacabcd5eb843a0d2",
                     "logo": "",
                     "type": 0,
                     "api": "",

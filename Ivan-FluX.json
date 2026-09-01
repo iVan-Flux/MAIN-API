@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:31:35 PM 01-09-2026",
+    "Last update time": "09:35:55 PM 01-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1328,6 +1328,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hnwpde99h1/out/v1/07247abb44354ecaadb6abcbfb1e635f/54dfb0a5-f101-43d3-9dda-aa2d2d2457c1-cenc.mpd?aws_sessionId=32199e3c-4205-4c1c-8019-a22d02580a56",
+                    "logo": "",
+                    "type": 0,
+                    "api": "966d03a3a5606eafc768b24a36c71687:de1a8aec1af1d3c084f80cbce4953bed",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PREMIER SPORTS",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1357,6 +1365,30 @@
                     "logo": "",
                     "type": 0,
                     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORT TV HD",
+                    "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/KBBBAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

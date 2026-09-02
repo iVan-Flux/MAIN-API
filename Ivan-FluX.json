@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:25:48 PM 02-09-2026",
+    "Last update time": "08:31:31 PM 02-09-2026",
     "Live": "00",
-    "Upcoming": "70",
+    "Upcoming": "71",
     "Finish": "00",
     "events": [
         {
@@ -1104,6 +1104,89 @@
                 {
                     "title": "Toronto (WTA)",
                     "link": "https://cast.zlive.st/p/auto-sky-sports-tennis-0/index.m3u8?|referer=https://zlive.st/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3352,
+            "title": "Tennis US Open",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/2449/image",
+            "cat": "Others",
+            "eventInfo": {
+                "teamA": "US OPEN",
+                "teamB": "US OPEN",
+                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2449/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/2449/image",
+                "eventName": "Tennis US Open",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/02 15:00:00 +0000",
+                "endTime": "2026/09/03 00:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TENNIS 2 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS 1 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS 3 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tpdofmrr84/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPOTV FHD",
+                    "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8|referer=https://tapmad.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY TENNIS FHD",
+                    "link": "https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=8W3-qi6L4hzOhynVnQ1rXw&e=2075285627&scheme=https|User-Agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY TENNIS HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportstennis.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.190/hls/XAXAXA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:51:00 PM 02-09-2026",
+    "Last update time": "02:55:47 PM 02-09-2026",
     "Live": "00",
     "Upcoming": "71",
     "Finish": "00",
@@ -389,10 +389,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jagbnl8trg/out/v1/0cb10adee08f404c9239588df0c157f6/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b",
+                    "api": "2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6",
                     "tokenApi": ""
                 },
                 {
@@ -412,11 +412,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jagbnl8trg/out/v1/0cb10adee08f404c9239588df0c157f6/cenc.mpd",
+                    "title": "WILLOW HD",
+                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
                     "logo": "",
                     "type": 0,
-                    "api": "264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b",
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6",
                     "tokenApi": ""
                 }
             ]
@@ -1175,8 +1183,8 @@
                 "eventName": "Cycling",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/09/01 12:30:00 +0000",
-                "endTime": "2026/09/01 18:00:00 +0000"
+                "startTime": "2026/09/02 12:30:00 +0000",
+                "endTime": "2026/09/03 00:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -1226,29 +1234,21 @@
                 "eventName": "Calcutta Premier Division",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/08/31 09:30:00 +0000",
-                "endTime": "2026/08/31 23:00:00 +0000"
+                "startTime": "2026/09/02 09:30:00 +0000",
+                "endTime": "2026/09/02 12:00:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "United SC vs Suruchi Sangha",
-                    "link": "https://live-n10.videostech.cloud/match/unitedsportsclub_vs_suruchisangha/HLS/master.m3u8",
+                    "title": "United Kolkata SC vs East Bengal FC",
+                    "link": "https://live-n10.videostech.cloud/match/unitedkolkatasportsclub_vs_eastbengalfc/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "Measures Club vs Wari Athletic Club",
-                    "link": "https://live-n10.videostech.cloud/match/measurersclub_vs_wariathleticclub/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Kalighat Sports Lovers vs Mohammedan SC Reserves",
-                    "link": "https://live-n10.videostech.cloud/match/kalighatsportsla_vs_mohammedansportingclub/HLS/master.m3u8",
+                    "title": "Tamluk Khelaghar George Telegraph SC vs Calcutta Customs",
+                    "link": "https://live-n10.videostech.cloud/match/tamlukkhelaghargeorgetelegraphsc_vs_calcuttacustomsclub/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

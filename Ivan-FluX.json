@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:41:02 AM 03-09-2026",
+    "Last update time": "12:45:59 AM 03-09-2026",
     "Live": "00",
-    "Upcoming": "66",
+    "Upcoming": "69",
     "Finish": "00",
     "events": [
         {
@@ -1933,6 +1933,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/6nec92sh2y/out/v1/bf826c6cf866419dbff941d10055e19e/76f5f4c9-fe38-4c5e-903e-12e73ed99caf-cenc.mpd?aws_sessionId=4b09027b-4864-4b4d-bfc6-3f5ac54779e6",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b4d330d99a6790ad06c15f540841b689:e509d397ee99d6d818fa28eb4e642329",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/55631/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.59/hls/IIIIA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2002,6 +2018,30 @@
                 "endTime": "2026/09/02 21:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nwk6lxu4hw/out/v1/ba78c8d57f1a4690baae654b993eb416/36682804-2807-40cc-8522-6face72dfdad-cenc.mpd?aws_sessionId=567271fb-d585-4d34-b00c-acccd3947eed",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9aad66c930d5635a6c6f1bacd755e3b1:070e295be4ae8c5eb7481fc20721244d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55680/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4563550.m3u8?txSecret=ae58db1f1e720fa151230b45ecb4cf5d&txTime=6A98821C|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/IIII.m3u8|referer=http://www.fawanews.sc/",
@@ -2819,6 +2859,87 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/UDDDQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3353,
+            "title": "Copa Betano do Brasil",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Grêmio",
+                "teamB": "Internacional",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/03 23:00:00 +0000",
+                "endTime": "2026/09/04 01:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3354,
+            "title": "Copa Betano do Brasil",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Vitória",
+                "teamB": "Vasco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/03 00:30:00 +0000",
+                "endTime": "2026/09/03 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PREMIERE BR FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3355,
+            "title": "Copa Betano do Brasil",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Santos",
+                "teamB": "Palmeiras",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+                "eventName": "Copa Betano do Brasil",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/03 00:30:00 +0000",
+                "endTime": "2026/09/03 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:27:09 AM 06-09-2026",
+    "Last update time": "12:31:26 AM 06-09-2026",
     "Live": "00",
-    "Upcoming": "113",
+    "Upcoming": "114",
     "Finish": "00",
     "events": [
         {
@@ -3745,6 +3745,22 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://play.lacrima2000.com/live/98b40801cfb2e7c8.m3u8?wsSecret=7B18589F6FE5764FEBE7E2FB83402954&wsTime=1788633681|Referer=https://www.goaldaddyth.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788637322-0-0-43f2214df0226eddc4c9a844dcba4c16",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -4080,8 +4096,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FANCODE - FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "D SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ESPN DEPORTES HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/55850/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4458,11 +4490,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "Laliga Hypermotion ES",
+                    "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
                     "tokenApi": ""
                 }
             ]
@@ -5051,6 +5083,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/09/05 20:10:00 +0000",
                 "endTime": "2026/09/05 23:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Ivan-FluX",
+                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3445,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Swansea",
+                "teamB": "Wrexham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/05 19:00:00 +0000",
+                "endTime": "2026/09/05 21:20:00 +0000"
             },
             "channels_data": [
                 {

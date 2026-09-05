@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:41 PM 05-09-2026",
+    "Last update time": "07:31:30 PM 05-09-2026",
     "Live": "00",
     "Upcoming": "113",
     "Finish": "00",
@@ -1846,8 +1846,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3dmzzbqa84/out/v1/afdca7dd54c74a5784b1eb2a076b10de/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c6adb60911158337c0525056bd4eec9d:535629e67f934985046d81ab07f8fb29",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/hd-en-1-4558517.m3u8?txSecret=a36906177f8c20a41ab1f2e13003c6ff&txTime=6A9C3031|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORTS HD",
+                    "link": "https://edgestream1.pro/hls/griogoehvn2.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/cd55891c-c4ad-4242-abcc-bc4f19e66c58.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/LOOOQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2308,8 +2340,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/VDDD.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2464,6 +2496,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo200.com/live/sd-1-4563553.m3u8?txSecret=2f9a954acbef423ce746cb9c7a06e446&txTime=6A9C3222|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {

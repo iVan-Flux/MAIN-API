@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:51:43 PM 05-09-2026",
+    "Last update time": "07:55:45 PM 05-09-2026",
     "Live": "00",
     "Upcoming": "113",
     "Finish": "00",
@@ -447,6 +447,22 @@
             },
             "channels_data": [
                 {
+                    "title": "SKY SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbj273yq36/out/v1/55cc491f629846d0afdaf348949c7476/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8e09754ac1e36cd968b1ae15621624a2:f56a475a1b4e797e53cf05ba70e2f557",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "APPLE TV FHD",
+                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xferskoxad/out/v1/5ad37e90cba5492facdcdb1dcdee5ec5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d065337092bc96fb24c47041f6534d48:0b0e8ed5b62874adfcbe0b5f120983ca",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FANCODE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -488,7 +504,7 @@
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/YTTTr.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.41/hls/OZZZAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

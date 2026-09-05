@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:45:54 PM 05-09-2026",
+    "Last update time": "10:50:57 PM 05-09-2026",
     "Live": "00",
     "Upcoming": "113",
     "Finish": "00",
@@ -3061,6 +3061,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ih3bjnxk6x/out/v1/6c9278592f634b86b46d302dd2b70fec/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8d6bd24873489e90c3d6faa3ed90ec0a:cde28d2fd89edf0d953bb5b027a9dbb4",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NBC SPORTS",
                     "link": "https://chatgpt.hereisman.net/playlist/55838/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -3246,6 +3254,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FANCODE ENGLISH",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -3259,6 +3275,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beiN ARABIC HD",
+                    "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.55/hls/HHHHCQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -3578,8 +3610,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.55/hls/HHHHCQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e261-backup/chunks.m3u8?is_vip=false&token=1788714193-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cfe495fb279260f66250b6dc4279f4aa|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://live.cds78y11d.org/live/sd-6MweaAR1EGKF3nYR7a.m3u8?txSecret=ecf0e7406e6a43a40581f4abc0ee99f8&txTime=6A9CF625",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-07/get-cel/playlist.m3u8?tk=s2rDCmGuFV9PRLKahgUT-w&e=1788669427|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3610,6 +3666,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.55/hls/HHHHCQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

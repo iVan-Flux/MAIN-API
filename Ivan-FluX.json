@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:45:58 PM 06-09-2026",
+    "Last update time": "06:51:03 PM 06-09-2026",
     "Live": "00",
     "Upcoming": "73",
     "Finish": "00",
@@ -389,10 +389,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/seoc0u2gu8/out/v1/d74488f0fe394d33b93f5b753b9dc0a3/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dqodaw1doj/out/v1/754e4d553e6044b9b85067097a378f2a/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "93f50e7167925a13218e211cf68774c2:460446f9eb9895a95fcd37b084abd414",
+                    "api": "35b232c321e2f405a140441419ad6bb8:bc22f933ebaca81b34891dc76c5ee815",
                     "tokenApi": ""
                 },
                 {
@@ -405,10 +405,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/seoc0u2gu8/out/v1/d74488f0fe394d33b93f5b753b9dc0a3/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dqodaw1doj/out/v1/754e4d553e6044b9b85067097a378f2a/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "93f50e7167925a13218e211cf68774c2:460446f9eb9895a95fcd37b084abd414",
+                    "api": "35b232c321e2f405a140441419ad6bb8:bc22f933ebaca81b34891dc76c5ee815",
                     "tokenApi": ""
                 },
                 {
@@ -2025,6 +2025,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ESPN SPORTS FHD",
+                    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
                     "tokenApi": ""
                 }
             ]

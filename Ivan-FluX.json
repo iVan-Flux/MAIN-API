@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:05:45 PM 06-09-2026",
+    "Last update time": "08:10:59 PM 06-09-2026",
     "Live": "00",
     "Upcoming": "73",
     "Finish": "00",
@@ -2289,6 +2289,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live2.ftlcbx.com/live/72201626_df0acc1b13ac8e9e834e803b97eb2a67_540p.m3u8?auth_key=1788718318-0-0-63fec3b68b81066740d54f41ef286aa6",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/ILLL.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2315,6 +2323,14 @@
                 "endTime": "2026/09/06 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live1.ftlcbx.com/live/72201630_1a7b4e065686fcf06034aa218353bc99_540p.m3u8?auth_key=1788718318-0-0-071b723aab41ceeeddc24deef61abc46",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/ILLLA.m3u8|referer=http://www.fawanews.sc/",
@@ -2478,8 +2494,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SPORT TV HD",
+                    "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2505,8 +2521,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/ILLLAAAAAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

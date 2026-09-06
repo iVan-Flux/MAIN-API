@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:35:49 PM 06-09-2026",
+    "Last update time": "06:41:00 PM 06-09-2026",
     "Live": "00",
     "Upcoming": "73",
     "Finish": "00",
@@ -448,18 +448,18 @@
             "channels_data": [
                 {
                     "title": "SKY SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbj273yq36/out/v1/55cc491f629846d0afdaf348949c7476/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dk1f1l8kxn/out/v1/8fdd7ebf1ce1424fbc0e37def3626b0d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "8e09754ac1e36cd968b1ae15621624a2:f56a475a1b4e797e53cf05ba70e2f557",
+                    "api": "c3ba89f1539996a5b52b64e69fc864bd:e206cd1d6b5ce91db2d29096c7a43678",
                     "tokenApi": ""
                 },
                 {
                     "title": "APPLE TV FHD",
-                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xferskoxad/out/v1/5ad37e90cba5492facdcdb1dcdee5ec5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zp4xsuzyqi/out/v1/be8a527ca20244fe87668c93e940a16d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "d065337092bc96fb24c47041f6534d48:0b0e8ed5b62874adfcbe0b5f120983ca",
+                    "api": "6e1bfce88fb089ef6f1fbf99af7015c6:5e241218e58a0b8238005193f5bea7fc",
                     "tokenApi": ""
                 },
                 {
@@ -471,14 +471,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FORMULA 1 HD",
                     "link": "https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -487,16 +479,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SKY F1 Italia [IT]",
-                    "link": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1788597844_f~0_g~1_s~3f4937a9-3ff1-4569-8ba1-4d71267b77cc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~87c073c87c84cce52658823bcb030cdc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788606149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-820d63231549bad256b718e7e6a8f7ab|Referer=https://iframe.rumsport8.live",
+                    "title": "SPORTCAST FHD",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6abf4208-75a1-4bb0-97c6-de3b04fc0831/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1536,6 +1520,22 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/f1fe9e5a-d39d-402c-9e21-be09820f7ec2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/HOOOAAAAAAQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1680,6 +1680,14 @@
                 {
                     "title": "DAZN SPORTS HD",
                     "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/a4d1e872-7a37-47df-991c-6305b5df2898.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1944,6 +1952,22 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo200.com/live/hd-en-1-4550868.m3u8?txSecret=942822680411379b3b39c8603c7696b5&txTime=6A9D76CA|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/95b779ac-9502-44e0-96ae-4bba7baaff36.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/HOOOAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

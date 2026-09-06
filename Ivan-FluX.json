@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:40:57 PM 06-09-2026",
+    "Last update time": "04:45:59 PM 06-09-2026",
     "Live": "00",
     "Upcoming": "73",
     "Finish": "00",
@@ -1341,6 +1341,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o5pn4cun0x/out/v1/7305bef862f54427b6be03fa317b0320/9f20286c-63bf-46a9-a5d4-aafdf2e98258-cenc.mpd?aws_sessionId=87325731-052f-4efd-905f-364fd595c8dd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "40a7587dea979364b9c75cf72ae17270:a5bdafdfa5b39e273db730600938917a",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1426,6 +1434,14 @@
                 "endTime": "2026/09/06 13:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pl7wnhmwcd/out/v1/2dc0a6be156748e9bcea2ce32f6fb0e6/e447833e-b905-4f30-954c-10523e1504f4-cenc.mpd?aws_sessionId=fa330406-3de3-4fff-9c2e-b7eb744e4a34",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5a1fa906d2882fc00ec4326800f1bfbf:7848b6b75d0586b213983b3c532c5811",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://162.251.160.53:8089/1354/index.m3u8",
@@ -1633,11 +1649,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FOX SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
                     "tokenApi": ""
                 }
             ]
@@ -1660,11 +1676,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "beIN ENGLISH",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
                     "tokenApi": ""
                 }
             ]
@@ -1686,6 +1702,30 @@
                 "endTime": "2026/09/06 13:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "CBS NETWORK HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORT NZ",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY MAIN EVENT",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://162.251.160.53:8089/1258/index.m3u8",

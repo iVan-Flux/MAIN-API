@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:55:44 PM 07-09-2026",
+    "Last update time": "12:01:22 AM 08-09-2026",
     "Live": "00",
-    "Upcoming": "52",
+    "Upcoming": "54",
     "Finish": "00",
     "events": [
         {
@@ -1442,7 +1442,7 @@
             "channels_data": [
                 {
                     "title": "Link 1",
-                    "link": "https://no.link",
+                    "link": "http://193.47.62.59/hls/GQQQAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1609,6 +1609,14 @@
                     "type": 0,
                     "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/VBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1684,8 +1692,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SPORT TV HD",
+                    "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/QUUUQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1716,6 +1732,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/QUUUQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -1794,6 +1818,30 @@
                     "logo": "",
                     "type": 0,
                     "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "M+ LaLiga HD",
+                    "link": "https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/QUUUQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -1880,6 +1928,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/QUUUQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -2268,6 +2324,60 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3387,
+            "title": "CFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Calgary",
+                "teamB": "Edmonton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4433/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+                "eventName": "CFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/07 22:00:00 +0000",
+                "endTime": "2026/09/08 01:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3388,
+            "title": "CFL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Hamilton",
+                "teamB": "Toronto",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4441/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
+                "eventName": "CFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/07 18:30:00 +0000",
+                "endTime": "2026/09/07 21:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
                     "tokenApi": ""
                 }
             ]

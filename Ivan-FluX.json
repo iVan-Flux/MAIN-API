@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:10:59 AM 09-09-2026",
+    "Last update time": "12:15:54 AM 09-09-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -1723,6 +1723,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT +",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v2in2hoej4/out/v1/37d71ca48b334490b611efeb511232d2/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cef28547ad3df64d42ddd1d5fc1b311f:93dcad1290c5eb6179f4ed4106896ce9",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TnT Sports AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/OZZZAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -1777,7 +1793,31 @@
             },
             "channels_data": [
                 {
-                    "title": "SD link",
+                    "title": "CBS SPORTS",
+                    "link": "https://chatgpt.hereisman.net/playlist/56058/load-playlist.m3u8|Referer=https://gooz.aapmains.net ",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORTS+",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90e4b95d79ffdae276b410-hd/chunks.m3u8?is_vip=false&token=1788978763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5da2853b417b7fbd6d84cba0ae8e8c90|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/0433fb9b-3703-499e-ab30-c2a3647e3092.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
                     "link": "http://193.47.62.41/hls/VEEEA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -1964,11 +2004,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT +",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lxm56huryl/out/v1/750e5b33eda7484ca92454dae7ffe4b7/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "e706827bc0034a2d1554d6301f7f38e7:68bb0977300cee064f5a77cac7ec2a3a",
                     "tokenApi": ""
                 }
             ]

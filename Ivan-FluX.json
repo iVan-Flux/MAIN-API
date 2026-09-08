@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:21:02 AM 09-09-2026",
+    "Last update time": "12:25:48 AM 09-09-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -1970,7 +1970,15 @@
             },
             "channels_data": [
                 {
-                    "title": "SD link",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/56063/load-playlist.m3u8|Referer=https://gooz.aapmains.net ",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/ECCCQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -2024,7 +2032,23 @@
             },
             "channels_data": [
                 {
-                    "title": "SD link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kmhfntapzd/out/v1/034eac582df945729bbe6c0b2a451578/b7bee0e9-ba6a-4d0d-bbd7-6523916be55b-cenc.mpd?aws_sessionId=8ec0add3-58ba-49ba-9fe1-70d6e87604c4",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5bb94df80aaa91aa4e71a6f08fbb6749:a7c8c6982e50ad19be24b969a53dfd72",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/56065/load-playlist.m3u8|Referer=https://gooz.aapmains.net ",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/ECCCQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -2086,15 +2110,15 @@
             },
             "channels_data": [
                 {
-                    "title": "Bein Sp",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/56053/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
-                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
+                    "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/FBBBQQQQqqqQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -2121,8 +2145,16 @@
             },
             "channels_data": [
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.41/hls/ECCCQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/56064/load-playlist.m3u8|Referer=https://gooz.aapmains.net ",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/ECCCQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2256,7 +2288,15 @@
             },
             "channels_data": [
                 {
-                    "title": "SD link",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/56059/load-playlist.m3u8|Referer=https://gooz.aapmains.net ",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/ECCC.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -2282,6 +2322,14 @@
                 "endTime": "2026/09/08 21:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT +",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgy1l0mfam/out/v1/1114f3c1bedf4fdfbc363357b61b2fb6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b777dd0e55bb70c26b77364b6943b8be:93c3bead9249d31ab4cfe318f9500f2f",
+                    "tokenApi": ""
+                },
                 {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:10:56 PM 09-09-2026",
+    "Last update time": "04:15:53 PM 09-09-2026",
     "Live": "00",
-    "Upcoming": "77",
+    "Upcoming": "75",
     "Finish": "00",
     "events": [
         {
@@ -1276,60 +1276,6 @@
                 {
                     "title": "SONYLIV [KAN]",
                     "link": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3402,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Stuttgart U19",
-                "teamB": "Viking FK U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/43732/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/262177/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/09 10:30:00 +0000",
-                "endTime": "2026/09/09 12:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3405,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Barcelona U19",
-                "teamB": "Feyenoord U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/90128/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/197177/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/09 10:00:00 +0000",
-                "endTime": "2026/09/09 12:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

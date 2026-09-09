@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:11:01 PM 09-09-2026",
+    "Last update time": "01:15:57 PM 09-09-2026",
     "Live": "00",
-    "Upcoming": "76",
+    "Upcoming": "77",
     "Finish": "00",
     "events": [
         {
@@ -152,11 +152,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
                     "tokenApi": ""
                 }
             ]
@@ -304,6 +304,33 @@
                 {
                     "title": "SONYLIV [KAN]",
                     "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3475,
+            "title": "One Day International U19",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11325/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "ENG-U19",
+                "teamB": "PAK-U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213107/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213104/image",
+                "eventName": "One Day International U19",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/09 09:30:00 +0000",
+                "endTime": "2026/09/09 18:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

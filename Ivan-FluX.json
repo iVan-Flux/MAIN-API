@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:50:54 AM 10-09-2026",
+    "Last update time": "07:55:46 AM 10-09-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -2272,8 +2272,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portland-timbers-vs-st-louis-city-sc/2/playlist.m3u8?tk=-AhJHzWF4LRSYdowOPa-1w&e=1789038084|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/BQQQAQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/mls/2026-09-09/por-stl/playlist.m3u8?tk=-AhJHzWF4LRSYdowOPa-1w&e=1789038084|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2299,8 +2315,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vancouver-whitecaps-vs-la-galaxy/2/playlist.m3u8?tk=aP58Y88EeYTveqOaPlNpFA&e=1789038085|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/BQQQAQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/mls/2026-09-09/van-la/playlist.m3u8?tk=aP58Y88EeYTveqOaPlNpFA&e=1789038085|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

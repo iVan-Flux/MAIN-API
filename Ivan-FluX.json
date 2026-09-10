@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:55:48 PM 10-09-2026",
+    "Last update time": "03:01:17 PM 10-09-2026",
     "Live": "00",
     "Upcoming": "47",
     "Finish": "00",
@@ -27,10 +27,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e",
+                    "api": "bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad",
                     "tokenApi": ""
                 },
                 {
@@ -42,8 +42,16 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TAPMAD FHD",
+                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TAMASHA FHD",
-                    "link": "https://cdn01isb-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-abr/playlist.m3u8",
+                    "link": "https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -51,10 +59,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/s0vxxrjcsl/out/v1/78d97a74f6b3438a89a405abd6de818e/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e",
+                    "api": "bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad",
                     "tokenApi": ""
                 },
                 {
@@ -83,8 +91,16 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/DDDDAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.41/hls/DDDDAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -342,10 +358,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4b6jcx4eov/out/v1/3173a9cf67484677816695ee5c7107eb/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ooviqzozcz/out/v1/446de2305a514c0f804f033fff0d6f96/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "cab8089ec22c79b7e48023d0f7cc3bd8:3baf207d85dfbfde3eeec1c7ae3cc4fc",
+                    "api": "f845e1d42f316d417832a85f7220a0ce:3bf20a24044bb618803fd30587d76f98",
                     "tokenApi": ""
                 },
                 {
@@ -358,31 +374,23 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4b6jcx4eov/out/v1/3173a9cf67484677816695ee5c7107eb/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ooviqzozcz/out/v1/446de2305a514c0f804f033fff0d6f96/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "cab8089ec22c79b7e48023d0f7cc3bd8:3baf207d85dfbfde3eeec1c7ae3cc4fc",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW HD",
-                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FOX CRICKET HD",
-                    "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
+                    "api": "f845e1d42f316d417832a85f7220a0ce:3bf20a24044bb618803fd30587d76f98",
                     "tokenApi": ""
                 },
                 {
                     "title": "TAPMAD FHD",
                     "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:11:00 PM 10-09-2026",
+    "Last update time": "10:16:06 PM 10-09-2026",
     "Live": "00",
     "Upcoming": "44",
     "Finish": "00",
@@ -1275,6 +1275,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q69cjonkxm/out/v1/43733cfc2d6f43d1a2a5eb34935987ae/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4ab625e1136af7114b9c222d4b5f0916:443566ff55ac8c14546a2ef716e28825",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1283,7 +1291,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
+                    "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56170/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
@@ -1380,6 +1388,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dagal4p349/out/v1/9bee813b23794c0987f1b45663173b81/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b7c47c55bb2e36c4bdf8e62190551845:6bdc6b7181336205e8fbd70c1abcb630",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1388,7 +1404,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
+                    "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56169/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
@@ -1404,7 +1420,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER+",
+                    "title": "HD SERVER",
                     "link": "https://www.rtmpcdn.com/live/bf5477a3-55c0-478a-a3c6-7492c2897ac1.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,

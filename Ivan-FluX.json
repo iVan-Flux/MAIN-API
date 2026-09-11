@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:35:54 PM 11-09-2026",
+    "Last update time": "11:41:03 PM 11-09-2026",
     "Live": "00",
     "Upcoming": "56",
     "Finish": "00",
@@ -1194,6 +1194,38 @@
                     "logo": "",
                     "type": 0,
                     "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a86/chunks.m3u8?is_vip=false&token=1789236187-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-afe597e23c82678e6c4a6155c62111e3|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a86-backup/chunks.m3u8?is_vip=false&token=1789236186-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a7ecf205a02ad2eed07d742a3ac3e9df|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "http://193.47.62.46/hls/VBBBAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1789152842-0-0-d1295dce5fbb73e7ddce46dcf2aa4ae8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

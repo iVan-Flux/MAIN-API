@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:31:36 PM 11-09-2026",
+    "Last update time": "04:35:52 PM 11-09-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -92,7 +92,7 @@
                 },
                 {
                     "title": "SonyLiv (Asia)",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788989480~acl=/*~id=85449057533037719004138080912642~hmac=8786d8140e8f82acd67b832583dfdc9547d2ff7fae2de4892ea2240a0c096a63",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789167233~acl=/*~id=73667998224921892629537266628341~hmac=94d483d80ce1fc2819e4939e455dec0b710b66a7d734dbb7b0000dc1e439384e",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -404,28 +404,12 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/09/11 11:30:00 +0000",
-                "endTime": "  +0000"
+                "endTime": "2026/09/11 18:30:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "SKY SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dk1f1l8kxn/out/v1/8fdd7ebf1ce1424fbc0e37def3626b0d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c3ba89f1539996a5b52b64e69fc864bd:e206cd1d6b5ce91db2d29096c7a43678",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "APPLE TV FHD",
-                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zp4xsuzyqi/out/v1/be8a527ca20244fe87668c93e940a16d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "6e1bfce88fb089ef6f1fbf99af7015c6:5e241218e58a0b8238005193f5bea7fc",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
@@ -433,15 +417,15 @@
                 },
                 {
                     "title": "FORMULA 1 HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/55804/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SPORTCAST FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6abf4208-75a1-4bb0-97c6-de3b04fc0831/master.m3u8",
+                    "title": "SKY SPORTS HD",
+                    "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -449,7 +433,7 @@
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/OZZZAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.41/hls/kkkka.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -470,8 +454,8 @@
                 "eventName": "MotoGP",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/09/11 08:45:00 +0000",
-                "endTime": "2026/09/11 14:00:00 +0000"
+                "startTime": "2026/09/11 13:00:00 +0000",
+                "endTime": "2026/09/11 16:00:00 +0000"
             },
             "channels_data": [
                 {

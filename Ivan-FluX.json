@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:01:20 PM 12-09-2026",
+    "Last update time": "10:11:04 PM 12-09-2026",
     "Live": "00",
     "Upcoming": "101",
     "Finish": "00",
@@ -2389,6 +2389,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "ESPN AR FHD",
+                    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NBC SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56267/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2399,6 +2407,14 @@
                 {
                     "title": "SKY SPORTS EPL",
                     "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY SPORTS HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2429,8 +2445,16 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream7.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/GAAAQQQQQQQ.m3u8",
+                    "link": "http://193.47.62.55/hls/GAAAQQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2455,6 +2479,14 @@
                 "endTime": "2026/09/12 18:50:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "Laliga Hypermotion ES HD",
+                    "link": "https://live.uu6611.com/live/sd-1-4567263.m3u8?txSecret=de914eff878a49daccf7e2ea9325e19b&txTime=6AA5C4AF|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "Laliga Hypermotion ES",
                     "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
@@ -2545,11 +2577,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
                     "tokenApi": ""
                 }
             ]

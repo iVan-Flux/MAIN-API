@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:55:45 PM 12-09-2026",
+    "Last update time": "04:01:18 PM 12-09-2026",
     "Live": "00",
     "Upcoming": "109",
     "Finish": "00",
@@ -408,6 +408,22 @@
             },
             "channels_data": [
                 {
+                    "title": "SKY SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2yim7ov7/out/v1/0f7a0474cb3049ffbadd6379d0856eaa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "080c0d22d6b843cea61dcc96638d8cb7:8e1dc9d1fda28980f434d770d13e514a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "APPLE TV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/brgq3goupc/out/v1/0944657f0f5d4136a4f65a8c5f361495/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1b6a738aede292834e1e6e140f4c28cc:9ab80d7cc459f54ea03014ddbd3361ad",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FANCODE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -416,8 +432,16 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "APPLE TV 4K",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dgditzefdj/out/v1/f815a2fd789142b79eeaa33407a190a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0167f8a5efeb58aab9ddc9b8960d2d9e:bd56e86317856eeb57001b9b5d85d82d",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FORMULA 1 HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/55804/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/56188/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

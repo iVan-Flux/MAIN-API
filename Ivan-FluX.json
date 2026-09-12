@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:10:54 PM 12-09-2026",
+    "Last update time": "03:15:51 PM 12-09-2026",
     "Live": "00",
     "Upcoming": "109",
     "Finish": "00",
@@ -27,10 +27,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kbatzaazbo/out/v1/e12d4e78342c47348c272f5d5979eeec/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4b449e62d6400a82c000f057837d3c34:6726fe4c78a06a3861c5403c716ea96f",
+                    "api": "227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861",
                     "tokenApi": ""
                 },
                 {
@@ -59,10 +59,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kbatzaazbo/out/v1/e12d4e78342c47348c272f5d5979eeec/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4b449e62d6400a82c000f057837d3c34:6726fe4c78a06a3861c5403c716ea96f",
+                    "api": "227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861",
                     "tokenApi": ""
                 },
                 {
@@ -350,26 +350,18 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ijdtchzbii/out/v1/1d139fe172f94e6c8c107da1bdee0192/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4f04d96a04402d8818478ece57b9475f:fedfd84ff9b4034a5d20dec45c282c0a",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TNT SPORTS 2",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                    "api": "b58270b226e165048628aa8ed0006adc:d4081d990e8eac7ed6b130975bad3df8",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ijdtchzbii/out/v1/1d139fe172f94e6c8c107da1bdee0192/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4f04d96a04402d8818478ece57b9475f:fedfd84ff9b4034a5d20dec45c282c0a",
+                    "api": "b58270b226e165048628aa8ed0006adc:d4081d990e8eac7ed6b130975bad3df8",
                     "tokenApi": ""
                 },
                 {
@@ -386,6 +378,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS 2",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
                     "tokenApi": ""
                 }
             ]

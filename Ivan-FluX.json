@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:43 PM 12-09-2026",
+    "Last update time": "07:31:35 PM 12-09-2026",
     "Live": "00",
     "Upcoming": "108",
     "Finish": "00",
@@ -1923,6 +1923,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gb6gioizdy/out/v1/a05a2e4041974815af4f64f7a030930b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2ed7c18658dcb39f78033670391e0277:31542463ca937fc43be12bb75f224b16",
+                    "tokenApi": ""
+                },
+                {
                     "title": "USA TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56240/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1982,6 +1990,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PEACOCK TV 4K",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5p4v1vko47/out/v1/a62d9113e3c54373a7f7385ec086ee0f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "673d2eed0c6af35a16f9833c9e9b80ab:048e6a03bc9104c4a358dbcd062e5627",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56239/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1990,8 +2006,24 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4558544.m3u8?txSecret=14e484c3eacabbddf4ab6d2ee20a2caf&txTime=6AA59FD9|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-liverpool-vs-fulham/2/playlist.m3u8?tk=E2fY-znsicwiMMGRgV_QZw&e=1789260145|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://193.47.62.59/hls/OVVVAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2110,6 +2142,14 @@
                 "endTime": "2026/09/12 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/geiagnri8h/out/v1/afdca7dd54c74a5784b1eb2a076b10de/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "121d54e733670be729ca52b4d02ad8f7:c3450b62e19681002716f9fe5ec7668a",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56238/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
@@ -2248,6 +2288,22 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tz2nf4uoob/out/v1/1f17e6dc76e84f3bb9768b09174df3a0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "32825ab10c7d210f268da6de4195e33c:18e275d2b7bc496a61d0c99501e54338",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PEACOCK TV 4K",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/njpthwrgqg/out/v1/ffd4aca490a347af8fe274f5882cd49a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "df1b637a3618892498fe95fa88ac6520:985b0b780ea6fcf1777d70f699a212b5",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56237/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2274,6 +2330,14 @@
                 {
                     "title": "SD SERVER",
                     "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aston-villa-vs-nottingham-forest/2/playlist.m3u8?tk=v5zmL_-tFfea9BvnNGfTYw&e=1789260144|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://193.47.62.59/hls/OVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

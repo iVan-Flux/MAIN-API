@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:55:45 PM 12-09-2026",
+    "Last update time": "10:01:20 PM 12-09-2026",
     "Live": "00",
     "Upcoming": "101",
     "Finish": "00",
@@ -2258,6 +2258,14 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/c5b5beab-bb00-43c9-b18a-3fbd5d2a31f5.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2322,8 +2330,24 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/c5b5beab-bb00-43c9-b18a-3fbd5d2a31f5.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4566248.m3u8?txSecret=a0ab0ff190a420ae9883d29b60408688&txTime=6AA5C452|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/GAAAQQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2395,6 +2419,22 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/c5b5beab-bb00-43c9-b18a-3fbd5d2a31f5.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/GAAAQQQQQQQ.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2422,6 +2462,14 @@
                     "type": 0,
                     "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/GAAAQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2443,8 +2491,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-12/gae-gro/playlist.m3u8?tk=D6kK9vupC3xLIBtrow-B5A&e=1789272254|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2470,8 +2518,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/GAAAQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

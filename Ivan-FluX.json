@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:35:49 PM 13-09-2026",
+    "Last update time": "08:41:01 PM 13-09-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -2095,8 +2095,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NOVA SPORTS FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN USA HD",
+                    "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4550872.m3u8?txSecret=6da9d67e0a906410ef6b333ddd8e3ee4&txTime=6AA700AE|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIGUE1+ HD",
+                    "link": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

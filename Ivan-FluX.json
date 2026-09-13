@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:21:05 PM 13-09-2026",
+    "Last update time": "06:25:46 PM 13-09-2026",
     "Live": "00",
     "Upcoming": "71",
     "Finish": "00",
@@ -315,6 +315,22 @@
                 "endTime": "2026/09/13 16:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "SKY SPORTS FHD",
+                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/p7buvsnvq3/out/v1/ecc79bf0f0fa4c188055d99ecf3003b1/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1108b848697e24f4de284bd482ae0e7e:b34f5daa218b480f82762cd1d88a7d90",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "APPLE TV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcdhbvl50j/out/v1/08400e9f9b2042388721e967bb28d2e8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8a1b70018a94bb76a853f57a8b30b77f:a9e82aa405c623f029d6a3f66dbe172f",
+                    "tokenApi": ""
+                },
                 {
                     "title": "TSN SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1454,6 +1470,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4558539.m3u8?txSecret=3d798ddab9b7d220cc9eb62d79ee2bb9&txTime=6AA6E05F|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SKY MAIN EVENT",
                     "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8",
                     "logo": "",
@@ -1492,6 +1516,23 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "EPL FHD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/pl/2026-09-13/cov-bha",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

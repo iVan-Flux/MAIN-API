@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:50:53 AM 13-09-2026",
+    "Last update time": "07:55:47 AM 13-09-2026",
     "Live": "00",
     "Upcoming": "113",
     "Finish": "00",
@@ -3536,8 +3536,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-la-galaxy-vs-seattle-sounders-fc/2/playlist.m3u8?tk=_v5uK315Ko78Z4PBjHre-w&e=1789300214|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3563,8 +3563,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "http://193.47.62.55/hls/gagagaaA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-jose-earthquakes-vs-houston-dynamo-fc/2/playlist.m3u8?tk=__9FL8GSm64chubaH8u3Sg&e=1789300215|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

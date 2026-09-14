@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:05:40 AM 14-09-2026",
+    "Last update time": "08:10:52 AM 14-09-2026",
     "Live": "00",
     "Upcoming": "81",
     "Finish": "00",
@@ -2502,6 +2502,22 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/sd-1-4553864.m3u8?txSecret=583b419baea09aee341ada7ab644cdca&txTime=6AA78F70|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/ZFFFQqqQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "https://messi.damitv.st/live-sd/streamed/admin/ppv-guadalajara-vs-pumas-unam/2/playlist.m3u8?tk=0igVU5KTXltve_zeW7_EBw&e=1789365486|Referer=https://ondemand.st",
                     "logo": "",
@@ -2516,6 +2532,23 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "LIGA MX HD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/liga-mx/2026-09-13/gdl-unam",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

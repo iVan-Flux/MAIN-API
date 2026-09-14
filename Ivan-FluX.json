@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:10:52 AM 14-09-2026",
+    "Last update time": "08:15:51 AM 14-09-2026",
     "Live": "00",
     "Upcoming": "81",
     "Finish": "00",
@@ -2710,11 +2710,11 @@
             },
             "channels_data": [
                 {
-                    "title": "TUDN USA",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/sd-1-4553865.m3u8?txSecret=f36bf0077dbae395659999b138108ca4&txTime=6AA78F2D|Referer=https://player.up909.com/",
                     "logo": "",
                     "type": 0,
-                    "api": "cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -2726,12 +2726,29 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TUDN MEXICO",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "title": "SD SERVER+",
+                    "link": "http://193.47.62.44/hls/ZFFFQqqQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
-                    "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+                    "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "LIGA MX FHD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/liga-mx/2026-09-13/san-jua",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

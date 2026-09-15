@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:15:56 PM 15-09-2026",
+    "Last update time": "07:21:03 PM 15-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -67,7 +67,7 @@
                 },
                 {
                     "title": "SONY TEN 1 (IND)",
-                    "link": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1789347840~acl=/*~id=66646112155930483798580590417701~hmac=750e33dc527bef6868825687c609e9ab5672afb3503d60ade20ec9dbbe47d147",
+                    "link": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1789518142~acl=/*~id=54530039747299703482845608434887~hmac=ad935b4a2639a31294597a08daa42ffb40d2d8ce45a7b95e3e730ac40b6832f3",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -75,7 +75,7 @@
                 },
                 {
                     "title": "SONY TEN 3 (IND)",
-                    "link": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1789347840~acl=/*~id=66646112155930483798580590417701~hmac=750e33dc527bef6868825687c609e9ab5672afb3503d60ade20ec9dbbe47d147",
+                    "link": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1789518142~acl=/*~id=54530039747299703482845608434887~hmac=ad935b4a2639a31294597a08daa42ffb40d2d8ce45a7b95e3e730ac40b6832f3",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -83,7 +83,7 @@
                 },
                 {
                     "title": "FANCODE ENG (IND)",
-                    "link": "https://in-mc-flive.fancode.com/mumbai/4248491_english_hls_708908f4d035358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789392659~_GO=Generated~acl=/mumbai/4248491_english_hls_708908f4d035358_1ta-di_h264/*~Signature=AWDec-E33A5I0q5BAkjtpoWZAc3Q-FATmuUsUpdvv4lNmF0173baG0GBcBB8bnvSdOZLu8nInK3dQIIyWkb-xxm069QH",
+                    "link": "https://dai-fancode.pages.dev/out/v1/ap-south-1/4248493_english_466708/ad-h264/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -91,23 +91,7 @@
                 },
                 {
                     "title": "FANCODE HIN (IND)",
-                    "link": "https://in-mc-flive.fancode.com/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789392659~_GO=Generated~acl=/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/*~Signature=AWDec-HByQhk68qSCnCZyABpf45aQQnnay5WKHnruoErrGrN-vafHAIvAttH8kmxylYL3z2vHk2KCGSXRBizd32DMxwF",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONY SPORTS (IND)",
-                    "link": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONY HINDI (IND)",
-                    "link": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1789353717~acl=*~id=15567844849341243007~hmac=c7216c1f90823e010c1fa8d69b61361a9c1a731231ef275db159553a426c9c85",
+                    "link": "https://dai-fancode.pages.dev/out/v1/ap-south-1/4248493_hindi_150048/ad-h264/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1478,6 +1462,14 @@
                 "endTime": "2026/09/15 16:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "beIN ARABIC HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/EGGGAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:59:37 PM 15-09-2026",
+    "Last update time": "03:01:35 PM 15-09-2026",
     "Live": "00",
     "Upcoming": "24",
     "Finish": "00",
@@ -330,18 +330,18 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5vutugmafz/out/v1/a5e59edfbdf142d6bca219267d1a672a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kuvklwot79/out/v1/7444f966acf14e559466b176d70203bc/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "5065b5cc671f155d8a2a115d29e21f33:c40b6aa86535c8e057b74f81f1231afc",
+                    "api": "309e85d6694749978e614aa5926c73a9:116d71ce23ee34ac656af54fb1400ffb",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5vutugmafz/out/v1/a5e59edfbdf142d6bca219267d1a672a/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kuvklwot79/out/v1/7444f966acf14e559466b176d70203bc/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "5065b5cc671f155d8a2a115d29e21f33:c40b6aa86535c8e057b74f81f1231afc",
+                    "api": "309e85d6694749978e614aa5926c73a9:116d71ce23ee34ac656af54fb1400ffb",
                     "tokenApi": ""
                 },
                 {
@@ -1140,15 +1140,7 @@
             "channels_data": [
                 {
                     "title": "United SC vs East Bengal FC",
-                    "link": "https://live-n10.videostech.cloud/match/unitedsc_vs_eastbengalfc/HLS/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Mohammedan SC Reserves vs Sangbad Pratidin Bhawanipore",
-                    "link": "https://live-n10.videostech.cloud/match/mohammedansc_vs_spbhawaniporefc/HLS/master.m3u8",
+                    "link": "https://live-n10.videostech.cloud/match/coalindiaspa_vs_spbhawaniporefc/HLS/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

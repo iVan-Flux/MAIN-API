@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:45:54 PM 15-09-2026",
+    "Last update time": "03:50:53 PM 15-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1166,8 +1166,41 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4621503.m3u8?txSecret=88a6bbb779f95b45d5f03a64554b26fb&txTime=6AA956E4|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/emmmaAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://162.251.160.53:8089/1384/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "http://162.251.160.53:8089/1384/index.m3u8",
+                        "api": "http://162.251.160.53:8089/1384/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "ARABIC HD",
+                    "link": "https://fhlsport722.tm3troops31patrol.ru/token-dE5%2FyOHAL6CG7mErwvY6zTrXlJvX1H3janSjk6BMGTH24bCXHUFaCZQkqwtJVU8GRn7c3zVnm%2FZ1epdKU0IY%2F4o%2BSUK%2FPII%3Da/cfall/s2001/v3b/nr6rr7p5nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_814486/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1193,8 +1226,41 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4621522.m3u8?txSecret=23f724dfbe23e9b14514e67ff216c593&txTime=6AA9572A|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/emmmaAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://162.251.160.53:8089/1465/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "http://162.251.160.53:8089/1465/index.m3u8",
+                        "api": "http://162.251.160.53:8089/1465/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "ARABIC HD",
+                    "link": "https://fhlsport722.tm3troops31patrol.ru/token-IE8vn7jAIaSG7zF9kPY6ym6AlJvR1i3ja3eqkqVNETnx7rCWHUFaCZQkqwtJVU8GRn7c3zVnm%2FZ1epdIVkIY%2F4o%2BSUK%2FPII%3Da/cfall/s2001/v3b/9oq32rr0nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_814487/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1271,6 +1337,14 @@
                 "endTime": "2026/09/15 12:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4621487.m3u8?txSecret=2636afccb779e7b32463d611c81fe15b&txTime=6AA9570E|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/EGGGA.m3u8|referer=http://www.fawanews.sc/",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:05:46 PM 15-09-2026",
+    "Last update time": "03:10:59 PM 15-09-2026",
     "Live": "00",
-    "Upcoming": "24",
+    "Upcoming": "52",
     "Finish": "00",
     "events": [
         {
@@ -1244,6 +1244,762 @@
                 "Status": "Upcoming",
                 "startTime": "2026/09/15 10:00:00 +0000",
                 "endTime": "2026/09/15 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/EGGGA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3590,
+            "title": "Coppa Italia",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Genoa",
+                "teamB": "Südtirol",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2760/image",
+                "eventName": "Coppa Italia",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 16:00:00 +0000",
+                "endTime": "2026/09/15 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3591,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Arkadag",
+                "teamB": "Muharraq",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/469420/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/45474/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 13:45:00 +0000",
+                "endTime": "2026/09/15 16:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3592,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Rayo Vallecano",
+                "teamB": "Espanyol",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 17:00:00 +0000",
+                "endTime": "2026/09/15 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3593,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Gol Gohar",
+                "teamB": "Al-Jazira",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/275525/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/8090/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 13:45:00 +0000",
+                "endTime": "2026/09/15 16:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3594,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Ain",
+                "teamB": "Al-Nassr",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 16:00:00 +0000",
+                "endTime": "2026/09/15 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3595,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Guoan",
+                "teamB": "Pohang Steelers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3376/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7650/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 12:15:00 +0000",
+                "endTime": "2026/09/15 14:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3596,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "JDT",
+                "teamB": "Buriram",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/34218/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 12:15:00 +0000",
+                "endTime": "2026/09/15 14:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3597,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Alavés",
+                "teamB": "Valencia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:00:00 +0000",
+                "endTime": "2026/09/15 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3598,
+            "title": "VriendenLoterij Eredivisie",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ajax",
+                "teamB": "Willem II",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
+                "eventName": "VriendenLoterij Eredivisie",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:00:00 +0000",
+                "endTime": "2026/09/15 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3599,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Hilal",
+                "teamB": "Al-Gharafa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:15:00 +0000",
+                "endTime": "2026/09/15 20:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3600,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "West Ham",
+                "teamB": "Fulham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:45:00 +0000",
+                "endTime": "2026/09/15 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3601,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Peterborough Utd",
+                "teamB": "Barnsley",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:30:00 +0000",
+                "endTime": "2026/09/15 20:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3602,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bristol City",
+                "teamB": "Lincoln",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:45:00 +0000",
+                "endTime": "2026/09/15 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3603,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Middlesbrough",
+                "teamB": "Millwall",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:45:00 +0000",
+                "endTime": "2026/09/15 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3604,
+            "title": "Scottish Premiership",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Falkirk",
+                "teamB": "Hearts",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2363/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+                "eventName": "Scottish Premiership",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:45:00 +0000",
+                "endTime": "2026/09/15 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3605,
+            "title": "Scottish Premiership",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Motherwell",
+                "teamB": "Aberdeen",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
+                "eventName": "Scottish Premiership",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:45:00 +0000",
+                "endTime": "2026/09/15 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3606,
+            "title": "Scottish Premiership",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hibernian",
+                "teamB": "Kilmarnock",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2347/image",
+                "eventName": "Scottish Premiership",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 18:45:00 +0000",
+                "endTime": "2026/09/15 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3607,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Liverpool",
+                "teamB": "Tottenham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 19:00:00 +0000",
+                "endTime": "2026/09/15 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3608,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ipswich",
+                "teamB": "Arsenal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 19:00:00 +0000",
+                "endTime": "2026/09/15 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3609,
+            "title": "EFL Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Reading",
+                "teamB": "Brentford",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/28/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
+                "eventName": "EFL Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 19:00:00 +0000",
+                "endTime": "2026/09/15 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3610,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Elche",
+                "teamB": "Real Madrid",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 19:30:00 +0000",
+                "endTime": "2026/09/15 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3611,
+            "title": "AFC Champions League Elite",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Jeonbuk",
+                "teamB": "Kashiwa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6908/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3140/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/16 10:00:00 +0000",
+                "endTime": "2026/09/16 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3612,
+            "title": "Coppa Italia",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fiorentina",
+                "teamB": "Pisa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image",
+                "eventName": "Coppa Italia",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 19:00:00 +0000",
+                "endTime": "2026/09/15 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3613,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "FC Seoul",
+                "teamB": "Persib",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/64289/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/16 10:00:00 +0000",
+                "endTime": "2026/09/16 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3614,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Puebla",
+                "teamB": "Toluca",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/16 01:00:00 +0000",
+                "endTime": "2026/09/16 03:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3615,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "São Paulo",
+                "teamB": "Boca Juniors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/16 00:30:00 +0000",
+                "endTime": "2026/09/16 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3616,
+            "title": "CONMEBOL Libertadores",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Platense",
+                "teamB": "Fluminense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36837/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+                "eventName": "CONMEBOL Libertadores",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 22:00:00 +0000",
+                "endTime": "2026/09/16 00:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3617,
+            "title": "CONMEBOL Sudamericana",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Vasco",
+                "teamB": "Santa Fe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+                "eventName": "CONMEBOL Sudamericana",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/15 22:00:00 +0000",
+                "endTime": "2026/09/16 00:20:00 +0000"
             },
             "channels_data": [
                 {

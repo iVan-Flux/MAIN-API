@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:40:55 PM 15-09-2026",
+    "Last update time": "03:45:54 PM 15-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1226,6 +1226,31 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://162.251.160.53:8089/1260/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "http://162.251.160.53:8089/1260/index.m3u8",
+                        "api": "http://162.251.160.53:8089/1260/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "ARABIC HD",
+                    "link": "https://fhlsport722.tm3troops31patrol.ru/token-IkcoyLmdf6OGuTYgxvY6nWqLlJuA1nvjbnOskKZMRjT347WcHUFaCZQkqwtJVU8GRn7c3zVnm%2FZ1epdJU0EY%2F4o%2BSUK%2FPII%3Da/cfall/s2001/v3b/op11os98nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_814534/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1249,6 +1274,31 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/EGGGA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://162.251.160.53:8089/1009/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "http://162.251.160.53:8089/1009/index.m3u8",
+                        "api": "http://162.251.160.53:8089/1009/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "ARABIC HD",
+                    "link": "https://fhlsport722.tm3troops31patrol.ru/token-JE4qkuPFL%2FKGuWUtkvY6nGvVlMDXhn3jPSavxKQaRjnyteKfHUFaCZQkqwtJVU8GRn7c3zVnm%2FZ1epdJV0IY%2F4o%2BSUK%2FPII%3Da/cfall/s2001/v3b/pqs07738nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_814533/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
                     "logo": "",
                     "type": 0,
                     "api": "",

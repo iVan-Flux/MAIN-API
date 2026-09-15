@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:50:53 PM 15-09-2026",
+    "Last update time": "03:59:33 PM 15-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1285,6 +1285,14 @@
                 "endTime": "2026/09/15 12:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4621511.m3u8?txSecret=02c177a5d5fa2a376f9675948dfb153e&txTime=6AA95741|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/EGGG.m3u8|referer=http://www.fawanews.sc/",

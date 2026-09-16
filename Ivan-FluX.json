@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:45:55 PM 16-09-2026",
+    "Last update time": "11:51:00 PM 16-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -2052,8 +2052,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD link",
+                    "link": "http://193.47.62.50/hls/TBBBQQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2315,6 +2315,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD LINK",
+                    "link": "http://193.47.62.55/hls/TBBBQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

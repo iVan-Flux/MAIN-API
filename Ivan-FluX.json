@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:55:42 AM 17-09-2026",
+    "Last update time": "02:01:15 AM 17-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -2104,8 +2104,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "http://193.47.62.44/hls/TBBBQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vypvd4addk/out/v1/b0a220192e4e4e44be52c8659e52b2f2/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a73d0c3591f9e36f1ea97f3a96873e0a:93c39eb1fc68e9c4a370e10b566b8d10",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630668.m3u8?txSecret=64f4f956889cf31752983a0dcd5f1940&txTime=6AAB2B20|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/9b4a8708-7c01-4fbb-b423-33712e8b3790.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.44/hls/TBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2319,8 +2343,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.59/hls/TBBBQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630500.m3u8?txSecret=2a4fecbd08ca38fa44005b39a669d8f4&txTime=6AAB2A15|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/4d152f88-4011-4e29-8ed2-c873e27302fe.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.59/hls/TBBBQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2413,8 +2453,8 @@
             },
             "channels_data": [
                 {
-                    "title": "CBS AQ",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0262lte4yu/out/v1/522fc051514f4086b25c615d1747e632/cenc.mpd",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0262lte4yu/out/v1/522fc051514f4086b25c615d1747e632/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "fcd92a4bea1792fb7cabf3c91d6bde1a:72db5bc1528c1436f9873fa8d098bc42",
@@ -2429,8 +2469,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD link",
-                    "link": "http://193.47.62.50/hls/TBBBQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "HD SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630495.m3u8?txSecret=c99453eb90447ed5230c91920cd826db&txTime=6AAB29AA|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/94a12e15-eb5c-4e64-a2da-b50f0363b3f6.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.50/hls/TBBBQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2558,7 +2614,7 @@
             },
             "channels_data": [
                 {
-                    "title": "CBS AQ",
+                    "title": "PARAMOUNT+ FHD",
                     "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zxirsx3ocj/out/v1/122b732d17884c5787a8a6806910fef1/cenc.mpd",
                     "logo": "",
                     "type": 0,
@@ -2576,6 +2632,14 @@
                 {
                     "title": "SD LINK",
                     "link": "http://193.47.62.55/hls/TBBBQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630670.m3u8?txSecret=c4922cf0732a0107497cae7418195947&txTime=6AAB28B5|Referer=https://player.up909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

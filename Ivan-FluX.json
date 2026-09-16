@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:15:56 AM 17-09-2026",
+    "Last update time": "12:21:22 AM 17-09-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1820,8 +1820,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "BEIN AQ",
+                    "link": "https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/h7khhxcker/out/v1/28c1344e65d74f48b359b8cb5d3455ad/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "70f29740fef420b14512a95359619f70:ab11a68859691d4fe835525908ea4040",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD LINK",
+                    "link": "https://live.vivo155.com/live/sd-1-4628323.m3u8?txSecret=83b953f7c3156acedd7be38d22f60464&txTime=6AAAF6EC|referer=https://player.online909.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo155.com%2Flive%2Fsd-1-4628323.m3u8%3FtxSecret%3D83b953f7c3156acedd7be38d22f60464%26txTime%3D6AAAF6EC",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD link",
+                    "link": "http://193.47.62.41/hls/fpppAAAAAQQQQ.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2000,6 +2016,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD link",
+                    "link": "http://193.47.62.41/hls/UGGGQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

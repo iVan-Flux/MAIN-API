@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:46:02 PM 17-09-2026",
+    "Last update time": "10:51:03 PM 17-09-2026",
     "Live": "00",
-    "Upcoming": "51",
+    "Upcoming": "45",
     "Finish": "00",
     "events": [
         {
@@ -383,7 +383,7 @@
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1187,60 +1187,6 @@
             ]
         },
         {
-            "id": 3673,
-            "title": "AFC Champions League Two",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Lion City Sailors",
-                "teamB": "Pathum Utd",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3041/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/35607/image",
-                "eventName": "AFC Champions League Two",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/17 10:00:00 +0000",
-                "endTime": "2026/09/17 12:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.52/hls/KFFFAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3674,
-            "title": "AFC Champions League Two",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Adelaide United",
-                "teamB": "Tai Po",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2946/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/40662/image",
-                "eventName": "AFC Champions League Two",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/17 10:00:00 +0000",
-                "endTime": "2026/09/17 12:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.52/hls/KFFFAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 3675,
             "title": "UEFA Europa League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
@@ -1386,33 +1332,6 @@
             ]
         },
         {
-            "id": 3678,
-            "title": "AFC Champions League Two",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Shenhua",
-                "teamB": "Tampines Rovers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3373/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3043/image",
-                "eventName": "AFC Champions League Two",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/17 12:15:00 +0000",
-                "endTime": "2026/09/17 14:35:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.52/hls/GRRRAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 3679,
             "title": "UEFA Europa League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
@@ -1448,33 +1367,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.48/hls/XAXAXAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3680,
-            "title": "AFC Champions League Two",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Kitchee",
-                "teamB": "Gangwon",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/42199/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/34220/image",
-                "eventName": "AFC Champions League Two",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/17 12:15:00 +0000",
-                "endTime": "2026/09/17 14:35:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.52/hls/GRRRAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1645,33 +1537,6 @@
             ]
         },
         {
-            "id": 3687,
-            "title": "AFC Champions League Two",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "PPCFC",
-                "teamB": "Kuching",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/35605/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/338334/image",
-                "eventName": "AFC Champions League Two",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/17 12:15:00 +0000",
-                "endTime": "2026/09/17 14:35:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.52/hls/GRRRAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 3688,
             "title": "UEFA Europa League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
@@ -1707,33 +1572,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.48/hls/XAXAXA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3689,
-            "title": "AFC Champions League Two",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Machida",
-                "teamB": "Svay Rieng",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/44409/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/153474/image",
-                "eventName": "AFC Champions League Two",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/17 10:00:00 +0000",
-                "endTime": "2026/09/17 12:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.52/hls/KFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

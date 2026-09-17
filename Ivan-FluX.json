@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:15:54 PM 17-09-2026",
+    "Last update time": "11:21:02 PM 17-09-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -118,10 +118,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0c8hkllln2/out/v1/dc0696b8fc684cb281f7eb4466862de9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698",
+                    "api": "cd3d76c6c0b61babf97aef83eaa7445c:a81e32e369dc6fa205f7fb06e66f0327",
                     "tokenApi": ""
                 },
                 {
@@ -134,15 +134,15 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/knpjs2062k/out/v1/714e6be7d5d04a4f94852283a743f12a/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0i5slwahis/out/v1/0bc5c56dc22b4e159976c9b9b05a0458/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698",
+                    "api": "b0703c8c0b6f30adcce6181f14d512ef:6645171a5637f6addea01c9ac30f4ce1",
                     "tokenApi": ""
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -182,7 +182,7 @@
                 },
                 {
                     "title": "SonyLiv (Asia)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/criclive1509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80742c52cd57b902b55c4d72385cbd73-1789492204945",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789710052~acl=/*~id=14045258492098109640760454370144~hmac=1c441f620ef15a9db78c17287991a97972ad6204854f14db43ab605f1fe93130",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -190,7 +190,7 @@
                 },
                 {
                     "title": "LOW QUALITY",
-                    "link": "http://193.47.62.59/hls/IVVVAAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.52/hls/VAVAVAAAAAAXX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

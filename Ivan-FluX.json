@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:11:01 AM 18-09-2026",
+    "Last update time": "12:15:59 AM 18-09-2026",
     "Live": "00",
-    "Upcoming": "45",
+    "Upcoming": "46",
     "Finish": "00",
     "events": [
         {
@@ -320,14 +320,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TNT SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
                     "tokenApi": ""
                 },
                 {
@@ -2156,6 +2148,33 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3705,
+            "title": "Women's Caribbean Premier League Final",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/19389/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "TKR-W",
+                "teamB": "GUY-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/451856/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/451858/image",
+                "eventName": "Women's Caribbean Premier League Final",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/17 18:00:00 +0000",
+                "endTime": "2026/09/17 23:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://fhlsport722.tm3troops31patrol.ru/token-LBB9nrKQLqSG7mAukPY6yD2ElMDRg3jjOCSjxaNPRTCn4bKeHUFaCZQkqwtJVU4GRnvV3zVnm%2FZ3eplJUksY%2F4o%2BSUK%2FPII%3Da/cfall/s2001/v3b/pp93r70snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_819669/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
                     "logo": "",
                     "type": 0,
                     "api": "",

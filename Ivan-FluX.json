@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:52 AM 18-09-2026",
+    "Last update time": "12:40:57 AM 18-09-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1346,6 +1346,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vovj1gtga8/out/v1/7494a6448c25480c8bab414716c18d06/d27df7e6-ea06-4b51-b163-846e144ddf60-cenc.mpd?aws_sessionId=2dabc2ff-5f31-4703-b667-721d90df060b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c34497092a6ca78c13272043fb7630fd:e1ee158a1a5c746da4a2cb5724be1b06",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1364,6 +1372,38 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4630646.m3u8?txSecret=297d77b9117a9242e72e369254c260c1&txTime=6AAC7CDD|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS NETWORK HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (ASIA)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/Footlive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1bbbd7a517efb2d1ceaaa18fe790b90e-1789669805051",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/2366e5b9-9f3d-4261-866d-eacd619ea2de.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/NDDDDFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1456,6 +1496,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/61ifbwpev4/out/v1/734ee0bd968749c79ab8b43aaccc226a/105b1403-89b8-4cec-9ed1-de9a6e20e6f3-cenc.mpd?aws_sessionId=fa1eb813-c0a8-44f3-85cb-c1d09306e328|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e6b0f6e9921b083308ea60feba322876:70dbf29db00b900ffab106b47d61b725",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4630520.m3u8?txSecret=dcedbd5bc0874ac2b03a36c119507e77&txTime=6AAC7C75|Referer=https://player.up909.com/",
                     "logo": "",
@@ -1498,6 +1546,14 @@
                 "endTime": "2026/09/17 21:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/u4nhakicji/out/v1/4f6e67cc16ab42909d563387735b4919/3bee0086-201d-4c1a-8b97-77352258f899-cenc.mpd?aws_sessionId=1cb64f2d-0710-4a30-8a80-246210cebc25|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f318b8fe08523b51e37f5aaa87661df3:b05e8f6ecc4841e95a87c1207dff8e0f",
+                    "tokenApi": ""
+                },
                 {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1708,6 +1764,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4sqzrquuz5/out/v1/2cca3c00906a477895f24164077b291d/f281be4e-20f3-47ef-9b2d-bdefb3830907-cenc.mpd?aws_sessionId=018c9b25-59e3-4162-a8b4-96ae11b3c6c5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a1d1c5bd0b0f257df4e97ea2dc35e7ea:78fc598dfa273ed93c553cc29fbfd1c9",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1774,6 +1838,14 @@
                 "endTime": "2026/09/17 21:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bvkuzotkkq/out/v1/89f9ebe1406940b9a69b4af434643e71/0004306d-e453-4b89-a1ae-9856ac0c0f5e-cenc.mpd?aws_sessionId=a36709b5-1740-4dac-94bf-c69f0a400fe5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "36223b19754184f88b8c74d0d18b7555:84299ac1b85949ff9e2c25adb6864832",
+                    "tokenApi": ""
+                },
                 {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:21:03 AM 18-09-2026",
+    "Last update time": "12:25:46 AM 18-09-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1354,7 +1354,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LIVE SERVER 2",
+                    "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4630646.m3u8?txSecret=297d77b9117a9242e72e369254c260c1&txTime=6AAC7CDD|Referer=https://player.up909.com/",
                     "logo": "",
                     "type": 0,
@@ -1448,8 +1448,24 @@
             },
             "channels_data": [
                 {
-                    "title": "LIVE SERVER",
+                    "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4630520.m3u8?txSecret=dcedbd5bc0874ac2b03a36c119507e77&txTime=6AAC7C75|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/36f77530-c334-4270-9301-49c3cf5e4806.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/NDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1510,8 +1526,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630583.m3u8?txSecret=7a548361f9213bce054e06160f108a69&txTime=6AAC7CFE|Referer=https://player.up909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1679,8 +1695,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LIVE SERVER",
+                    "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4630570.m3u8?txSecret=87940db0c8b9d4718b512eaa7dfe0e03&txTime=6AAC7CAB|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/b1e2bad4-cc31-4b12-a52e-9c3be6fe3feb.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/NDDDDF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

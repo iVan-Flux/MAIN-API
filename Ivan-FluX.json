@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:10:57 PM 17-09-2026",
+    "Last update time": "11:15:54 PM 17-09-2026",
     "Live": "00",
     "Upcoming": "45",
     "Finish": "00",
@@ -1349,11 +1349,35 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ppxoozdwsd/out/v1/8dbe7f020baa4c408121b92a96a7bb03/3a440384-f891-4873-b85d-8df279864d2b-cenc.mpd?aws_sessionId=90e018ed-6d3d-4f57-a118-264ff2057a21|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5a98152fbc5890c3332699d404db7055:3a8bfa47d5fc9ddaeb7599f3d4fcfb7e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630608.m3u8?txSecret=ccbeec85749180494e897eac725f326e&txTime=6AAC6004|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream6.pro/hls/griogoehvn2.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -1553,6 +1577,30 @@
                 "endTime": "2026/09/17 19:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/akkxluixjx/out/v1/fd2e333bbdbe48bb89da916d1a084b7e/6e4923c1-70c8-4ca3-924e-3ae849708e94-cenc.mpd?aws_sessionId=9d95593b-f964-4ec7-8303-bbe4e6c7f51e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "aad4194578207dc28589cbffb460b65d:45144707d722306ce374e3aa86ccfb15",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630581.m3u8?txSecret=52afb1725f1d74caa071d50a76954cad&txTime=6AAC5FBE|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "CBS NETWORK HD",
                     "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",

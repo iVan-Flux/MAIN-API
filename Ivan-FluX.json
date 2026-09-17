@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:40:57 AM 18-09-2026",
+    "Last update time": "12:46:00 AM 18-09-2026",
     "Live": "00",
-    "Upcoming": "46",
+    "Upcoming": "54",
     "Finish": "00",
     "events": [
         {
@@ -1196,6 +1196,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hkzrytogjd/out/v1/2a3a0008f2ae40cb8cd55703e520ba35/f9bc43f5-ca6c-425b-ae3d-c3a2f4dc5b00-cenc.mpd?aws_sessionId=5f6c63b1-48f7-4a9a-8d6b-01d48de4eb59|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c9ade54b0207bcf53694c509694f9893:432eda1f52a41e50ff86b6c50bb5598e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4630647.m3u8?txSecret=4f62980838c3527bacfc54dec0ce67c9&txTime=6AAC7CC7|Referer=https://player.up909.com/",
                     "logo": "",
@@ -2195,12 +2203,37 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FOX DEPORTES",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "MLB LIVE [FHD]",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/mlb/2026-09-17/phi-nym",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -2309,12 +2342,29 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "MLB LIVE [FHD]",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/mlb/2026-09-17/kc-hou",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -2471,6 +2521,239 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://fhlsport722.tm3troops31patrol.ru/token-LBB9nrKQLqSG7mAukPY6yD2ElMDRg3jjOCSjxaNPRTCn4bKeHUFaCZQkqwtJVU4GRnvV3zVnm%2FZ3eplJUksY%2F4o%2BSUK%2FPII%3Da/cfall/s2001/v3b/pp93r70snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_819669/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3706,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Wings",
+                "teamB": "Sparks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/18 00:00:00 +0000",
+                "endTime": "2026/09/18 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3707,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Dream",
+                "teamB": "Sun",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/17 23:30:00 +0000",
+                "endTime": "2026/09/18 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream1.pro/hls/sdghjvqazhvg80.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WNBA LIVE [FHD]",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://embedindia.st/embed/wnba/2026-09-17/con-atl",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3708,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Valkyries",
+                "teamB": "Fire",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/19 02:00:00 +0000",
+                "endTime": "2026/09/19 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3709,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Sky",
+                "teamB": "Mystics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/18 00:00:00 +0000",
+                "endTime": "2026/09/18 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3710,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Storm",
+                "teamB": "Aces",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/18 02:00:00 +0000",
+                "endTime": "2026/09/18 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3711,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Tempo",
+                "teamB": "Fever",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/18 23:30:00 +0000",
+                "endTime": "2026/09/19 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3712,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Lynx",
+                "teamB": "Liberty",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/18 23:30:00 +0000",
+                "endTime": "2026/09/19 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3713,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Fire",
+                "teamB": "Mercury",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/18 02:00:00 +0000",
+                "endTime": "2026/09/18 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

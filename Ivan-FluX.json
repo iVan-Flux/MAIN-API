@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:25:46 AM 18-09-2026",
+    "Last update time": "12:31:36 AM 18-09-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1196,23 +1196,7 @@
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
-                    "link": "http://193.47.62.52/hls/jjjjAAA.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://www.rtmpcdn.com/live/87f8f806-2ea8-4756-9e99-780c96a7548e.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
+                    "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4630647.m3u8?txSecret=4f62980838c3527bacfc54dec0ce67c9&txTime=6AAC7CC7|Referer=https://player.up909.com/",
                     "logo": "",
                     "type": 0,
@@ -1220,7 +1204,31 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LOW SERVER",
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/87f8f806-2ea8-4756-9e99-780c96a7548e.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (ASIA)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/Footlive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1bbbd7a517efb2d1ceaaa18fe790b90e-1789669805051",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.52/hls/jjjjAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
                     "link": "https://messi.damitv.st/live-hls/channel/uel/2026-09-17/plz-usg/playlist.m3u8?tk=PuKCU2PiDCD5WzyJGPM4Dg&e=1789711129|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
@@ -1505,6 +1513,38 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4630535.m3u8?txSecret=e1f1cd5420446cbeea77b7d1bf044c74&txTime=6AAC7C2F|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (ASIA)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1bbbd7a517efb2d1ceaaa18fe790b90e-1789669805051",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/b73a52a7-91e5-4889-ba3c-33fc2d94863c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/NDDDDFFQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1652,8 +1692,32 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LIVE SERVER 2",
+                    "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4630539.m3u8?txSecret=2676694ca043f1b75dc6c94bc704e86e&txTime=6AAC7C8F|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (ASIA)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive1709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1bbbd7a517efb2d1ceaaa18fe790b90e-1789669805051",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/00ee6b40-e191-4199-9b68-00302a6c76d2.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/NDDDDFFQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

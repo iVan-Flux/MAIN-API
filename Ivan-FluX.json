@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:15:55 PM 18-09-2026",
+    "Last update time": "10:21:02 PM 18-09-2026",
     "Live": "00",
     "Upcoming": "57",
     "Finish": "00",
@@ -1248,8 +1248,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NBC SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ESPN SPORTS FHD",
+                    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORT TV HD",
+                    "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

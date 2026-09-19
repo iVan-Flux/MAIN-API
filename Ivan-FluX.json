@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:45:55 PM 19-09-2026",
+    "Last update time": "07:51:05 PM 19-09-2026",
     "Live": "00",
     "Upcoming": "124",
     "Finish": "00",
@@ -1748,6 +1748,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yuzs6p9ct2/out/v1/863b484bb3454f308645a22a0653b5e3/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "db1129a481b4487c8df08a4fca073bb9:a51786afdeea9f42a4684edf80773f51",
+                    "tokenApi": ""
+                },
+                {
                     "title": "USA TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56649/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1766,6 +1774,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4558560.m3u8?txSecret=cd97440615751c61b8bdd000d1dcfef7&txTime=6AAED7AB|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER+",
+                    "link": "https://live1.dyrur1.com/live/72221276_6c1f122c25d9ae25aa7685b5ada75f01_1080p.m3u8?auth_key=1789840969-0-0-36ae9d0538df231740251fd741b3a7e8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1814,6 +1830,14 @@
                 {
                     "title": "SKY SPORTS FHD",
                     "link": "https://futbolx.ryzn.pro/ars/tracks-v1a1/mono.m3u8?|User-Agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "https://live.vivo155.com/live/sd-1-4558560.m3u8?txSecret=9f6a1dc34c3a909a7121816bbf6a4669&txTime=6AAEA3C6|referer=https://player.online909.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo155.com%2Flive%2Fsd-1-4558560.m3u8%3FtxSecret%3D9f6a1dc34c3a909a7121816bbf6a4669%26txTime%3D6AAEA3C6",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2161,6 +2185,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g0qhpfnfvb/out/v1/6fc16cc53c234c7bac703332db834b74/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7521f67e1e717cb56674c6efd5008cbb:80093402f1a4a7a85363041781919be5",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56650/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2207,6 +2239,14 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "https://live.vivo155.com/live/sd-1-4558562.m3u8?txSecret=ff3731f9e9e36fb6612f13d1c3107c91&txTime=6AAEA3C6|referer=https://player.online909.com/live/index.html?liveUrl=https%3A%2F%2Flive.vivo155.com%2Flive%2Fsd-1-4558560.m3u8%3FtxSecret%3D9f6a1dc34c3a909a7121816bbf6a4669%26txTime%3D6AAEA3C6",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2227,6 +2267,14 @@
                 "endTime": "2026/09/19 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5xkhl1bxni/out/v1/cecadcb0bd174c52bf319ee798647463/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "593b2ab845e64b692db88a6be66eed0a:71312fa72cb2f38120c1a8ba772394fd",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56648/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
@@ -2903,8 +2951,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/sd-1-4567279.m3u8?txSecret=b8ae05f95f8e236e1759da56752857e7&txTime=6AAEDAD3|Referer=https://player.up909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

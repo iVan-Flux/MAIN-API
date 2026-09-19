@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:51:01 PM 19-09-2026",
+    "Last update time": "04:55:45 PM 19-09-2026",
     "Live": "00",
     "Upcoming": "124",
     "Finish": "00",
@@ -1117,6 +1117,22 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/a3ba03a3-7a85-426e-825c-ec65ca4efebb.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/aqaqaq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1235,6 +1251,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jbgjfilftz/out/v1/9884c0b2c42845c4acd9b5f4db91bcbf/59e1fec0-7efc-4d89-99e8-09b08410751e-cenc.mpd?aws_sessionId=3c6cf4e8-ded9-404d-b83c-2a5b5a28f2df",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6c64eda57db4a96b8625716cdc5bdbfe:78ec909055d5f856eedc7249fd243afa",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1243,7 +1267,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "CBS NETWORK",
+                    "title": "CBS SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
@@ -1261,6 +1285,22 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/sd-1-4563591.m3u8?txSecret=f6eec8b33435580904d02a2ea5bc4197&txTime=6AAEB3D1|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY FOOTBALL HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/grrraaaaaqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1375,8 +1415,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bvlv38lc5i/out/v1/cd7bcd48adf944528552465106704cba/7d203847-f306-4143-a7a4-6e05faf35592-cenc.mpd?aws_sessionId=839c97b1-b6a1-4999-a9b1-ed86a10557da",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0974eb650a63f9924c6d5cab933845d9:ae464cf732017e768ad870552efdf540",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/grrraaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1431,6 +1479,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/sd-1-4603688.m3u8?txSecret=bbdf754dce36fa010ac1758b43bf3549&txTime=6AAEB44B|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/grrraa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

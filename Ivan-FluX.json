@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:31:27 PM 19-09-2026",
+    "Last update time": "06:35:45 PM 19-09-2026",
     "Live": "00",
     "Upcoming": "124",
     "Finish": "00",
@@ -263,18 +263,18 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u2nayx51ro/out/v1/7fbcd452bd79437d9e2d72ecbf757ea5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "b5c753aa1a570084a6ce60b251d1193d:9c52c44a532dd1480f8f0be10351dbb1",
+                    "api": "b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u2nayx51ro/out/v1/7fbcd452bd79437d9e2d72ecbf757ea5/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "b5c753aa1a570084a6ce60b251d1193d:9c52c44a532dd1480f8f0be10351dbb1",
+                    "api": "b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1",
                     "tokenApi": ""
                 },
                 {
@@ -1767,8 +1767,40 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mp7c1feoiv/out/v1/08d49060e7c143bc8c9c1be423fa6f2c/ab22133a-4006-4671-bebe-6012c30331c3-cenc.mpd?aws_sessionId=fbf72655-b0b0-4352-ac4e-4756f862237f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ddd0a45f77349ec6ddcfd663b2482188:d01dccdb7060bc71000e7143011b0e2a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56647/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.uu6611.com/live/hd-en-1-4549076.m3u8?txSecret=8bfc56b595dcd42e0bc507e831b10c3d&txTime=6AAECBC8|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://edgestream4.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/DYYYAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1794,6 +1826,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xxypw2rpia/out/v1/5f5ed7c97abe476eba999f814ff74a02/96e22830-dda6-4493-8300-9c150ca980c1-cenc.mpd?aws_sessionId=d1aade58-aeac-4d00-bea2-65b3ad39ef3f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b581520dfab6d149817a0bb44ca94e98:4db44bde308622ab84cb2c9f853e73c9",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1803,10 +1843,34 @@
                 },
                 {
                     "title": "ESPN SPORTS FHD",
-                    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56646/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.uu6611.com/live/hd-en-1-4549107.m3u8?txSecret=08bb340144b82a4c507cf99a0616ef87&txTime=6AAECC4E|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://edgestream6.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -1820,6 +1884,14 @@
                 {
                     "title": "SPORT TV HD",
                     "link": "https://tmaxapp.site/pt658svs/sporttv4.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/DYYYAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

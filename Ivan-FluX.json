@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:30:15 PM 19-09-2026",
+    "Last update time": "07:31:28 PM 19-09-2026",
     "Live": "00",
     "Upcoming": "124",
     "Finish": "00",
@@ -2409,6 +2409,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/901b89d1-1427-409c-b252-2caca03930d4.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/GLLLQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
@@ -2435,6 +2443,14 @@
                 "endTime": "2026/09/19 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/6bee234d-3670-484b-99a7-4d8f10196149.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.50/hls/WWWWQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",

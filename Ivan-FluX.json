@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:41:00 PM 20-09-2026",
+    "Last update time": "10:45:55 PM 20-09-2026",
     "Live": "00",
     "Upcoming": "112",
     "Finish": "00",
@@ -725,15 +725,7 @@
             },
             "channels_data": [
                 {
-                    "title": "NFL REDZONE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/56434/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SERVER 1 HD [USA]",
+                    "title": "NFL RedZone HD",
                     "link": "https://chatgpt.hereisman.net/playlist/56392/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
@@ -741,7 +733,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SERVER 2 HD [USA]",
+                    "title": "RedZone HD [2]",
                     "link": "https://chatgpt.hereisman.net/playlist/56417/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
@@ -749,7 +741,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SERVER 3 HD [USA]",
+                    "title": "RedZone HD [3]",
                     "link": "https://chatgpt.hereisman.net/playlist/56418/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
@@ -757,8 +749,16 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SERVER 4 HD [USA]",
-                    "link": "https://edgestream6.pro/hls/eyrennte44.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/eyrennte44.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream5.pro/hls/eyrennte44.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -779,23 +779,6 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
-                },
-                {
-                    "title": "REDZONE [FHD]",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://embedindia.st/embed/nfl-redzone-28792",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
                 }
             ]
         },
@@ -3723,8 +3706,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/56825/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4493,8 +4484,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX NFL FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qbixkbxtwl/out/v1/405958c4eab74128bb92cf098242eb44/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c4b52e8ae04abd9a640dec7ddeda7ae1:b113f2466502bd72c0266667f88d5fd0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL+ LIVE",
+                    "link": "https://chatgpt.hereisman.net/playlist/56829/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream4.pro/hls/uheyztezgj34.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",

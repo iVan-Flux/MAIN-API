@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:01:14 PM 20-09-2026",
+    "Last update time": "07:05:46 PM 20-09-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -1587,6 +1587,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/6r87avvmpx/out/v1/1d7f929ded2d4eb28fd47af1b9884534/a7cb6ab3-c965-4bc1-baee-93259e5dcd0b-cenc.mpd?aws_sessionId=bf387aa9-ab87-4c12-bb8e-98ffb0e3814d",
+                    "logo": "",
+                    "type": 0,
+                    "api": "dd54f8d90d9491d6c73108b633cd7188:682d85569b612e1538d13cfbb39c2b99",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SPORT 1 CZ",
                     "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
                     "logo": "",
@@ -1972,6 +1980,14 @@
                 "endTime": "2026/09/20 15:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "beIN Multi Commentary",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/uju1gthlgx/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/a00b4eb2-ddae-416e-9650-3d7567632bfa-cenc.mpd?aws_sessionId=11197f1c-ae03-4a1e-8c11-a04ccc8dfc04",
+                    "logo": "",
+                    "type": 0,
+                    "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+                    "tokenApi": ""
+                },
                 {
                     "title": "beIN USA HD",
                     "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",

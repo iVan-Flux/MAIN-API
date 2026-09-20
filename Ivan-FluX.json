@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:50:59 AM 21-09-2026",
+    "Last update time": "02:55:44 AM 21-09-2026",
     "Live": "00",
-    "Upcoming": "112",
+    "Upcoming": "113",
     "Finish": "00",
     "events": [
         {
@@ -3887,6 +3887,14 @@
             },
             "channels_data": [
                 {
+                    "title": "MLB HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56862/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream7.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -4251,6 +4259,14 @@
             },
             "channels_data": [
                 {
+                    "title": "WNBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56861/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream6.pro/hls/iozauyezaioyur82.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -4525,8 +4541,32 @@
             },
             "channels_data": [
                 {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/a5vkfjna1p/out/v1/3b20f2b7c3ed477d83c876e97ab0121d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7fe781266072532cd6cc38dbbb29675d:434ff61496a166770bed473ce65561a5",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56864/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56869/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4560,8 +4600,24 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/acjdjeevzv/out/v1/6e83db81cb0946a4a763a17fc8c60f4c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "27482ee4cc1a32fab82c38121e294380:22e336dfd6669b9335a02f13c2d761d7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TSN SPORTS FHD",
                     "link": "https://edgestream5.pro/hls/poertjnvnev40.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/56871/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -5005,6 +5061,33 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3927,
+            "title": "Liga Portugal Betclic",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Porto",
+                "teamB": "Benfica",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+                "eventName": "Liga Portugal Betclic",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/20 19:30:00 +0000",
+                "endTime": "2026/09/20 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "D Sports FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
                     "tokenApi": ""
                 }
             ]

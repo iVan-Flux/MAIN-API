@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:31:31 PM 20-09-2026",
+    "Last update time": "10:35:53 PM 20-09-2026",
     "Live": "00",
     "Upcoming": "112",
     "Finish": "00",
@@ -4218,8 +4218,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52456/720p/chunks.m3u8?is_vip=false&token=1790008413-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0923fbf671686cf1d0548c41c9f2bc99|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "http://193.47.62.41/hls/fafafa.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL+ SERVER",
+                    "link": "http://193.47.62.44/hls/fafafa.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4299,8 +4323,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream4.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL+ SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/56838/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE [USA]",
+                    "link": "https://chatgpt.hereisman.net/playlist/56817/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "http://193.47.62.50/hls/zazazad.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/52463/720p/chunks.m3u8?is_vip=false&token=1790008413-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b4dbdff3fba4dfbb788b9e87ff2916f|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/zazazad.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

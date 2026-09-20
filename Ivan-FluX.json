@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:45 AM 20-09-2026",
+    "Last update time": "07:31:30 AM 20-09-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -211,8 +211,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SonyLiv HD [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789911793~acl=/*~id=55319473590211667408009119507139~hmac=22fb618f3953cdc6219467c33e5cb350f5ec3573ad9bc4edbf21c6be262f710a",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv FHD [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789911793~acl=/*~id=55319473590211667408009119507139~hmac=22fb618f3953cdc6219467c33e5cb350f5ec3573ad9bc4edbf21c6be262f710a",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv FAST [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789911793~acl=/*~id=55319473590211667408009119507139~hmac=22fb618f3953cdc6219467c33e5cb350f5ec3573ad9bc4edbf21c6be262f710a",
                     "logo": "",
                     "type": 0,
                     "api": "",

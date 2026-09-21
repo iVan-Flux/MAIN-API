@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:46:31 AM 22-09-2026",
+    "Last update time": "01:51:01 AM 22-09-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -169,6 +169,23 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8",
+                        "api": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8",
+                        "type": "token",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -1461,8 +1478,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/bbbbaqq.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD [USE VPN]",
+                    "link": "http://193.47.62.59/hls/bbbbaqq.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

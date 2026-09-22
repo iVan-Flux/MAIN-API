@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:11:05 PM 22-09-2026",
+    "Last update time": "07:15:57 PM 22-09-2026",
     "Live": "00",
     "Upcoming": "94",
     "Finish": "00",
@@ -1670,8 +1670,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/diiiAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://pull.niues.live/live/stream-619672_lsd.m3u8?auth_key=1790087223-0-0-95205d42cbd162162c9796931e9580c8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1921,8 +1929,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/diiiAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1790087223-0-0-d8606ab22c28040b1088fd13afb4ef40",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:43 AM 22-09-2026",
+    "Last update time": "07:31:31 AM 22-09-2026",
     "Live": "00",
     "Upcoming": "38",
     "Finish": "00",
@@ -156,10 +156,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc",
+                    "api": "fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f",
                     "tokenApi": ""
                 },
                 {
@@ -172,20 +172,19 @@
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8",
+                    "link": "http://193.47.62.59/hls/K999.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": {
-                        "url": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8",
-                        "api": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8",
-                        "type": "token",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1242,6 +1241,14 @@
                 "endTime": "2026/09/22 04:30:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "TSN SPORTS",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream5.pro/hls/dsqhjbjhsqd81.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",

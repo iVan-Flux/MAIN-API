@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:31:32 AM 22-09-2026",
+    "Last update time": "09:35:46 AM 22-09-2026",
     "Live": "00",
-    "Upcoming": "29",
+    "Upcoming": "54",
     "Finish": "00",
     "events": [
         {
@@ -1310,6 +1310,681 @@
                 "Status": "Upcoming",
                 "startTime": "2026/09/25 00:00:00 +0000",
                 "endTime": "2026/09/25 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3947,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Crewe",
+                "teamB": "Aston Villa U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/19/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36541/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3948,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Oldham",
+                "teamB": "Fleetwood",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/65/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23959/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3949,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burton",
+                "teamB": "Forest U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/324738/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3950,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tranmere",
+                "teamB": "Shrewsbury",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/51/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/82/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3951,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Walsall",
+                "teamB": "Stevenage",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/133/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3952,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Accrington",
+                "teamB": "Sunderland U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36546/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3953,
+            "title": "Asian Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Vietnam U23",
+                "teamB": "Uzbekistan U23",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/49111/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/49109/image",
+                "eventName": "Asian Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 05:00:00 +0000",
+                "endTime": "2026/09/22 07:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3954,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Peterborough Utd",
+                "teamB": "Colchester",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/66/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3955,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wigan",
+                "teamB": "Blackpool",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/67/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3956,
+            "title": "Asian Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Philippines U23",
+                "teamB": "Kuwait U23",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/192810/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/49057/image",
+                "eventName": "Asian Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 05:00:00 +0000",
+                "endTime": "2026/09/22 07:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3957,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cheltenham",
+                "teamB": "Exeter",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/69/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/86/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3958,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Swindon",
+                "teamB": "Newport",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/53/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/79/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3959,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "MK Dons",
+                "teamB": "Crawley",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4875/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3960,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Gillingham",
+                "teamB": "Cambridge",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/20/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/63/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3961,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Luton",
+                "teamB": "Ipswich U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/72/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/325745/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3962,
+            "title": "COSAFA U20 Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mozambique U20",
+                "teamB": "Mauritius U20",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/336931/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/273621/image",
+                "eventName": "COSAFA U20 Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 13:00:00 +0000",
+                "endTime": "2026/09/22 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3963,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Plymouth",
+                "teamB": "Crystal Palace U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/71/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/77869/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3964,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Chesterfield",
+                "teamB": "Port Vale",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/68/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/55/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3965,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leicester",
+                "teamB": "Fulham U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36548/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3966,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "York",
+                "teamB": "Rotherham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/73/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/13/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3967,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Rochdale",
+                "teamB": "Liverpool U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/103/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36556/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3968,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Notts County",
+                "teamB": "Grimsby",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/18/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3969,
+            "title": "Asian Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1862/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "South Korea U23",
+                "teamB": "Saudi Arabia U23",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24259/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/49094/image",
+                "eventName": "Asian Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 10:00:00 +0000",
+                "endTime": "2026/09/22 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3970,
+            "title": "Football League Trophy",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Salford",
+                "teamB": "Sheffield Wed",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/37998/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 18:00:00 +0000",
+                "endTime": "2026/09/22 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 3971,
+            "title": "COSAFA U20 Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Namibia",
+                "teamB": "Seychelles",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/371822/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/336868/image",
+                "eventName": "COSAFA U20 Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/22 13:00:00 +0000",
+                "endTime": "2026/09/22 15:20:00 +0000"
             },
             "channels_data": [
                 {

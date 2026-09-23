@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:31:34 PM 23-09-2026",
+    "Last update time": "09:35:51 PM 23-09-2026",
     "Live": "00",
     "Upcoming": "62",
     "Finish": "00",
@@ -1484,8 +1484,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8?hdnea=exp=1790220617~acl=/*~id=5307aa6fc2c88d35ddb0fcd76fbaf03b-1790177400092~hmac=5e41755de170fce6d1be8513602be3e16b11334044b68fc9cc75429058a95b40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5307aa6fc2c88d35ddb0fcd76fbaf03b-1790177400092",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORT TV HD",
+                    "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/JFFFA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

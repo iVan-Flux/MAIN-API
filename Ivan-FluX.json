@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:10:55 AM 23-09-2026",
+    "Last update time": "10:15:56 AM 23-09-2026",
     "Live": "00",
-    "Upcoming": "69",
+    "Upcoming": "62",
     "Finish": "00",
     "events": [
         {
@@ -48,8 +48,8 @@
                 "eventName": "One Day International",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/09/22 11:30:00 +0000",
-                "endTime": "2026/09/22 21:00:00 +0000"
+                "startTime": "2026/09/24 11:30:00 +0000",
+                "endTime": "2026/09/24 21:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -103,33 +103,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.59/hls/K999.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 3935,
-            "title": "One Day International U19",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11325/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "IND-U19",
-                "teamB": "AUS-U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/213112/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/268843/image",
-                "eventName": "One Day International U19",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/23 04:00:00 +0000",
-                "endTime": "2026/09/23 08:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2132,114 +2105,6 @@
             ]
         },
         {
-            "id": 4019,
-            "title": "MLB",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-            "cat": "Baseball",
-            "eventInfo": {
-                "teamA": "Mariners",
-                "teamB": "Astros",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-                "eventName": "MLB",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/23 01:40:00 +0000",
-                "endTime": "2026/09/23 04:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4022,
-            "title": "MLB",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-            "cat": "Baseball",
-            "eventInfo": {
-                "teamA": "Athletics",
-                "teamB": "Angels",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-                "eventName": "MLB",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/23 01:40:00 +0000",
-                "endTime": "2026/09/23 04:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream5.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4028,
-            "title": "MLB",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-            "cat": "Baseball",
-            "eventInfo": {
-                "teamA": "Giants",
-                "teamB": "Twins",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-                "eventName": "MLB",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/23 01:45:00 +0000",
-                "endTime": "2026/09/23 04:45:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream7.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4029,
-            "title": "MLB",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-            "cat": "Baseball",
-            "eventInfo": {
-                "teamA": "Rockies",
-                "teamB": "Diamondbacks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "eventName": "MLB",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/23 00:40:00 +0000",
-                "endTime": "2026/09/23 03:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream7.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4030,
             "title": "MLB",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
@@ -2259,60 +2124,6 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream4.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4032,
-            "title": "WNBA",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Fire",
-                "teamB": "Valkyries",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-                "eventName": "WNBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/23 02:00:00 +0000",
-                "endTime": "2026/09/23 04:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream7.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4036,
-            "title": "WNBA",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Aces",
-                "teamB": "Sparks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-                "eventName": "WNBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/23 02:00:00 +0000",
-                "endTime": "2026/09/23 04:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream6.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",

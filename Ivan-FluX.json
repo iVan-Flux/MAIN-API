@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:11:00 PM 23-09-2026",
+    "Last update time": "05:15:59 PM 23-09-2026",
     "Live": "00",
-    "Upcoming": "62",
+    "Upcoming": "63",
     "Finish": "00",
     "events": [
         {
@@ -2140,6 +2140,41 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream4.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4031,
+            "title": "IFA Shield 2026",
+            "image": "https://images.fancode.com/skillup-uploads/cms-media/IFA-Shield.png",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "IFA Shield",
+                "teamB": "IFA Shield",
+                "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/IFA-Shield.png",
+                "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/IFA-Shield.png",
+                "eventName": "IFA Shield 2026",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/23 11:40:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249525_english_hls_73c8848a9a58417_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

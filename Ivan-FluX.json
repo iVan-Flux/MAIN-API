@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:20:59 AM 24-09-2026",
+    "Last update time": "10:25:43 AM 24-09-2026",
     "Live": "00",
     "Upcoming": "80",
     "Finish": "00",
@@ -1004,8 +1004,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kruwwv8vzc/out/v1/4f0dd7998d154a98add6386f9de61f58/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kruwwv8vzc/out/v1/4f0dd7998d154a98add6386f9de61f58/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a4a31469f0c707d595a02ef98e6dfdbb-1790224200261",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONY TEN 1",
+                    "link": "https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://vmsp.bondsplive.online/bore/logo.webp?&e=.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

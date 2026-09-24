@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:10:59 AM 25-09-2026",
+    "Last update time": "12:15:54 AM 25-09-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1230,8 +1230,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FUBO SPORTS HD",
+                    "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8-hd/chunks.m3u8?is_vip=false&token=1790361262-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-36dec2fee8027a299edd49f02d850de2|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/57003/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "http://193.47.62.44/hls/FAFAFAFAZQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD+ SERVER",
+                    "link": "https://www.rtmpcdn.com/live/65fe6ba9-d3f1-4df3-bc42-811b4ef467a7.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/268277/720p/chunks.m3u8?is_vip=false&token=1790361270-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9badbf88f3c8890c3bf4547dca17841d|Referer=https://iframe.rumsport8.live",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790317921~acl=/*~id=61609870679305441418521259054743~hmac=148b140c941f67ff92eecb26ef2b215c9c1e75ae8b94fb8535b4ddb26699bb37",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1324,6 +1364,14 @@
             },
             "channels_data": [
                 {
+                    "title": "LIVE SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/57005/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SONYLIV",
                     "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790317312~acl=/*~id=59169402425271199837830411682006~hmac=9770ee1e6d912c70b66d7659acd6dd52e88a4b78c1ea50129e348dfc5c700b92",
                     "logo": "",
@@ -1334,6 +1382,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "http://193.47.62.44/hls/FAFAFAFAZQ.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/1e296c12-08cf-4c17-bfb2-1afc54ed408c.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1447,6 +1503,30 @@
                     "logo": "",
                     "type": 0,
                     "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/57006/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/870f6977-557c-40f9-afc0-75fbec73025d.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/FAFAFAFA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

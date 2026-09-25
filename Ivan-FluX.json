@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:55:45 AM 25-09-2026",
+    "Last update time": "12:01:29 PM 25-09-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -966,8 +966,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ofqlfxnyrj/out/v1/87e0c2d189424713a24c80bc9d3603ed/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ofqlfxnyrj/out/v1/87e0c2d189424713a24c80bc9d3603ed/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/AG_DXCri2409/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=82c115fe6133bf20aa42b87e2de9f3f9-1790311200994",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/EVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

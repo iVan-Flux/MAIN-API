@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:31:37 AM 26-09-2026",
+    "Last update time": "12:35:52 AM 26-09-2026",
     "Live": "00",
     "Upcoming": "84",
     "Finish": "00",
@@ -2010,8 +2010,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/29557de5-4e27-45dd-8652-8a61e83d497a.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4642689.m3u8?txSecret=47fbac22187b58d1a055a3a07123f495&txTime=6AB6D4F2|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.50/hls/DTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2037,8 +2053,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/2b24f899-f079-4d3c-80a1-68f6044029c5.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.41/hls/DTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4642692.m3u8?txSecret=6f29312755c04217e068a8a8cf56577f&txTime=6AB6D33C|Referer=https://player.787200.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2123,8 +2155,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4642691.m3u8?txSecret=3c8cdbcbf199b81b6e9b5f81f384a84e&txTime=6AB6D8DF|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.55/hls/DTTTAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2402,8 +2442,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4642693.m3u8?txSecret=f0885e7f6f0289101c6a7aa92801157d&txTime=6AB6D4DF|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC FHD",
+                    "link": "https://cdn.gamhed.online/hls/arena8x-2.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.50/hls/DTTTAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2429,8 +2493,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4642690.m3u8?txSecret=b0ea41d46fd1e4780cc410e72291f2ac&txTime=6AB6D507|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/05b65a40-5e2b-4478-ae28-4b6acc5a7a99.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.55/hls/DTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:31:32 PM 25-09-2026",
+    "Last update time": "07:35:48 PM 25-09-2026",
     "Live": "00",
     "Upcoming": "85",
     "Finish": "00",
@@ -1574,6 +1574,22 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4650016.m3u8?txSecret=eff2bf82d1671640673b24337d84ff0c&txTime=6AB6900A|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/GIIIA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SonyLiv [ENG]",
                     "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
                     "logo": "",
@@ -1622,12 +1638,21 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/GIIIA.m3u8|referer=http://www.fawanews.sc/",
+                    "title": "SD SERVER+",
+                    "link": "http://162.251.160.53:8089/10105/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
+                    "tokenApi": {
+                        "url": "http://162.251.160.53:8089/10105/index.m3u8",
+                        "api": "http://162.251.160.53:8089/10105/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

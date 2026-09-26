@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:01:21 AM 27-09-2026",
+    "Last update time": "12:05:47 AM 27-09-2026",
     "Live": "00",
     "Upcoming": "74",
     "Finish": "00",
@@ -2014,6 +2014,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS USA",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2027,6 +2035,38 @@
                     "logo": "",
                     "type": 0,
                     "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.41/hls/DKKKAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/cze-cro-uefanl/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UNL_Czec2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790490381~acl=/*~id=01559273804383499886654173243653~hmac=b16ef7bf01e3ee4c10ff157c9eb703fc12b0a18955cee509b3421dc766d419a7",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -2116,6 +2156,62 @@
                     "logo": "",
                     "type": 0,
                     "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TVE La 1 (ES)",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ITALIA 1 FHD",
+                    "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57136/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.41/hls/DKKKAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/06ddaf0c-7799-48b4-be66-27df2fe640dc.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD QUALITY",
+                    "link": "https://hls.lauthaitv.cc/live/eng-esp-uefanl/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [AISA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/UNL_engv2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790490381~acl=/*~id=01559273804383499886654173243653~hmac=b16ef7bf01e3ee4c10ff157c9eb703fc12b0a18955cee509b3421dc766d419a7",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:31:33 PM 26-09-2026",
+    "Last update time": "09:35:49 PM 26-09-2026",
     "Live": "00",
     "Upcoming": "60",
     "Finish": "00",
@@ -1689,6 +1689,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "LIVE SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/57113/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
@@ -2112,8 +2120,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zeb5uocrlq/out/v1/e1289007aa6a4a33adea9e9b514160c7/981bbe93-83e7-415a-b2a0-707bb73675fb-cenc.mpd?aws_sessionId=3b9092b1-1443-456d-89f8-4cc5f1120826",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4ebd349638bf21f6e638fd6f204c18a6:17912192b11a182a9f63cc4e9b4278a8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/NTTTAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

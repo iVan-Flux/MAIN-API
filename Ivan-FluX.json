@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:55:44 PM 26-09-2026",
+    "Last update time": "08:01:15 PM 26-09-2026",
     "Live": "00",
-    "Upcoming": "58",
+    "Upcoming": "60",
     "Finish": "00",
     "events": [
         {
@@ -1671,8 +1671,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/abbbQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2157,11 +2157,27 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jdubsyou6r/out/v1/a19cdd4e6b1a4d499df5d553aedecf47/2d99c74f-ed89-4d32-89fa-6ad53d82d56c-cenc.mpd?aws_sessionId=e838d6e0-eb9e-4b6b-b589-f8ef2fbda888",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c013d0b856c181196059c29c1dc67d12:d9f8b19d1643cab8136a2391e8fdd6a7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CBS NETWORK FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/UPPPQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -2183,6 +2199,14 @@
                 "endTime": "2026/09/26 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ipnqdik8d9/out/v1/3e41a3c73f204a7d8821b1dcc81e8c5f/4b3e99e2-0176-4e3f-8cd6-cac572b934f7-cenc.mpd?aws_sessionId=ed165228-287f-4364-a1ef-315953e30a58",
+                    "logo": "",
+                    "type": 0,
+                    "api": "649213f353bf0afb365fff6b1fc473a5:8fca035431d356f360731d2882095c14",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.50/hls/UPPPQ.m3u8|referer=http://www.fawanews.sc/",
@@ -2210,6 +2234,14 @@
                 "endTime": "2026/09/26 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/upyorh5cgz/out/v1/88afa5b232d6401ab7bd6f9345b22987/282b7c9f-2621-480e-865d-8c26340cb471-cenc.mpd?aws_sessionId=4e833ba8-1bda-4b2c-b3e0-7a3aa41326b5",
+                    "logo": "",
+                    "type": 0,
+                    "api": "111ca67f6b5b61a6902deb53f2b6bb5b:eef347fdca1826776f4bc13265e2cf15",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.50/hls/UPPPQQQ.m3u8|referer=http://www.fawanews.sc/",
@@ -2248,6 +2280,60 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.50/hls/UPPP.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4170,
+            "title": "League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bristol Rovers",
+                "teamB": "Exeter",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/76/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/86/image",
+                "eventName": "League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/26 14:00:00 +0000",
+                "endTime": "2026/09/26 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4171,
+            "title": "League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Newport",
+                "teamB": "Grimsby",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/79/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/18/image",
+                "eventName": "League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/26 14:00:00 +0000",
+                "endTime": "2026/09/26 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

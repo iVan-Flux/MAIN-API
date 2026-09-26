@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:31:25 AM 26-09-2026",
+    "Last update time": "10:35:43 AM 26-09-2026",
     "Live": "00",
-    "Upcoming": "33",
+    "Upcoming": "31",
     "Finish": "00",
     "events": [
         {
@@ -977,11 +977,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahjbt5mi7u/out/v1/2bf071397abe422b8640c38a38a47b40/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "fc19251f2f2d18ba39485a6eeeaf2128:15c5b05be425a19e8c532311e6ae05ab",
                     "tokenApi": ""
                 }
             ]
@@ -1263,57 +1263,6 @@
             ]
         },
         {
-            "id": 4119,
-            "title": "MLB",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-            "cat": "Baseball",
-            "eventInfo": {
-                "teamA": "Padres",
-                "teamB": "Diamondbacks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "eventName": "MLB",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/26 01:40:00 +0000",
-                "endTime": "2026/09/26 04:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Padres Broadcast FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kehilzugiy/out/v1/976299890e1f4fecac34005d3ba594bd/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f195ac3dcd7fbf78e6a1a4a9286d0431:57fa9115ab935b9b6f1f61dd4316c503",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Diamondbacks Broadcast FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x2bvb269by/out/v1/703713882b3d4e29bc6a4b9df294962e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f54dc01591fbe55cb16249e822f225e7:8b247547db87f1ea9254876d4c1a9c8e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "MLB HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/57091/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4121,
             "title": "MLB",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
@@ -1408,57 +1357,6 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream1.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4124,
-            "title": "MLB",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-            "cat": "Baseball",
-            "eventInfo": {
-                "teamA": "Athletics",
-                "teamB": "Astros",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-                "eventName": "MLB",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/09/26 01:40:00 +0000",
-                "endTime": "2026/09/26 04:40:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Astros Broadcast FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/unrhzvoti3/out/v1/8921ace1c97147b6977cf016f7b6580d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "39fd39bc56586939aa3241f7758f3fd9:32902ad5a9526f86880933ab8e9df76e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "Athletics Broadcast FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wtawubhywt/out/v1/080489d61f4b4540bbb5691a379572b1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "14b29e8f03f3259a13c7e730e353d148:f6ca4d1846e23ef3bb31142c3f07762e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "MLB HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/57089/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream4.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",

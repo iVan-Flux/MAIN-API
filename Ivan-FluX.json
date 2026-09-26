@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:15:55 AM 27-09-2026",
+    "Last update time": "12:20:55 AM 27-09-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -1960,8 +1960,24 @@
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
+                    "title": "SPORT1 CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
                     "link": "http://193.47.62.41/hls/DKKKA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/57137/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2064,6 +2080,14 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://www.rtmpcdn.com/live/233db093-4047-4227-841b-beb62a459717.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS HD",
+                    "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2191,6 +2215,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "ESPN AR FHD",
+                    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FOX SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57136/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2201,6 +2233,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "http://193.47.62.41/hls/DKKKAAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SPORTS SD",
+                    "link": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:25:42 PM 27-09-2026",
+    "Last update time": "09:31:32 PM 27-09-2026",
     "Live": "00",
     "Upcoming": "84",
     "Finish": "00",
@@ -1419,8 +1419,72 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4517816.m3u8?txSecret=46a6a327b1af20d043a91b200a31d8c9&txTime=6AB94C4B|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Polsat TV HD",
+                    "link": "https://netanjahu.hls.st/t/559e11c26b94edef1a7151b889ece4af/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SportKlub HD",
+                    "link": "https://netanjahu.hls.st/t/47eae8ba3d7e1109f17b3fa4afcc2779/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Arena Sports HD",
+                    "link": "https://netanjahu.hls.st/t/96ab7cbac64e1f61645bc1dd9bc81fe2/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/32d9a490-2e57-402f-bd1b-195816d800b1.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.44/hls/E111Q.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1790527504-0-0-386492cc31949ad2fd22a1aaa52db2ab",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/unl_serb2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790567491~acl=/*~id=94695844885651175745216129102257~hmac=52af047a8d1066ab65b7e1c8ccd1a4ec813bf32ae983e962425a5e427bae8125",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1454,8 +1518,72 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FUBO NETWORK USA",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4517813.m3u8?txSecret=e2285725434d3176279e4fed4604bd9c&txTime=6AB94C82|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Polsat TV HD",
+                    "link": "https://netanjahu.hls.st/t/b5077a152b9f148498b5cb00d29265b3/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Sport TV HD",
+                    "link": "https://netanjahu.hls.st/t/2614e83bef92c0d11b1e3c9c6616be7a/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/a3d0a53d-099f-4317-84e7-7a9f66e4faad.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.41/hls/E111.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1790527504-0-0-52d67c5e29b670be072fb43ef7c46170",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120304/unl_denm2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790567491~acl=/*~id=94695844885651175745216129102257~hmac=52af047a8d1066ab65b7e1c8ccd1a4ec813bf32ae983e962425a5e427bae8125",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1508,6 +1636,22 @@
             },
             "channels_data": [
                 {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4517814.m3u8?txSecret=719a8958b13bb42609c89d57cef4fe6c&txTime=6AB94CA4|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ORF TV HD",
+                    "link": "https://cdn1.obstreamx.click/live/zoojqh2zjh.m3u8?_=1790524279758?|Referer=https://getembed.live/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "Polsat TV HD",
                     "link": "https://netanjahu.hls.st/t/6acb0758a6d80ba5fc57d35b70a359a9/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
@@ -1542,6 +1686,14 @@
                 {
                     "title": "SD SERVER",
                     "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|Referer=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niues.live/live/stream-9912128_lsd.m3u8?auth_key=1790527504-0-0-81d10fa69dfb55d812389f579fdbd4f8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1707,6 +1859,14 @@
             },
             "channels_data": [
                 {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4517815.m3u8?txSecret=1fd87ae801cdede8b7431f5e38c47d0d&txTime=6AB94CC6|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "Sport TV HD",
                     "link": "https://netanjahu.hls.st/t/1d4e7521f5a0d39aa3c37465a16641d1/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
@@ -1733,6 +1893,14 @@
                 {
                     "title": "SD SERVER",
                     "link": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8|Referer=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=69e0c89e1283d245cdb225effc8073a9&txTime=6ab98e60",
                     "logo": "",
                     "type": 0,
                     "api": "",

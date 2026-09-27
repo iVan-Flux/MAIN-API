@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:21:00 PM 27-09-2026",
+    "Last update time": "09:25:42 PM 27-09-2026",
     "Live": "00",
     "Upcoming": "84",
     "Finish": "00",
@@ -1774,6 +1774,30 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "CBS NETWORK FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY PREMIER FHD",
+                    "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=79KyB0_dXmV3S96Piib-8Q&e=2090523114&scheme=https|user-agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4603700.m3u8?txSecret=03f1e1c76f77756dcc5a3d82cfc72489&txTime=6AB94AC4|Referer=https://player.787200.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.50/hls/K999A.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -1784,6 +1808,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://hls.lauthaitv.cc/live/che-ars-wsl/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/16e24845785bbd1b349c4dbd0856eb73/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
                     "type": 0,
                     "api": "",

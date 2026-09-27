@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:31:31 PM 27-09-2026",
+    "Last update time": "03:35:48 PM 27-09-2026",
     "Live": "00",
     "Upcoming": "84",
     "Finish": "00",
@@ -2279,8 +2279,24 @@
             },
             "channels_data": [
                 {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/BHHHAAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://fhlsport954.tm3drop33weeps.ru/token-JkIozbfHfKWGuWwskvY6zGOClMOD13rjbXaul6VKEzT25OOcHUJeCosm%2FkRAXEZJFH7fyGVgwfd7KsJNBkhA6JwzRhziM9K8LGLYK69OvR1XW9qET9Uy3rBF3KM%2FiOxEa/cfall/s2001/v3b/s5s3ssr5nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_836514/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
                     "logo": "",
                     "type": 0,
                     "api": "",

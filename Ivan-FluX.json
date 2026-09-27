@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:10:56 PM 27-09-2026",
+    "Last update time": "03:15:53 PM 27-09-2026",
     "Live": "00",
-    "Upcoming": "83",
+    "Upcoming": "84",
     "Finish": "00",
     "events": [
         {
@@ -1172,8 +1172,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/BHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2821,6 +2821,33 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4137,
+            "title": "Liga F Moeve",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Valencia",
+                "teamB": "C. Adeje Tenerife",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/77909/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/202971/image",
+                "eventName": "Liga F Moeve",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 10:00:00 +0000",
+                "endTime": "2026/09/27 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/BHHHAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

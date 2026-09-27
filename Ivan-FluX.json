@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:45:53 PM 27-09-2026",
+    "Last update time": "01:50:51 PM 27-09-2026",
     "Live": "00",
     "Upcoming": "83",
     "Finish": "00",
@@ -50,8 +50,16 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/bbbbbAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.55/hls/bbbbbAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -115,6 +123,48 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW SD",
+                    "link": "https://s-c12.owledge.cc/viktor/lesarotuca402ufaxacu/master.m3u8?u_id=a9y7f3h7g5r1k3k6a4w1o2p7p3p9f8h3&ssid=MTc5MDUwMjkxNi4wMTFkNjA4ODMxOTU1YWRiMWI0ZTU1MThkNTIxNDAyODJiMzNhZjg5NTQxZmUwZTdhNWQ0NTExMjhhOTgyY2U1&session_id=765bba8c75565d4ad2cc7a83ba9b661a|Referer=https://posamari.me/&Origin=https://posamari.me&User-Agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/153.0.8010.36 Mobile Safari/537.36&sec-ch-ua=\"Android WebView\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"&sec-ch-ua-mobile=?1&Accept=*/*&sec-ch-ua-platform=\"Android\"",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://foxxy.st/event/admin-willow-cricket",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://foxxy.st/event/ppv-fox-cricket",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

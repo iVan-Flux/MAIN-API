@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:25:43 PM 27-09-2026",
+    "Last update time": "01:31:25 PM 27-09-2026",
     "Live": "00",
-    "Upcoming": "19",
+    "Upcoming": "49",
     "Finish": "00",
     "events": [
         {
@@ -1027,6 +1027,816 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790480680-0-0-864c8452a2feb8dac0b83911d1904eaf",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4073,
+            "title": "Serie A Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sassuolo",
+                "teamB": "Roma",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/269819/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image",
+                "eventName": "Serie A Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 13:00:00 +0000",
+                "endTime": "2026/09/27 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4074,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "China",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 11:35:00 +0000",
+                "endTime": "2026/09/27 13:55:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4075,
+            "title": "Liga F Moeve",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Athletic Club",
+                "teamB": "Atlético de Madrid",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/77877/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/77879/image",
+                "eventName": "Liga F Moeve",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 10:00:00 +0000",
+                "endTime": "2026/09/27 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4076,
+            "title": "Women's Super League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Man Utd",
+                "teamB": "West Ham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/301455/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/297802/image",
+                "eventName": "Women's Super League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 12:00:00 +0000",
+                "endTime": "2026/09/27 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4077,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Seychelles",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/8038/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 12:00:00 +0000",
+                "endTime": "2026/09/27 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4078,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lithuania",
+                "teamB": "Azerbaijan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 13:00:00 +0000",
+                "endTime": "2026/09/27 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4079,
+            "title": "Serie A Women",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter",
+                "teamB": "Fiorentina",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/264911/image",
+                "eventName": "Serie A Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 11:00:00 +0000",
+                "endTime": "2026/09/27 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4080,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Serbia",
+                "teamB": "Netherlands",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:00:00 +0000",
+                "endTime": "2026/09/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4081,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Denmark",
+                "teamB": "Wales",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4702/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:00:00 +0000",
+                "endTime": "2026/09/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4082,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mallorca",
+                "teamB": "Almería",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 14:15:00 +0000",
+                "endTime": "2026/09/27 16:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4083,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Austria",
+                "teamB": "Kosovo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:00:00 +0000",
+                "endTime": "2026/09/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4084,
+            "title": "Women's Super League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Liverpool",
+                "teamB": "Everton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/66774/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36704/image",
+                "eventName": "Women's Super League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 13:00:00 +0000",
+                "endTime": "2026/09/27 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4085,
+            "title": "Women's Super League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tottenham",
+                "teamB": "Aston Villa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/273547/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/266375/image",
+                "eventName": "Women's Super League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 13:00:00 +0000",
+                "endTime": "2026/09/27 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4086,
+            "title": "Women's Super League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Birmingham",
+                "teamB": "Crystal Palace",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/66766/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/234204/image",
+                "eventName": "Women's Super League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 13:00:00 +0000",
+                "endTime": "2026/09/27 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4087,
+            "title": "COSAFA U20 Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Zambia",
+                "teamB": "Namibia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/191166/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/371822/image",
+                "eventName": "COSAFA U20 Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 13:00:00 +0000",
+                "endTime": "2026/09/27 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4088,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Gibraltar",
+                "teamB": "Andorra",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:00:00 +0000",
+                "endTime": "2026/09/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4089,
+            "title": "Women's Super League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Chelsea",
+                "teamB": "Arsenal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
+                "eventName": "Women's Super League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 15:30:00 +0000",
+                "endTime": "2026/09/27 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4090,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Malta",
+                "teamB": "Liechtenstein",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4830/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:30:00 +0000",
+                "endTime": "2026/09/27 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4091,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Pumas",
+                "teamB": "San Luis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 18:00:00 +0000",
+                "endTime": "2026/09/27 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4092,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Germany",
+                "teamB": "Greece",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 18:45:00 +0000",
+                "endTime": "2026/09/27 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4093,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Norway",
+                "teamB": "Portugal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 18:45:00 +0000",
+                "endTime": "2026/09/27 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4094,
+            "title": "Liga F Moeve",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Deportivo",
+                "teamB": "Espanyol",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/262253/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+                "eventName": "Liga F Moeve",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:00:00 +0000",
+                "endTime": "2026/09/27 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4095,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burgos",
+                "teamB": "Eldense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:30:00 +0000",
+                "endTime": "2026/09/27 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4096,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Eibar",
+                "teamB": "Las Palmas",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:30:00 +0000",
+                "endTime": "2026/09/27 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4097,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Oviedo",
+                "teamB": "Sporting",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 19:00:00 +0000",
+                "endTime": "2026/09/27 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4098,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Israel",
+                "teamB": "Ireland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4480/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 18:45:00 +0000",
+                "endTime": "2026/09/27 21:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4099,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bolivia",
+                "teamB": "Paraguay",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4746/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 20:30:00 +0000",
+                "endTime": "2026/09/27 22:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4100,
+            "title": "COSAFA U20 Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "South Africa U20",
+                "teamB": "Mozambique U20",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35466/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/336931/image",
+                "eventName": "COSAFA U20 Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 16:30:00 +0000",
+                "endTime": "2026/09/27 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4101,
+            "title": "CONCACAF Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Guyana",
+                "teamB": "Cayman Islands",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22113/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21811/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 19:00:00 +0000",
+                "endTime": "2026/09/27 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4102,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Jordan",
+                "teamB": "Syria",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/27 17:00:00 +0000",
+                "endTime": "2026/09/27 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

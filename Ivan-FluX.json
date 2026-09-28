@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:35:41 AM 28-09-2026",
+    "Last update time": "07:40:50 AM 28-09-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -2068,11 +2068,19 @@
             },
             "channels_data": [
                 {
-                    "title": "SONY TEN HD",
-                    "link": "https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILOOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72",
                     "tokenApi": ""
                 },
                 {

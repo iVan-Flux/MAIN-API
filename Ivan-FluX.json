@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:40:57 AM 30-09-2026",
+    "Last update time": "12:46:00 AM 30-09-2026",
     "Live": "00",
     "Upcoming": "61",
     "Finish": "00",
@@ -2668,8 +2668,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/08d797f4-634f-4268-b7fc-0caa32be4d20.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.50/hls/BYDDQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2722,8 +2730,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4642716.m3u8?txSecret=5c67b27c07b810f0ae461b0da022b40a&txTime=6ABC1DF7|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/8e67f8bf-2089-4593-ade1-d206fab4d201.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.44/hls/BYDDQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

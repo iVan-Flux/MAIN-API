@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:25:44 AM 30-09-2026",
+    "Last update time": "09:31:33 AM 30-09-2026",
     "Live": "00",
-    "Upcoming": "29",
+    "Upcoming": "58",
     "Finish": "00",
     "events": [
         {
@@ -1367,6 +1367,789 @@
                 "Status": "Upcoming",
                 "startTime": "2026/09/30 16:00:00 +0000",
                 "endTime": "2026/09/30 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4203,
+            "title": "Gulf Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bahrain",
+                "teamB": "Yemen",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5161/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4721/image",
+                "eventName": "Gulf Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 17:30:00 +0000",
+                "endTime": "2026/09/30 19:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4204,
+            "title": "UEFA Women's Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Häcken",
+                "teamB": "Juventus",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1889/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 16:45:00 +0000",
+                "endTime": "2026/09/30 19:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4205,
+            "title": "UEFA Women's Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Roma",
+                "teamB": "FC Barcelona",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/301414/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 16:45:00 +0000",
+                "endTime": "2026/09/30 19:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4206,
+            "title": "Gulf Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "UAE",
+                "teamB": "Qatar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
+                "eventName": "Gulf Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 17:30:00 +0000",
+                "endTime": "2026/09/30 19:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4207,
+            "title": " U23 Africa Cup of Nations Qualification",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37958/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Rwanda",
+                "teamB": "Sudan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/196577/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/205756/image",
+                "eventName": " U23 Africa Cup of Nations Qualification",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 16:00:00 +0000",
+                "endTime": "2026/09/30 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4208,
+            "title": " U23 Africa Cup of Nations Qualification",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37958/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Togo U23",
+                "teamB": "Libya U23",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/287052/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/312755/image",
+                "eventName": " U23 Africa Cup of Nations Qualification",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 16:00:00 +0000",
+                "endTime": "2026/09/30 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4209,
+            "title": "UEFA Women's Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Paris",
+                "teamB": "Arsenal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/264964/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 16:45:00 +0000",
+                "endTime": "2026/09/30 19:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4210,
+            "title": " U23 Africa Cup of Nations Qualification",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37958/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Zimbabwe U23",
+                "teamB": "Mauritius U23",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/205757/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/304340/image",
+                "eventName": " U23 Africa Cup of Nations Qualification",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 16:00:00 +0000",
+                "endTime": "2026/09/30 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4211,
+            "title": "UEFA Women's Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Benfica",
+                "teamB": "Bayern",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/297853/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5543/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 19:00:00 +0000",
+                "endTime": "2026/09/30 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4212,
+            "title": " U23 Africa Cup of Nations Qualification",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37958/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Angola U23",
+                "teamB": "Namibia U23",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/312799/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1279757/image",
+                "eventName": " U23 Africa Cup of Nations Qualification",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 16:00:00 +0000",
+                "endTime": "2026/09/30 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4213,
+            "title": "UEFA Women's Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lyonnes",
+                "teamB": "Chelsea",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/26245/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 19:00:00 +0000",
+                "endTime": "2026/09/30 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4214,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Maldives",
+                "teamB": "Lebanon",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6911/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4774/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 12:00:00 +0000",
+                "endTime": "2026/10/01 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4215,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Argentina",
+                "teamB": "Bolivia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4746/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 00:00:00 +0000",
+                "endTime": "2026/10/01 02:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4216,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Panama",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5164/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 06:10:00 +0000",
+                "endTime": "2026/10/01 08:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4217,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cook Islands",
+                "teamB": "Tahiti",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/23475/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23477/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 02:00:00 +0000",
+                "endTime": "2026/10/01 04:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4218,
+            "title": "ASEAN Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Malaysia",
+                "teamB": "Singapore",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+                "eventName": "ASEAN Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 12:30:00 +0000",
+                "endTime": "2026/10/01 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4219,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Japan",
+                "teamB": "Ecuador",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 10:10:00 +0000",
+                "endTime": "2026/10/01 12:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4220,
+            "title": "ASEAN Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Indonesia",
+                "teamB": "Bangladesh",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+                "eventName": "ASEAN Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 12:30:00 +0000",
+                "endTime": "2026/10/01 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4221,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Yankees",
+                "teamB": "Red Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 00:00:00 +0000",
+                "endTime": "2026/10/01 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4222,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Padres",
+                "teamB": "Cubs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 02:00:00 +0000",
+                "endTime": "2026/10/01 05:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4223,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Braves",
+                "teamB": "Phillies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 18:00:00 +0000",
+                "endTime": "2026/09/30 21:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4224,
+            "title": "MLB",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+            "cat": "Baseball",
+            "eventInfo": {
+                "teamA": "Astros",
+                "teamB": "White Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "eventName": "MLB",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 21:00:00 +0000",
+                "endTime": "2026/10/01 00:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4225,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Mystics",
+                "teamB": "Dream",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 23:00:00 +0000",
+                "endTime": "2026/10/01 01:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4226,
+            "title": "WNBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Wings",
+                "teamB": "Valkyries",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+                "eventName": "WNBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 01:00:00 +0000",
+                "endTime": "2026/10/01 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4227,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Ice hockey",
+            "eventInfo": {
+                "teamA": "Flyers",
+                "teamB": "Penguins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 23:30:00 +0000",
+                "endTime": "2026/10/01 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4228,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Ice hockey",
+            "eventInfo": {
+                "teamA": "Avalanche",
+                "teamB": "Kings",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 02:00:00 +0000",
+                "endTime": "2026/10/01 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4229,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Ice hockey",
+            "eventInfo": {
+                "teamA": "Maple Leafs",
+                "teamB": "Islanders",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/09/30 23:30:00 +0000",
+                "endTime": "2026/10/01 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4230,
+            "title": "Asian Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "PAK",
+                "teamB": "BAN",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+                "eventName": "Asian Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 00:00:00 +0000",
+                "endTime": "2026/10/01 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4231,
+            "title": "Asian Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "IND",
+                "teamB": "SL",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+                "eventName": "Asian Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/01 04:30:00 +0000",
+                "endTime": "2026/10/01 09:00:00 +0000"
             },
             "channels_data": [
                 {

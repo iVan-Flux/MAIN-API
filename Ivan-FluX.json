@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:01:21 PM 01-10-2026",
+    "Last update time": "06:05:49 PM 01-10-2026",
     "Live": "00",
     "Upcoming": "64",
     "Finish": "00",
@@ -1221,6 +1221,14 @@
             "channels_data": [
                 {
                     "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4639765.m3u8?txSecret=c46bbda66466f8038478381a14a93e3c&txTime=6ABE656F|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
                     "link": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790857376-0-0-03a15e5b544aebb56a1478a255b1f091",
                     "logo": "",
                     "type": 0,
@@ -1298,7 +1306,15 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4639764.m3u8?txSecret=0f546d840b5216d8f89857e4064cb929&txTime=6ABE653C|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ASEAN CUP FHD",
                     "link": "https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|referer=https://iscreen.com.bd/&origin=https://iscreen.com.bd",
                     "logo": "",
                     "type": 0,
@@ -1306,7 +1322,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FAST SERVER",
+                    "title": "HD SERVER",
                     "link": "https://live2.zundrixmediapipeline.com/live/channel5.m3u8?|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:55:47 PM 01-10-2026",
+    "Last update time": "12:01:19 AM 02-10-2026",
     "Live": "00",
     "Upcoming": "66",
     "Finish": "00",
@@ -1471,9 +1471,9 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
             "cat": "Football",
             "eventInfo": {
-                "teamA": "Israel",
+                "teamA": "Toilet",
                 "teamB": "Kosovo",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4480/image",
+                "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheZnT6exT3R9gWVorHBas2gWrUoKLrypj4JZGkfiTD4ADWoOJCeXh-6I7YwTNvWczZV7bIYhKHMoM_gRsNHbCoyP0JuNSHSfkiRUspnNzBhfSaJMuC2OEmr2RG2Y7-YW7uosIIF68cBbTL-BaewbSon1rpVeHKraLm7LFZxtTQNLrKOl00oJkbnkBsN8Q/s1600/1000010360.png",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image",
                 "eventName": "UEFA Nations League",
                 "isHot": "0",
@@ -1604,8 +1604,32 @@
             },
             "channels_data": [
                 {
+                    "title": "FOX SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57398/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/Footlive0110/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9996611f1d6fd8b5f098d9e85f7a300d-1790878200191",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|Referer=https://streame.center",
+                    "link": "https://www.rtmpcdn.com/live/ce92a268-edd9-4d87-92b2-ac256554d3dd.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.40/hls/OLLL.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1833,11 +1857,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "CBS NETWORK FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
                     "tokenApi": ""
                 }
             ]

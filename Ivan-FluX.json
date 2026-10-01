@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:25:46 AM 02-10-2026",
+    "Last update time": "12:31:36 AM 02-10-2026",
     "Live": "00",
     "Upcoming": "66",
     "Finish": "00",
@@ -2113,7 +2113,15 @@
             },
             "channels_data": [
                 {
-                    "title": "CBS NETWORK FHD",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tkwu4qjgov/out/v1/58d9c0f5b2d84184ad2cd6189284c513/45e1a162-9b02-4dd3-bda7-0094267cb01e-cenc.mpd?aws_sessionId=c1ce6802-b80a-40d1-b89a-01e51ec79b31",
+                    "logo": "",
+                    "type": 0,
+                    "api": "70bf7fbb20c1b1c64c46193bf3491e77:7b50823b4762e61cb5bfdcc90fe205eb",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
@@ -2175,6 +2183,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ypcwv6bvbl/out/v1/7797a272b3d64454a38712cfd4090be9/910b92bb-1abd-4815-b6a9-f2603e68ce5c-cenc.mpd?aws_sessionId=e1ec26d3-a7dd-4c22-b023-995c79350915",
+                    "logo": "",
+                    "type": 0,
+                    "api": "dfd74824c27a062dd7e8a6c686d727ba:1b4ac895a2a982a9dd73a25205d8555c",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/AIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
@@ -2229,11 +2245,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FOX SPORTS 2 US",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
                     "tokenApi": ""
                 }
             ]
@@ -2256,11 +2272,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FOX SPORTS 2 US",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
                     "tokenApi": ""
                 }
             ]
@@ -2364,11 +2380,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FOX SPORTS 2 US",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
                     "tokenApi": ""
                 }
             ]

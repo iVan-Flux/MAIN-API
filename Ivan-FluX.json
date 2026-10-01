@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:21:05 PM 01-10-2026",
+    "Last update time": "11:25:44 PM 01-10-2026",
     "Live": "00",
     "Upcoming": "66",
     "Finish": "00",
@@ -2158,8 +2158,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2517,6 +2517,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rsawguycf0/out/v1/532e56a5aec14edf92170cfbee5e5ca3/9d9f065e-0aea-4bc9-a25e-eb3bde86013e-cenc.mpd?aws_sessionId=db2f6a15-93ab-403c-ab70-4c156cdf3694",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a477e9323b693f30c2e203f67363ca61:ec0a14d47c3069fa21faeafbe5775b5d",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/zfffAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
@@ -2543,6 +2551,14 @@
                 "endTime": "2026/10/01 19:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/l0mwmdk5ca/out/v1/9a3c8cab0543471ab00696a87699faa8/26a8fa13-1953-49b1-8d93-e224b2daf226-cenc.mpd?aws_sessionId=61d47e66-c52a-413a-8d94-07116c10c814",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f54f5db269608dd70b0c968abfd29e99:4e0b49c71c67f13805e1f658f3853ab7",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/zfffAAAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:21:00 AM 02-10-2026",
+    "Last update time": "12:25:46 AM 02-10-2026",
     "Live": "00",
     "Upcoming": "66",
     "Finish": "00",
@@ -1523,6 +1523,14 @@
             },
             "channels_data": [
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vbbil7n9j7/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd?aws_sessionId=263332e7-1595-49e8-bf10-fdf6b096b31d",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cc4f3e59e98529f9e244b3b02a6a8d15:425b94fb3b90890a11a783db7b5cdd79",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SPORTS 5",
                     "link": "https://chatgpt.hereisman.net/playlist/57399/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1723,6 +1731,14 @@
                 "endTime": "2026/10/01 21:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/slvllsgnv9/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd?aws_sessionId=98ba9929-4b8e-47f8-9d00-573807a1545e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2e04f12c4a5d6470def15978a7cd8336:fc71825de56fe20ac443d69117e714f3",
+                    "tokenApi": ""
+                },
                 {
                     "title": "DAZN SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57398/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
@@ -2103,6 +2119,14 @@
                     "type": 0,
                     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/AIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2151,8 +2175,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/AIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

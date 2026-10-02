@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:05:47 PM 02-10-2026",
+    "Last update time": "05:10:54 PM 02-10-2026",
     "Live": "00",
-    "Upcoming": "27",
+    "Upcoming": "29",
     "Finish": "00",
     "events": [
         {
@@ -1144,76 +1144,6 @@
             ]
         },
         {
-            "id": 4245,
-            "title": "Asian Games, Women",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11330/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "China",
-                "teamB": "South Korea",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7413/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/21922/image",
-                "eventName": "Asian Games, Women",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/02 06:00:00 +0000",
-                "endTime": "2026/10/02 08:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/FEEEa.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4247,
-            "title": "ASEAN Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Thailand",
-                "teamB": "Philippines",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4791/image",
-                "eventName": "ASEAN Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/02 09:00:00 +0000",
-                "endTime": "2026/10/02 11:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790931386-0-0-ef622f7a9efb1ae305b3d391347ad973",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/TTTTTX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ARABIC HD",
-                    "link": "https://fhlsport722.tm3troops31patrol.ru/token-JhB6yLSXff6Gvmx7x%2FY6zDnWlJuGhS%2FjZXGuwqZHRjj057eaHUFaCZQkqwtJVU8GRH3BwzNpk%2FZyfplLVxMK%2FJFgREK%2BMA%3D%3Da/cfall/s2001/v3b/8p25r26onUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_840814/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4249,
             "title": "Asian Games, Women",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11330/image/dark",
@@ -1233,49 +1163,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/TATATA.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4252,
-            "title": "ASEAN Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Vietnam",
-                "teamB": "Pakistan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-                "eventName": "ASEAN Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/02 09:00:00 +0000",
-                "endTime": "2026/10/02 11:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001790931344-0-0-aa77906d1a89b2a15f4cfc7f2a0c5172",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/TTTTX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1357,6 +1244,141 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.50/hls/URRRAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4259,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kazakhstan",
+                "teamB": "Moldova",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4772/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/02 14:00:00 +0000",
+                "endTime": "2026/10/02 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4260,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mauritius",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4780/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/02 15:00:00 +0000",
+                "endTime": "2026/10/02 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4261,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Latvia",
+                "teamB": "Montenegro",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4706/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/02 16:00:00 +0000",
+                "endTime": "2026/10/02 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4262,
+            "title": "UEFA Nations League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cyprus",
+                "teamB": "Armenia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4482/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4740/image",
+                "eventName": "UEFA Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/02 16:00:00 +0000",
+                "endTime": "2026/10/02 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4263,
+            "title": "International Friendly Games",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "DR Congo",
+                "teamB": "Uganda",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4726/image",
+                "eventName": "International Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/02 13:00:00 +0000",
+                "endTime": "2026/10/02 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

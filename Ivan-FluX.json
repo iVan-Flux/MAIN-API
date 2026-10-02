@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:48 AM 03-10-2026",
+    "Last update time": "12:40:59 AM 03-10-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1546,6 +1546,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gedig5yxkc/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd?aws_sessionId=910a288e-229f-4bbb-b71b-1832046393b9",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2932e87bc1df7a4b8a119cb88a5a9681:bed3134361634816cb68b24fee06ed03",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LIVE SERVER",
                     "link": "https://chatgpt.hereisman.net/playlist/57429/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1688,11 +1696,19 @@
             },
             "channels_data": [
                 {
-                    "title": "HD+ SERVER",
-                    "link": "http://193.47.62.50/hls/OIIIQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uw06vyx2eu/out/v1/ae69e64528054e7bb6e075efc51bce5d/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "6f464515311815a148f6341b0cca5b96:2c5809dc0b9387221fcdbb0c29c6e40e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ost5hivkfd/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd?aws_sessionId=34c842e4-c8fa-45c1-b912-3b6114a6e422",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b1d14fc73d35ef3bdabc827453d1edf4:dccdf84a052cad89a090a570105417b7",
                     "tokenApi": ""
                 },
                 {
@@ -1712,7 +1728,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
+                    "title": "HD SERVER",
                     "link": "https://www.rtmpcdn.com/live/dd4f0f71-8990-45e8-952e-da9f0f47f2e6.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -1722,6 +1738,22 @@
                 {
                     "title": "SONYLIV [ASIA]",
                     "link": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791009319~acl=/*~id=42246596427530185288838845590976~hmac=a50dabf4f198734a4945b9d84b1b5555a527f258c0c5aa0037dfaad3d7a0e26e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/OIIIQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1884,6 +1916,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mu2pxung7j/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd?aws_sessionId=6f0890cb-778b-4837-9611-29c007da0923",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8959a54083ac9b038280f7a197bb8e49:8339e2ebe47760127758a395d04d3c9f",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SporTV BR FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1908,7 +1948,23 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
+                    "title": "TAPMAD FHD",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC HD",
+                    "link": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
                     "link": "https://www.rtmpcdn.com/live/ab1ea1d1-7137-44ee-8592-90789d7aa234.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -1929,6 +1985,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORT2 CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
                     "tokenApi": ""
                 }
             ]

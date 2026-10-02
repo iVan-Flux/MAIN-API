@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:01:16 PM 02-10-2026",
+    "Last update time": "03:05:48 PM 02-10-2026",
     "Live": "00",
     "Upcoming": "27",
     "Finish": "00",
@@ -37,7 +37,7 @@
         },
         {
             "id": 4231,
-            "title": "Asian Games",
+            "title": "Asian Games Final",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
             "cat": "Cricket",
             "eventInfo": {
@@ -45,7 +45,7 @@
                 "teamB": "IND",
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-                "eventName": "Asian Games",
+                "eventName": "Asian Games Final",
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/10/03 04:30:00 +0000",
@@ -433,7 +433,7 @@
                 "eventName": "MotoGP",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/02 01:30:00 +0000",
+                "startTime": "2026/10/03 01:20:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [

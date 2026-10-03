@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:01:15 PM 03-10-2026",
+    "Last update time": "06:05:45 PM 03-10-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1209,6 +1209,14 @@
                 "endTime": "2026/10/03 14:50:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/h5h5ei59eu/out/v1/210bb74c183549d09cbb6451151f2a94/91ae3c8f-7eb0-411c-925e-6b8ed2fbb417-cenc.mpd?aws_sessionId=9770a8a8-5fe3-4554-8a33-f379ec20cdec",
+                    "logo": "",
+                    "type": 0,
+                    "api": "23bb1458b7a635429f2125537c704219:4f41068c723f8f64558e5589dfc993f0",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/shhhhaAAAAA.m3u8|referer=http://www.fawanews.sc/",

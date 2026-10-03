@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:31:29 AM 03-10-2026",
+    "Last update time": "08:35:45 AM 03-10-2026",
     "Live": "00",
     "Upcoming": "51",
     "Finish": "00",
@@ -2254,6 +2254,14 @@
             },
             "channels_data": [
                 {
+                    "title": "NHL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57451/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -2324,8 +2332,24 @@
             },
             "channels_data": [
                 {
+                    "title": "NHL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57452/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream6.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NHL LIVE FHD",
+                    "link": "https://ghostinpixels.s3.us-east-1.amazonaws.com/ducks.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2453,6 +2477,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CFL LIVE HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57432/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

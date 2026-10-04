@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:21:02 PM 04-10-2026",
+    "Last update time": "07:25:44 PM 04-10-2026",
     "Live": "00",
     "Upcoming": "86",
     "Finish": "00",
@@ -1484,6 +1484,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/thncjlopvu/out/v1/c68e25fb8f9d4dc4849ac685f167cf01/a489c3b6-e452-4674-81f7-215d90cad928-cenc.mpd?aws_sessionId=2337495b-cccb-4c62-af9f-c508ff1454fb|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f6dc200ef29252e19a3fe392f16ffa04:98f7a29684bced80ce8b43daa714cf4e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/sd-1-4603703.m3u8?txSecret=9c20515e6f8914d054c1c7a6cffa5db5&txTime=6AC259B1|Referer=https://player.online909.com/",
                     "logo": "",
@@ -1759,11 +1767,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "CBS NETWORK FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
                     "tokenApi": ""
                 }
             ]

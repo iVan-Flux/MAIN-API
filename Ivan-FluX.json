@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:10:57 PM 04-10-2026",
+    "Last update time": "10:15:58 PM 04-10-2026",
     "Live": "00",
     "Upcoming": "88",
     "Finish": "00",
@@ -654,40 +654,48 @@
             },
             "channels_data": [
                 {
+                    "title": "NFL NETWORK FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NFL RedZone HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/56392/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/57277/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SERVER 1 HD [USA]",
-                    "link": "https://chatgpt.hereisman.net/playlist/56392/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream3.pro/hls/eyrennte44.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SERVER 2 HD [USA]",
-                    "link": "https://chatgpt.hereisman.net/playlist/56417/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "SERVER 2 HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57248/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SERVER 3 HD [USA]",
-                    "link": "https://chatgpt.hereisman.net/playlist/56418/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "SERVER 3 HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57249/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SERVER 4 HD [USA]",
-                    "link": "https://edgestream6.pro/hls/eyrennte44.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "SERVER 4 HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57247/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -695,14 +703,14 @@
                 },
                 {
                     "title": "NFL NETWORK HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/54923/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/54923/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "LOW SERVER",
+                    "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/ZTTTAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
@@ -2753,8 +2761,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2888,8 +2896,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NFL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57602/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE [USA]",
+                    "link": "https://chatgpt.hereisman.net/playlist/57584/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/yetehznecs37.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3077,8 +3101,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NFL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57603/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE [USA]",
+                    "link": "https://chatgpt.hereisman.net/playlist/57577/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/jkhazabcka36.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",

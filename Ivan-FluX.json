@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:40:56 AM 05-10-2026",
+    "Last update time": "03:45:57 AM 05-10-2026",
     "Live": "00",
     "Upcoming": "88",
     "Finish": "00",
@@ -3116,6 +3116,22 @@
             },
             "channels_data": [
                 {
+                    "title": "NHL SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/57622/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NHL LIVE HD",
+                    "link": "https://brokenpixel.s3.us-east-1.amazonaws.com/rangers.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD QUALITY",
                     "link": "https://edgestream4.pro/hls/hjksgdfauzy51.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
@@ -3463,6 +3479,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lmhcovriuw/out/v1/cc4830f50ff9438b9143c4c98e02c680/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8816c7a56b7eac4c1d2cc38e0073121c:beb39006870feb7b3d2c89a927a08832",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/poertjnvnev40.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
@@ -3662,6 +3686,14 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/czr0xkkcv2/out/v1/ce9facdf04b24f409e89decf0f5b8884/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d6450102c3e09221d8fde9129cce153a:ee9820ac8ea30d8f217f96f7a8c795d5",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD QUALITY",
                     "link": "https://edgestream6.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
@@ -3696,6 +3728,14 @@
                 "endTime": "2026/10/04 23:25:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wsqakvzypr/out/v1/b09ef7172cd548ae854c89de5adb77f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "65d2c3fc4aca1484dbf9b39b0b495374:4197f60aa0b8e43a4dde7b18933efdd0",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream5.pro/hls/wnbcnxbcs42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:11:06 PM 04-10-2026",
+    "Last update time": "08:15:55 PM 04-10-2026",
     "Live": "00",
-    "Upcoming": "86",
+    "Upcoming": "87",
     "Finish": "00",
     "events": [
         {
@@ -1821,8 +1821,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/ZEEEA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1791127624-0-0-f692d69b4f02cb3ea44069f0902d7973",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3046,6 +3054,33 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/VMMMAAAAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4357,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sporting",
+                "teamB": "Celta Fortuna",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/04 14:15:00 +0000",
+                "endTime": "2026/10/04 16:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/rlllQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

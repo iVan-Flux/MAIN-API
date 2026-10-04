@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:45:56 AM 05-10-2026",
+    "Last update time": "01:51:01 AM 05-10-2026",
     "Live": "00",
     "Upcoming": "88",
     "Finish": "00",
@@ -2509,8 +2509,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.41/hls/BFFFAAAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2706,8 +2706,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "http://193.47.62.41/hls/VAVAVA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3197,8 +3197,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/x9bbacauuk/out/v1/aa09d4975f5342f395cb925a435e7082/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "02fc0fa1778d34df10eb820d3dd9faf4:51a3e87594a01393aa37483be6a4410f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://edgestream3.pro/hls/cwxcnbscbsq39.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.50/hls/NGGG.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:31:42 AM 06-10-2026",
+    "Last update time": "12:35:54 AM 06-10-2026",
     "Live": "00",
     "Upcoming": "57",
     "Finish": "00",
@@ -1685,11 +1685,83 @@
             },
             "channels_data": [
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/11gnhblrdl/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd?aws_sessionId=485b5c98-7a87-466f-be73-d415ca76066f",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6936ae743161c2914d1fef877d1e9c34:c49a009c90b1c72c7565be8767ecc6cf",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SporTV BR FHD",
                     "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX SOCCER+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57637/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/ce5de77a65d2076d3ca29ed35a03e3f4/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "Sport TV HD",
+                    "link": "https://netanjahu.hls.st/t/f60bffeb20fcf47284422eb1e0b669b9/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD+ SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4518041.m3u8?txSecret=97228196f3b815e7c9ec9c97f398469d&txTime=6AC400FC|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive0510/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ecf2de205e44c230b9b34314d63b2de3-1791223804377",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/e5db647d-f516-4a27-8b54-99aeb032a2f7.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/SZSZSZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

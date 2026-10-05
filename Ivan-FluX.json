@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:50:59 PM 05-10-2026",
+    "Last update time": "03:55:48 PM 05-10-2026",
     "Live": "00",
-    "Upcoming": "56",
+    "Upcoming": "57",
     "Finish": "00",
     "events": [
         {
@@ -1121,8 +1121,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/ekkkkAAA.m3u8|referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2071,6 +2079,57 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/05 09:00:00 +0000",
                 "endTime": "2026/10/05 11:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D55877b1d24209634172d8d5ab1d1120704a93937871bae53e3282efdae9834020d10a33fbc408a1f9ccf127a5b24665b54c70c3ab35ad9d49f0f9ec68a6d975c63e57517ab6fa69443c957b7a61544c13646a9a00d86f44e30605d465def7da34c08572c37b748bdb46dc3dc349778aec079378277391d11db86d8334e4fa262edbe93e3e3d14725345c5fb46e9375eddc5dc0d692d5315df15da1b15549f66eee5a30114ca33cda017eb3ff42fd8902af597c61adee91e44f284c786eb609b2090e15a87b1201d71156c7ea52a4f341%26cid%3D5BUVw3f3eml39N5W_qaHv261005%26_v%3D2%26_r%3DrMzohR%26_vis%3Dbb1c01e488bd0337936c06ce7c4193b731718fe78afd017d48d60029b9a83b43%26_vvs%3D5e71cd0b40d9633e35e549dd203d0407d89cb6d5cfcd354934a7adf7cb76cd49%26_vas%3Dd98f666e476ae5ba27628b991d4f3623341380fa6508c503b582897af446dad3/transcode/c443354_480p.m3u8|referer=https://ppdd20.playaindg12.xyz/live.html?_pa=bWF0Y2hJZD0zMDk3NzQ5Jm10VGV4dD1mb290YmFsbCZzaXRlS2V5PThzbDImc2twdE51bT0zcmQ%3D&_pb=1",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://fhlsport722.tm3troops31patrol.ru/token-LRAtzuSSL%2FeG5WF5lfY6kDrQlJrVjH3jOSytwfMdQzeg5%2BPKHUFaCZQkqwtJVU8GRnnU3zVnmv5wdZBGXUcY%2F4o%2BSUK%2FPII%3Da/cfall/s2001/v3b/1q01450qnUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_847724/index.m3u8|referer=https://nadia01eo.tn76degree12ec3out.cfd/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/ekkkkAA.m3u8|referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4364,
+            "title": "ASEAN Cup",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Indonesia",
+                "teamB": "Thailand",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+                "eventName": "ASEAN Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/05 13:00:00 +0000",
+                "endTime": "2026/10/05 15:20:00 +0000"
             },
             "channels_data": [
                 {

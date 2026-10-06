@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:01:26 AM 07-10-2026",
+    "Last update time": "02:07:03 AM 07-10-2026",
     "Live": "00",
     "Upcoming": "59",
     "Finish": "00",
@@ -1772,6 +1772,22 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zwephvznmt/out/v1/cca89398da1a41da88b5dbf390d39614/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "08fb70950c39f2ef978720999f8802e7:e4573172c55d95e389985d0ce5076b04",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eg5haeziij/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd?aws_sessionId=de4ff7dc-e63a-4e5e-9e1a-86241387842e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fec404858a30e3223e35c6f977ca957d:79114c3e52e906618ab84e4719dc63a1",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://chatgpt.hereisman.net/playlist/57666/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1949,6 +1965,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zory0hdtdm/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd?aws_sessionId=0f9d5dd5-86a8-43b3-83b2-430359e6cb68",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4e32505eca9231f0eb613e5118f28184:8c0e78388c855541bfe865edc530037e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://chatgpt.hereisman.net/playlist/57674/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2015,6 +2039,22 @@
                 "endTime": "2026/10/06 21:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dgmsxdvznt/out/v1/e8ce3fcef3ae46dca7ec079a9689064d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a0bfa3f591781e4f5f8c3a3aaf3fe811:aff39374ec3b81a840164ff89b4b0e0a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ndft3tmzdp/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd?aws_sessionId=50b6586c-3391-4624-89a1-a361b0c7197b",
+                    "logo": "",
+                    "type": 0,
+                    "api": "572192d9843249837fd92d1c39bfce29:135fd7cb6f2dd17e12cda97bf903f627",
+                    "tokenApi": ""
+                },
                 {
                     "title": "MAX SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57669/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
@@ -2356,6 +2396,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://hls.lauthaitv.cc/live/svg-sint-concacaf/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

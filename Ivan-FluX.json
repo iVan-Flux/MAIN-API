@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:21:07 PM 07-10-2026",
+    "Last update time": "10:33:10 PM 07-10-2026",
     "Live": "00",
-    "Upcoming": "41",
+    "Upcoming": "42",
     "Finish": "00",
     "events": [
         {
@@ -1658,6 +1658,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/07 23:30:00 +0000",
                 "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4257,
+            "title": "ICC CWC League 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "USA",
+                "teamB": "NAM",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/199276/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+                "eventName": "ICC CWC League 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/07 15:00:00 +0000",
+                "endTime": "2026/10/07 19:30:00 +0000"
             },
             "channels_data": [
                 {

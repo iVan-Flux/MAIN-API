@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:40:51 PM 08-10-2026",
+    "Last update time": "07:45:54 PM 08-10-2026",
     "Live": "00",
-    "Upcoming": "20",
+    "Upcoming": "25",
     "Finish": "00",
     "events": [
         {
@@ -1096,6 +1096,141 @@
                 {
                     "title": "FANCODE (IND)",
                     "link": "https://dai-fancode.pages.dev/mumbai/4249605_english_hls_0f5b276f269703_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4235,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fluminense",
+                "teamB": "Coritiba",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/09 00:30:00 +0000",
+                "endTime": "2026/10/09 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4236,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Palmeiras",
+                "teamB": "Bahia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/09 00:30:00 +0000",
+                "endTime": "2026/10/09 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4237,
+            "title": "Saudi Pro League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Kholood",
+                "teamB": "Al-Qadsiah",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+                "eventName": "Saudi Pro League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/09 13:50:00 +0000",
+                "endTime": "2026/10/09 16:10:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4238,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Athletico",
+                "teamB": "Atlético-MG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/08 23:00:00 +0000",
+                "endTime": "2026/10/09 01:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4239,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Santos",
+                "teamB": "Flamengo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/08 22:30:00 +0000",
+                "endTime": "2026/10/09 00:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

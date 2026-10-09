@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:40:52 PM 09-10-2026",
+    "Last update time": "07:45:52 PM 09-10-2026",
     "Live": "00",
     "Upcoming": "54",
     "Finish": "00",
@@ -120,7 +120,7 @@
             },
             "channels_data": [
                 {
-                    "title": "WILLOW AD FREE",
+                    "title": "WILLOW FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wydu3dzs2m/out/v1/5488d585f04143e7afd19ef4a7c46237/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
@@ -145,7 +145,7 @@
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|referer=https://tapmad.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -153,22 +153,22 @@
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.44/hls/VTTTQQQQQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.44/hls/VTTTQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "STAR HIN (IND)",
-                    "link": "https://jiotvbpkstb.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1791296751~exp=1791318351~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=edb8bf60985a037b8c8bb5fb50f93d8829a036a08d815c40be153dd9f4894d67&User-Agent=JioTV.Plus/2.3.1_2041 (Linux;Android 14) AndroidXMedia3/1.4.0&drmScheme=clearkey&drmLicense=11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f,a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9",
+                    "title": "STAR SPORTS HIN (IND)",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1791571049~acl=%2f*~id=1676bd217b3b2ad87cef775c85833762~data=hdntl~hmac=6abb050a5a1cfa5cd28fb161bc0fdd3732050d3aef802f4402c1033ceaf5774a&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "STAR ENG (IND)",
+                    "title": "STAR SPORTS ENG (IND)",
                     "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791571049~acl=%2f*~id=1676bd217b3b2ad87cef775c85833762~data=hdntl~hmac=6abb050a5a1cfa5cd28fb161bc0fdd3732050d3aef802f4402c1033ceaf5774a&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
                     "logo": "",
                     "type": 0,
@@ -255,14 +255,14 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hisuccmfy3/out/v1/e8179e69229e45e6ba12d824db6b253c/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/baf1i3t0be/out/v1/4682e81704e242fd9bfb36f56b6413e7/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "22b39944fbc72c99a799c0063af5b769:6613e69fa21ca8674eb430c491ac31dc",
+                    "api": "9dd245fb23d190ca8222a4d94476ab40:c8cbd313661d9ab75603ce59a0c974b0",
                     "tokenApi": ""
                 },
                 {
-                    "title": "Star plays AQ",
+                    "title": "STARZPLAY FHD",
                     "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
                     "logo": "",
                     "type": 0,
@@ -271,15 +271,15 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hisuccmfy3/out/v1/e8179e69229e45e6ba12d824db6b253c/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/baf1i3t0be/out/v1/4682e81704e242fd9bfb36f56b6413e7/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "22b39944fbc72c99a799c0063af5b769:6613e69fa21ca8674eb430c491ac31dc",
+                    "api": "9dd245fb23d190ca8222a4d94476ab40:c8cbd313661d9ab75603ce59a0c974b0",
                     "tokenApi": ""
                 },
                 {
                     "title": "FANCODE ENG (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4249233_english_hls_d56498d36655509_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249232_english_hls_8d392057f484314_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -287,7 +287,7 @@
                 },
                 {
                     "title": "FANCODE HIN (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4249233_hindi_hls_2e75e343d930961_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249232_hindi_hls_23cf05229170413_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1237,8 +1237,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57750/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://edgestream4.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",

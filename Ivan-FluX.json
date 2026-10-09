@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:40 PM 09-10-2026",
+    "Last update time": "01:01:05 PM 09-10-2026",
     "Live": "00",
     "Upcoming": "55",
     "Finish": "00",
@@ -196,31 +196,31 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzbsju2adh/out/v1/6b81fa196f61416485f38d5879b80529/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "d6408a31865544e4b7cc831ff2f44e04:89a868afa2ff706aea7fa1b9ebc8f19e",
+                    "api": "bf2a8826b3cc5a87caa2b8aa888060db:c0f33b4323fa41faeff80d202d87627d",
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mzbsju2adh/out/v1/6b81fa196f61416485f38d5879b80529/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d6408a31865544e4b7cc831ff2f44e04:89a868afa2ff706aea7fa1b9ebc8f19e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.44/hls/ZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4250149_english_hls_b5a49a2a0a53830_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "bf2a8826b3cc5a87caa2b8aa888060db:c0f33b4323fa41faeff80d202d87627d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/ZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

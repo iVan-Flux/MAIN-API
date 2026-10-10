@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:35:40 PM 10-10-2026",
+    "Last update time": "07:40:50 PM 10-10-2026",
     "Live": "00",
-    "Upcoming": "135",
+    "Upcoming": "136",
     "Finish": "00",
     "events": [
         {
@@ -2380,6 +2380,14 @@
                 "endTime": "2026/10/10 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/fd2lsieiae/out/v1/b59284953fcd4c93a6977856612840ae/234e6219-fb09-4c68-8092-11ea47d9ff3f-cenc.mpd?aws_sessionId=a044bdf6-b9b6-42c3-ad6d-b0e21ce2c182|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4bd6423306939883c6151bbf1f417965:24cdee096f3eb7dc3d50eddcd76a22c4",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57790/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
@@ -4994,6 +5002,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/10 23:00:00 +0000",
                 "endTime": "2026/10/11 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4387,
+            "title": "League One",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leicester",
+                "teamB": "Peterborough Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/54/image",
+                "eventName": "League One",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/10 14:00:00 +0000",
+                "endTime": "2026/10/10 16:20:00 +0000"
             },
             "channels_data": [
                 {

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:40:50 PM 10-10-2026",
+    "Last update time": "07:45:44 PM 10-10-2026",
     "Live": "00",
-    "Upcoming": "136",
+    "Upcoming": "137",
     "Finish": "00",
     "events": [
         {
@@ -2913,8 +2913,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4563604.m3u8?txSecret=b2f408b14a654acebf66270d7075a365&txTime=6ACA5520|Referer=https://player.online909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3053,19 +3053,27 @@
             },
             "channels_data": [
                 {
-                    "title": "FANCODE 1 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "title": "SONYLIV [ENG]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791684483~acl=/*~id=85373177862490466819157180644614~hmac=bf970a12d4888e5d65cdc497c09a44ef97e85f4208ddc2f28468ef9a0d2fafe1",
                     "logo": "",
                     "type": 0,
-                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "FANCODE 2 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "title": "SONYLIV [HIN]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791684483~acl=/*~id=85373177862490466819157180644614~hmac=bf970a12d4888e5d65cdc497c09a44ef97e85f4208ddc2f28468ef9a0d2fafe1",
                     "logo": "",
                     "type": 0,
-                    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TAM]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791684483~acl=/*~id=85373177862490466819157180644614~hmac=bf970a12d4888e5d65cdc497c09a44ef97e85f4208ddc2f28468ef9a0d2fafe1",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -5032,11 +5040,54 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pntnw5sqwa/out/v1/4b68e5e8872e4c0096e0ef4c2c028c51/b49c1eb9-0628-4737-b66c-5c9e45fb90a0-cenc.mpd?aws_sessionId=6a961c20-357c-4d88-b4f2-4a6f3ccc8008|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c1e02bedb9ed4101e0b202c9903d4a80:54807b39d20d488ef634aa99949a1f75",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4562488.m3u8?txSecret=520379eb698a01e9b88a5a5d4fb0bdf0&txTime=6ACA567B|Referer=https://player.online909.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://netanjahu.hls.st/t/709f96f4a2f4bfc855e25ec4d814136e/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4388,
+            "title": "League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bristol Rovers",
+                "teamB": "Barnet",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/76/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/77/image",
+                "eventName": "League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/10 14:00:00 +0000",
+                "endTime": "2026/10/10 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/amh1ty8tyc/out/v1/dd4ace961bdd4c0180ca8eec89b48953/624f1bd8-08bf-4107-b926-31fea51b8025-cenc.mpd?aws_sessionId=a65149ce-7ba6-41f5-bbe0-a50f8cbeb5cd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e5c5521786d7a991b517f0cd6d417b9b:b235c27519777cccc191e9ba3c2d6fdd",
                     "tokenApi": ""
                 }
             ]

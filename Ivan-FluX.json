@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:15:48 PM 10-10-2026",
+    "Last update time": "07:20:46 PM 10-10-2026",
     "Live": "00",
     "Upcoming": "135",
     "Finish": "00",
@@ -2381,8 +2381,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PEACOCK TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57790/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558583.m3u8?txSecret=a823fcb276bb1c3d6682b2bf1f6eb6c2&txTime=6ACA546C|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/97c23e949a8e7d3aeb8fce40372a75be/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ARENA SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/d3be03b83feff145c25cdbf5f34abde4/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/81979fbe056c503e92e313479eeb8111/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CANAL+ EXTRA HD",
+                    "link": "https://netanjahu.hls.st/t/0ab839b9d6b36d763cbfd2e950bc7f5b/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2759,11 +2799,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "CBS SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
                     "tokenApi": ""
                 }
             ]
@@ -2786,11 +2826,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
                     "tokenApi": ""
                 }
             ]

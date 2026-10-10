@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:40 PM 10-10-2026",
+    "Last update time": "01:01:08 PM 10-10-2026",
     "Live": "00",
     "Upcoming": "135",
     "Finish": "00",
@@ -236,10 +236,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1dwfmiwgbk/out/v1/713012dd281246dc827872d3920a8443/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "bf2a8826b3cc5a87caa2b8aa888060db:c0f33b4323fa41faeff80d202d87627d",
+                    "api": "61b5fe1a7d9d83929d15da6db1c5f427:6e8231835a24911fd035a47e49f5c53b",
                     "tokenApi": ""
                 },
                 {
@@ -260,15 +260,15 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1dwfmiwgbk/out/v1/713012dd281246dc827872d3920a8443/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "bf2a8826b3cc5a87caa2b8aa888060db:c0f33b4323fa41faeff80d202d87627d",
+                    "api": "61b5fe1a7d9d83929d15da6db1c5f427:6e8231835a24911fd035a47e49f5c53b",
                     "tokenApi": ""
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|referer=https://tapmad.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -276,7 +276,15 @@
                 },
                 {
                     "title": "SD SERVER",
-                    "link": "http://193.47.62.50/hls/HHHHR.m3u8|referer=http://www.fawanews.sc/",
+                    "link": "http://193.47.62.50/hls/HHHHR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

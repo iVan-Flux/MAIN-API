@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:05:38 PM 10-10-2026",
+    "Last update time": "10:10:50 PM 10-10-2026",
     "Live": "00",
     "Upcoming": "136",
     "Finish": "00",
@@ -3560,6 +3560,54 @@
                     "type": 0,
                     "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
                     "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/222e8c0e8e0b03402cc602b86cb779a0/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4565436.m3u8?txSecret=f375ac0bcd29de8277fcf82f48323bf1&txTime=6ACA78C7|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ARENA SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/179a5b709dbf5cf7a1777b2e952e2d3b/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SportKlub HD",
+                    "link": "https://netanjahu.hls.st/t/8bd533e823467fc574f9b50f12c539be/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://netanjahu.hls.st/t/19feb94bcada9889f22c573a5b57a345/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.50/hls/G333AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -3581,6 +3629,14 @@
             },
             "channels_data": [
                 {
+                    "title": "NBC SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FUBO SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -3589,11 +3645,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "NBC SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "title": "PEACOCK TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57797/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
-                    "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -3605,11 +3661,51 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "ESPN SPORTS FHD",
-                    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+                    "title": "SKY SPORTS FHD",
+                    "link": "https://nexulith.s3.us-east-1.amazonaws.com/manutd.m3u8",
                     "logo": "",
                     "type": 0,
-                    "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/f9a75e2d8e18a12ae61f0169b8d18491/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558593.m3u8?txSecret=f2e7b39425fcde6e5f5821c47febab0c&txTime=6ACA78A0|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CANAL+ EXTRA HD",
+                    "link": "https://netanjahu.hls.st/t/1e9943f2ec1795116abf67594ca39b90/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ARENA SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/374bedfc8159d3b689a2c99ea9d23c23/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.44/hls/G333AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

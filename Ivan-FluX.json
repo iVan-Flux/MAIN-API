@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:05:40 PM 10-10-2026",
+    "Last update time": "08:10:44 PM 10-10-2026",
     "Live": "00",
     "Upcoming": "137",
     "Finish": "00",
@@ -2910,6 +2910,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zhvgsghrjk/out/v1/c593ff2e562b42c6b6a4ea0f6d2f2270/e0e081dd-3105-4de9-b517-a114c46c20db-cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "56b15790bc16c40773422bc5b6e5878e:812d45b9725b090abdd410c4b33327bd",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4563606.m3u8?txSecret=9ab62effe85c8e98f4308e4059201aa3&txTime=6ACA553B|Referer=https://player.online909.com/",
                     "logo": "",
@@ -2947,6 +2955,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4563604.m3u8?txSecret=b2f408b14a654acebf66270d7075a365&txTime=6ACA5520|Referer=https://player.online909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/FUUUQQQQQAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3222,8 +3238,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/ORRRQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

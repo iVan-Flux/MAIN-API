@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:45:44 PM 10-10-2026",
+    "Last update time": "07:50:46 PM 10-10-2026",
     "Live": "00",
     "Upcoming": "137",
     "Finish": "00",
@@ -2456,6 +2456,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h3ukbixqum/out/v1/96ac37fc04a24cf4bf61e2722b09f1e7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cdf0dbeec315dac45323eb4fcad9b83b:985a6c17ff2e9bd7700da54c987eb3c4",
+                    "tokenApi": ""
+                },
+                {
                     "title": "USA TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57788/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2640,6 +2648,14 @@
                 "endTime": "2026/10/10 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zgfeposkbs/out/v1/3b736bef730f4930942c6aec7824bd65/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0d29aaca4dcb2f3c6ccbed0b3ca4ee9b:c76beb3f494ccf58933e336dc018a0bb",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57791/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",

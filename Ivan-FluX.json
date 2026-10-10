@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:50:46 AM 10-10-2026",
+    "Last update time": "11:55:36 AM 10-10-2026",
     "Live": "00",
-    "Upcoming": "70",
+    "Upcoming": "75",
     "Finish": "00",
     "events": [
         {
@@ -2519,6 +2519,141 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/10 16:00:00 +0000",
                 "endTime": "2026/10/10 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4322,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Barcelona",
+                "teamB": "Getafe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/10 16:30:00 +0000",
+                "endTime": "2026/10/10 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4323,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Man Utd",
+                "teamB": "Tottenham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/10 16:30:00 +0000",
+                "endTime": "2026/10/10 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4324,
+            "title": "Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leipzig",
+                "teamB": "Frankfurt",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+                "eventName": "Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/10 16:30:00 +0000",
+                "endTime": "2026/10/10 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4325,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Eldense",
+                "teamB": "Córdoba",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/47321/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/10 16:30:00 +0000",
+                "endTime": "2026/10/10 18:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4326,
+            "title": "VriendenLoterij Eredivisie",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Feyenoord",
+                "teamB": "AZ",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+                "eventName": "VriendenLoterij Eredivisie",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/10 16:45:00 +0000",
+                "endTime": "2026/10/10 19:05:00 +0000"
             },
             "channels_data": [
                 {

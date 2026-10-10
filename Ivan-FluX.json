@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:20:49 AM 11-10-2026",
+    "Last update time": "12:25:37 AM 11-10-2026",
     "Live": "00",
     "Upcoming": "136",
     "Finish": "00",
@@ -4173,6 +4173,30 @@
                 "endTime": "2026/10/10 21:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN Multi Commentary",
+                    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gui32e1dyx/out/v1/0b17e841b1084069bb06241c516fb173/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "56d7ae01bc8b73a51d8a7e3cce6d1ff3:bc437fb12695a94ea8bfada6633dc327",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CazéTV BR FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "tokenApi": ""
+                },
                 {
                     "title": "beIN SPORTS HD",
                     "link": "https://edgestream5.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:01:07 PM 11-10-2026",
+    "Last update time": "07:05:36 PM 11-10-2026",
     "Live": "00",
     "Upcoming": "93",
     "Finish": "00",
@@ -94,10 +94,10 @@
                 },
                 {
                     "title": "TNT SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
                     "tokenApi": ""
                 },
                 {
@@ -130,6 +130,62 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://papacito.cfd/m3u/588010/live.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW HD",
+                    "link": "https://papacito.cfd/m3u/324993/live.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR HIN (IND)",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR ENG (IND)",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR TEL (IND)",
+                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR TAM (IND)",
+                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HOTSTAR KAN (IND)",
+                    "link": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&cookie=hdntl=exp=1791806410~acl=%2f*~id=186351bb0312db81e052758fd639a878~data=hdntl~hmac=63d8f5baa786beb341afb8c7cd94c2fba0caea9e6083c7399c094fea21ae10f4&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065",
                     "tokenApi": ""
                 }
             ]
@@ -2085,6 +2141,22 @@
                 "endTime": "2026/10/11 15:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "beIN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/zxvg9rbxfv/out/v1/2469724fa7754a4da6861d8ba80de958/3e3df651-f935-46f7-9dac-8273d4437c92-cenc.mpd?aws_sessionId=6b4db025-8efd-423f-8df3-cc136c757e38",
+                    "logo": "",
+                    "type": 0,
+                    "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://www.rtmpcdn.com/live/cc689620-89c7-4466-8539-3e2aea1d1ee3.m3u8",

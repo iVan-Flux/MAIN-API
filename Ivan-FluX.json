@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:20:48 PM 11-10-2026",
+    "Last update time": "09:25:39 PM 11-10-2026",
     "Live": "00",
     "Upcoming": "93",
     "Finish": "00",
@@ -2634,8 +2634,72 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/m9zoqbh4kl/out/v1/1115666fc29b4acea346de7ca748a660/bbd619a0-6914-4d2e-8ef4-fd2260fbecf5-cenc.mpd?aws_sessionId=51a8c60f-8578-4663-bcc9-fb94cf2d5413",
+                    "logo": "",
+                    "type": 0,
+                    "api": "41dc0be9fc50f2ff18f22a0f387e24ec:23f05e94d9e3245863d5634100d06aaf",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/7ft4fl7hsi/out/v1/b59284953fcd4c93a6977856612840ae/d35b199e-1033-4e99-a5ed-5e6678892a9a-cenc.mpd?aws_sessionId=0563ddfc-86b2-44cd-8f45-4d96f516a141",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2cb279cf3d7eb88dc82d9b07e5d9e358:31633848825f7cd6db41d69f1a6e6573",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORT1 CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://netanjahu.hls.st/t/63885dc3c5deca6ad421caa860ed8387/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ZIGGO SPORT HD",
+                    "link": "https://netanjahu.hls.st/t/663981a2b8c3dec58312e40dc2cee946/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ELEVEN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/a3caec5ad4f3dc40c90fce678512928e/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://netanjahu.hls.st/t/dd11234465896664ec405fee0b019c26/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.56/hls/GLLLAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2739,8 +2803,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.56/hls/GLLLAAAQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

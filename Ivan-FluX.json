@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:05:36 PM 11-10-2026",
+    "Last update time": "05:10:47 PM 11-10-2026",
     "Live": "00",
     "Upcoming": "94",
     "Finish": "00",
@@ -1355,8 +1355,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/JMMMAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1382,8 +1382,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/JMMMAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1409,8 +1409,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/JMMMAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1463,6 +1463,30 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fqjt8xo6on/out/v1/bbe512dcfc304c359887f535783b81d1/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "01a6f01c059887e5c4535bd4d4582809:805e2210c0e69a014aa61259a46097ff",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN ITALY FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/vrwl2tttth/out/v1/bd02c8eaf3c3497bb2e8dff7ba6f725f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6f217682db5b92cab13201a34b96412c:cd2f607eeb4cae95dd080c3def175ecf",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9tyrr4wtlq/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/c9eb6aca-cd76-4546-8085-4565053505b2-cenc.mpd?aws_sessionId=fd6f8818-4891-41f5-9fd0-4a8c5a39cbd0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1488,6 +1512,14 @@
                 },
                 {
                     "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/57901/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
                     "link": "https://www.rtmpcdn.com/live/c54b2cec-839b-4899-85e0-9d691e6b611b.m3u8",
                     "logo": "",
                     "type": 0,

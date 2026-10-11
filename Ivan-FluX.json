@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:55:39 AM 11-10-2026",
+    "Last update time": "08:01:07 AM 11-10-2026",
     "Live": "00",
-    "Upcoming": "147",
+    "Upcoming": "132",
     "Finish": "00",
     "events": [
         {
@@ -431,7 +431,7 @@
                 "eventName": "Formula 1",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/10 08:50:00 +0000",
+                "startTime": "2026/10/11 12:00:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -5058,33 +5058,6 @@
             ]
         },
         {
-            "id": 4357,
-            "title": "Liga Profesional de Fútbol",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "River Plate",
-                "teamB": "Estudiantes R.C.",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3211/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/266694/image",
-                "eventName": "Liga Profesional de Fútbol",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/11 00:30:00 +0000",
-                "endTime": "2026/10/11 02:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4358,
             "title": "VriendenLoterij Eredivisie",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
@@ -5372,6 +5345,14 @@
             },
             "channels_data": [
                 {
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57911/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD QUALITY",
                     "link": "https://edgestream7.pro/hls/erytezaiuzeazer100.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
@@ -5436,157 +5417,6 @@
             ]
         },
         {
-            "id": 4371,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Bruins",
-                "teamB": "Flyers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 17:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/57814/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL SERVER",
-                    "link": "https://vorqessa.s3.us-east-1.amazonaws.com/redwings.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4372,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Avalanche",
-                "teamB": "Maple Leafs",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 23:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream5.pro/hls/dzaugyvdgazc90.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4373,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Sharks",
-                "teamB": "Oilers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 20:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream4.pro/hls/iozauyezaioyur82.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4374,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Blues",
-                "teamB": "Blue Jackets",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 23:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream6.pro/hls/ozeiruzhurfxcwas89.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4375,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Panthers",
-                "teamB": "Wild",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 22:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream5.pro/hls/nbekiurtghjhfza83.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4376,
             "title": "NHL",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -5606,60 +5436,6 @@
                 {
                     "title": "HD QUALITY",
                     "link": "https://edgestream5.pro/hls/etzrezbfezjhverf93.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4377,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Penguins",
-                "teamB": "Stars",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 23:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream4.pro/hls/nbvevzaheafgu87.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4378,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Sabres",
-                "teamB": "Mammoth",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 23:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream4.pro/hls/ioazuryeahrfvzed84.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -5695,87 +5471,6 @@
             ]
         },
         {
-            "id": 4380,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Canadiens",
-                "teamB": "Red Wings",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 23:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream5.pro/hls/jkhfsgqghjqsd85.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4381,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Senators",
-                "teamB": "Predators",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 23:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream4.pro/hls/xcxvvghzsadau86.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4382,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Devils",
-                "teamB": "Canucks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 19:30:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream7.pro/hls/dsqhjbjhsqd81.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4383,
             "title": "NHL",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -5795,33 +5490,6 @@
                 {
                     "title": "HD QUALITY",
                     "link": "https://edgestream5.pro/hls/fbnjzebjhcazhjg91.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4384,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Blackhawks",
-                "teamB": "Hurricanes",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/10 23:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream7.pro/hls/fghsqdgauduyagz88.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -6111,87 +5779,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/10 23:30:00 +0000",
                 "endTime": "2026/10/11 01:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4395,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Kansas City",
-                "teamB": "Portland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2509/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/11 00:30:00 +0000",
-                "endTime": "2026/10/11 02:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4396,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Austin",
-                "teamB": "Nashville",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/377973/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/337612/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/11 00:30:00 +0000",
-                "endTime": "2026/10/11 02:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4397,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Minnesota",
-                "teamB": "Houston",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2508/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/11 00:30:00 +0000",
-                "endTime": "2026/10/11 02:50:00 +0000"
             },
             "channels_data": [
                 {

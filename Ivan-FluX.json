@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:39 AM 12-10-2026",
+    "Last update time": "12:40:47 AM 12-10-2026",
     "Live": "00",
     "Upcoming": "93",
     "Finish": "00",
@@ -3438,8 +3438,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://edgestream5.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3465,8 +3473,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream1.pro/hls/zazezagdgfc98.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3600,8 +3608,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream5.pro/hls/dzaugyvdgazc90.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3626,6 +3634,14 @@
                 "endTime": "2026/10/11 20:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5mmp9gcty5/out/v1/0ddfd460ec014c8d89963a0ed3d02959/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f775d0d519858976c3fcfcf57bc57678:22c3c4539832a0c72545a47f3f4ea57d",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PRIME VIDEO FHD",
                     "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5mmp9gcty5/out/v1/0ddfd460ec014c8d89963a0ed3d02959/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -3728,6 +3744,22 @@
                 "endTime": "2026/10/11 20:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FOX NFL FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uod57n2bll/out/v1/9f825dd687f24e09a90751baf25904b6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d1d7e04ddd43fda2fc45be3baff5a94f:5c6fedb92845fbf93aeb2560a9b83f45",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uod57n2bll/out/v1/9f825dd687f24e09a90751baf25904b6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d1d7e04ddd43fda2fc45be3baff5a94f:5c6fedb92845fbf93aeb2560a9b83f45",
+                    "tokenApi": ""
+                },
                 {
                     "title": "NFL HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57931/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
@@ -3847,6 +3879,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qydmdhqoiq/out/v1/53b9013dc88c463cafe4a8e708f4a191/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cd1c5091e5aa3d5ceaecd735dbd79d80:9cbb20826e097123163447471227afb3",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PRIME VIDEO FHD",
                     "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qydmdhqoiq/out/v1/53b9013dc88c463cafe4a8e708f4a191/cenc.mpd",
                     "logo": "",
@@ -3897,6 +3937,14 @@
                 "endTime": "2026/10/11 20:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FOX NFL FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cfxzmthjps/out/v1/d8e62efb1fad4d03832cdb25f3c53386/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e056e9f9a151f5a9374b36bee3a37173:6f2cde1ccce6e2e1f83b97e645d7d7fe",
+                    "tokenApi": ""
+                },
                 {
                     "title": "NFL GAMEPASS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cfxzmthjps/out/v1/d8e62efb1fad4d03832cdb25f3c53386/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -4008,8 +4056,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "TSN SPORTS 1 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS 5 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://edgestream4.pro/hls/wnbcnxbcs42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
                     "logo": "",
                     "type": 0,
                     "api": "",

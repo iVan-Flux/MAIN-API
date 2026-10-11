@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:20:48 PM 11-10-2026",
+    "Last update time": "10:25:38 PM 11-10-2026",
     "Live": "00",
     "Upcoming": "93",
     "Finish": "00",
@@ -3483,6 +3483,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5mmp9gcty5/out/v1/0ddfd460ec014c8d89963a0ed3d02959/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f775d0d519858976c3fcfcf57bc57678:22c3c4539832a0c72545a47f3f4ea57d",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NFL HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57927/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -3730,8 +3738,32 @@
             },
             "channels_data": [
                 {
+                    "title": "NFL GAMEPASS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cfxzmthjps/out/v1/d8e62efb1fad4d03832cdb25f3c53386/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e056e9f9a151f5a9374b36bee3a37173:6f2cde1ccce6e2e1f83b97e645d7d7fe",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57944/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE FHD",
+                    "link": "https://veltristream.s3.us-east-1.amazonaws.com/packers.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3756,6 +3788,14 @@
                 "endTime": "2026/10/11 20:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f4ugzlojfc/out/v1/9f5e1cf62bee42d9b3686b32944c1a0a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4a8fb4f7eaa577e151dc2a6f06a15441:6eb7326edc7b0696b44338c99dc61f76",
+                    "tokenApi": ""
+                },
                 {
                     "title": "NFL HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57945/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",

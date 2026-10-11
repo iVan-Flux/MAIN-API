@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:40:49 PM 11-10-2026",
+    "Last update time": "06:45:46 PM 11-10-2026",
     "Live": "00",
     "Upcoming": "94",
     "Finish": "00",
@@ -1834,6 +1834,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t8yiqifbxt/out/v1/c47b141c14d041398b261ebd143aea6d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://www.rtmpcdn.com/live/3d393c29-59de-4795-b63f-1eeba868403c.m3u8",
                     "logo": "",
@@ -1844,6 +1852,14 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/J333AAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1879,6 +1895,30 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/J333AAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vvezz98vxk/out/v1/59a70a7d623d49618c91bb0cf936cb69/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "925c539720a10e0745e9bd8fa76809b5:2d791e20a47bbd447d556f931bfc7865",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PEACOCK TV HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/57915/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",

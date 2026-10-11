@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:45:46 PM 11-10-2026",
+    "Last update time": "06:50:47 PM 11-10-2026",
     "Live": "00",
-    "Upcoming": "94",
+    "Upcoming": "93",
     "Finish": "00",
     "events": [
         {
@@ -86,10 +86,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wydu3dzs2m/out/v1/5488d585f04143e7afd19ef4a7c46237/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "fad9e48c64d0d1ead45f180925d56199:5918fd6e6e51982bd18b5ee7f3188039",
+                    "api": "acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332",
                     "tokenApi": ""
                 },
                 {
@@ -102,10 +102,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aiu8gnpwij/out/v1/ecb8a3e4e29d4f58970e6494626a02bd/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "0ddad5a3a8550c203f90b86e0005700b:4dc553c52439eb86922df317a470bccb",
+                    "api": "acc7b844fa50775eae013d0c65023b3e:70fcb8c7000f4f88ee236a8eeda07332",
                     "tokenApi": ""
                 },
                 {
@@ -3150,33 +3150,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/11 17:00:00 +0000",
                 "endTime": "2026/10/11 20:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4443,
-            "title": "NFL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-            "cat": "American football",
-            "eventInfo": {
-                "teamA": "Jaguars",
-                "teamB": "Eagles",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4386/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
-                "eventName": "NFL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/11 13:30:00 +0000",
-                "endTime": "2026/10/11 16:30:00 +0000"
             },
             "channels_data": [
                 {

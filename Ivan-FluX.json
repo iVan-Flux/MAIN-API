@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:31:24 PM 12-10-2026",
+    "Last update time": "08:35:43 PM 12-10-2026",
     "Live": "00",
     "Upcoming": "56",
     "Finish": "00",
@@ -937,7 +937,7 @@
             "channels_data": [
                 {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8?hdnea=exp=1791827422~acl=/*~id=959cc7398897fee7d028d0d2208de489-1791784204245~hmac=0287a92e2e6b23fa763d096888aa4096418c33203b4d504faf8c6f9bbbde96c1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=fcc174f1534d7cf08f53cef5ab116e84-1791811803497",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -945,7 +945,15 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://dai.google.com/ssai/event/oIVwubfSTSKbOcRtPXiF7w/master.m3u8",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv [BEN]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:40:49 AM 12-10-2026",
+    "Last update time": "11:45:48 AM 12-10-2026",
     "Live": "00",
     "Upcoming": "55",
     "Finish": "00",
@@ -169,23 +169,31 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13",
+                    "api": "cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13",
+                    "api": "cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf",
                     "tokenApi": ""
                 },
                 {
                     "title": "TAPMAD FHD",
-                    "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8|referer=https://www.tapmad.com/",
+                    "link": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|referer=https://tapmad.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "T SPORTS FHD",
+                    "link": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -201,7 +209,7 @@
                 },
                 {
                     "title": "T SPORTS HD",
-                    "link": "http://103.151.60.162:2122/play/a030/index.m3u8",
+                    "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -209,7 +217,7 @@
                 },
                 {
                     "title": "FANCODE (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:31:23 AM 13-10-2026",
+    "Last update time": "12:35:40 AM 13-10-2026",
     "Live": "00",
     "Upcoming": "56",
     "Finish": "00",
@@ -2118,6 +2118,14 @@
                 {
                     "title": "ARENA SPORTS HD",
                     "link": "https://netanjahu.hls.st/t/b7252b4544cb38dbbc9a6314acacc327/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4465827.m3u8?txSecret=887a276efb7b656ee024b1cc0eb51bec&txTime=6ACD41A1|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

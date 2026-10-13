@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:02:02 AM 14-10-2026",
+    "Last update time": "01:05:41 AM 14-10-2026",
     "Live": "00",
     "Upcoming": "74",
     "Finish": "00",
@@ -2629,6 +2629,30 @@
                 {
                     "title": "CBS SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57991/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/a6dea5bb606e1b714d771bf2c99d65be/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://netanjahu.hls.st/t/4751c0268db43ae6905044596b4a5f7b/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/202328b0698cd8145979c1bd082d5000/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:44 AM 14-10-2026",
+    "Last update time": "12:40:52 AM 14-10-2026",
     "Live": "00",
     "Upcoming": "74",
     "Finish": "00",
@@ -1778,6 +1778,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lvt2e0ylbr/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd?aws_sessionId=757c5158-2687-40f5-a930-0df200dea44d",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9da4d78e1da6b886e01865fe743fe115:ffc010bc742aac27abdea3410a7a3cc3",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/57990/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1915,8 +1923,32 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tkhij043qz/out/v1/bc7cc30595c54f66828dedc8ba26cfe7/c635cc0c-d6e1-47f5-b312-42eb2c33c756-cenc.mpd?aws_sessionId=c0ebe3a2-66b6-4c56-9b55-5fc661d0306e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4a0f46ce24daa860faece13d51b16d9d:840322eebef0037605c2f9e16b5e52eb",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/8akj9pufyn/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c37d2f7ce64f0c34b5c9975b7e095220:cd0d9f33984364d05b0079a04ece8d44",
+                    "tokenApi": ""
+                },
+                {
                     "title": "STAN SPORTS HD",
                     "link": "https://netanjahu.hls.st/t/da3a3dc8b3f1fb435bb537b907cbe7d2/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD+ SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/57992/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1965,6 +1997,14 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "EXTRA SERVER",
+                    "link": "https://www.rtmpcdn.com/live/af9d1bd7-9bab-480b-ac37-d01c4caf935b.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2314,6 +2354,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6egioqgr7u/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd?aws_sessionId=e3223029-2214-4080-afca-a73a7301202e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "754eca7e82e2c4ae2a913458fe33412b:64683c1fe33dce3e46ffd6895b57ad76",
                     "tokenApi": ""
                 },
                 {

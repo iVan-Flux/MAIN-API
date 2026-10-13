@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:20:53 PM 13-10-2026",
+    "Last update time": "06:25:43 PM 13-10-2026",
     "Live": "00",
     "Upcoming": "33",
     "Finish": "00",
@@ -26,19 +26,19 @@
             },
             "channels_data": [
                 {
+                    "title": "TAPMAD WD AQ",
+                    "link": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "WILLOW FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|referer=https://tapmad.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 },
                 {

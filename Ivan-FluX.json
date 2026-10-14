@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:20:51 AM 15-10-2026",
+    "Last update time": "02:25:39 AM 15-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1752,6 +1752,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TNT SPORTS AQ",
+                    "link": "https://noblestatic.s3.us-east-1.amazonaws.com/mancity.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7",
                     "logo": "",
@@ -1760,8 +1768,16 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4628456.m3u8?txSecret=82e30e03c8eaf8f4cc9e390a38d45406&txTime=6ACFE18F|Referer=https://player.online878.com/",
+                    "title": "beIN ARABIC FHD",
+                    "link": "https://cdn-v2.gamhed.online/hls/arena8x-3.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live5.dyrur1.com/live/14387804_e36f39cddc1369beda3b28560efdfa1b_540p.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1808,6 +1824,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "ENG SERVER",
+                    "link": "https://cms-pull.fxv77.com/sla/1-6a90f2daf2fa6c299ee129eb.m3u8?txSecret=8ee29f31cb4694e35a42b3f709c2a938&txTime=6AD07A66&_t=1792004518471",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD QUALITY",
                     "link": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
@@ -1834,22 +1858,6 @@
                 {
                     "title": "SONYLIV [ASIA]",
                     "link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live5.dyrur1.com/live/14387804_e36f39cddc1369beda3b28560efdfa1b_540p.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ENG SERVER",
-                    "link": "https://cms-pull.fxv77.com/sla/1-6a90f2daf2fa6c299ee129eb.m3u8?txSecret=8ee29f31cb4694e35a42b3f709c2a938&txTime=6AD07A66&_t=1792004518471",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1892,7 +1900,7 @@
                 },
                 {
                     "title": "CBS SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/58030/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/58030/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1907,16 +1915,32 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4628379.m3u8?txSecret=f8e48c761ff518dfb4a68ddec1602832&txTime=6ACFE148|Referer=https://player.online878.com/",
+                    "title": "TNT SPORTS AQ",
+                    "link": "https://noblestatic.s3.us-east-1.amazonaws.com/realmadrid.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "TNT SPORTS HD",
-                    "link": "https://noblestatic.s3.us-east-1.amazonaws.com/realmadrid.m3u8",
+                    "title": "beIN ARABIC FHD",
+                    "link": "https://cdn-v2.gamhed.online/hls/arena8x-1.m3u8?|Referer=https://www.arena8x.live/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ENG]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [HIN]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2021,22 +2045,6 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live2.dyrur1.com/live/14387800_75fcce23f25faedd5cad09a1a5f2627d_540p.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ENG]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [HIN]",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:15:52 AM 15-10-2026",
+    "Last update time": "12:20:50 AM 15-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1527,8 +1527,56 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/58031/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/237a312c46f8d93ffd7b5e45f2c39831/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://netanjahu.hls.st/t/67491e76b114a5ef4f293c47dcf75bd7/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/1328e478f6adc524e1f5cdaf9b6cd965/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://edgestream5.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/9b2917fd-2b01-4c3f-bc52-2971d635c831.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1777,6 +1825,46 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ENG]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [HIN]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TAM]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TEL]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [KAN]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive1410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1948,8 +2036,40 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/709a8d88b643f6bcc004ab95ec2b5c48/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://netanjahu.hls.st/t/e9af53c0dfa6746c858a1bff11ed716b/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/a4b44cae69ba9308681df15bf7c13312/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://edgestream1.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/3f1fc5a5-b93f-47a0-9f29-b5b248991f16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

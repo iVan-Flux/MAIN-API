@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:01:08 AM 15-10-2026",
+    "Last update time": "02:05:42 AM 15-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1516,6 +1516,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://live1.dyrur1.com/live/14069035_93b1eb94eba311c33b4bbe52a46d7535_540p.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -1650,6 +1658,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://live2.dyrur1.com/live/14069036_ba3110a5f291369ffc7bd67ec06ab465_540p.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4563621.m3u8?txSecret=b34541e3f4b4d269c1d49e7366ef1478&txTime=6ACFDFE4|Referer=https://player.online878.com/",
                     "logo": "",
@@ -1684,6 +1700,14 @@
                 "endTime": "2026/10/14 21:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.dyrur1.com/live/14069034_c4a3ac141579adbe247e1c8456881b42_540p.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -2576,6 +2600,14 @@
                 {
                     "title": "HD QUALITY",
                     "link": "https://edgestream4.pro/hls/hflfkrtib42.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live5.dyrur1.com/live/14069037_6263137ad6a0cf5f6f752b7dbdd2c417_540p.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

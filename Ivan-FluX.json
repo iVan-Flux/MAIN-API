@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:31:26 AM 15-10-2026",
+    "Last update time": "12:35:42 AM 15-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1779,8 +1779,40 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9xdnqch8ja/out/v1/227178219f504c38b9786a0cd9e3e124/0d0e7159-c81d-4aad-8d3e-9f1e871288e9-cenc.mpd?aws_sessionId=803d0d72-d174-48fb-b85b-48589f9788b4",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8e10db36f36efbdcb87c4ab729afb8ae:b6b9f7ba82f675c0cc424891e42581d2",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "31d58e7a2d8a693fc8f4193ae1a758db:70b3c31fab9918f891d32d3abfd74ae0",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CBS SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58030/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628379.m3u8?txSecret=f8e48c761ff518dfb4a68ddec1602832&txTime=6ACFE148|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://noblestatic.s3.us-east-1.amazonaws.com/realmadrid.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2009,8 +2041,32 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/athty4ib8j/out/v1/239afca50f824568bb1a40bd4ef8f0d6/25ae04a8-a684-42e4-8418-6bfb99ca4d64-cenc.mpd?aws_sessionId=dfe0303b-4cc9-49e2-af7e-7e7f117b4d6e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "dcdb2369816c7066ae9bac19634423d5:2e6067b2a62c4d3e45f69cd81dea3872",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/31mhdmgkew/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "500a35565a8caf7e163d57d4e3a0a148:f863a58feb8b7e86caf60837fa1a5d71",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CBS SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58032/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628401.m3u8?txSecret=b4be498457931c4bc710bd89dc2fdd23&txTime=6ACFE2B6|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2059,6 +2115,14 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://www.rtmpcdn.com/live/f8ade365-a9fc-4ba0-8310-057e91b3b63c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2143,6 +2207,30 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e9ixmmeo6o/out/v1/1545282481c4472d824bc360266bb4f1/38919f87-a1b5-409c-954f-79148e2cd543-cenc.mpd?aws_sessionId=1c919c27-a0b2-4f45-b07d-81915282eb6f",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b8f4999f5f33c77f9ab28bb566b1ace4:1e2fb33b36c60a7d9b293df36f923e45",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ezw22132t4/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d22b38730e595728bffcde39874f540f:748c92492fe601ed5b83a7aa9f17bd86",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628498.m3u8?txSecret=1616c48510f498f376ab8fba52b308c5&txTime=6ACFE316|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "STAN SPORTS HD",
                     "link": "https://netanjahu.hls.st/t/9cf5ccb59252c0a9ca4918e9ed4231bb/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
@@ -2177,6 +2265,14 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://www.rtmpcdn.com/live/8341cfd7-2beb-48c9-8d97-f9e2d970f43e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792046233~acl=/*~id=87117733535903502829782023899317~hmac=08723bc263ae6d2f983b9a67bf88d41196617d800e0f295a563c05dc1b27f370",
                     "logo": "",
                     "type": 0,
                     "api": "",

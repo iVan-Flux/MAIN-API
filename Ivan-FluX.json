@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:42 AM 15-10-2026",
+    "Last update time": "12:40:50 AM 15-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1535,6 +1535,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o4ewvpxhnn/out/v1/dcc1e86baab542bfac52ab056f7f82a1/7a393fd4-769f-49da-a47e-ef65459149d2-cenc.mpd?aws_sessionId=e274f240-9334-4980-991b-f0f31651769f",
+                    "logo": "",
+                    "type": 0,
+                    "api": "be17ad21cf1044aedd14c1d288a37638:fe2cb67eefc3fa5670f35fa045cc600c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628386.m3u8?txSecret=20a5621f4ce289b4fba5691385a3c87d&txTime=6ACFE28F|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://chatgpt.hereisman.net/playlist/58031/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1577,6 +1593,14 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://www.rtmpcdn.com/live/9b2917fd-2b01-4c3f-bc52-2971d635c831.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e30788f13e56bf97b523b8c4e3d10118-1792002603515",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1950,6 +1974,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/09cbfpx3zg/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "62d1df932e149d0255ac1cbc1b9ea465:b721a49b8a029a77e871fb3a62f08692",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CBS SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58033/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2148,6 +2180,30 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "qhttps://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ye5acxtqqg/out/v1/855dbdb48c2749019782ea468de9cfb1/5f9bdac3-9c12-4af6-a4ab-8c766cd1e787-cenc.mpd?aws_sessionId=1cd1d81a-0999-40b3-8880-805e07afd0cd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3b1a3552ee91f5143f9560b717041cad:07e22d2e13f4c1aad690072f75fd2dcc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vc7krd2yei/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1ef0f6ff8df735707a446e66ba47949d:16c2df2cbf147ca597dcbfa6316e7b2e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628506.m3u8?txSecret=abe20ee1b054765d341d0b6eab59514f&txTime=6ACFE2F3|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "STAN SPORTS HD",
                     "link": "https://netanjahu.hls.st/t/709a8d88b643f6bcc004ab95ec2b5c48/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
@@ -2182,6 +2238,14 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://www.rtmpcdn.com/live/3f1fc5a5-b93f-47a0-9f29-b5b248991f16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047419~acl=/*~id=23133787754232742870771233157726~hmac=f5a825d90e5a20a70d293e5c0e3f92a3a017bb9e82274ad9f8f15fde847cb344",
                     "logo": "",
                     "type": 0,
                     "api": "",

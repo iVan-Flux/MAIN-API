@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:50:52 AM 15-10-2026",
+    "Last update time": "01:55:44 AM 15-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1543,16 +1543,16 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4628386.m3u8?txSecret=20a5621f4ce289b4fba5691385a3c87d&txTime=6ACFE28F|Referer=https://player.online878.com/",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/58031/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/58031/load-playlist-multi.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628386.m3u8?txSecret=20a5621f4ce289b4fba5691385a3c87d&txTime=6ACFE28F|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1803,14 +1803,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9xdnqch8ja/out/v1/227178219f504c38b9786a0cd9e3e124/0d0e7159-c81d-4aad-8d3e-9f1e871288e9-cenc.mpd?aws_sessionId=803d0d72-d174-48fb-b85b-48589f9788b4",
-                    "logo": "",
-                    "type": 0,
-                    "api": "8e10db36f36efbdcb87c4ab729afb8ae:b6b9f7ba82f675c0cc424891e42581d2",
-                    "tokenApi": ""
-                },
-                {
                     "title": "VIX Español FHD",
                     "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
                     "logo": "",
@@ -1824,6 +1816,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9xdnqch8ja/out/v1/227178219f504c38b9786a0cd9e3e124/0d0e7159-c81d-4aad-8d3e-9f1e871288e9-cenc.mpd?aws_sessionId=803d0d72-d174-48fb-b85b-48589f9788b4",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8e10db36f36efbdcb87c4ab729afb8ae:b6b9f7ba82f675c0cc424891e42581d2",
                     "tokenApi": ""
                 },
                 {
@@ -1901,6 +1901,22 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://www.rtmpcdn.com/live/cd6a62e6-e684-49da-b7e5-3b3e7a1160f1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/I777.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español HD",
+                    "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",

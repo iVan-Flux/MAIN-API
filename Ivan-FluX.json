@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:55:44 AM 15-10-2026",
+    "Last update time": "02:01:08 AM 15-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1028,21 +1028,21 @@
                 "eventName": "UCL Golazo Show",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/13 19:00:00 +0000",
-                "endTime": "2026/10/13 21:30:00 +0000"
+                "startTime": "2026/10/14 19:00:00 +0000",
+                "endTime": "2026/10/14 21:30:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "9896b6a4790e0fe7d1b1253a5901949a:49dd5b421ca126b7d46daaebff358f13",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/FF666AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "title": "UCL MULTIVIEW",
+                    "link": "https://netanjahu.hls.st/t/45c2ad44ae2697fa0e82163b6cef0afc/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1500,6 +1500,22 @@
             },
             "channels_data": [
                 {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/079b0b648fe797ce1b776997d4fba2f4/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -1626,6 +1642,22 @@
             },
             "channels_data": [
                 {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/b51d93f8f43655bd11e0a63e963dd97c/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4563621.m3u8?txSecret=b34541e3f4b4d269c1d49e7366ef1478&txTime=6ACFDFE4|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.59/hls/BGBGBGAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -1680,14 +1712,6 @@
             },
             "channels_data": [
                 {
-                    "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d0f11e98bb0c3e883ee25ad5a259d3e9:f1dd1ef358927db26118f8b0e0f8dec0",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1701,6 +1725,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d0f11e98bb0c3e883ee25ad5a259d3e9:f1dd1ef358927db26118f8b0e0f8dec0",
                     "tokenApi": ""
                 },
                 {
@@ -1762,6 +1794,14 @@
                 {
                     "title": "SD SERVER",
                     "link": "https://www.rtmpcdn.com/live/bd4de51a-b864-479b-a487-d6d2ea65ba17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/I777aaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

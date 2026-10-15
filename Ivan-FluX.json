@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:35:41 PM 15-10-2026",
+    "Last update time": "10:40:54 PM 15-10-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1200,6 +1200,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/9h871rgaua/out/v1/b4586c4901134cd593dcf80be41a10c1/e0ba7100-dee9-4af4-86af-60b6a66712c4-cenc.mpd?aws_sessionId=73b1ceb6-ccf2-411e-8163-c78cd8802795",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4700ba56160b1b94512e1c04c2346266:71d2ab0fa6673c5de8c2cef30d68c038",
+                    "tokenApi": ""
+                },
+                {
                     "title": "VIX Español FHD",
                     "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/02hgcymfst/out/v1/593517bf2cb344cc903c51ee2dc43588/cenc.mpd",
                     "logo": "",
@@ -1439,6 +1447,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/8zatf6fxux/out/v1/cc4aba66de4c428788cadd38bdc04ea0/8327af9b-7c09-4950-9948-a71a45f6c6d5-cenc.mpd?aws_sessionId=cdf66a34-0daa-4e9c-861f-fd47e1870881",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3a64c7e9b7f17e7fa502f28fd2670cbb:881f145b5a5350aa41bc25f9b0d8ad71",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ywydwsbcrd/out/v1/6a5582b3fd4e42b097a2394c5f65ccd4/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "97b8757a8066bc093ee51f32aca93ab5:e605feaeca63c5f813f9fe09bd552e8b",
+                    "tokenApi": ""
+                },
+                {
                     "title": "STAN SPORTS HD",
                     "link": "https://netanjahu.hls.st/t/8c92d823595e67461a43210ef33ae704/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
@@ -1481,6 +1505,14 @@
                 "endTime": "2026/10/15 19:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/w95fvmy8gt/out/v1/a2474bb6c5a34d6c82f3c8fb606a6335/3fd2fbd7-e584-44ff-bd9b-fd1989def0ed-cenc.mpd?aws_sessionId=084e0ed7-bbd6-4b6a-a135-52d62c896139",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1b074ad965fe7af3532551cd283a81d5:ce4bfe592fb955372de413e12854661a",
+                    "tokenApi": ""
+                },
                 {
                     "title": "VIX Español FHD",
                     "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/wguhj0tsro/out/v1/2ba8fd73df9048a1a02a44e78ef0d36c/cenc.mpd",
@@ -1532,6 +1564,14 @@
                 "endTime": "2026/10/15 19:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/guv5wiobko/out/v1/2daecc09e6564c018515c7030acc98f8/7cb6ff40-644f-4f58-a553-1cfe05566b2a-cenc.mpd?aws_sessionId=1e8f6566-777b-4243-ba04-7c660aa60d90",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d66a26ad328b0ddc8b70809e6e38dacf:f2fb0b5fc15fa905c5084b3c2d6130d2",
+                    "tokenApi": ""
+                },
                 {
                     "title": "VIX Español FHD",
                     "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/1zzeullfzf/out/v1/f6966293221c45ed8f84623aef615fde/cenc.mpd",
@@ -1694,6 +1734,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/iuczhy24ey/out/v1/340e5e2e99624207b428a58b3b95cfc7/780a67f0-ee7b-40e8-974a-5a4f3c16cd0e-cenc.mpd?aws_sessionId=87b6264e-4e2e-4e43-93de-a1664bc6bf7f",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7afc05537d524efdafd3dc07ad62cdc1:f2aa02dd67c46195266069e70f3de1a0",
+                    "tokenApi": ""
+                },
+                {
                     "title": "VIX Español FHD",
                     "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/4grbd6fvyu/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
                     "logo": "",
@@ -1822,6 +1870,22 @@
                 "endTime": "2026/10/15 19:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fcgwpbap7h/out/v1/061a1c23b82d4240b70287974c1e9b96/52a94ddb-c1ef-464b-901a-6d571d74fa78-cenc.mpd?aws_sessionId=7b7f7c82-8da5-4f2b-96d7-82b0cbbf517f",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b21d38bd4010336977c4b3cc05e5019e:ab19f50897f1977d21be2199233af05a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sfpvcgqtls/out/v1/22c3f3c1e99c4c38b8e543d375d80046/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3c6d29a512d79d431d8365135f81a7d8:de3700334f14a1daca70595d870e39e2",
+                    "tokenApi": ""
+                },
                 {
                     "title": "CBS SPORTS HD",
                     "link": "https://netanjahu.hls.st/t/5b58a8287848865056160167dc76fa14/index.m3u8?|Referer=https://iplayer.is/",
@@ -2061,6 +2125,22 @@
                 "endTime": "2026/10/15 19:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dzqu7ewyoi/out/v1/5c3973aeecf04269a41bd2e8c08a5d67/b28ecfff-c14a-4a77-b976-874f1907db1b-cenc.mpd?aws_sessionId=90e2fba2-a2d4-45ac-9619-2e9780c0d4fe",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c6240a5a087ecf7d66fe08aed57a68a9:c3d2d24f1d20a34de449a1eaa72dc9fa",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/0xpf4sc6qx/out/v1/5d42e59ea86d400e93409185d674194c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5529ce921bc5d8554b925065f86af002:6ad8a302a2876d1df1e327572fcf96d3",
+                    "tokenApi": ""
+                },
                 {
                     "title": "STAN SPORTS HD",
                     "link": "https://netanjahu.hls.st/t/22cd2f751ab68907eb526b47e3317eed/index.m3u8?|Referer=https://iplayer.is/",

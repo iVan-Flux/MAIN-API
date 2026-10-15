@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:40:54 PM 15-10-2026",
+    "Last update time": "10:45:55 PM 15-10-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1017,32 +1017,32 @@
         },
         {
             "id": 3255,
-            "title": "UCL Golazo Show",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "title": "UEFA Europa League Simulcast",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/679/image",
             "cat": "Football",
             "eventInfo": {
                 "teamA": "The Golazo Show",
                 "teamB": "The Golazo Show",
-                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-                "eventName": "UCL Golazo Show",
+                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/679/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/679/image",
+                "eventName": "UEFA Europa League Simulcast",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/14 19:00:00 +0000",
-                "endTime": "2026/10/14 21:30:00 +0000"
+                "startTime": "2026/10/15 16:40:00 +0000",
+                "endTime": "2026/10/15 19:05:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uxbiefpgow/out/v1/a167ec278ef449b791773d56e88e17eb/d87937e9-5fe6-451b-971e-00f2690651de-cenc.mpd?aws_sessionId=97ed0336-ff30-49b7-bc82-b80707cc38f0",
                     "logo": "",
                     "type": 0,
-                    "api": "9896b6a4790e0fe7d1b1253a5901949a:49dd5b421ca126b7d46daaebff358f13",
+                    "api": "92f47a3a961050ea070e6b4dd44d17ca:fa442ee2acdc3b93ff875eecf9f04d35",
                     "tokenApi": ""
                 },
                 {
-                    "title": "UCL MULTIVIEW",
-                    "link": "https://netanjahu.hls.st/t/45c2ad44ae2697fa0e82163b6cef0afc/index.m3u8?|Referer=https://iplayer.is/",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/VBVBVB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1336,6 +1336,14 @@
                 "endTime": "2026/10/15 19:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fca4gyild1/out/v1/beb24c9af87e43c3a1937987da309afa/e73d6ea5-97b4-4904-bef8-19280d732d4a-cenc.mpd?aws_sessionId=c7910f4e-bb16-4e9a-8aac-fc74ed1b0a8c",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9e1611f00b52231ddcd60d8c15adcdc2:c2b3808902e00ac73caba0b3ff454ef5",
+                    "tokenApi": ""
+                },
                 {
                     "title": "VIX Español FHD",
                     "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/cepxt2lcgz/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",

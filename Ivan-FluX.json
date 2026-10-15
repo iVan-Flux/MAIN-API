@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:31:26 AM 16-10-2026",
+    "Last update time": "12:35:43 AM 16-10-2026",
     "Live": "00",
     "Upcoming": "80",
     "Finish": "00",
@@ -3070,6 +3070,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "STAN SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/a226a4507cc6a780c92e5e446052ca57/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/06d97887fa097866b14296d9daf53393/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD QUALITY",
                     "link": "https://www.rtmpcdn.com/live/d2a68645-3cb2-4e1d-b524-a161da531bb7.m3u8",
                     "logo": "",
@@ -3105,6 +3121,14 @@
             },
             "channels_data": [
                 {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://live.uu1pp.com/sport/202_5740155_1.m3u8?txSecret=29a700966e152f07b32d1efd73e3032a&txTime=6AD168AD|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD QUALITY",
                     "link": "https://www.rtmpcdn.com/live/d1eca2ba-6c8e-4907-842b-a53d122af4f6.m3u8",
                     "logo": "",
@@ -3113,8 +3137,24 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "ZIGGO SPORT HD",
+                    "link": "https://netanjahu.hls.st/t/ac3cc41769cc24efdeb65ab807fb62a9/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/H999A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://netanjahu.hls.st/t/07a78018a4d8561da34e1bad027a5c15/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3140,8 +3180,24 @@
             },
             "channels_data": [
                 {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://live.uu1pp.com/sport/202_5741742_1.m3u8?txSecret=fddb9bf8f4bb82649bc58ac3b43eda84&txTime=6AD168E6|Referer=https://player.up909.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD QUALITY",
                     "link": "https://www.rtmpcdn.com/live/d6f0e024-8d57-407f-8ba0-d79cb22f97ef.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://netanjahu.hls.st/t/180555f874bc5f3b00e50449cf0aedb6/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3247,6 +3303,22 @@
                 {
                     "title": "HD QUALITY",
                     "link": "https://www.rtmpcdn.com/live/d0004171-cd1f-426d-9077-c458d14ad2ea.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS HD",
+                    "link": "https://netanjahu.hls.st/t/6954574b41f909f0756c1ef5a8527b25/index.m3u8?|Referer=https://iplayer.is/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ZIGGO SPORT HD",
+                    "link": "https://netanjahu.hls.st/t/8d52a24fa815c0bd78f91b687cfa4504/index.m3u8?|Referer=https://iplayer.is/",
                     "logo": "",
                     "type": 0,
                     "api": "",

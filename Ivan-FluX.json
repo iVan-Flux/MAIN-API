@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:15:48 PM 16-10-2026",
+    "Last update time": "07:20:51 PM 16-10-2026",
     "Live": "00",
     "Upcoming": "60",
     "Finish": "00",
@@ -844,7 +844,7 @@
             "channels_data": [
                 {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrl-800300010.m3u8?hdnea=exp=1792000221~acl=/*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~hmac=6c2848c6fc116eba92ce640d5dde1230716184aa2aa9a680a8ff1ea87f502d3a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54f14c42c960e40f06e2baa18c091d70-1791984600723",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792201498~acl=/*~id=41080072096438903183326023468115~hmac=8826209e6ce0f27bcc045a5e58213eb91d91ed2ac9ca31a1bc900c49a09013e8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -852,7 +852,15 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrl-800300010.m3u8?hdnea=exp=1792000221~acl=/*~id=e475f0a041edeff871f43c79b39d9b21-1791957001750~hmac=6c2848c6fc116eba92ce640d5dde1230716184aa2aa9a680a8ff1ea87f502d3a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54f14c42c960e40f06e2baa18c091d70-1791984600723",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792201498~acl=/*~id=41080072096438903183326023468115~hmac=8826209e6ce0f27bcc045a5e58213eb91d91ed2ac9ca31a1bc900c49a09013e8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv [BEN]",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792201498~acl=/*~id=41080072096438903183326023468115~hmac=8826209e6ce0f27bcc045a5e58213eb91d91ed2ac9ca31a1bc900c49a09013e8",
                     "logo": "",
                     "type": 0,
                     "api": "",

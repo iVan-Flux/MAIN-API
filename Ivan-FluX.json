@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:40:53 AM 17-10-2026",
+    "Last update time": "12:46:00 AM 17-10-2026",
     "Live": "00",
     "Upcoming": "63",
     "Finish": "00",
@@ -1705,8 +1705,24 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "ESPN DEPORTES ES",
+                    "link": "https://tedesco.formaturamaxi.com.br/dep.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "ESPN DEPORTES HD",
                     "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4565452.m3u8?txSecret=276ac84a60f4d466029dfa9b99bd8f48&txTime=6AD28703|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1748,6 +1764,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cwjzreokxe/out/v1/02fcd3a8a15d4662898373a1f48dc829/938347e1-2cc7-452e-b81d-5a5bfa4d2f6d-cenc.mpd?aws_sessionId=6d076f08-4059-4fac-98e7-1aaeaceed12f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0563f2857c173db926d725a3931b42d9:68fd4264256fc4c82741d8579f0b5bb3",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1766,6 +1790,14 @@
                 {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58100/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563626.m3u8?txSecret=caf96a33182a8f30fcc9498c4456fc03&txTime=6AD28764|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

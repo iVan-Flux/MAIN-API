@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:10:49 PM 17-10-2026",
+    "Last update time": "10:15:51 PM 17-10-2026",
     "Live": "00",
-    "Upcoming": "48",
+    "Upcoming": "55",
     "Finish": "00",
     "events": [
         {
@@ -733,8 +733,8 @@
                 "eventName": "One Friday Fights",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/16 12:00:00 +0000",
-                "endTime": "2026/10/16 18:50:00 +0000"
+                "startTime": "2026/10/23 12:00:00 +0000",
+                "endTime": "2026/10/23 18:50:00 +0000"
             },
             "channels_data": [
                 {
@@ -929,8 +929,8 @@
                 "eventName": "Indian Super League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/17 11:30:00 +0000",
-                "endTime": "2026/10/17 16:30:00 +0000"
+                "startTime": "2026/10/18 11:30:00 +0000",
+                "endTime": "2026/10/18 16:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -1255,33 +1255,6 @@
             ]
         },
         {
-            "id": 4688,
-            "title": "Taça de Portugal",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Fazendense",
-                "teamB": "Estrela Amadora",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/370846/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
-                "eventName": "Taça de Portugal",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/17 14:30:00 +0000",
-                "endTime": "2026/10/17 16:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4689,
             "title": "VriendenLoterij Eredivisie",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
@@ -1304,33 +1277,6 @@
                     "logo": "",
                     "type": 0,
                     "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4690,
-            "title": "Taça de Portugal",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "AVS",
-                "teamB": "Moreirense",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/483088/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-                "eventName": "Taça de Portugal",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/17 15:00:00 +0000",
-                "endTime": "2026/10/17 17:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -2100,16 +2046,16 @@
             ]
         },
         {
-            "id": 4712,
-            "title": "Taça de Portugal",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
+            "id": 4713,
+            "title": "VriendenLoterij Eredivisie",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
             "cat": "Football",
             "eventInfo": {
-                "teamA": "Penafiel",
-                "teamB": "Leça",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3017/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3024/image",
-                "eventName": "Taça de Portugal",
+                "teamA": "Sparta",
+                "teamB": "Willem II",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
+                "eventName": "VriendenLoterij Eredivisie",
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/10/17 19:00:00 +0000",
@@ -2127,20 +2073,263 @@
             ]
         },
         {
-            "id": 4713,
-            "title": "VriendenLoterij Eredivisie",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+            "id": 4714,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
             "cat": "Football",
             "eventInfo": {
-                "teamA": "Sparta",
-                "teamB": "Willem II",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
-                "eventName": "VriendenLoterij Eredivisie",
+                "teamA": "Athletico",
+                "teamB": "Palmeiras",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+                "eventName": "Campeonato Brasileiro Série A",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/17 19:00:00 +0000",
-                "endTime": "2026/10/17 21:20:00 +0000"
+                "startTime": "2026/10/17 22:30:00 +0000",
+                "endTime": "2026/10/18 00:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4715,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "León",
+                "teamB": "América",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36534/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/18 01:00:00 +0000",
+                "endTime": "2026/10/18 03:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4716,
+            "title": "Liga Profesional de Fútbol",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Ind. Rivadavia",
+                "teamB": "Tigre",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36842/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+                "eventName": "Liga Profesional de Fútbol",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/17 20:30:00 +0000",
+                "endTime": "2026/10/17 22:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4717,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "São Paulo",
+                "teamB": "Vasco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/18 00:00:00 +0000",
+                "endTime": "2026/10/18 02:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4718,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Botafogo",
+                "teamB": "Chapecoense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/17 21:00:00 +0000",
+                "endTime": "2026/10/17 23:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4719,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Guadalajara",
+                "teamB": "Tigres",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1940/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/17 23:07:00 +0000",
+                "endTime": "2026/10/18 01:27:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4720,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Atlético-MG",
+                "teamB": "Coritiba",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/17 21:30:00 +0000",
+                "endTime": "2026/10/17 23:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4721,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Santos",
+                "teamB": "Querétaro",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/17 23:00:00 +0000",
+                "endTime": "2026/10/18 01:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4722,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Toluca",
+                "teamB": "San Luis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/18 01:00:00 +0000",
+                "endTime": "2026/10/18 03:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4723,
+            "title": "Liga MX, Apertura",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cruz Azul",
+                "teamB": "Juárez",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+                "eventName": "Liga MX, Apertura",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/18 03:10:00 +0000",
+                "endTime": "2026/10/18 05:30:00 +0000"
             },
             "channels_data": [
                 {

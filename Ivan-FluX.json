@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:35:40 PM 17-10-2026",
+    "Last update time": "06:40:54 PM 17-10-2026",
     "Live": "00",
     "Upcoming": "61",
     "Finish": "00",
@@ -1788,11 +1788,35 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/wfhyezkolb/out/v1/84e72db033f541dfb01a7441544b4e08/5a6f5395-db6f-463e-85db-5f834398cb71-cenc.mpd?aws_sessionId=53e40f1d-e74e-406f-842a-6858ae7073bc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3ce110bc2e975d62320b07b8002c444c:bdeb1cbedc9416d021a5dde875309856",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fzhczuypgm/out/v1/4379e830995b4993a974c6cd682b8b54/b22591a2-590f-445b-85df-d514c5d29119-cenc.mpd?aws_sessionId=dba3ceb0-5def-4393-85e7-38803d66c7a3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7df363e4af7e1dba5eb41eed1371e861:4bbd1dcb1ddbaa62f63e7bcd67a5730d",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN ITALIAN FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mkgktkzogc/out/v1/bf4f2174bb04409d901a9b0d952facb9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2e92917f5e110860bf714c53e2ecafdb:db7422909df18f87eeb99499eb256008",
                     "tokenApi": ""
                 },
                 {

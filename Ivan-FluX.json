@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:55:40 PM 17-10-2026",
+    "Last update time": "08:01:09 PM 17-10-2026",
     "Live": "00",
     "Upcoming": "98",
     "Finish": "00",
@@ -944,6 +944,14 @@
                 {
                     "title": "SonyLiv (HIN)",
                     "link": "https://sonymtmnew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792267121~acl=/*~id=34156451039611487106849197601284~hmac=fe22fa1a7993e9cc549c2c6b7b4e9c31b504d23860ecd225651d47c724319aa4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=af2a9663fe253b843b8223aadeb63514-1792243801308",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (TAM)",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792289994~acl=/*~id=22912706389465012207649116589662~hmac=165bca948423bb5585440efcb61f932d78a11f41fec4cc2db9b78715d5c75a07",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:35:42 PM 17-10-2026",
+    "Last update time": "07:40:48 PM 17-10-2026",
     "Live": "00",
     "Upcoming": "99",
     "Finish": "00",
@@ -1928,6 +1928,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PEACOCK FHD",
+                    "link": "https://mysticledger.s3.us-east-1.amazonaws.com/liverpool.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4558598.m3u8?txSecret=6fdbfbfa3925454c0f1afd73372b9bac&txTime=6AD390F1|Referer=https://player.online878.com/",
                     "logo": "",
@@ -2099,7 +2107,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PEACOCK FHD",
+                    "title": "USA TV FHD",
                     "link": "https://mysticledger.s3.us-east-1.amazonaws.com/mancity.m3u8",
                     "logo": "",
                     "type": 0,
@@ -2109,6 +2117,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4558609.m3u8?txSecret=94538fdc13a90f6f8d0f010a623cf6ef&txTime=6AD39064|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://admin2.formaturamaxi.com.br/usa.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2721,6 +2737,22 @@
                     "type": 0,
                     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
                     "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563630.m3u8?txSecret=9fabf529e685bbd620c907691db41dcf&txTime=6AD38989|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/L111AAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2742,8 +2774,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/eiikcvi68g/out/v1/080dc92b6a6b4451ba8e63b457695849/a6ae4acb-7af0-4f5e-8cf3-f5eae857586c-cenc.mpd?aws_sessionId=d5783ae4-7cdc-4f85-9a99-3998db11cf73",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d39316885be32c317feb732aa59d5be6:5b6c273ceacd11a81f42e0948d89d609",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4563635.m3u8?txSecret=26e8fbc7bb2788bb2c37ac1df6298b09&txTime=6AD389C1|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/N777AAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

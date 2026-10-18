@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:55:40 PM 18-10-2026",
+    "Last update time": "04:01:09 PM 18-10-2026",
     "Live": "00",
     "Upcoming": "92",
     "Finish": "00",
@@ -1323,11 +1323,43 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/opcu4tpges/out/v1/8b28813e94c540a18b5cd435d2766105/34b9d21b-258d-479b-aac9-c1fd9c3c74d9-cenc.mpd?aws_sessionId=04f28333-bb33-48ec-aa56-179ebf4ba535",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9dee55a318ccfb641e10321694b83d8a:b1f60eb2c44833b670c4b4ff3daf2691",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ut8fk8fck0/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/74c5354e-488b-4bca-aa4a-b8be04cffbfb-cenc.mpd?aws_sessionId=b804b283-4fd3-4699-aec2-59589e4005c9",
+                    "logo": "",
+                    "type": 0,
+                    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SPORT1 CZ FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58247/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -1373,6 +1405,14 @@
                 "endTime": "2026/10/18 12:50:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live1.quickscoreboardz.com/live/channel14.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/3UUU.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",

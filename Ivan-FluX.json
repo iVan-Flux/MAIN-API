@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:20:51 PM 18-10-2026",
+    "Last update time": "08:25:41 PM 18-10-2026",
     "Live": "00",
     "Upcoming": "92",
     "Finish": "00",
@@ -332,8 +332,8 @@
                 "eventName": "World Championship of Legends Final",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/18 14:20:00 +0000",
-                "endTime": "2026/10/18 19:30:00 +0000"
+                "startTime": "2026/10/18 15:20:00 +0000",
+                "endTime": "2026/10/18 20:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -908,7 +908,7 @@
             "channels_data": [
                 {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9663329df85fa2784be3e9d9dbd24b12-1792319402738",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -916,7 +916,7 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9663329df85fa2784be3e9d9dbd24b12-1792319402738",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -924,7 +924,7 @@
                 },
                 {
                     "title": "SonyLiv (TAM)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792339827~acl=/*~id=b0be75382fa413261751d888f5ec3b7f-1792296604317~hmac=bf93aaa29c62b7e1f4964d21501e2f230559a45c2139e69b0409684753bf9db7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9663329df85fa2784be3e9d9dbd24b12-1792319402738",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2485,7 +2485,7 @@
             "channels_data": [
                 {
                     "title": "Link 1",
-                    "link": "https://no.link",
+                    "link": "http://193.47.62.41/hls/toooaaaaqq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

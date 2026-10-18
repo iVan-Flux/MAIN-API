@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:40:53 PM 18-10-2026",
+    "Last update time": "03:45:47 PM 18-10-2026",
     "Live": "00",
     "Upcoming": "92",
     "Finish": "00",
@@ -1210,6 +1210,14 @@
             },
             "channels_data": [
                 {
+                    "title": "HD SERVER",
+                    "link": "https://live1.quickscoreboardz.com/live/channel4.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/wawawaaaaq.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -1325,6 +1333,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4549059.m3u8?txSecret=be62501b4ef1a51474d8e3fcd2bf449e&txTime=6AD49796|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/65239c27-289b-4956-9097-76289f46e000.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

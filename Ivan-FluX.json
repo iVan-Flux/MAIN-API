@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:10:52 AM 19-10-2026",
+    "Last update time": "08:15:49 AM 19-10-2026",
     "Live": "00",
     "Upcoming": "23",
     "Finish": "00",
@@ -293,57 +293,6 @@
             ]
         },
         {
-            "id": 4233,
-            "title": "World Championship of Legends Final",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcYBTx12H3RPt8G5JY4vm8esreFXqYfgH_oUeX7vAFQ&s=10",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "WCL",
-                "teamB": "WCL",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcYBTx12H3RPt8G5JY4vm8esreFXqYfgH_oUeX7vAFQ&s=10",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcYBTx12H3RPt8G5JY4vm8esreFXqYfgH_oUeX7vAFQ&s=10",
-                "eventName": "World Championship of Legends Final",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/18 15:20:00 +0000",
-                "endTime": "2026/10/18 20:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c4e6bd30698f91c0d1e99e505d8859c7:cea8ba61e532c7143c630f0c9becd7a6",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "STARZPLAY FHD",
-                    "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c4e6bd30698f91c0d1e99e505d8859c7:cea8ba61e532c7143c630f0c9becd7a6",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4632,
             "title": "Twenty20 International Women",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
@@ -356,8 +305,8 @@
                 "eventName": "Twenty20 International Women",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/18 08:15:00 +0000",
-                "endTime": "2026/10/18 12:45:00 +0000"
+                "startTime": "2026/10/20 08:15:00 +0000",
+                "endTime": "2026/10/20 12:45:00 +0000"
             },
             "channels_data": [
                 {
@@ -892,8 +841,8 @@
                 "eventName": "Indian Super League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/18 14:00:00 +0000",
-                "endTime": "2026/10/18 16:30:00 +0000"
+                "startTime": "2026/10/19 14:00:00 +0000",
+                "endTime": "2026/10/19 16:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -1288,6 +1237,33 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream7.pro/hls/ijzriafaq41.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4696,
+            "title": "ICC CWC League 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "OMA",
+                "teamB": "NEP",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/199279/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+                "eventName": "ICC CWC League 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/19 05:30:00 +0000",
+                "endTime": "2026/10/19 10:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

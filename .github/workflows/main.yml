@@ -1,4 +1,4 @@
-name: Generate and Sync Ivan-FluX to Triple Cloudflare KV
+name: main-api workflow
 
 on:
   schedule:

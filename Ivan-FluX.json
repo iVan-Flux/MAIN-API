@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:40 PM 19-10-2026",
+    "Last update time": "01:01:06 PM 19-10-2026",
     "Live": "00",
-    "Upcoming": "52",
+    "Upcoming": "51",
     "Finish": "00",
     "events": [
         {
@@ -1151,41 +1151,6 @@
                 {
                     "title": "Link 1",
                     "link": "http://193.47.62.44/hls/EE44QQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4690,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Flames",
-                "teamB": "Hurricanes",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/19 00:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream3.pro/hls/fskjanach24.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
                     "type": 0,
                     "api": "",

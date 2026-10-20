@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:50:52 AM 21-10-2026",
+    "Last update time": "12:55:42 AM 21-10-2026",
     "Live": "00",
     "Upcoming": "64",
     "Finish": "00",
@@ -542,7 +542,7 @@
             "channels_data": [
                 {
                     "title": "WWE HD",
-                    "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+                    "link": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -555,23 +555,6 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
-                },
-                {
-                    "title": "NXT LIVE [FHD]",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://embedindia.st/embed/wwe/2026-08-04",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
                 }
             ]
         },
@@ -1954,6 +1937,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58326/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4628518.m3u8?txSecret=6fb2c70c98d851b5a288bd856de3dfe8&txTime=6AD7CC71|Referer=https://player.online878.com/",
                     "logo": "",
@@ -2077,6 +2068,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "3a4de6aafadf4cf8c1af22a28d1bc20e:ec672c970d15cb044caf27881f30bb57",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628421.m3u8?txSecret=91168cf9b64fa15f84d5930586e1df4a&txTime=6AD7CD02|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {

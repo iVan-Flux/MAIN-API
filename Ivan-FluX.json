@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:45:55 PM 20-10-2026",
+    "Last update time": "09:50:56 PM 20-10-2026",
     "Live": "00",
-    "Upcoming": "72",
+    "Upcoming": "63",
     "Finish": "00",
     "events": [
         {
@@ -14,15 +14,15 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",
             "cat": "Cricket",
             "eventInfo": {
-                "teamA": "PAK",
+                "teamA": "SL",
                 "teamB": "ENG",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
                 "eventName": "ODI Tri-series in Pakistan",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/20 07:50:00 +0000",
-                "endTime": "2026/10/20 17:30:00 +0000"
+                "startTime": "2026/10/22 08:00:00 +0000",
+                "endTime": "2026/10/22 17:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -308,8 +308,8 @@
                 "eventName": "Twenty20 International Women",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/20 08:15:00 +0000",
-                "endTime": "2026/10/20 12:45:00 +0000"
+                "startTime": "2026/10/22 08:15:00 +0000",
+                "endTime": "2026/10/22 12:45:00 +0000"
             },
             "channels_data": [
                 {
@@ -1143,192 +1143,6 @@
             ]
         },
         {
-            "id": 4710,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Napoli U19",
-                "teamB": "Bodo/Glimt U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/829592/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/295469/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 12:00:00 +0000",
-                "endTime": "2026/10/20 14:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4711,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Fenerbahçe U19",
-                "teamB": "Slavia Praha U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/243800/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/44163/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 11:00:00 +0000",
-                "endTime": "2026/10/20 13:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel9.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4712,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "PSG U19",
-                "teamB": "Barcelona U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/90138/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/90128/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 12:00:00 +0000",
-                "endTime": "2026/10/20 14:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SONYLIV (ENG)",
-                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540743~acl=/*~id=04978022549068605114743549672026~hmac=ba45d48a83b4942fa92ba9888fbf5302c47ed55d93d5ca71d2e38f3ea5f41f14",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/HBBBA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://pull.niues.live/live/stream-9912130_lsd.m3u8?auth_key=1792501026-0-0-668f74a446bba4987eeab79c54e1e8b1",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4713,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Roma U20",
-                "teamB": "Slovan Bratislava U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/826818/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/110757/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 12:00:00 +0000",
-                "endTime": "2026/10/20 14:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4716,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Sabah U19",
-                "teamB": "Dortmund U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/931005/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/43719/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 11:00:00 +0000",
-                "endTime": "2026/10/20 13:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4717,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Porto U19",
-                "teamB": "PSV U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/78117/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/90140/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 11:00:00 +0000",
-                "endTime": "2026/10/20 13:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/HBBB.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4727,
             "title": "T20 International",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
@@ -1410,33 +1224,6 @@
             ]
         },
         {
-            "id": 4730,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Liverpool U19",
-                "teamB": "Villarreal U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/90134/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/206355/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 14:00:00 +0000",
-                "endTime": "2026/10/20 16:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/HBBBAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4731,
             "title": "Saudi Pro League",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -1464,68 +1251,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/O555AAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4732,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Stuttgart U19",
-                "teamB": "Atl. Madrid U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/43732/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/72022/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 13:00:00 +0000",
-                "endTime": "2026/10/20 15:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4733,
-            "title": "UEFA Youth League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Man City U19",
-                "teamB": "AEK U19",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/120856/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/297065/image",
-                "eventName": "UEFA Youth League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 14:00:00 +0000",
-                "endTime": "2026/10/20 16:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TNT SPORTS 2",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/HBBBAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

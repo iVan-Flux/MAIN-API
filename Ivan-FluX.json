@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:15:52 AM 20-10-2026",
+    "Last update time": "07:20:53 AM 20-10-2026",
     "Live": "00",
-    "Upcoming": "48",
+    "Upcoming": "47",
     "Finish": "00",
     "events": [
         {
@@ -1971,33 +1971,6 @@
                 {
                     "title": "HD QUALITY",
                     "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4719,
-            "title": "MLB",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-            "cat": "Baseball",
-            "eventInfo": {
-                "teamA": "Brewers",
-                "teamB": "Dodgers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-                "eventName": "MLB",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/20 00:00:00 +0000",
-                "endTime": "2026/10/20 03:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "https://messi.damitv.st/live-sd/streamed/hotel/los-angeles-dodgers-vs-milwaukee-brewers-mlb-1792454400/playlist.m3u8?tk=iZxZ0FR40W-JzfLhZhUzIw&e=1792456305|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

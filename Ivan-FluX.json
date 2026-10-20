@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:10:54 PM 20-10-2026",
+    "Last update time": "10:15:54 PM 20-10-2026",
     "Live": "00",
     "Upcoming": "63",
     "Finish": "00",
@@ -1394,11 +1394,35 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/cde8xp9utb/out/v1/7d610b15020c4e09aeeed32314045047/a1e7cef4-378b-498d-9b7b-69bbaabdd9cb-cenc.mpd?aws_sessionId=7df44d0d-2c2a-4e3b-9e04-7d2c7548a112",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0b2605bf688db9776cb8d9d13a0afa6b:fa0e28c599af027b81dcd2a70b0eb4b1",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/jljtpi5vhf/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "acd1ca38f73728e10a62a765111cb7b2:3248eabe6217a6b23018da1998a058bb",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4628427.m3u8?txSecret=ae090249fbcdd6af0bae8ae92dbd3bd0&txTime=6AD7AE09|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -1418,7 +1442,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
+                    "title": "HD SERVER+",
                     "link": "https://www.rtmpcdn.com/live/80dd1765-1354-4b54-8d0b-b9357bb91ab9.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,

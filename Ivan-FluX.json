@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:10:53 AM 22-10-2026",
+    "Last update time": "01:15:57 AM 22-10-2026",
     "Live": "00",
     "Upcoming": "58",
     "Finish": "00",
@@ -1792,6 +1792,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/avldqxvr9i/out/v1/198ef6f294454faa8f2c8f7895385642/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4778ad81d1e2d083de95fc43457fe4b3:4deaf63e414adf2d16926eecc69260ac",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PRIME VIDEO FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yyqrddnqee/out/v1/1f8a1dc64cf14a32b2e1a39cee8264d3/cenc.mpd",
                     "logo": "",
@@ -1805,6 +1813,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "6f8c882c6744246cc84282b0e0effab5:dd9ab472acead0eb65f951b02754e14b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js0mifzx2z/out/v1/5b7c269f1a5e4281bf259ed344749ac3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9b2e1e9ef87c84807fdd0e5afc86f8b7:b70796424d248e193b0a87e3521f0a5d",
                     "tokenApi": ""
                 },
                 {

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:43 AM 22-10-2026",
+    "Last update time": "12:40:56 AM 22-10-2026",
     "Live": "00",
     "Upcoming": "58",
     "Finish": "00",
@@ -1109,10 +1109,10 @@
             "channels_data": [
                 {
                     "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g2pac4npr8/out/v1/5c0eb4104ba94cf798e9550be8d69e31/c7e0445f-84e6-42c0-886c-4604ad4fbd26-cenc.mpd?aws_sessionId=2336b570-1168-4786-8757-868d6a620b82",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vccsuzk9hw/out/v1/9f0c651db4144f9794f7552472320e3d/9e6ee722-12ab-410a-9892-b17fb79cda3a-cenc.mpd?aws_sessionId=03df375b-e23d-4dff-b823-e2541bdb779b",
                     "logo": "",
                     "type": 0,
-                    "api": "01b05b4481f227edd4e746fa2cb6f788:49b7b1c9cc9f44e15df6d96a672a91ef",
+                    "api": "01b1876fa350df084aa1fc80f3a4e75d:e67deb0fcd60726770099a5762015272",
                     "tokenApi": ""
                 },
                 {
@@ -1554,6 +1554,38 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/edtv1egsnu/out/v1/b0f1b606a0f54ccdab98547d8c252dab/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0687f97e1f3aa5afaae69614bbc78386:9b1fdfe422bea7506f07141f4f3938e8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/o1zpihkx5j/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2454fbd33e028ed3459b5876a6f857c1:701322cf93d4836c0db83fe67cea37cc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT BRASIL FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CBS SPORTS FHD",
+                    "link": "https://obsidianmeadow.s3-accelerate.amazonaws.com/arsenal.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58360/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -1669,6 +1701,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3czy2h65i8/out/v1/e55549b3868843b887a725b77737fbe7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "37831c713f98d8bba8265557779d436d:ede25b61e30cb83997825b72bbbe9092",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS HD",
                     "link": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
                     "logo": "",
@@ -1728,6 +1768,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e9xjpejmtk/out/v1/cbf21d748d024933bcd2144998273a4b/cenc.mpd?aws_sessionId=2eadec73-24ac-4b20-a24e-0ee003f9571e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b2a7c60eafdb4dac7117621bd8326e6b:7a059eb03ac5bc107572ae435d880b09",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1784,6 +1832,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SD SERVER USA",
+                    "link": "https://pull.qjkngv.com/live/stream-613431_lhd.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SONYLIV [ASIA]",
                     "link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff",
                     "logo": "",
@@ -1811,6 +1867,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ndsab28kzq/out/v1/4a7f833f94a7469687068ffd5013eab4/1153fa4c-cfc7-4593-86b1-8fac619632e9-cenc.mpd?aws_sessionId=979914bf-7019-4d26-a4d8-3e00049a7a04",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b7c09837bb7f44dada600c6da2cc48ca:4598cf5ae8583a5a0b05f9c39f73d654",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CBS SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1819,8 +1883,32 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/2zkbznblfa/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9ed00edc2ff4946d775c158d021d2643:64800fdd731c4b5cf3b9e5b05a981e2b",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://edgestream6.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.qjkngv.com/live/stream-505931_lhd.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.55/hls/XAXAXA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1971,6 +2059,22 @@
                 "endTime": "2026/10/21 21:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lougcqmeco/out/v1/efdeb486c72b4c2383c514ea06c90e30/cenc.mpd?aws_sessionId=6c30b2db-2fb0-415b-8da3-c5f2d9602af3",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f1e0e573b4fe78211a7209374adb3bdd:921b678d0243ecfdaa9411892e75eb75",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/gmtgqw4y1k/out/v1/3bb7be9163524e72bc8ec72519235803/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "dbf2a6601958474ece6441eb4b69b2ce:cdbc82dc2b62d5e43b12500febfd9d69",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream4.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",

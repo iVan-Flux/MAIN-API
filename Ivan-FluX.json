@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:01:11 PM 22-10-2026",
+    "Last update time": "10:05:45 PM 22-10-2026",
     "Live": "00",
     "Upcoming": "79",
     "Finish": "00",
@@ -2022,8 +2022,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jkhnmrkjst/out/v1/7763e20ac8e440d8b54ab6420ec7e0dd/0d4c4a8f-5ce6-4444-bce8-1592dd1cb0e6-cenc.mpd?aws_sessionId=481fd892-0021-413b-bdb5-415ac61d7059",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fd9367b34ce71d805798b5f11f9da057:efdb0e282930947350bf65c7a8ff0d39",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/J666AAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2022322/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792704833~acl=/*~id=81881158884330765836131264728565~hmac=2e4b1336d344f822a04a7e52fa98b38a8a55f019693cdd340a606364cf4f407b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5ded1a18866ea723ee09cbfb68346f94-1792685404669",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2084,11 +2108,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SporTV BR FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
                     "tokenApi": ""
                 }
             ]

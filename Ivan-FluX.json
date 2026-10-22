@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:35:45 AM 23-10-2026",
+    "Last update time": "12:40:51 AM 23-10-2026",
     "Live": "00",
     "Upcoming": "79",
     "Finish": "00",
@@ -2544,6 +2544,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1j0rfg20mw/out/v1/7809feb199f04398a835b99c885db5b5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "52ca896b0fd49cf0ac859c2b4a548dff:d0b24508be2c31c2e8145ac2e13898f9",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2770,6 +2778,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8eerytrwa2/out/v1/34ab2e30771a44deb58928a4219237e9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "278e1ebe07689769d9fa033bb3194f82:c8140fed8d1f87a10f4b4ebcf9f6ad95",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2883,8 +2899,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sxt8f7kaps/out/v1/2c08c6adabd149b0851faa31755fa2f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ca822d75df4a70c5ffe38643ae1f81ae:e61834e7b2ad6d3af10bce09ac3cdadf",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.55/hls/D111A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2991,6 +3015,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mov5o72prr/out/v1/658d98dfd96c4bb685c4478ae9d2adb1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8e0027243e0df9905174c6c9d189db62:947140c26e9314c94c2cb7d1ae0d0319",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58407/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -3052,6 +3084,14 @@
                 "endTime": "2026/10/22 21:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ekvahzwcfo/out/v1/ca275baa40244136988b8d2b02cc1add/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1c364e9d0752dd1f4db530adc5c6adc4:681fe9910c1722904caceb10b0b4ea89",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58408/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",

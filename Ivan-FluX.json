@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:01:12 PM 22-10-2026",
+    "Last update time": "02:05:50 PM 22-10-2026",
     "Live": "00",
     "Upcoming": "24",
     "Finish": "00",
@@ -36,22 +36,6 @@
                 {
                     "title": "SKY CRICKET FHD",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD 2 FHD",
-                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -149,6 +133,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/KKKK.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SonyLiv (ENG)",
                     "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchc857/cricodi_2210-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
                     "logo": "",
@@ -183,6 +175,14 @@
                 {
                     "title": "SonyLiv (KAN)",
                     "link": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792669821~acl=/*~id=a8f9f86d5e3d27d4b0eacc381a03d865-1792626605062~hmac=24065d163afdf70541611ef2adc80c050421d4a06af7d1d4aad2ef89e8d2b6fd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac1ad67b8b490aa16faa039355847c93-1792649403416",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FOX CRICKET HD",
+                    "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -367,7 +367,7 @@
                 },
                 {
                     "title": "FANCODE (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

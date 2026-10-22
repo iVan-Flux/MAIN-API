@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:40:51 AM 23-10-2026",
+    "Last update time": "12:45:50 AM 23-10-2026",
     "Live": "00",
     "Upcoming": "79",
     "Finish": "00",
@@ -2611,6 +2611,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vhormeiyst/out/v1/06e21d8e8b154c99836fe6b1e73385df/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9f6f0ae06d6fa35fe9ae5c47386d3ee1:3b5657ead0302a57b8da77eb1dd960cc",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2662,6 +2670,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qfoko8m7cf/out/v1/32848a37add24f5c98aafe88b28e0144/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7ffc666b6615aa7a717e4afcaed6dc19:9a6634fc7c18f2895dea9f3817af3b52",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58411/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2672,6 +2688,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4630584.m3u8?txSecret=6399899ba26ccb55880c32a8cb631ff7&txTime=6ADA6DD4|Referer=https://player.online878.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2022316/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792715180~acl=/*~id=25029118503491533116734949005709~hmac=ea5462b55c1c775ad01858bfd9bc5f8040cfed41b86dc9133d8cc1aa1b8023da|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=cb73708bf8ec8dae5186e528494403c2-1792695001279",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2697,8 +2721,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ss9vl3dioi/out/v1/cd3157da371e49ebb0d72de1c1370685/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4c97302c1de1a53d08757b8c4921a5e7:b51847d6e375628323afb12d0b0ca427",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4630562.m3u8?txSecret=ceebb2c1571d52fbcaae38e5e4f81558&txTime=6ADA6E0B|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2872,8 +2904,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bu76ipamds/out/v1/c0221c8feb6f4e9ba68b59e7afd3dd3f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "35f7d01cd9c84e7eebb32df6d0c0d3db:78f8979978becac9bb2ad06a6d14da26",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live1.quickscoreboardz.com/live/channel13.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2961,8 +3001,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/czywslrzbm/out/v1/3d2ed1079d134712b63bd1ce61930ff8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "171756ff67613fffda1e9933d0b7c57e:f7ccd9ac9cdfd8339ef3001e03e9f718",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live1.quickscoreboardz.com/live/channel17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2988,8 +3036,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/flsodcfwod/out/v1/156cef2563f74863a10fb42946347933/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5a0b5ce35ce4dc3f1589f4e828322f07:103a1207576822a4232e30476e75c210",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live1.quickscoreboardz.com/live/channel9.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
                     "logo": "",
                     "type": 0,
                     "api": "",

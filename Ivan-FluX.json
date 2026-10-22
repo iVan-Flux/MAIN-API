@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:45:53 PM 22-10-2026",
+    "Last update time": "12:50:53 PM 22-10-2026",
     "Live": "00",
     "Upcoming": "24",
     "Finish": "00",
@@ -109,6 +109,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PRIME HINDI FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/otxvvjcsxz/out/v1/b0905b5731f249b1a5020054715fb462/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a9fb7988fa5687d620e07587aed50f4a:ad2265ffa38ab51b0b4e1d14c9192ade",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PRIME ENG FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ma3cynyzgo/out/v1/f457058f2efb43bcb2e22045bf7470dc/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cbfbd270193c2a674960b47427453daf:41912c92e12ecab217442960ea673af1",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -122,6 +138,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {

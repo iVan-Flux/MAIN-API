@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:46:08 PM 23-10-2026",
+    "Last update time": "06:50:50 PM 23-10-2026",
     "Live": "00",
-    "Upcoming": "22",
+    "Upcoming": "23",
     "Finish": "00",
     "events": [
         {
@@ -1268,6 +1268,33 @@
                 {
                     "title": "SonyLiv (BEN)",
                     "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792768221~acl=/*~id=5d79e7200a7fbda9d6f50dd33c3a77e0-1792725001088~hmac=65a65d76342c29377b3d084f8392744a72d07745f02c3e36d050b0da432deeab|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=05b2695026040038c007f49d079213a0-1792752605073",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4809,
+            "title": "Saudi Pro League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al Faisaly",
+                "teamB": "Al-Nassr",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/56035/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+                "eventName": "Saudi Pro League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/23 13:30:00 +0000",
+                "endTime": "2026/10/23 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:15:57 PM 24-10-2026",
+    "Last update time": "07:20:57 PM 24-10-2026",
     "Live": "00",
-    "Upcoming": "90",
+    "Upcoming": "91",
     "Finish": "00",
     "events": [
         {
@@ -2016,8 +2016,24 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ztg97ws40s/out/v1/aaaab12c95924d80a77f87f7c745782a/27f50f3e-da7e-44f3-a089-d6cebb32622a-cenc.mpd?aws_sessionId=ff8d0fe4-cc36-44a9-9767-0fa7697669c6",
+                    "logo": "",
+                    "type": 0,
+                    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "USA TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58489/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558635.m3u8?txSecret=b3a82b7749691ed2c55665e5feaaf435&txTime=6ADCCC12|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3392,6 +3408,73 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4799,
+            "title": "UFC",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+            "cat": "Mixed Martial Arts",
+            "eventInfo": {
+                "teamA": "A. Volkanovski",
+                "teamB": "M. Evloev",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/467404/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/467455/image",
+                "eventName": "UFC",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 14:00:00 +0000",
+                "endTime": "2026/10/24 17:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ssir8jews6/out/v1/61c2bac238b7422782a5e038863c1966/a121bf0f-3b8d-40e2-a72f-b1b4df13891c-cenc.mpd?aws_sessionId=74d64c22-5ad3-4cff-b1c0-95f042ee92b3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "294eb6d02ad018f4aaddd9e35b5dda37:3c557570e9b1e9e6e39dad3b78bcb012",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ ES",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tmfbljkrvo/out/v1/97ea6cd5f85242caadd34261558d639f/5a670ddd-cd2e-4e08-88a3-f07773ed6a5a-cenc.mpd?aws_sessionId=14bf9f84-2ab0-4f93-9c42-a0a28cdde7fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d9ea85885bc96d53961b9b07f1d86efb:d38968ef18f914602bffb6c74d7bbd3d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58494/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "UFC LIVE FHD",
+                    "link": "https://peregrinecloud.s3-accelerate.amazonaws.com/warriors.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:05:43 PM 24-10-2026",
+    "Last update time": "02:10:48 PM 24-10-2026",
     "Live": "00",
-    "Upcoming": "20",
+    "Upcoming": "31",
     "Finish": "00",
     "events": [
         {
@@ -1137,6 +1137,303 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/28 04:00:00 +0000",
                 "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4729,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hertha",
+                "teamB": "Bielefeld",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 11:00:00 +0000",
+                "endTime": "2026/10/24 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4730,
+            "title": "Trendyol Süper Lig",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Eyüpspor",
+                "teamB": "Kasımpaşa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+                "eventName": "Trendyol Süper Lig",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 10:30:00 +0000",
+                "endTime": "2026/10/24 12:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4731,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Magdeburg",
+                "teamB": "Karlsruhe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 11:00:00 +0000",
+                "endTime": "2026/10/24 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4732,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Heidenheim",
+                "teamB": "Cottbus",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 11:00:00 +0000",
+                "endTime": "2026/10/24 13:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4733,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Aston Villa",
+                "teamB": "Man City",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 11:30:00 +0000",
+                "endTime": "2026/10/24 13:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4734,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sheffield Utd",
+                "teamB": "Derby",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 11:30:00 +0000",
+                "endTime": "2026/10/24 13:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4735,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Charlton",
+                "teamB": "Norwich",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/47/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 11:30:00 +0000",
+                "endTime": "2026/10/24 13:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4736,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Portsmouth",
+                "teamB": "Millwall",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 11:30:00 +0000",
+                "endTime": "2026/10/24 13:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4737,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Rayo Vallecano",
+                "teamB": "Elche",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 12:00:00 +0000",
+                "endTime": "2026/10/24 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4738,
+            "title": "Women's Super League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tottenham",
+                "teamB": "Arsenal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/273547/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
+                "eventName": "Women's Super League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 11:45:00 +0000",
+                "endTime": "2026/10/24 14:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 4739,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Córdoba",
+                "teamB": "Eibar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/24 12:00:00 +0000",
+                "endTime": "2026/10/24 14:20:00 +0000"
             },
             "channels_data": [
                 {

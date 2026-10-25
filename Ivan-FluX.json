@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:55:41 PM 25-10-2026",
+    "Last update time": "08:01:12 PM 25-10-2026",
     "Live": "00",
     "Upcoming": "93",
     "Finish": "00",
@@ -1801,6 +1801,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER+",
+                    "link": "https://www.rtmpcdn.com/live/77dfe595-8279-4871-82ff-68d1c877a1a2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.59/hls/a111.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -1828,6 +1836,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PEACOCK FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jnon5upjgz/out/v1/68b5a8cb1b4645018a345b5309c31519/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1482b544c5f16e1331ac9e807686dd04:e409193f45d35e4e2584137144e7bf3a",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FUBO SPORTS FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/m0ppaxb17v/out/v1/aaaab12c95924d80a77f87f7c745782a/abc40d6d-7c3e-45a1-a24b-c3e631573c76-cenc.mpd?aws_sessionId=e2e2a15b-3d0a-4ae8-a11e-a0914acaceeb",
                     "logo": "",
@@ -1844,8 +1860,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PEACOCK TV HD",
+                    "title": "SKY SPORTS EPL",
                     "link": "https://chatgpt.hereisman.net/playlist/58623/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC FHD",
+                    "link": "https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS HD",
+                    "link": "https://admin2.formaturamaxi.com.br/fubo.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1895,6 +1927,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PEACOCK FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nvuarapng7/out/v1/4cef4c8b47844b318b4f0944a0970d03/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "15df4249f8337384df5f106e5b7c6464:4c35355592db34d36a06acc8550d3951",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FUBO SPORTS FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4kgwt3wxbm/out/v1/a8645e4080344c53b38dc66983651d99/011dd183-c4ee-4ad3-aa2f-b9ad1dd26ecf-cenc.mpd?aws_sessionId=e0b734c2-a1f6-40c5-be3b-d2cb3ee3c373",
                     "logo": "",
@@ -1913,6 +1953,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://www.rtmpcdn.com/live/be99b1b4-b18e-4df3-ba0a-e4b4d34f63aa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

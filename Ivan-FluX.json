@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:51:02 PM 25-10-2026",
+    "Last update time": "04:55:40 PM 25-10-2026",
     "Live": "00",
     "Upcoming": "94",
     "Finish": "00",
@@ -829,13 +829,21 @@
                 "eventName": "Indian Super League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/19 14:00:00 +0000",
-                "endTime": "2026/10/19 16:30:00 +0000"
+                "startTime": "2026/10/25 11:30:00 +0000",
+                "endTime": "2026/10/25 16:30:00 +0000"
             },
             "channels_data": [
                 {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sswxx6matd/out/v1/a611dc3e04b34f26bf084d773e99835c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b54aa1aba6165c7a71ddd65e76a129eb:1507d65af2642da9dd3e1928556f8257",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792959016~acl=/*~id=e0a42c61093c20a578121d057df07313-1792915800723~hmac=0ce5127231b0f10f81615bf5935149c747d2315f85985c80a7f10ddaab3dc095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6c4f8cf01f8041ab25536be78d0ffa48-1792925402306",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -843,15 +851,7 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SonyLiv (TAM)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792959016~acl=/*~id=e0a42c61093c20a578121d057df07313-1792915800723~hmac=0ce5127231b0f10f81615bf5935149c747d2315f85985c80a7f10ddaab3dc095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6c4f8cf01f8041ab25536be78d0ffa48-1792925402306",
                     "logo": "",
                     "type": 0,
                     "api": "",

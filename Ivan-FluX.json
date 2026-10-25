@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:36 PM 25-10-2026",
+    "Last update time": "07:31:19 PM 25-10-2026",
     "Live": "00",
     "Upcoming": "93",
     "Finish": "00",
@@ -1737,8 +1737,24 @@
             },
             "channels_data": [
                 {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pbji843evf/out/v1/00d2828855a944ffbbdc15232c4157a9/abd0cb36-9f5e-4e5c-8f35-c8877e45a38c-cenc.mpd?aws_sessionId=e23071ec-4af2-426f-ab48-a01d996b7cde",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0379cfd0b4160fbeb5abf192642d783d:b9bc6ebc8fddc9b6383e208b74b92ec8",
+                    "tokenApi": ""
+                },
+                {
                     "title": "USA NETWORK HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58626/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558641.m3u8?txSecret=f6ab12a1742a122aa83c5c2827b9fcd6&txTime=6ADE1D33|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1781,6 +1797,14 @@
             "channels_data": [
                 {
                     "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/m0ppaxb17v/out/v1/aaaab12c95924d80a77f87f7c745782a/abc40d6d-7c3e-45a1-a24b-c3e631573c76-cenc.mpd?aws_sessionId=e2e2a15b-3d0a-4ae8-a11e-a0914acaceeb",
+                    "logo": "",
+                    "type": 0,
+                    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS ALT",
                     "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
@@ -1790,6 +1814,14 @@
                 {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58623/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558645.m3u8?txSecret=424283d48e0382f46f97f8c5df61cd44&txTime=6ADE1D75|Referer=https://player.online878.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1830,6 +1862,14 @@
                 "endTime": "2026/10/25 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/4kgwt3wxbm/out/v1/a8645e4080344c53b38dc66983651d99/011dd183-c4ee-4ad3-aa2f-b9ad1dd26ecf-cenc.mpd?aws_sessionId=e0b734c2-a1f6-40c5-be3b-d2cb3ee3c373",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5fea848feb7e7599c451c4a8e89f24be:3dd458a354b8b6f4235693cfdad62c59",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58627/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
@@ -1992,8 +2032,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.50/hls/N222A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2019,8 +2067,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e3dujb58ek/out/v1/b2ee0697399c49029e4f5ab1154368a9/d8121330-176a-4e04-b740-dd1e32915b5f-cenc.mpd?aws_sessionId=9ee4718c-f5cf-491b-ac81-8bdf72f716ca",
+                    "logo": "",
+                    "type": 0,
+                    "api": "09a5f8c1a0c53d157beb89528c08867d:b68ece61a0a283895c670c8567a789ee",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.50/hls/D899AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2047,7 +2103,7 @@
             "channels_data": [
                 {
                     "title": "Link 1",
-                    "link": "https://no.link",
+                    "link": "http://193.47.62.50/hls/D899AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

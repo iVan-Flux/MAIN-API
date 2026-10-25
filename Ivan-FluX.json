@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:35:43 PM 25-10-2026",
+    "Last update time": "01:40:57 PM 25-10-2026",
     "Live": "00",
     "Upcoming": "21",
     "Finish": "00",
@@ -34,6 +34,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TAPMAD 2 FHD",
+                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SKY CRICKET FHD",
                     "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                     "logo": "",
@@ -50,16 +58,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lognidbrxm/out/v1/7871a7545c6a43f9b9f17bf42f50602e/cenc.mpd",
+                    "title": "FOX CRICKET HD",
+                    "link": "https://motherofdragons.bondsplive.online/441307/logosp.webp?&e=.m3u8|referer=https://youjizz.com/",
                     "logo": "",
                     "type": 0,
-                    "api": "6138da1047932e4c4328448493554901:4e8e19728da2159ac564bd5b01843621",
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
                     "title": "PTV SPORTS HD",
-                    "link": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
+                    "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "T SPORTS HD",
+                    "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -313,8 +329,8 @@
                 "eventName": "Formula 1",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/24 17:30:00 +0000",
-                "endTime": "2026/10/25 00:00:00 +0000"
+                "startTime": "2026/10/25 20:00:00 +0000",
+                "endTime": "2026/10/26 00:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -413,7 +429,7 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/10/25 01:00:00 +0000",
-                "endTime": "  +0000"
+                "endTime": "2026/10/25 08:08:00 +0000"
             },
             "channels_data": [
                 {

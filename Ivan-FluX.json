@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:50:57 AM 26-10-2026",
+    "Last update time": "07:55:41 AM 26-10-2026",
     "Live": "00",
     "Upcoming": "72",
     "Finish": "00",
@@ -2121,8 +2121,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "TUDN MEXICO",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CANAL 5",
+                    "link": "https://admin2.formaturamaxi.com.br/canal5mx.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CANAL 5 MEX",
+                    "link": "https://admin2.formaturamaxi.com.br/canal5mx.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2418,6 +2434,22 @@
             },
             "channels_data": [
                 {
+                    "title": "NBA HD",
+                    "link": "https://admin2.formaturamaxi.com.br/nba7.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NBA LIVE HD",
+                    "link": "https://admin2.formaturamaxi.com.br/nba7.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://edgestream4.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
                     "logo": "",
@@ -2533,6 +2565,14 @@
                 "endTime": "  +0000"
             },
             "channels_data": [
+                {
+                    "title": "NHL HD",
+                    "link": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/sdezqfza55.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",

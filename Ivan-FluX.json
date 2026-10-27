@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:45:53 PM 27-10-2026",
+    "Last update time": "12:50:53 PM 27-10-2026",
     "Live": "00",
     "Upcoming": "26",
     "Finish": "00",
@@ -43,7 +43,7 @@
                 },
                 {
                     "title": "TAPMAD 2 FHD",
-                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -118,10 +118,10 @@
                 },
                 {
                     "title": "PRIME HINDI FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mmvlg151u6/out/v1/ab9d1f193c094ee8a9305f983a716f35/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "18e6af4a0daf2a1fdfbdc5b541520c88:ca0b64b84edb4f20eb1e135ff03db4f7",
+                    "api": "4dcd41b8ecbc6d0182037e457e2baec9:14a48156510444cc189cdf12c1249670",
                     "tokenApi": ""
                 },
                 {
@@ -171,6 +171,30 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (ENG)",
+                    "link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793126162~acl=/*~id=14079504933744567333434866061081~hmac=3efe36be7e508e81ea9ef363ad057d4923849621c30336d4dfbec5fa72643988|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (HIN)",
+                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793126162~acl=/*~id=14079504933744567333434866061081~hmac=3efe36be7e508e81ea9ef363ad057d4923849621c30336d4dfbec5fa72643988|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv HIN (IND)",
+                    "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1793068771~exp=1793090371~acl=/*~hmac=8dd4fe420043a06d09b30ae20521670a093df5522614b8d836ac549088b95871",
+                    "logo": "",
+                    "type": 0,
+                    "api": "68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -194,6 +218,14 @@
                 {
                     "title": "FANCODE FHD",
                     "link": "https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "StarSports HD",
+                    "link": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

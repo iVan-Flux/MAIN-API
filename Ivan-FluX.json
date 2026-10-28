@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:40:52 AM 29-10-2026",
+    "Last update time": "01:45:48 AM 29-10-2026",
     "Live": "00",
     "Upcoming": "91",
     "Finish": "00",
@@ -2927,6 +2927,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "DAZN [MULTI COMMENTRY]",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mwgaktvoez/out/v1/18652481c81f4aeeaae308b9b2138406/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1fd8f4ca8509298b8e4a8fe6d01392ff:c4a2085b1ed2715872574e99c43f2a27",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -3072,11 +3080,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
                     "tokenApi": ""
                 }
             ]
@@ -3304,8 +3312,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream2.pro/hls/xcsfadafgzfg76.m3u8|Referer=https://embedcenter.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://admin2.formaturamaxi.com.br/nba12.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/nba/2026-10-28/lal-lac/playlist.m3u8?tk=uZNf5s5nNq2nF5Sx8-gv2w&e=1793253909|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

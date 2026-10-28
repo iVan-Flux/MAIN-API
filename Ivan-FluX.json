@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:20:50 PM 28-10-2026",
+    "Last update time": "10:25:52 PM 28-10-2026",
     "Live": "00",
     "Upcoming": "82",
     "Finish": "00",
@@ -1640,8 +1640,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4a6dittnj/out/v1/6287948a93e5404c992b9d4107f70351/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c38b763df02bcbcad5d646ce67754950:420304b535d20af8b2ee94416390f6a9",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

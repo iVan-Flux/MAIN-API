@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:20:50 PM 28-10-2026",
+    "Last update time": "06:25:40 PM 28-10-2026",
     "Live": "00",
     "Upcoming": "85",
     "Finish": "00",
@@ -1395,8 +1395,48 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD+ SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4621355.m3u8?txSecret=b5a762dd09852601bb0c2527d59ef16b&txTime=6AE1F5C8|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://pull.niues.live/live/stream-9912119_lsd.m3u8?auth_key=1793194926-0-0-90041cb8e0321dac6fb7a65e99092c9d",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://live1.quickscoreboardz.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://pull.fmp.live/sla/1-6ac11fafcc54bda3f63f234a.m3u8?auth_key=1793212861-0-0-8f61adafb0cfd8107e7ec6118e89e890|Referer=https://fmp.live/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=04d04c3815c8c44f3fbe3538f5b657ff&txTime=6ae241fe",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/JRRRAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",

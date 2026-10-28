@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:15:51 PM 28-10-2026",
+    "Last update time": "11:20:50 PM 28-10-2026",
     "Live": "00",
     "Upcoming": "78",
     "Finish": "00",
@@ -1849,15 +1849,47 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7zrtkrh2ho/out/v1/abd2e01159ae4c778d34c4f46e26c4ed/cenc.mpd?aws_sessionId=8605f72c-7bf9-4370-b4af-87fea5674781",
+                    "logo": "",
+                    "type": 0,
+                    "api": "56fafd1b9ce3078c8c0301386ded6b24:daae4229cbbd3546ba07498cd22a3dd5",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/untqjbwpnh/out/v1/4379e830995b4993a974c6cd682b8b54/cenc.mpd?aws_sessionId=7f5821a6-3494-4e64-9a82-d2cb5fc943cc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a90d5ca156e567a49fcf3393211df1c2:b771c7a4b90ea515b7ff052dfcbb6b6f",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/58774/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "link": "https://chatgpt.hereisman.net/playlist/58774/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4549123.m3u8?txSecret=2014690e32f00427d25b3cd56755a8c3&txTime=6AE2450B|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://www.rtmpcdn.com/live/77e70614-e407-48d5-af16-feac1d185e50.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
                     "link": "http://193.47.62.55/hls/H666AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
@@ -1884,6 +1916,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ezrrza1dju/out/v1/c953b45878914301ba47dc99b635c620/cenc.mpd?aws_sessionId=61e61c51-74b7-473b-8908-1c3624726108",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d3240991942f66eae8819bcbeaed7e1e:fca6b135bacb86048019d21b476d3b6c",
+                    "tokenApi": ""
+                },
+                {
                     "title": "FUBO SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1900,7 +1940,39 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
+                    "title": "FUBO SPORTS ALT",
+                    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58773/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4549065.m3u8?txSecret=bc3888cc4a9f4de27c4c843514703412&txTime=6AE244F5|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/0f0956d0-2f25-47a0-b7c8-007a8187d28d.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/HHHH4QQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
@@ -1954,8 +2026,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y5aydoo0ls/out/v1/80e607ff786c469fa172a6ead6bffd8c/cenc.mpd?aws_sessionId=f19cbc28-b202-4562-8192-25350689db64",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a52267c5128aae03856e3b1a436087e1:f791c4781dfa21a3156579d6a561cc3a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4646523.m3u8?txSecret=614e8eefe05d37290f1310fcb662394c&txTime=6AE246C3|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.59/hls/JBBB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE - IND",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249487_english_hls_86ca4456f695852_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1981,8 +2077,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vjnnbcsjpx/out/v1/c076d546f1094259b62e84e7ff38340a/cenc.mpd?aws_sessionId=acbb67ec-5436-4235-ae0a-e33d9fde8635",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8fbf15599c280d65ad5e32823c59ef00:24bfd905ede7b7e5f93083047b49568a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.59/hls/JBBBAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE - IND",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249488_english_hls_b2011e3f7918062_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

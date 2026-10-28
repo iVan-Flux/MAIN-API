@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:20:48 AM 29-10-2026",
+    "Last update time": "01:25:35 AM 29-10-2026",
     "Live": "00",
     "Upcoming": "78",
     "Finish": "00",
@@ -2364,6 +2364,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iw6dv7zj6b/out/v1/62dd675e944f4c5fb5388a166cc116d0/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7c7ba5aeb06f63a43b5db94a50425b35:794e12a8c36324764d390057912cd276",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58778/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2382,6 +2390,14 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE - IND",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249715_english_hls_598419ce737800_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2474,6 +2490,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xxmwhhchra/out/v1/e27554ab5cfc4b169913ecb51bbf37c7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d31a6972e6451a50ddb18c20748d2b48:a8ced10c1bc7d524e1192a08d070f1d5",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/58776/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2492,6 +2516,30 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://live2.jorvakstreamcache.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.fmp.live/sla/1-6ac271346bf7688dc3b72ca7.m3u8?auth_key=1793238061-0-0-174aa566b17b9bcc1ded2cfcc4428d21|Referer=https://fmp.live/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1793220126-0-0-50ecbe2b830d115fcc50f4f71ccff871",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE - IND",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249713_english_hls_d8093e3f6523975_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2713,6 +2761,14 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0zvhz368pe/out/v1/58df2777de334b398c1d414dc79af8e7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "89dfbd4870fe134ec58379dde9fae9bb:e75e01f41f71065fda2f1966e0c42e5c",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LIVE SERVER",
                     "link": "https://live.vivo155.com/live/sd-1-4641675.m3u8?txSecret=ab51714844e3dceb0998bddf36801838&txTime=6AE263B1|Referer=https://player.on8on8.com/",
                     "logo": "",
@@ -2845,8 +2901,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4557615.m3u8?txSecret=50a32bb70bcb280a6cfde73c83c3f40e&txTime=6AE265DD|Referer=https://player.on8on8.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

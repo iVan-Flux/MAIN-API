@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:15:47 AM 29-10-2026",
+    "Last update time": "01:20:48 AM 29-10-2026",
     "Live": "00",
     "Upcoming": "78",
     "Finish": "00",
@@ -2356,6 +2356,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cndaqngbiy/out/v1/3415799b7f8546c6884dd364a2b09f46/cenc.mpd?aws_sessionId=c136d95e-ca27-4a6f-88f4-6bf162e4d35c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "85e19b4c08d7692c02713371fc53b0b1:947ee8edbc3bcabb96e4e8a59f795c93",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58778/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LIVE SERVER",
                     "link": "https://live.vivo155.com/live/sd-1-4646878.m3u8?txSecret=feeb6f966550c2aeaf92c12ea1e69f1e&txTime=6AE261C7|Referer=https://player.on8on8.com/",
                     "logo": "",
@@ -2450,6 +2466,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kawh0u4b36/out/v1/9237526f55b24799a37e3c6d8931388f/cenc.mpd?aws_sessionId=dc7aba62-5d8a-4abe-9d3c-cbb9110b3acd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b811a4d7001a2fe83f5c35f0a9076e0e:6b4211aa017e48bdd1f25e515cee22ad",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58776/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://live.vivo155.com/live/sd-1-4646876.m3u8?txSecret=3763132fcbf86dc38db115bce1660f3f&txTime=6AE26219|Referer=https://player.on8on8.com/",
                     "logo": "",
@@ -2485,6 +2517,14 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llxpj5g9lr/out/v1/48e765feafdb4082a4b72dee3854f07f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3e4e7a49e6215369bb6d536a044e2969:d9c50b0f51950c1317951080d125e0f7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://live.vivo155.com/live/sd-1-4641676.m3u8?txSecret=e8d6b5eb5aef41b324feb4ae0a08d8b9&txTime=6AE2638C|Referer=https://player.on8on8.com/",
                     "logo": "",
@@ -2503,6 +2543,14 @@
                 {
                     "title": "LOW SERVER",
                     "link": "http://193.47.62.59/hls/77III.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE - IND",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249992_english_hls_394d7b6cfa31968_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2528,6 +2576,14 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n6ydp4albq/out/v1/b0834541bd02489795e0fbaa9a685d40/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c7f6aa5d6a00ae7bd9f7b9efc1eb77e5:b028ebfe0eac2597720e4d63733345e4",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://live.vivo155.com/live/sd-1-4641680.m3u8?txSecret=06cbd8bb70fd37393d77fd1b47edd81e&txTime=6AE26373|Referer=https://player.on8on8.com/",
                     "logo": "",
@@ -2538,6 +2594,22 @@
                 {
                     "title": "LIVE SERVER",
                     "link": "https://live2.jorvakstreamcache.com/live/channel14.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.59/hls/77IIIA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE - IND",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249993_english_hls_7f603460f516651_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2589,6 +2661,14 @@
                 "endTime": "2026/10/28 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zpfgzu5228/out/v1/5e2d0fef20ab4faf9df23b6603b97d10/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "beed6ab2bdeba2e841155d0ea3f02242:8b71a8a3aef5e5813697b0d8ebd3ad29",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LIVE SERVER",
                     "link": "https://live.vivo155.com/live/sd-1-4641677.m3u8?txSecret=a1eb476225243a2914d2eabb84977c24&txTime=6AE2639E|Referer=https://player.on8on8.com/",

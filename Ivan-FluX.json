@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:55:43 PM 28-10-2026",
+    "Last update time": "11:01:08 PM 28-10-2026",
     "Live": "00",
-    "Upcoming": "82",
+    "Upcoming": "66",
     "Finish": "00",
     "events": [
         {
@@ -1732,6 +1732,14 @@
                     "type": 0,
                     "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/HHHH4Q.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1753,8 +1761,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58774/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/H666AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1793,6 +1809,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/HHHH4QQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -1893,438 +1917,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/28 17:45:00 +0000",
                 "endTime": "2026/10/28 20:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4994,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Anaitasuna",
-                "teamB": "Alavés",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/263773/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 18:00:00 +0000",
-                "endTime": "2026/10/28 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4995,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Coruxo",
-                "teamB": "Zamora",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/43755/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/24379/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 18:00:00 +0000",
-                "endTime": "2026/10/28 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4996,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Pamplona",
-                "teamB": "Eibar",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/263528/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 18:00:00 +0000",
-                "endTime": "2026/10/28 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4997,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Peña Sport",
-                "teamB": "Huesca",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/6588/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 18:00:00 +0000",
-                "endTime": "2026/10/28 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4998,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Tarancón",
-                "teamB": "Levante",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 18:00:00 +0000",
-                "endTime": "2026/10/28 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4999,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "UD Poblense",
-                "teamB": "Ceuta",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/243027/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 18:00:00 +0000",
-                "endTime": "2026/10/28 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5000,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Portugalete",
-                "teamB": "Real Unión",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/25403/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2881/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 18:00:00 +0000",
-                "endTime": "2026/10/28 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5001,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Utebo",
-                "teamB": "Sabadell",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/212294/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 18:00:00 +0000",
-                "endTime": "2026/10/28 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5002,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "CD Covadonga",
-                "teamB": "Valladolid",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/263608/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 19:00:00 +0000",
-                "endTime": "2026/10/28 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5003,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "CP Mijas",
-                "teamB": "Real Jaén",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/493345/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2841/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 19:00:00 +0000",
-                "endTime": "2026/10/28 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5004,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "CS Puertollano",
-                "teamB": "Albacete",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/295639/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 19:00:00 +0000",
-                "endTime": "2026/10/28 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5005,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Numancia",
-                "teamB": "Oviedo",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2855/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 19:00:00 +0000",
-                "endTime": "2026/10/28 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5006,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Amorebieta",
-                "teamB": "UD Logroñés",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/54103/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/37057/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 19:00:00 +0000",
-                "endTime": "2026/10/28 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5007,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Trival Valderas",
-                "teamB": "Leganés",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/167158/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 19:00:00 +0000",
-                "endTime": "2026/10/28 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5008,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Alcoyano",
-                "teamB": "Mallorca",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/6585/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 19:00:00 +0000",
-                "endTime": "2026/10/28 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5009,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "CD Badajoz",
-                "teamB": "Tenerife",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2853/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 19:00:00 +0000",
-                "endTime": "2026/10/28 21:20:00 +0000"
             },
             "channels_data": [
                 {
@@ -2662,114 +2254,6 @@
             ]
         },
         {
-            "id": 5022,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Navalcarnero",
-                "teamB": "Real Betis",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/24352/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 20:00:00 +0000",
-                "endTime": "2026/10/28 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5023,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Salamanca",
-                "teamB": "Celta",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/263916/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 20:00:00 +0000",
-                "endTime": "2026/10/28 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5024,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Tavernes",
-                "teamB": "Valencia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1284427/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 20:00:00 +0000",
-                "endTime": "2026/10/28 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5025,
-            "title": "Copa del Rey",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Xerez CD",
-                "teamB": "Cádiz",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2838/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 20:00:00 +0000",
-                "endTime": "2026/10/28 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5026,
             "title": "EFL Cup",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
@@ -3027,6 +2511,114 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/29 03:00:00 +0000",
                 "endTime": "2026/10/29 05:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5036,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Bucks",
+                "teamB": "Rockets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/29 00:00:00 +0000",
+                "endTime": "2026/10/29 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5037,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Clippers",
+                "teamB": "Lakers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/29 02:30:00 +0000",
+                "endTime": "2026/10/29 05:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5038,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Timberwolves",
+                "teamB": "Warriors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/29 00:00:00 +0000",
+                "endTime": "2026/10/29 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5039,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Pistons",
+                "teamB": "Hornets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/28 23:00:00 +0000",
+                "endTime": "2026/10/29 01:30:00 +0000"
             },
             "channels_data": [
                 {

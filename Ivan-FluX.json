@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:35:41 PM 28-10-2026",
+    "Last update time": "08:40:58 PM 28-10-2026",
     "Live": "00",
-    "Upcoming": "85",
+    "Upcoming": "83",
     "Finish": "00",
     "events": [
         {
@@ -14,15 +14,15 @@
             "image": "http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",
             "cat": "Cricket",
             "eventInfo": {
-                "teamA": "PAK",
+                "teamA": "ENG",
                 "teamB": "SL",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
                 "eventName": "ODI Tri-series in Pakistan",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/31 08:00:00 +0000",
-                "endTime": "2026/10/31 17:30:00 +0000"
+                "startTime": "2026/10/29 08:00:00 +0000",
+                "endTime": "2026/10/29 17:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -211,8 +211,8 @@
                 "eventName": "Nepal Premier League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/10/28 11:10:00 +0000",
-                "endTime": "2026/10/28 15:45:00 +0000"
+                "startTime": "2026/10/29 06:45:00 +0000",
+                "endTime": "2026/10/29 15:45:00 +0000"
             },
             "channels_data": [
                 {
@@ -1006,16 +1006,8 @@
             },
             "channels_data": [
                 {
-                    "title": "PRIME VIDEO FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjl5sfdstk/out/v1/02ec949abe974874818496a14f5a0c2d/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "08027012b8503449b674c090b486a313:e6109941ae6fcc32db5611870764fc59",
-                    "tokenApi": ""
-                },
-                {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792959016~acl=/*~id=e0a42c61093c20a578121d057df07313-1792915800723~hmac=0ce5127231b0f10f81615bf5935149c747d2315f85985c80a7f10ddaab3dc095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9beb66b820c71c1a320a244eefade268-1792933803633",
+                    "link": "https://sonydaimenew.akamaized.net/hls/live/2120304/test_2812810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793236217~acl=/*~id=2434b0726b7c3fd4521cbfca18cb6c0c-1793193000743~hmac=07bbb4c584cd0e7accd4ff0ecc0f4977c6aaa0bfb8b14aafe9ebc2e85a7c2bb2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6091d9f681ffb19f3157be468851a3b0-1793194200925",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1023,15 +1015,15 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792959016~acl=/*~id=e0a42c61093c20a578121d057df07313-1792915800723~hmac=0ce5127231b0f10f81615bf5935149c747d2315f85985c80a7f10ddaab3dc095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9beb66b820c71c1a320a244eefade268-1792933803633",
+                    "link": "https://dai.google.com/ssai/event/mcFsMOePSZ-X9b-Fk-PSJg/std_lrh-800300010.m3u8?hdnea=exp=1793236217~acl=/*~id=2434b0726b7c3fd4521cbfca18cb6c0c-1793193000743~hmac=07bbb4c584cd0e7accd4ff0ecc0f4977c6aaa0bfb8b14aafe9ebc2e85a7c2bb2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6091d9f681ffb19f3157be468851a3b0-1793194200925",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SonyLiv (MAL)",
-                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792959016~acl=/*~id=e0a42c61093c20a578121d057df07313-1792915800723~hmac=0ce5127231b0f10f81615bf5935149c747d2315f85985c80a7f10ddaab3dc095|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9beb66b820c71c1a320a244eefade268-1792933803633",
+                    "title": "HD SERVER",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1480,33 +1472,6 @@
             ]
         },
         {
-            "id": 4977,
-            "title": "Campeonato Carioca Feminino",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/18897/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Flamengo",
-                "teamB": "Araruama",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/248722/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/859052/image",
-                "eventName": "Campeonato Carioca Feminino",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 13:00:00 +0000",
-                "endTime": "2026/10/28 15:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 4978,
             "title": "AFC Champions League Two",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
@@ -1585,33 +1550,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/I000AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4980,
-            "title": "Campeonato Carioca Feminino",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/18897/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Botafogo",
-                "teamB": "Fluminense",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/312884/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/312739/image",
-                "eventName": "Campeonato Carioca Feminino",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/28 14:00:00 +0000",
-                "endTime": "2026/10/28 16:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

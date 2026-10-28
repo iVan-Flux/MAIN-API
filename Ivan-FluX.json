@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:20:50 PM 28-10-2026",
+    "Last update time": "11:25:39 PM 28-10-2026",
     "Live": "00",
     "Upcoming": "78",
     "Finish": "00",
@@ -1999,8 +1999,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ikg2fk9far/out/v1/d7e468baa8a2478a8bcc9d00e9bfa4b1/cenc.mpd?aws_sessionId=d8ff2708-e60f-4f50-8ecb-710716a38bdd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ab08deddf43a085fe96c4ffda10d0cfe:454810199b9cf8b38e8b4a077468ff15",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4646524.m3u8?txSecret=dbb5e85eff054215db0f78201a5d709d&txTime=6AE246AB|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.59/hls/JBBBA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE - IND",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4249486_english_hls_b07624f96877630_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

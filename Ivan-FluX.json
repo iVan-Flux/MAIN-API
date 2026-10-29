@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:40:46 PM 29-10-2026",
+    "Last update time": "11:45:49 PM 29-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1535,6 +1535,14 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE [IND]",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4250269_english_hls_e1996d2dcf23019_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1785,11 +1793,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
                     "tokenApi": ""
                 }
             ]
@@ -1839,8 +1847,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1901,8 +1909,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1928,8 +1936,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/mlkijfezag65.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1955,8 +1963,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/rzavbdyua57.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1982,8 +1990,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/earzfddshg58.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2009,8 +2017,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/bvnzadfvyt59.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2036,8 +2044,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/poiryezafv56.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2144,8 +2152,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2198,8 +2206,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://edgestream7.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2252,11 +2260,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "TSN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TSN SPORTS 5 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
                     "tokenApi": ""
                 }
             ]

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:10:51 AM 29-10-2026",
+    "Last update time": "09:15:51 AM 29-10-2026",
     "Live": "00",
     "Upcoming": "91",
     "Finish": "00",
@@ -326,6 +326,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FANCODE SD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "T SPORTS HD",
                     "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
                     "logo": "",
@@ -335,7 +343,7 @@
                 },
                 {
                     "title": "FANCODE (IND)",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3086860_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

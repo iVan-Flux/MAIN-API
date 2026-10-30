@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:31:23 PM 30-10-2026",
+    "Last update time": "10:35:42 PM 30-10-2026",
     "Live": "00",
-    "Upcoming": "42",
+    "Upcoming": "53",
     "Finish": "00",
     "events": [
         {
@@ -1948,6 +1948,303 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/31 02:00:00 +0000",
                 "endTime": "2026/10/31 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5044,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Heat",
+                "teamB": "Pacers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 00:00:00 +0000",
+                "endTime": "2026/10/31 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5045,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Timberwolves",
+                "teamB": "Clippers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 00:00:00 +0000",
+                "endTime": "2026/10/31 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5046,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Nets",
+                "teamB": "Pistons",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/30 23:30:00 +0000",
+                "endTime": "2026/10/31 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5047,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Celtics",
+                "teamB": "Bulls",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/30 23:30:00 +0000",
+                "endTime": "2026/10/31 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5048,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Raptors",
+                "teamB": "Magic",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/30 23:30:00 +0000",
+                "endTime": "2026/10/31 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5049,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "76ers",
+                "teamB": "Knicks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/30 23:30:00 +0000",
+                "endTime": "2026/10/31 02:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5050,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Warriors",
+                "teamB": "Lakers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 02:00:00 +0000",
+                "endTime": "2026/10/31 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5051,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Mavericks",
+                "teamB": "Rockets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 00:00:00 +0000",
+                "endTime": "2026/10/31 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5052,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Golden Knights",
+                "teamB": "Devils",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/30 22:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5053,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Flames",
+                "teamB": "Kraken",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5054,
+            "title": "NHL",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Panthers",
+                "teamB": "Jets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/30 23:00:00 +0000",
+                "endTime": "  +0000"
             },
             "channels_data": [
                 {

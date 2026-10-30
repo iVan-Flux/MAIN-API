@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:05:35 AM 30-10-2026",
+    "Last update time": "10:10:50 AM 30-10-2026",
     "Live": "00",
-    "Upcoming": "31",
+    "Upcoming": "22",
     "Finish": "00",
     "events": [
         {
@@ -289,6 +289,82 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5023,
+            "title": "Hong Kong Sixes 2026",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "Hong Kong Sixes",
+                "teamB": "Hong Kong Sixes",
+                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
+                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
+                "eventName": "Hong Kong Sixes 2026",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/30 02:35:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fbfab2ae4f4e8a1705b4cdc7802e9304:29db7aa2585fdbc1d5892db6d04fe351",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "A SPORTS HD",
+                    "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD HD",
+                    "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://c8.vfruitfairy.com/HONG6six/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "http://c8.vfruitfairy.com/HONG6six/index.m3u8",
+                        "api": "http://c8.vfruitfairy.com/HONG6six/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -1238,226 +1314,6 @@
             ]
         },
         {
-            "id": 4991,
-            "title": "EFL Cup",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Everton",
-                "teamB": "Newcastle",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
-                "eventName": "EFL Cup",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/29 19:45:00 +0000",
-                "endTime": "2026/10/29 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rkrurusouk/out/v1/6474343c5a61446c8f7b06eea483f916/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "96a07d690a8629882bfaaa5b91038e6d:7e12035fba602db7dd8948ba42d09871",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beIN ENGLISH FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CBS SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PARAMOUNT+ HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/58841/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4646874.m3u8?txSecret=f370a38c451341c104530c9bcc4739b4&txTime=6AE3B7B7|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW SERVER",
-                    "link": "http://193.47.62.50/hls/G555.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE [IND]",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4992,
-            "title": "Serie A",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Fiorentina",
-                "teamB": "Atalanta",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-                "eventName": "Serie A",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/29 19:45:00 +0000",
-                "endTime": "2026/10/29 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cubrycsrq6/out/v1/81532072aecc4d529d7e674d011c551f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7d9cc90bbee73b7a4d1fc39033eb40d4:0da2db905ff7d59e9b87e603fe51e4d5",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beIN ENGLISH FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FUBO SPORTS HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/58840/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4549132.m3u8?txSecret=b1c51bb8f6374b3a45672f3c9a063bdc&txTime=6AE3B77C|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW SERVER",
-                    "link": "http://193.47.62.44/hls/3333A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4993,
-            "title": "UEFA Women's Champions League",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "HB Køge",
-                "teamB": "FC Barcelona",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/333128/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-                "eventName": "UEFA Women's Champions League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/29 20:00:00 +0000",
-                "endTime": "2026/10/29 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4646530.m3u8?txSecret=49c33231e42aaa71caec273b2453da94&txTime=6AE3B850|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE [IND]",
-                    "link": "https://dai-fancode.pages.dev/mumbai/4249493_english_hls_9dd889a4e575816_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 4994,
-            "title": "Campeonato Brasileiro Série A",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Atlético-MG",
-                "teamB": "Cruzeiro",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-                "eventName": "Campeonato Brasileiro Série A",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/29 22:30:00 +0000",
-                "endTime": "2026/10/30 00:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PREMIERE BR FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SportDigital Fussball",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5002,
             "title": "A-League Men",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
@@ -1481,273 +1337,6 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5005,
-            "title": "NBA",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Trail Blazers",
-                "teamB": "Grizzlies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/30 02:00:00 +0000",
-                "endTime": "2026/10/30 04:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/58873/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/58873?ad=111&Origin=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.44/hls/ZRRRAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5008,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Kings",
-                "teamB": "Senators",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/30 02:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/58869/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/58869?ad=111&Origin=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SPORTSCAST FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/53f5c0a8-b5bf-4232-9656-c73a25d7cbc2/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream6.pro/hls/bvnzadfvyt59.m3u8?st=ARoF1hWeXtQVmdiPw2bY3_Ccy_y9r3m7clBJNkefc4Q&e=1793334607|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5009,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Ducks",
-                "teamB": "Sabres",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/30 02:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/58872/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/58872?ad=111&Origin=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SPORTSCAST FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/de61d66c-462b-4cf6-8730-3ef534ffc1ae/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5012,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Sharks",
-                "teamB": "Canucks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/30 02:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5018,
-            "title": "NFL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-            "cat": "American football",
-            "eventInfo": {
-                "teamA": "Packers",
-                "teamB": "Panthers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
-                "eventName": "NFL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/30 00:15:00 +0000",
-                "endTime": "2026/10/30 03:15:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TSN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN SPORTS 5 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5023,
-            "title": "Hong Kong Sixes 2026",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "Hong Kong Sixes",
-                "teamB": "Hong Kong Sixes",
-                "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
-                "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
-                "eventName": "Hong Kong Sixes 2026",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/30 02:35:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "fbfab2ae4f4e8a1705b4cdc7802e9304:29db7aa2585fdbc1d5892db6d04fe351",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD FHD",
-                    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "A SPORTS HD",
-                    "link": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAPMAD HD",
-                    "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://c8.vfruitfairy.com/HONG6six/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "http://c8.vfruitfairy.com/HONG6six/index.m3u8",
-                        "api": "http://c8.vfruitfairy.com/HONG6six/index.m3u8",
-                        "type": "ls",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
                 }
             ]
         }

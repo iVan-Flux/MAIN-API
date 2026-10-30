@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:50:47 PM 30-10-2026",
+    "Last update time": "01:55:35 PM 30-10-2026",
     "Live": "00",
     "Upcoming": "40",
     "Finish": "00",
@@ -478,10 +478,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bzm4u6axk0/out/v1/d59d1f211470430daf1bd0acb013e9b6/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927",
+                    "api": "a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda",
                     "tokenApi": ""
                 },
                 {
@@ -510,10 +510,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bzm4u6axk0/out/v1/d59d1f211470430daf1bd0acb013e9b6/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927",
+                    "api": "a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda",
                     "tokenApi": ""
                 },
                 {
@@ -568,14 +568,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SKY CRICKET FHD",
-                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "WILLOW ALT",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
                     "logo": "",
@@ -592,8 +584,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TAPMAD FHD",
-                    "link": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+                    "title": "SKY CRICKET FHD",
+                    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",

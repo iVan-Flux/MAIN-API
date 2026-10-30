@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:25:36 PM 30-10-2026",
+    "Last update time": "10:31:23 PM 30-10-2026",
     "Live": "00",
-    "Upcoming": "40",
+    "Upcoming": "42",
     "Finish": "00",
     "events": [
         {
@@ -1484,11 +1484,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "CazéTV FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
                     "tokenApi": ""
                 }
             ]
@@ -1511,11 +1511,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "beIN ENGLISH FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
                     "tokenApi": ""
                 }
             ]
@@ -1894,6 +1894,60 @@
                 "Status": "Upcoming",
                 "startTime": "2026/10/31 01:00:00 +0000",
                 "endTime": "2026/10/31 03:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5042,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Wizards",
+                "teamB": "Hornets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/30 23:00:00 +0000",
+                "endTime": "2026/10/31 01:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5043,
+            "title": "NBA",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Suns",
+                "teamB": "Nuggets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 02:00:00 +0000",
+                "endTime": "2026/10/31 04:30:00 +0000"
             },
             "channels_data": [
                 {

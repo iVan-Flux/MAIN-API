@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:31:17 AM 31-10-2026",
+    "Last update time": "02:35:42 AM 31-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -1767,6 +1767,14 @@
                     "type": 0,
                     "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
                     "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/3333AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1788,6 +1796,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ji5ri1ho4f/out/v1/36bd33e1ab234bc38cc9e4d6a9496d4e/cenc.mpd?aws_sessionId=d961c6b5-7439-4b41-ab61-f609f266621f",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8748eeb1b93a33756f2949ef26191ef7:6c376df5be75d3dff7aa61a9e1567bee",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ggdp6oa1yx/out/v1/0132f06edcd94e679ac3d5cf83fb5004/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "facf2c65fd8b81366a1f92b3760d2edd:a841c9efd4df389bd9ff344c43e718eb",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1801,6 +1825,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/3333AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -1823,11 +1855,27 @@
             },
             "channels_data": [
                 {
+                    "title": "beIN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd?aws_sessionId=9cc7d647-12ea-46fa-8e5f-e801e6c74cc8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CazéTV FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/3333AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -1855,6 +1903,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/3333AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -2290,11 +2346,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
                     "tokenApi": ""
                 }
             ]

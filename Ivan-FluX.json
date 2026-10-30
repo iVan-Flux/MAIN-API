@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:20:47 AM 31-10-2026",
+    "Last update time": "12:25:35 AM 31-10-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -619,22 +619,6 @@
             },
             "channels_data": [
                 {
-                    "title": "SKY Via APPLE TV",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0nkpfowtvk/out/v1/44d9e1a5b64547389ac30667bef4c3b0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "da4922b32a98e59162706fcdff46fa4e:67a60e4a0e6638464fe02efeed958674",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "APPLE TV FHD",
-                    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/z2ppargwyz/out/v1/d52ee9613b584e0ea09dbdf44b2acab4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f9e25d589f239d8e57908782e633ecf1:0b829035e4abe3b26d9c1be6abfb763e",
-                    "tokenApi": ""
-                },
-                {
                     "title": "FANCODE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -651,16 +635,16 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "FORMULA 1+ HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/58439/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "title": "CANAL5 FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SKY SPORTS HD",
-                    "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
+                    "title": "FORMULA 1+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/58842/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -668,34 +652,34 @@
                 },
                 {
                     "title": "RUSSIA FEED",
-                    "link": "https://bl.rutube.ru/livestream/d11d0145804d4321a677aacb62984de8/index.m3u8?s=k9d3abxTJHkJWs65bDRXjg&e=1791806247&scheme=https|user-agent=Mozilla",
+                    "link": "https://bl.rutube.ru/livestream/03f4a36bbbfe2a72345db6fd9190c36c/index.m3u8?s=F5DOuQUwB7eJ57TPdhvqfw&e=1793471365&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/ATTT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "title": "Sportscast FHD",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
-                    "link": "https://tedesco.formaturamaxi.com.br/f1.m3u8",
+                    "title": "LOW SERVER",
+                    "link": "http://193.47.62.50/hls/KYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD QUALITY",
-                    "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                    "title": "SKY F1 Italia [IT VPN]",
+                    "link": "https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b",
                     "tokenApi": ""
                 }
             ]

@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:31:25 PM 31-10-2026",
+    "Last update time": "02:35:34 PM 31-10-2026",
     "Live": "00",
-    "Upcoming": "24",
+    "Upcoming": "64",
     "Finish": "00",
     "events": [
         {
@@ -1346,60 +1346,6 @@
             ]
         },
         {
-            "id": 5037,
-            "title": "A-League Men",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Newcastle Jets",
-                "teamB": "Wellington",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/7568/image",
-                "eventName": "A-League Men",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/31 04:00:00 +0000",
-                "endTime": "2026/10/31 06:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TNT SPORTS 1",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5038,
-            "title": "A-League Men",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Melbourne City",
-                "teamB": "Sydney FC",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/42210/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5971/image",
-                "eventName": "A-League Men",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/10/31 06:00:00 +0000",
-                "endTime": "2026/10/31 08:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TNT SPORTS 3",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5055,
             "title": "2nd UNOFFICIAL TEST",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
@@ -1419,6 +1365,1140 @@
                 {
                     "title": "SONYLIV [ASIA]",
                     "link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793440431~acl=/*~id=58342385308836800944090866097145~hmac=5bffa12c1ad3d571d42d0a08556a10c336eb428ed8191a43041a35af1aa43e3e",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5056,
+            "title": "Trendyol Süper Lig",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Erzurumspor",
+                "teamB": "Çorum",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/55603/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
+                "eventName": "Trendyol Süper Lig",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 10:30:00 +0000",
+                "endTime": "2026/10/31 12:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5057,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Chelsea",
+                "teamB": "Man Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 12:30:00 +0000",
+                "endTime": "2026/10/31 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5058,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wolfsburg",
+                "teamB": "Osnabrück",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 12:00:00 +0000",
+                "endTime": "2026/10/31 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5059,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Darmstadt",
+                "teamB": "Magdeburg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2576/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2591/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 12:00:00 +0000",
+                "endTime": "2026/10/31 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5060,
+            "title": "2. Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kaiserslautern",
+                "teamB": "Hertha",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+                "eventName": "2. Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 12:00:00 +0000",
+                "endTime": "2026/10/31 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5061,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Stoke",
+                "teamB": "Preston",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 12:30:00 +0000",
+                "endTime": "2026/10/31 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5062,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lincoln",
+                "teamB": "Birmingham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 12:30:00 +0000",
+                "endTime": "2026/10/31 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5063,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Norwich",
+                "teamB": "Watford",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 12:30:00 +0000",
+                "endTime": "2026/10/31 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5064,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Levante",
+                "teamB": "Atlético Madrid",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 13:00:00 +0000",
+                "endTime": "2026/10/31 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5065,
+            "title": "Women's Super League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Everton",
+                "teamB": "Man Utd",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36704/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/301455/image",
+                "eventName": "Women's Super League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 12:45:00 +0000",
+                "endTime": "2026/10/31 15:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5066,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Real Sociedad B",
+                "teamB": "Girona",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 13:00:00 +0000",
+                "endTime": "2026/10/31 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5067,
+            "title": "Trendyol Süper Lig",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kocaelispor",
+                "teamB": "Rizespor",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3064/image",
+                "eventName": "Trendyol Süper Lig",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 13:00:00 +0000",
+                "endTime": "2026/10/31 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5068,
+            "title": "Serie A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bologna",
+                "teamB": "Monza",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+                "eventName": "Serie A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 14:00:00 +0000",
+                "endTime": "2026/10/31 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5069,
+            "title": "Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bremen",
+                "teamB": "Hoffenheim",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+                "eventName": "Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 14:30:00 +0000",
+                "endTime": "2026/10/31 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5070,
+            "title": "Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "M'gladbach",
+                "teamB": "Paderborn",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+                "eventName": "Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 14:30:00 +0000",
+                "endTime": "2026/10/31 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5071,
+            "title": "Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Schalke",
+                "teamB": "Leipzig",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+                "eventName": "Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 14:30:00 +0000",
+                "endTime": "2026/10/31 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5072,
+            "title": "Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Augsburg",
+                "teamB": "Freiburg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+                "eventName": "Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 14:30:00 +0000",
+                "endTime": "2026/10/31 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5073,
+            "title": "Bundesliga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leverkusen",
+                "teamB": "Stuttgart",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+                "eventName": "Bundesliga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 14:30:00 +0000",
+                "endTime": "2026/10/31 16:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5074,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bournemouth",
+                "teamB": "Leeds",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5075,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Coventry",
+                "teamB": "Sunderland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5076,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Brentford",
+                "teamB": "Forest",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5077,
+            "title": "Saudi Pro League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Fayha",
+                "teamB": "Al Faisaly",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
+                "eventName": "Saudi Pro League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 14:55:00 +0000",
+                "endTime": "2026/10/31 17:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5078,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hull",
+                "teamB": "Ipswich",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5079,
+            "title": "Premier League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Man City",
+                "teamB": "Brighton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
+                "eventName": "Premier League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5080,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Millwall",
+                "teamB": "Derby",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5081,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Middlesbrough",
+                "teamB": "Charlton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5082,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burnley",
+                "teamB": "Portsmouth",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5083,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Southampton",
+                "teamB": "QPR",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5084,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wolves",
+                "teamB": "Cardiff",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/61/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5085,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bolton",
+                "teamB": "Bristol City",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/58/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5086,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "West Ham",
+                "teamB": "West Brom",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5087,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Swansea",
+                "teamB": "Blackburn",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5088,
+            "title": "Scottish Premiership",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kilmarnock",
+                "teamB": "St. Johnstone",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2347/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2348/image",
+                "eventName": "Scottish Premiership",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5089,
+            "title": "Scottish Premiership",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Dundee Utd",
+                "teamB": "Hearts",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2349/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+                "eventName": "Scottish Premiership",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5090,
+            "title": "Scottish Premiership",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Hibernian",
+                "teamB": "Dundee",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2357/image",
+                "eventName": "Scottish Premiership",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5091,
+            "title": "Scottish Premiership",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Motherwell",
+                "teamB": "St Mirren",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2359/image",
+                "eventName": "Scottish Premiership",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:00:00 +0000",
+                "endTime": "2026/10/31 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5092,
+            "title": "LaLiga",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Rayo Vallecano",
+                "teamB": "Celta",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+                "eventName": "LaLiga",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:15:00 +0000",
+                "endTime": "2026/10/31 17:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5093,
+            "title": "LaLiga 2",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Eibar",
+                "teamB": "Almería",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:15:00 +0000",
+                "endTime": "2026/10/31 17:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5094,
+            "title": "Liga Portugal Betclic",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Moreirense",
+                "teamB": "Estrela Amadora",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
+                "eventName": "Liga Portugal Betclic",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:30:00 +0000",
+                "endTime": "2026/10/31 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5095,
+            "title": "VriendenLoterij Eredivisie",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Feyenoord",
+                "teamB": "Fortuna",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
+                "eventName": "VriendenLoterij Eredivisie",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 15:30:00 +0000",
+                "endTime": "2026/10/31 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5096,
+            "title": "Trendyol Süper Lig",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fenerbahçe",
+                "teamB": "Göztepe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3054/image",
+                "eventName": "Trendyol Süper Lig",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 16:00:00 +0000",
+                "endTime": "2026/10/31 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5097,
+            "title": "Serie A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Udinese",
+                "teamB": "Roma",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+                "eventName": "Serie A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/10/31 17:00:00 +0000",
+                "endTime": "2026/10/31 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
                     "logo": "",
                     "type": 0,
                     "api": "",

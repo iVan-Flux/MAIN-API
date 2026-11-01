@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:40:48 PM 01-11-2026",
+    "Last update time": "07:45:47 PM 01-11-2026",
     "Live": "00",
     "Upcoming": "86",
     "Finish": "00",
@@ -863,15 +863,15 @@
             "channels_data": [
                 {
                     "title": "PRIME VIDEO FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wyy9kwu5ej/out/v1/5e9aee810f8944ecaca949b77dc8add1/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ebirnvewph/out/v1/2e1afb64f23b48a5acac9886327c2b8c/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "da1e5d08adf948ea4d58b42dc350af37:c08f92ace66a2b8547b64efefba10a3f",
+                    "api": "c57fbe97649816539cf25b0c95d37d9d:ddf4da52ec2358bdf08a6fc60c4d1bc3",
                     "tokenApi": ""
                 },
                 {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a583d431cd5aa7b021388355d4fa9048-1793529000115",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e82c6b768b2e4929969e5162ec442abb-1793539801512",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -879,7 +879,7 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a583d431cd5aa7b021388355d4fa9048-1793529000115",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e82c6b768b2e4929969e5162ec442abb-1793539801512",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1736,11 +1736,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sg26hcq4jb/out/v1/cbefa7d3aa044a42b3fbb2d9f0ed8771/cenc.mpd?aws_sessionId=6f72bd41-cc05-4448-bdc8-0110b089a955",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "65bf781cc51efe95158616c012821dee:1fdadf8f65dc2dee9de4bd299a219263",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fm0tdlxrfq/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd?aws_sessionId=e9687835-fab1-4436-a8d9-38800aa116ef",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4d6c44925ac7c05add19ac2365681e5b:09602294e18cd9c2aa9843fe0fdbc160",
                     "tokenApi": ""
                 }
             ]
@@ -1763,11 +1771,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z7k5coaglr/out/v1/f798f09d4b6b44de82700e47ff0207f6/cenc.mpd?aws_sessionId=d30fa58d-89fd-47ee-9f14-3bb210aa2b9e",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "f905d936f4562b52ee955d3ff3dcd06c:65f555c4104074c2f2d2fe7a9f685ed5",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=882cb45b-b0fd-4d57-999a-97cbc604a9b0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
                     "tokenApi": ""
                 }
             ]
@@ -1817,11 +1833,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w9tlt39b4c/out/v1/e5537d935f1d4da49601b668c679a1b5/cenc.mpd?aws_sessionId=eb49c2d6-2c9a-4ec3-8d8a-ead06e528cdf",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "0e4900dc17fb1dc015a949303139ce12:f097bd28477ea73824d2b3c6b747f30d",
                     "tokenApi": ""
                 }
             ]
@@ -1871,11 +1887,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ndctoimkk0/out/v1/c5b85559aa564641858f1bce599ddc08/cenc.mpd?aws_sessionId=91f3a046-0165-4104-91af-ae759517a396",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "e5d2051a759dddf27e15405a86c935e4:3d07efeb5ad276d98f33675cc149d86c",
                     "tokenApi": ""
                 }
             ]

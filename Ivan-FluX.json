@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:01:07 AM 02-11-2026",
+    "Last update time": "09:05:38 AM 02-11-2026",
     "Live": "00",
-    "Upcoming": "92",
+    "Upcoming": "82",
     "Finish": "00",
     "events": [
         {
@@ -2944,33 +2944,6 @@
             ]
         },
         {
-            "id": 5159,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "New England",
-                "teamB": "Inter Miami",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2511/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/02 00:00:00 +0000",
-                "endTime": "2026/11/02 02:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "CANAL5 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5160,
             "title": "NBA",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -3103,84 +3076,6 @@
             ]
         },
         {
-            "id": 5164,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Rangers",
-                "teamB": "Oilers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/01 23:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8|Referer=https://embedcenter.st",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5165,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Flyers",
-                "teamB": "Mammoth",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/01 21:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL LIVE",
-                    "link": "https://chatgpt.hereisman.net/playlist/59082/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/lmdsjkfgv52.m3u8|Referer=https://embedcenter.st",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/59081/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/859e2f77-53dd-47b0-a1de-43eaf570f5b1/master.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5166,
             "title": "NHL",
             "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -3200,68 +3095,6 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8|Referer=https://embedcenter.st",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5167,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Capitals",
-                "teamB": "Wild",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/01 20:30:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/59072/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5168,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Hurricanes",
-                "teamB": "Jets",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/01 18:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/05d2718d-f393-47ac-968c-1480cfcafbd8/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/59054/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3912,165 +3745,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/MMMMAQQQQA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5183,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Los Angeles",
-                "teamB": "Minnesota",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/02 01:30:00 +0000",
-                "endTime": "2026/11/02 03:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8|Referer=https://embedcenter.st",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5184,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Nashville",
-                "teamB": "NY Red Bulls",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/337612/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2506/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/01 21:30:00 +0000",
-                "endTime": "2026/11/01 23:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "http://193.47.62.41/hls/ZOOOAAAAA.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.dyrur1.com/live/wv78xivmyl9hokr_0cd17c540b0cece790c9d9c48f2d2d81_540p.m3u8?auth_key=1790825460-0-0-7bf38bd2fa72e61d9b3c457c7e336072|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/7068817896/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5185,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Atlanta",
-                "teamB": "Toronto",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/243211/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/7080/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/01 21:30:00 +0000",
-                "endTime": "2026/11/01 23:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/59083/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5186,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Vancouver",
-                "teamB": "Seattle",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/22009/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/01 20:30:00 +0000",
-                "endTime": "2026/11/01 22:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://pull.fmp.live/sla/1-6ac6659c5c0020a99778a20e.m3u8?auth_key=1793587321-0-0-32bbc494ea3a405acfcbe9f238283ad9|Referer=https://fmp.live/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://pull.niur.live/live/stream-9912139_lsd.m3u8?txSecret=0e2c98b1b48466c73a3393ed94d8744a&txTime=6ae7f87f",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5187,
-            "title": "MLS",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Portland",
-                "teamB": "Houston",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2508/image",
-                "eventName": "MLS",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/02 02:45:00 +0000",
-                "endTime": "2026/11/02 05:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://admin2.formaturamaxi.com.br/prem.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

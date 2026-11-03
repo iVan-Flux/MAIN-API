@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:50:50 AM 04-11-2026",
+    "Last update time": "01:56:01 AM 04-11-2026",
     "Live": "00",
     "Upcoming": "69",
     "Finish": "00",
@@ -2110,6 +2110,30 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59196/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59202/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC FHD",
+                    "link": "https://2sisi.s3.us-east-2.amazonaws.com/bein3/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SonyLiv (Asia)",
                     "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
                     "logo": "",
@@ -2118,7 +2142,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "LOW SERVER",
+                    "title": "Low Server",
                     "link": "http://193.47.62.44/hls/HCCCa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
@@ -2161,7 +2185,31 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SONYLIV [ASIA]",
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59198/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59201/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN ARABIC FHD",
+                    "link": "https://2sisi.s3.us-east-2.amazonaws.com/bein5/720p/manifest.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
                     "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
                     "logo": "",
                     "type": 0,
@@ -2338,7 +2386,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PRIME VIDEO FHD",
+                    "title": "SonyLiv PRIME FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfm6q50wyx/out/v1/e80bb4a13dc24a8f985079c2cfa1e692/cenc.mpd",
                     "logo": "",
                     "type": 0,
@@ -2378,8 +2426,16 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/8d209c44-e785-43a1-9aa5-0d5ae8529918.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
-                    "link": "http://193.47.62.55/hls/HCCCaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "link": "http://193.47.62.55/hls/HCCCaaaX.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2480,6 +2536,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SonyLiv PRIME FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/frppdagy9a/out/v1/296c87e90f8b47a28d17e904859cbeb5/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4a321a70e4ff0e73b07dcced835e2b76:d5257c51769a08a6171e8481e211348d",
+                    "tokenApi": ""
+                },
+                {
                     "title": "VIX Español FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mustdnrpeu/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
                     "logo": "",
@@ -2498,6 +2562,14 @@
                 {
                     "title": "SonyLiv (Asia)",
                     "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/c6e9b636-8423-4be7-8604-4692859ede68.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

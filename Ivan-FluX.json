@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:35:40 AM 04-11-2026",
+    "Last update time": "01:40:52 AM 04-11-2026",
     "Live": "00",
     "Upcoming": "69",
     "Finish": "00",
@@ -2078,6 +2078,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/62u3pe9jhe/out/v1/b16f920939bb40ec921f895197dcc8fe/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "8457e2ce4bab3e982f93d01d8531937c:e96b9115e2da4f4fd7fef362fe16b8c6",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HBO MAX BRAZIL",
                     "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2239,19 +2247,11 @@
             },
             "channels_data": [
                 {
-                    "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f9bag1jthy/out/v1/3b8065fd2f2448ae950acb1799289059/cenc.mpd",
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/75yi5p0s1c/out/v1/537063cc750c49799f8a8f78975ce1c8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "36e4c42e68010f7a3e5f543d18e48242:014543c3e28193bbe08cf7e3f729715e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "VIX Español FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/decwmbtmq9/out/v1/66735c86f0c146b5ad6c898cca401c4f/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "36e4c42e68010f7a3e5f543d18e48242:014543c3e28193bbe08cf7e3f729715e",
+                    "api": "6d5337196b414dded830543ce01575c8:f5db6c7b83d3a8ee391191a5486ba567",
                     "tokenApi": ""
                 },
                 {
@@ -2319,6 +2319,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "fc651bf819bdc1df6aa7c249f1acfe66:06229427fb5ea8c1fcf8c8f878b2fc23",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfm6q50wyx/out/v1/e80bb4a13dc24a8f985079c2cfa1e692/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "768f15cdba33cfdf9aebb4f8225535e8:e17aad86724a7d43c8484da55ab0d90b",
                     "tokenApi": ""
                 },
                 {

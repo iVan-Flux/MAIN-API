@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:05:47 AM 04-11-2026",
+    "Last update time": "02:10:54 AM 04-11-2026",
     "Live": "00",
     "Upcoming": "69",
     "Finish": "00",
@@ -2284,19 +2284,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0nsrdwyz6d/out/v1/1fb3f803330c4d56b7067eb32a2d7b5b/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c42433b27c13a1ad99d32d2c027eeb59:2dad308a6387c9d4fc9b881d01b509d1",
-                    "tokenApi": ""
-                },
-                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0nsrdwyz6d/out/v1/1fb3f803330c4d56b7067eb32a2d7b5b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c42433b27c13a1ad99d32d2c027eeb59:2dad308a6387c9d4fc9b881d01b509d1",
                     "tokenApi": ""
                 },
                 {
@@ -2308,6 +2308,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "TNT SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59200/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SonyLiv (Asia)",
                     "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
                     "logo": "",
@@ -2316,8 +2324,24 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FHD SERVER",
+                    "link": "https://tg0o4gr4uqmtt8y41hcjzgezdrmmbqbh8c3toq73u1cjqxfozr5udctzy.100ycdn.com/apxvf0ws91.yarncdn.live/live/sd-6Mxj4xYAKY3ZEvFyyJ/playlist.m3u8?wsSession=8fe805974b1895289911c75d-179373652619860&wsIPSercert=95393e5936bc899fb6501629a824abeb&wsBindIP=2&wsserid=1168309217956179940",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/30ca7e7b-ad32-4a90-aa2e-fd389c580555.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW SERVER",
-                    "link": "http://193.47.62.59/hls/HCCCaaaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "link": "http://193.47.62.55/hls/HCCCaaaaaX.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2351,6 +2375,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f9bag1jthy/out/v1/3b8065fd2f2448ae950acb1799289059/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "36e4c42e68010f7a3e5f543d18e48242:014543c3e28193bbe08cf7e3f729715e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "DAZN SPORTS HD",
                     "link": "https://chatgpt.hereisman.net/playlist/59197/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2359,11 +2391,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PARAMOUNT+ FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f9bag1jthy/out/v1/3b8065fd2f2448ae950acb1799289059/cenc.mpd",
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jtyvkcoh4v/out/v1/075533792ddb4a178c7b77a2c582bcaa/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "36e4c42e68010f7a3e5f543d18e48242:014543c3e28193bbe08cf7e3f729715e",
+                    "api": "746772ee03bdc6b4c4d26384bff0e499:3d88f15c96f473fbfae335e7f1b6b200",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxlovii2bb/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d504a4144684bf40c4ad12a9cf7c3faa:f81e60e7f3c75a3453b3dd605d2b01dd",
                     "tokenApi": ""
                 },
                 {
@@ -2718,7 +2758,7 @@
             },
             "channels_data": [
                 {
-                    "title": "HD SERVER",
+                    "title": "PREMIERE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,

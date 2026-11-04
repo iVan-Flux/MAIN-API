@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:20:44 AM 05-11-2026",
+    "Last update time": "01:25:31 AM 05-11-2026",
     "Live": "00",
     "Upcoming": "71",
     "Finish": "00",
@@ -2163,8 +2163,64 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8voca0kgn8/out/v1/eaeb2407695a4e38aab2ec1bd9603dd9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1860d02f5859d73845201900268d231c:700f2448ab0999bd2bc233a04c561d46",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ncceucfcrw/out/v1/979b060296954c2b8d173b04481fd767/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5d3f3429e47c011b33c90469366ed19e:22aeb1655c535fa117a2645d66959922",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ENG]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [HIN]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/footlive0411/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TAM]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/footlive0411/TAM/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TEL]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/footlive0411/TEL/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [KAN]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/footlive0411/KAN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2190,8 +2246,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hp8rapp5tf/out/v1/27de1189595849a98cce002e679063ba/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "55d6c128b456acb1d0acd5e17f4c0ae7:7cc673c958ec7bbacbfe242ebce8ceaa",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymtnpmw1z2/out/v1/b673df0f81c342f6b1684494ad908ffe/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4f7fd79e857cefefb63370d487dc6777:417f1bd8e20424493509e566e6f3657c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2268,8 +2340,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dpo3zmxuhz/out/v1/ea52ff20c9ef46cd91433e7183ea50c6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c609b1f56b17276d3526bc297ba8dd10:390c9205242b5132df2bc9d1fb7f38e1",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lphpuuizz5/out/v1/d1b411fc45e84dbebb331ce387733d67/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9e4b09f3c59b42b79e6dc16c1691052e:f798767c242f008883e5a3207c98e8da",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2295,8 +2383,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d1ous3srq7/out/v1/6c950f35b0fc453a92532bb355de70e1/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fb49bd892b824f28fad679dd7ad71e8c:cd9842c07299c799b409629ba7ac0a98",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0a1eycdh3/out/v1/ed168d6fa20248819a7748ec0057e615/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c4b4702e7e9301c95458ffb46b6caf9f:7f37e9920a2bf4752a83d26bc48b81ed",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
                     "logo": "",
                     "type": 0,
                     "api": "",

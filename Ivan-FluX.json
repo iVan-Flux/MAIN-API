@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:10:53 PM 04-11-2026",
+    "Last update time": "03:20:50 PM 04-11-2026",
     "Live": "00",
-    "Upcoming": "27",
+    "Upcoming": "52",
     "Finish": "00",
     "events": [
         {
@@ -278,6 +278,14 @@
                 "endTime": "2026/11/04 12:40:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h5r6pyxcdd/out/v1/d68cf08eacb74c349b644466b5c9e06b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b7905c23e4544d1cb19e110c2c31acc3:81ef593bc93049369572a9812c1f6955",
+                    "tokenApi": ""
+                },
                 {
                     "title": "FANCODE FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1110,8 +1118,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "REAL MADRID TV - ENG",
+                    "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "REAL MADRID TV - ES",
+                    "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1338,6 +1354,681 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/05 05:00:00 +0000",
                 "endTime": "2026/11/05 09:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5237,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Arkadag",
+                "teamB": "Gol Gohar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/469420/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 13:45:00 +0000",
+                "endTime": "2026/11/04 16:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5238,
+            "title": "UEFA Youth League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leipzig U19",
+                "teamB": "Man City U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/136294/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/120856/image",
+                "eventName": "UEFA Youth League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 14:00:00 +0000",
+                "endTime": "2026/11/04 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5239,
+            "title": "UEFA Youth League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Dortmund U19",
+                "teamB": "Real Betis U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/43719/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/275789/image",
+                "eventName": "UEFA Youth League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 15:00:00 +0000",
+                "endTime": "2026/11/04 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5240,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Wahda",
+                "teamB": "Al Khaldiya",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/264115/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/371631/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 16:00:00 +0000",
+                "endTime": "2026/11/04 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5241,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al Kuwait ",
+                "teamB": "Nasaf",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/32525/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/34017/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 16:00:00 +0000",
+                "endTime": "2026/11/04 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5242,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Rayyan",
+                "teamB": "Al-Nahda",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/40660/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/40648/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 16:00:00 +0000",
+                "endTime": "2026/11/04 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5243,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "AEK",
+                "teamB": "Real Madrid",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3250/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 17:45:00 +0000",
+                "endTime": "2026/11/04 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5244,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fenerbahçe",
+                "teamB": "Liverpool",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 17:45:00 +0000",
+                "endTime": "2026/11/04 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5245,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Taawoun",
+                "teamB": "Al-Faisaly",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/47482/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 18:15:00 +0000",
+                "endTime": "2026/11/04 20:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5246,
+            "title": "AFC Champions League Two",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Muharraq",
+                "teamB": "Al-Jazira",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/45474/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/8090/image",
+                "eventName": "AFC Champions League Two",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 18:15:00 +0000",
+                "endTime": "2026/11/04 20:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5247,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Wrexham",
+                "teamB": "Middlesbrough",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 19:45:00 +0000",
+                "endTime": "2026/11/04 22:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5248,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cardiff",
+                "teamB": "West Ham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 19:45:00 +0000",
+                "endTime": "2026/11/04 22:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5249,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Dortmund",
+                "teamB": "Real Betis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 20:00:00 +0000",
+                "endTime": "2026/11/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5250,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leipzig",
+                "teamB": "Man City",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 20:00:00 +0000",
+                "endTime": "2026/11/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5251,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Porto",
+                "teamB": "Napoli",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 20:00:00 +0000",
+                "endTime": "2026/11/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5252,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Slavia Praha",
+                "teamB": "Arsenal",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2216/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 20:00:00 +0000",
+                "endTime": "2026/11/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5253,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lens",
+                "teamB": "Como",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 20:00:00 +0000",
+                "endTime": "2026/11/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5254,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "PSV",
+                "teamB": "Club Brugge",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2888/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 20:00:00 +0000",
+                "endTime": "2026/11/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5255,
+            "title": "UEFA Champions League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Viking",
+                "teamB": "Sabah",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1164/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/267828/image",
+                "eventName": "UEFA Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 20:00:00 +0000",
+                "endTime": "2026/11/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5256,
+            "title": "Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bristol City",
+                "teamB": "Wolves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
+                "eventName": "Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 20:00:00 +0000",
+                "endTime": "2026/11/04 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5257,
+            "title": "SAFF Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2354/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Pakistan",
+                "teamB": "India",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+                "eventName": "SAFF Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 09:30:00 +0000",
+                "endTime": "2026/11/05 11:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5258,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "São Paulo",
+                "teamB": "Corinthians",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 00:30:00 +0000",
+                "endTime": "2026/11/05 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5259,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Flamengo",
+                "teamB": "Grêmio",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 22:30:00 +0000",
+                "endTime": "2026/11/05 00:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5260,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Botafogo",
+                "teamB": "Atlético-MG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 00:30:00 +0000",
+                "endTime": "2026/11/05 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5261,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Athletico",
+                "teamB": "Vasco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/04 22:30:00 +0000",
+                "endTime": "2026/11/05 00:50:00 +0000"
             },
             "channels_data": [
                 {

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:31:12 AM 05-11-2026",
+    "Last update time": "01:35:35 AM 05-11-2026",
     "Live": "00",
     "Upcoming": "71",
     "Finish": "00",
@@ -2297,6 +2297,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PRIME VIDEO FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ghsrznt4cw/out/v1/29ae8f113c97453f93de2d779ea4b918/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "240ece5a526065afd7164e649987a94c:70e85851e563044ae68cc148a25b3943",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2434,8 +2442,32 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnj1sg9ucp/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4be3ef3f08c462098111934a936c6f32:c0ce1f708bbae793401f1a7d42a31329",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lrcgrcxnei/out/v1/5f6299a26a16446a96cc315d927c5a8e/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fd1bcd8052fb5010a9f75d156266ea95:3f3c03707998694db1c9cbb97550da6c",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SONYLIV [ASIA]",
                     "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.50/hls/z777.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3113,8 +3145,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/atl-wsh/playlist.m3u8?tk=Ei5qG0_FlMaYtwF2IUuArg&e=1793854983|Referer=https://ondemand.st",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8|Referer=https://embedcenter.st",
                     "logo": "",
                     "type": 0,
                     "api": "",

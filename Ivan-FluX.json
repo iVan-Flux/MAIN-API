@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:10:49 PM 05-11-2026",
+    "Last update time": "11:15:44 PM 05-11-2026",
     "Live": "00",
     "Upcoming": "69",
     "Finish": "00",
@@ -1359,8 +1359,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w2ey1q9gaf/out/v1/8ce3b7b66741494d8a856fe9bd4fc8e6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fbe03b9c2b09471fb95a507d0cfc5bf5:b927761040ee854d56ebcf9ef0cc1c96",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xo9iurlevw/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1bd501f2fad8ab5c614dfcebca9e38ee:7d2d82c02caf3363bb127a2a615b7fd6",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793943099~acl=/*~id=11851455675667223153211153093920~hmac=567ba224b4eb2b86d7ddbe67eeabac2927cbde6404d31b4850cbddb6178df264",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1742,11 +1766,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ds21dm3dru/out/v1/da169a4aec3441edb6996d52bc4e8a67/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "0485a1b5a70b288bd73e35976fba9cc1:fb83277816e3acfb98737f0b409caf8a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4hcpdtjcwh/out/v1/bd977367ade84eb1a98020dec896f0c2/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ce703c31b81015b80d592592f68379c6:fec22d20324c23058b7010a4873dce0e",
                     "tokenApi": ""
                 }
             ]
@@ -1877,11 +1909,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jl1ut4wo0c/out/v1/957d3147b67c487c8c2c50f676dc81fc/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "59a4c8d8546cb98fbdf6223dba813df0:48b1618847af706f56c9b838ad1e4438",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yf7vjelijs/out/v1/593517bf2cb344cc903c51ee2dc43588/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fc611f9ec57e408fc71417bba8789b14:563e846942218398f60e843629a1f546",
                     "tokenApi": ""
                 }
             ]

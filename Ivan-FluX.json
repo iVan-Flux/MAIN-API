@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:25:35 PM 05-11-2026",
+    "Last update time": "01:31:11 PM 05-11-2026",
     "Live": "00",
-    "Upcoming": "30",
+    "Upcoming": "77",
     "Finish": "00",
     "events": [
         {
@@ -1498,6 +1498,1275 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/05 10:00:00 +0000",
                 "endTime": "2026/11/05 12:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5282,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sparta Praha",
+                "teamB": "Bournemouth",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2218/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5283,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Crystal Palace",
+                "teamB": "Hoffenheim",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5284,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Benfica",
+                "teamB": "Lech",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3121/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5285,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Real Sociedad",
+                "teamB": "Lyon",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5286,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Milan",
+                "teamB": "Ferencváros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5287,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sunderland",
+                "teamB": "Dinamo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5288,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "AZ",
+                "teamB": "Juventus",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5289,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leverkusen",
+                "teamB": "Marseille",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5290,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Celta",
+                "teamB": "USG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5291,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Celtic",
+                "teamB": "Beşiktaş",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5292,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Levski Sofia",
+                "teamB": "Jagiellonia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3273/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5293,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lillestrøm",
+                "teamB": "Viktoria Plzeň",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/664/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4502/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5294,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sturm",
+                "teamB": "Celje",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2051/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2413/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5295,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "H. Be'er Sheva",
+                "teamB": "OFI",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5202/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3241/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5296,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Anderlecht",
+                "teamB": "RB Salzburg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2900/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5297,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Torreense",
+                "teamB": "Ararat-Armenia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/25787/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/262229/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5298,
+            "title": "UEFA Europa League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "NEC",
+                "teamB": "Omonia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3395/image",
+                "eventName": "UEFA Europa League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5299,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Getafe",
+                "teamB": "Brighton",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5300,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Twente",
+                "teamB": "Pafos",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/171626/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5301,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "AGF",
+                "teamB": "Braga",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1291/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5302,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Atalanta",
+                "teamB": "Kairat",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5172/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5303,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Trabzonspor",
+                "teamB": "Freiburg",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5304,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Midtjylland",
+                "teamB": "Ajax",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1289/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5305,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Monaco",
+                "teamB": "Nordsjælland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1292/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5306,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Thun",
+                "teamB": "Hearts",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2454/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5307,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mjällby",
+                "teamB": "Borac",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1783/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5235/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5308,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lugano",
+                "teamB": "Kauno Žalgiris",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2443/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/80741/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5309,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "U. Craiova",
+                "teamB": "Egnatia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/116223/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/264619/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5310,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "St. Truidense",
+                "teamB": "Brann",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2895/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1159/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5311,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "København",
+                "teamB": "Iberia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1284/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/116312/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5312,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Riga",
+                "teamB": "Jablonec",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/162368/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2205/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5313,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Panathinaikos",
+                "teamB": "CSKA Sofia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3248/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3275/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5314,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "KuPS",
+                "teamB": "Gent",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2244/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2903/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5315,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Crvena zvezda",
+                "teamB": "Inter",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5149/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/37946/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5316,
+            "title": "UEFA Conference League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Lincoln RI",
+                "teamB": "Hajduk",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/126304/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2036/image",
+                "eventName": "UEFA Conference League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:45:00 +0000",
+                "endTime": "2026/11/05 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5317,
+            "title": "Copa del Rey",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Alcoyano",
+                "teamB": "Mallorca",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6585/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+                "eventName": "Copa del Rey",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 20:00:00 +0000",
+                "endTime": "2026/11/05 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5318,
+            "title": "Copa del Rey",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tarancón",
+                "teamB": "Levante",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+                "eventName": "Copa del Rey",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 18:00:00 +0000",
+                "endTime": "2026/11/05 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5319,
+            "title": "Saudi Pro League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Qadsiah",
+                "teamB": "Al-Fayha",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+                "eventName": "Saudi Pro League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:30:00 +0000",
+                "endTime": "2026/11/05 19:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5320,
+            "title": "Saudi Pro League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Ahli",
+                "teamB": "Al-Taawoun",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+                "eventName": "Saudi Pro League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 17:00:00 +0000",
+                "endTime": "2026/11/05 19:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5321,
+            "title": "Saudi Pro League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Abha",
+                "teamB": "Al-Shabab",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+                "eventName": "Saudi Pro League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 15:10:00 +0000",
+                "endTime": "2026/11/05 17:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5322,
+            "title": "Saudi Pro League",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Al-Kholood",
+                "teamB": "Al-Khaleej",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+                "eventName": "Saudi Pro League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 13:25:00 +0000",
+                "endTime": "2026/11/05 15:45:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5323,
+            "title": "SAFF Championship",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/2354/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bhutan",
+                "teamB": "Bangladesh",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/191564/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+                "eventName": "SAFF Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 14:00:00 +0000",
+                "endTime": "2026/11/05 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5324,
+            "title": "Liga Profesional de Fútbol",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Aldosivi",
+                "teamB": "River Plate",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/36836/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+                "eventName": "Liga Profesional de Fútbol",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 18:00:00 +0000",
+                "endTime": "2026/11/05 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5325,
+            "title": "Liga Profesional de Fútbol",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Gimnasia",
+                "teamB": "Belgrano",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3205/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3203/image",
+                "eventName": "Liga Profesional de Fútbol",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 22:15:00 +0000",
+                "endTime": "2026/11/06 00:35:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5326,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Palmeiras",
+                "teamB": "Remo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 22:30:00 +0000",
+                "endTime": "2026/11/06 00:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5327,
+            "title": "Campeonato Brasileiro Série A",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cruzeiro",
+                "teamB": "Bahia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+                "eventName": "Campeonato Brasileiro Série A",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/06 00:30:00 +0000",
+                "endTime": "2026/11/06 02:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5328,
+            "title": "Brasileirão Série B",
+            "image": "http://api.sofascore.com/api/v1/unique-tournament/390/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Botafogo-SP",
+                "teamB": "Londrina",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1979/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2022/image",
+                "eventName": "Brasileirão Série B",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/05 22:30:00 +0000",
+                "endTime": "2026/11/06 00:50:00 +0000"
             },
             "channels_data": [
                 {

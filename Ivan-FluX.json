@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:20:40 PM 06-11-2026",
+    "Last update time": "12:25:34 PM 06-11-2026",
     "Live": "00",
     "Upcoming": "44",
     "Finish": "00",
@@ -133,14 +133,6 @@
             },
             "channels_data": [
                 {
-                    "title": "NPL LIVE FHD",
-                    "link": "https://ott-lb.nettv.com.np/npl/live_match/index.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                    "tokenApi": ""
-                },
-                {
                     "title": "SD SERVER",
                     "link": "http://162.251.160.53:8089/NPLT20/index.m3u8",
                     "logo": "",
@@ -180,6 +172,23 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "TEST",
+                    "link": "https://kick.com/api/v2/channels/huyt788",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "https://kick.com/api/v2/channels/huyt788",
+                        "api": "https://kick.com/api/v2/channels/huyt788",
+                        "type": "sp",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

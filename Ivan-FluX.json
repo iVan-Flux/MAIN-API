@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:25:32 AM 06-11-2026",
+    "Last update time": "10:31:13 AM 06-11-2026",
     "Live": "00",
     "Upcoming": "22",
     "Finish": "00",
@@ -590,8 +590,8 @@
                 "eventName": "WWE NXT",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/04 00:00:00 +0000",
-                "endTime": "2026/11/04 02:38:00 +0000"
+                "startTime": "2026/11/11 00:00:00 +0000",
+                "endTime": "2026/11/11 03:30:00 +0000"
             },
             "channels_data": [
                 {
@@ -625,8 +625,8 @@
                 "eventName": "AEW Dynamite",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/05 00:00:00 +0000",
-                "endTime": "2026/11/05 04:00:00 +0000"
+                "startTime": "2026/11/12 00:00:00 +0000",
+                "endTime": "2026/11/12 04:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -964,7 +964,7 @@
                 "eventName": "GOLF EVENTOS",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/05 09:00:00 +0000",
+                "startTime": "2026/11/06 05:30:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [
@@ -1122,8 +1122,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1149,8 +1165,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5d52529b6ff19eca2315013244513b68:ba5c7dfad287aab538463d9da6811a8c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV PRIME FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5d52529b6ff19eca2315013244513b68:ba5c7dfad287aab538463d9da6811a8c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (Asia)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
                     "logo": "",
                     "type": 0,
                     "api": "",

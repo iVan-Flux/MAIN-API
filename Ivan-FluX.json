@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:05:34 AM 06-11-2026",
+    "Last update time": "09:10:41 AM 06-11-2026",
     "Live": "00",
     "Upcoming": "68",
     "Finish": "00",
@@ -268,14 +268,6 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "ROBBITHOLE FHD",
-                    "link": "https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793849106~exp=1793877966~acl=/bpk-tv/202/default/*~eti=ec6f90c3bb4e2adc840061f03b9e10fc~sid=27774d63525ecb4a~imax=2~hmac=5f85510854d2be9c155c395e0011573f36d7dbb697aa44cc3ccf956a18025bd9/bpk-tv/202/default/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "T SPORTS HD",
                     "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
                     "logo": "",
@@ -294,6 +286,14 @@
                 {
                     "title": "T SPORTS SD",
                     "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ROBBITHOLE FHD",
+                    "link": "https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793849106~exp=1793877966~acl=/bpk-tv/202/default/*~eti=ec6f90c3bb4e2adc840061f03b9e10fc~sid=27774d63525ecb4a~imax=2~hmac=5f85510854d2be9c155c395e0011573f36d7dbb697aa44cc3ccf956a18025bd9/bpk-tv/202/default/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

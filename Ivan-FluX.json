@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:45:42 AM 08-11-2026",
+    "Last update time": "02:50:43 AM 08-11-2026",
     "Live": "00",
     "Upcoming": "138",
     "Finish": "00",
@@ -4948,8 +4948,24 @@
             },
             "channels_data": [
                 {
+                    "title": "APPLE TV+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bu3mlf8mdp/out/v1/1f8295eec08042e1b83fca98811a10e8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ea14495d90e81792d1b3275f83dc05ff:cb4c9ed7e5eb48dbcf69bdc8f6f98a3b",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://pull.fmp.live/sla/1-6acfa027daf8f9c59c92ec4c.m3u8?auth_key=1794105661-0-0-4c5ceffb7573bca72684b492c88179ee|Referer=https://fmp.live/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/8927091040/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -5045,8 +5061,32 @@
             },
             "channels_data": [
                 {
+                    "title": "APPLE TV+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9eydbkc5gj/out/v1/64aaa451f37149e1ad086dad735e7076/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "24a887f225f35f76ed54b1f104b398e5:594aebf1be6e4906c6ea40ab2d4346c7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/7069858600/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://pull.fmp.live/sla/1-6acfa027daf8f9c59c92ec51.m3u8?auth_key=1794105661-0-0-4b300da776af9556174ecbc2a1074cfd|Referer=https://fmp.live/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/8583873648/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -5125,6 +5165,14 @@
                 "endTime": "2026/11/07 23:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "APPLE TV+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8il4ro8vlx/out/v1/d267aafa6f854e7586e8f5c7439ac9b9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5d632e3129542392f83bc4c41fddf98a:131a40e231a3dbc765ba2f5a92c6d7b1",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://pull.fmp.live/sla/1-6acfa027daf8f9c59c92ec4a.m3u8?auth_key=1794105661-0-0-15843db50637191ae33e527cfaf40d01|Referer=https://fmp.live/",
@@ -5242,8 +5290,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/59504/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://pull.fmp.live/sla/1-6acfa027daf8f9c59c92ec4f.m3u8?auth_key=1794105661-0-0-219a469b880605d00d023550647f3aff|Referer=https://fmp.live/",
                     "logo": "",
                     "type": 0,
                     "api": "",

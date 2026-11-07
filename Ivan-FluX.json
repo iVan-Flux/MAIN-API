@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:05:34 AM 07-11-2026",
+    "Last update time": "09:10:41 AM 07-11-2026",
     "Live": "00",
-    "Upcoming": "42",
+    "Upcoming": "41",
     "Finish": "00",
     "events": [
         {
@@ -1285,12 +1285,45 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4553932.m3u8?txSecret=2d0a6dad29ab7178f8c412e400c604e5&txTime=6AEEA6F4|Referer=https://player.on8on8.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://live.uu1pp.com/sport/202_5623853_1.m3u8?txSecret=3c67e2911cfed8be48a2ebf63ae97433&txTime=6AEEDD1E",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIGAMX LIVE [FHD]",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://taifood-blog.asia/embed/liga-mx/2026-10-30/pue-unam",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -1720,33 +1753,6 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5273,
-            "title": "NHL",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Sabres",
-                "teamB": "Blue Jackets",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/07 00:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59381/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

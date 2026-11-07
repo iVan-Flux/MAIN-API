@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:40:41 AM 08-11-2026",
+    "Last update time": "02:45:42 AM 08-11-2026",
     "Live": "00",
     "Upcoming": "138",
     "Finish": "00",
@@ -5045,8 +5045,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://pull.fmp.live/sla/1-6acfa027daf8f9c59c92ec51.m3u8?auth_key=1794105661-0-0-4b300da776af9556174ecbc2a1074cfd|Referer=https://fmp.live/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -5126,8 +5126,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://pull.fmp.live/sla/1-6acfa027daf8f9c59c92ec4a.m3u8?auth_key=1794105661-0-0-15843db50637191ae33e527cfaf40d01|Referer=https://fmp.live/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/phi-tor/playlist.m3u8?tk=0B7h8yRoa1NRcG7f8JWDGw&e=1794127307|Referer=https://ondemand.st",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -5180,8 +5188,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://pull.fmp.live/sla/1-6acfa027daf8f9c59c92ec4d.m3u8?auth_key=1794105661-0-0-af1996f402ea233ce2789d146ee1ec2b|Referer=https://fmp.live/",
                     "logo": "",
                     "type": 0,
                     "api": "",

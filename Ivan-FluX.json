@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:05:33 PM 07-11-2026",
+    "Last update time": "05:10:43 PM 07-11-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -427,8 +427,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "9k",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhywkebli4/out/v1/b680bf867c374df2abef9ab2c55b0b65/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xhywkebli4/out/v1/b680bf867c374df2abef9ab2c55b0b65/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "A SPORTS HD",
+                    "link": "https://live.msnetworks.net/a-sports/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1100,15 +1116,15 @@
             "channels_data": [
                 {
                     "title": "PRIME VIDEO FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sxig280kfu/out/v1/1d42bf15f0d74aa68535deefc79f9086/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2mcjiqw0dq/out/v1/e38753669d0249ff9a90bd7eba519aef/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "1cf4f357d5b189fc905c8c256e4ca8c6:de885c6da99744114d0b9569e8d37343",
+                    "api": "b7258d3c40420a02b5922e244d59b3c1:231193fb3bc8be46e4fa5ae61bb460e8",
                     "tokenApi": ""
                 },
                 {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794015370~acl=/*~id=63239560851756008134643733974673~hmac=097084a19a875dbcb1d5f9b3533cb7aec644c40f0ae4d7a01059692041e72c8b",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dcc537d0f4ed040836ff262eda8844dd-1794049801742",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1116,23 +1132,7 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794015370~acl=/*~id=63239560851756008134643733974673~hmac=097084a19a875dbcb1d5f9b3533cb7aec644c40f0ae4d7a01059692041e72c8b",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.55/hls/RHHHAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dcc537d0f4ed040836ff262eda8844dd-1794049801742",
                     "logo": "",
                     "type": 0,
                     "api": "",

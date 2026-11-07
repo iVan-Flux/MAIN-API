@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:45:44 PM 07-11-2026",
+    "Last update time": "08:50:43 PM 07-11-2026",
     "Live": "00",
     "Upcoming": "112",
     "Finish": "00",
@@ -1855,6 +1855,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/87bb91e2-2d13-4cc8-8773-f57b9c665bd8.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4558696.m3u8?txSecret=d6e1cbf8be4e0c68ee66881bc53d5fda&txTime=6AEF4F31|Referer=https://player.on8on8.com/",
                     "logo": "",
@@ -2385,6 +2393,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PEACOCK FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5uaduhh4kl/out/v1/978d2369e73e41a5ad2d88126242fe72/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2586c0d06d8887a499f9998f65d3654a:942cd5a24bd02c1c2ab9e0986f74cf2f",
+                    "tokenApi": ""
+                },
+                {
                     "title": "DAZN DE FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v0yibu8wb3/out/v1/0a825c67fdcb4a0eb7c2fd772cd7b82c/cenc.mpd",
                     "logo": "",
@@ -2482,11 +2498,27 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PEACOCK FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jgr1ktffa3/out/v1/49844b8b8ebe4e3da711236747246598/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9644dcd60302e7261e76e6f4bd052782:6fd8de55b1f4ff98ce540b08bea9b403",
+                    "tokenApi": ""
+                },
+                {
                     "title": "DAZN DE FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdgimhxuss/out/v1/ab2788c43b084dd98efd6b2d44f341b2/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "dbe5961afc25dca3045d284329a2d49a:323aa34081722a599096a63a61828cae",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.44/hls/TTTT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

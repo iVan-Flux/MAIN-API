@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:45:45 PM 07-11-2026",
+    "Last update time": "06:50:45 PM 07-11-2026",
     "Live": "00",
-    "Upcoming": "111",
+    "Upcoming": "112",
     "Finish": "00",
     "events": [
         {
@@ -4031,6 +4031,33 @@
                     "logo": "",
                     "type": 0,
                     "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5353,
+            "title": "RWS: Wukong vs Chaila",
+            "image": "https://iili.io/nDHrjFp.png",
+            "cat": "Boxing",
+            "eventInfo": {
+                "teamA": "RWS",
+                "teamB": "RWS",
+                "teamAFlag": "https://iili.io/nDHrjFp.png",
+                "teamBFlag": "https://iili.io/nDHrjFp.png",
+                "eventName": "RWS: Wukong vs Chaila",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/07 13:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dy1xencroc/out/v1/24927b870478400e84692cf5a24f6ae6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "bcc726b84d7938c9737c74afd418ebd2:467d3b4bf0fcbaa2906d12b18d55b05a",
                     "tokenApi": ""
                 }
             ]

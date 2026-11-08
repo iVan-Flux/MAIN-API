@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:35:34 PM 08-11-2026",
+    "Last update time": "09:40:41 PM 08-11-2026",
     "Live": "00",
     "Upcoming": "115",
     "Finish": "00",
@@ -887,8 +887,8 @@
                 "eventName": "NFL REDZONE",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/01 17:55:00 +0000",
-                "endTime": "2026/11/02 17:55:00 +0000"
+                "startTime": "2026/11/08 17:55:00 +0000",
+                "endTime": "2026/11/08 22:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -2388,12 +2388,29 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "D SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER+",
+                    "link": "http://162.251.160.53:8089/prime_us_b0hntfz2r6/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
+                    "tokenApi": {
+                        "url": "http://162.251.160.53:8089/prime_us_b0hntfz2r6/index.m3u8",
+                        "api": "http://162.251.160.53:8089/prime_us_b0hntfz2r6/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -3127,11 +3144,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "beIN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
                     "tokenApi": ""
                 }
             ]
@@ -3190,7 +3207,15 @@
             "channels_data": [
                 {
                     "title": "HD SERVER",
-                    "link": "https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=a9e1b54d10dba4b6e61da7867ffbbd92&wsABSTime=1794196383|Referer=https://xlz.domainkqt.cc/",
+                    "link": "https://www.rtmpcdn.com/live/ffa420ba-688c-43b8-bd21-6692af45a6d8.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=a9e1b54d10dba4b6e61da7867ffbbd92&wsABSTime=1794196383|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3951,12 +3976,21 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NHL LIVE [FHD]",
+                    "link": "",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://taifood-blog.asia/embed/nhl/2026-11-06/cbj-buf",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -4194,12 +4228,21 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NFL LIVE [FHD]",
+                    "link": "",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://taifood-blog.asia/embed/nfl/2026-11-01/cle-pit",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

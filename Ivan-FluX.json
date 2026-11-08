@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:05:34 PM 08-11-2026",
+    "Last update time": "11:10:45 PM 08-11-2026",
     "Live": "00",
     "Upcoming": "115",
     "Finish": "00",
@@ -473,6 +473,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SKY SPORTS F1 DE",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2",
+                    "tokenApi": ""
+                },
+                {
                     "title": "CANAL5 FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -490,7 +498,7 @@
                 },
                 {
                     "title": "RUSSIA FEED",
-                    "link": "https://bl.rutube.ru/livestream/03f4a36bbbfe2a72345db6fd9190c36c/index.m3u8?s=F5DOuQUwB7eJ57TPdhvqfw&e=1793471365&scheme=https|user-agent=Mozilla",
+                    "link": "https://bl.rutube.ru/livestream/265de8608b0d619d77bb27385952cb3b/index.m3u8?s=9uJHyscyRd9sX2nYtuiXsA&e=1794243435&scheme=https|user-agent=Mozilla",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4573,6 +4581,22 @@
                 "endTime": "2026/11/08 21:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "NFL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59606/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE",
+                    "link": "https://chatgpt.hereisman.net/playlist/59607/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "NFL LIVE [FHD]",
                     "link": "",

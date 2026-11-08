@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:20:44 PM 08-11-2026",
+    "Last update time": "09:25:34 PM 08-11-2026",
     "Live": "00",
     "Upcoming": "115",
     "Finish": "00",
@@ -415,18 +415,18 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fs9s0eeijs/out/v1/bc6dfe64f22e4cc0b75c0621c9ef5983/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/02gukgvdze/out/v1/2d5390acafa74401a327061967e19558/cenc.mpd?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
                     "logo": "",
                     "type": 0,
-                    "api": "f52e72f33cc289c8cc4096decfaba575:b609c460b9c21b55f3e506631e64b8a5",
+                    "api": "2b64d396af9a77e84f76a5bd66b9c901:7715f79f8c4e798959bf61e0885f364d",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fs9s0eeijs/out/v1/bc6dfe64f22e4cc0b75c0621c9ef5983/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/02gukgvdze/out/v1/2d5390acafa74401a327061967e19558/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "f52e72f33cc289c8cc4096decfaba575:b609c460b9c21b55f3e506631e64b8a5",
+                    "api": "2b64d396af9a77e84f76a5bd66b9c901:7715f79f8c4e798959bf61e0885f364d",
                     "tokenApi": ""
                 },
                 {
@@ -3098,8 +3098,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=a9e1b54d10dba4b6e61da7867ffbbd92&wsABSTime=1794196383|Referer=https://xlz.domainkqt.cc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.55/hls/ffffna.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

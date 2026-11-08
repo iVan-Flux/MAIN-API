@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:10:44 AM 09-11-2026",
+    "Last update time": "12:15:44 AM 09-11-2026",
     "Live": "00",
     "Upcoming": "115",
     "Finish": "00",
@@ -971,8 +971,8 @@
                 "eventName": "TENNIS EVENTO",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/07 06:00:00 +0000",
-                "endTime": "2026/11/08 03:18:00 +0000"
+                "startTime": "2026/11/08 20:00:00 +0000",
+                "endTime": "2026/11/09 02:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -2222,6 +2222,14 @@
                 },
                 {
                     "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/7b47343e-775e-4f18-ad38-259a6f8abc54.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
                     "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
@@ -3662,8 +3670,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

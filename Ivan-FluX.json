@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:45:42 PM 08-11-2026",
+    "Last update time": "04:50:41 PM 08-11-2026",
     "Live": "00",
     "Upcoming": "82",
     "Finish": "00",
@@ -415,18 +415,18 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330",
+                    "api": "bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330",
+                    "api": "bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971",
                     "tokenApi": ""
                 },
                 {
@@ -2169,6 +2169,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/BKKKAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

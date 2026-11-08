@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:20:41 PM 08-11-2026",
+    "Last update time": "07:25:32 PM 08-11-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -1223,6 +1223,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558726.m3u8?txSecret=c5a04c6b0bc9ebc4a0067f5d17d3aa10&txTime=6AF09298|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/K444AAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -1256,6 +1264,22 @@
                     "type": 0,
                     "api": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SKY MAIN EVENT",
+                    "link": "https://chatgpt.hereisman.net/playlist/59589/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4558705.m3u8?txSecret=a0206baf36b0df99fb85981b3dbccfc7&txTime=6AF092C1|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -1276,6 +1300,14 @@
                 "endTime": "2026/11/08 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mibl1kagx8/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/K444A.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
@@ -1303,6 +1335,14 @@
                 "endTime": "2026/11/08 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxwd61llso/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cd26f115435d0177c6c5a9864e360b08:2d0c9efb55b5c72a0644fa12a1d52ed1",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/K444AA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",

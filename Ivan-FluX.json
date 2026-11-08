@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:45:44 PM 08-11-2026",
+    "Last update time": "09:50:44 PM 08-11-2026",
     "Live": "00",
     "Upcoming": "115",
     "Finish": "00",
@@ -2142,6 +2142,22 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mirynqxkqr/out/v1/39913cbc6d0a4ecab53230efc9c68358/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c504219cda4cf4b01b7d4361b94ce057:ec3d999f9df5060e7c2e575ea91fbfe6",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/O777AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER+",
                     "link": "http://162.251.160.53:8089/1155/index.m3u8",
                     "logo": "",
@@ -2178,11 +2194,35 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/36bhzcuctb/out/v1/ede8b395b0c8406aab754e2a119b0080/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6112e236eac4d6fcc05cbbc7fa0db5cd:305845d2010cec3540b6ec67377c002b",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN SPORTS FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4550927.m3u8?txSecret=5aec4cce155c82c03829de5688dccbea&txTime=6AF0B477|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/O777AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]
@@ -2205,11 +2245,35 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2wufinkf4s/out/v1/bf08e7ed62f64e3a99013194722a263b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ad1daab78c871461fe1cef91c1fae578:00754db8e34d78f514f44841bf49d4a7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN SPORTS FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4550925.m3u8?txSecret=d841f5337200672b02a43c57aad38d79&txTime=6AF0B4A2|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/O777AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {
@@ -2324,6 +2388,14 @@
                 "endTime": "2026/11/08 18:35:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yigatghesv/out/v1/4d33e812c03c4e2999880ff0c49d7632/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5bb1aaadb36e94b379f6e6e045fc64a8:731ecbfab5d73fa2880b69ee1bda944d",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER+",
                     "link": "http://162.251.160.53:8089/prime_us_b0hlxb9ycm/index.m3u8",

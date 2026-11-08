@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:40:44 AM 09-11-2026",
+    "Last update time": "01:45:42 AM 09-11-2026",
     "Live": "00",
     "Upcoming": "116",
     "Finish": "00",
@@ -4181,6 +4181,22 @@
             },
             "channels_data": [
                 {
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59652/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NBA LIVE HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59656/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NBA LIVE [FHD]",
                     "link": "",
                     "logo": "",
@@ -4602,6 +4618,14 @@
             },
             "channels_data": [
                 {
+                    "title": "NHL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59651/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NHL LIVE [FHD]",
                     "link": "",
                     "logo": "",
@@ -4707,6 +4731,22 @@
                 "endTime": "2026/11/09 00:25:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "NFL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59662/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NFL LIVE",
+                    "link": "https://chatgpt.hereisman.net/playlist/59661/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "NFL LIVE [FHD]",
                     "link": "",
@@ -5058,6 +5098,14 @@
                 "endTime": "2026/11/09 00:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "NFL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59659/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "NFL LIVE [FHD]",
                     "link": "",

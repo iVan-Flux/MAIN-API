@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:20:48 PM 09-11-2026",
+    "Last update time": "09:25:38 PM 09-11-2026",
     "Live": "00",
-    "Upcoming": "22",
+    "Upcoming": "28",
     "Finish": "00",
     "events": [
         {
@@ -246,7 +246,7 @@
         {
             "id": 5183,
             "title": "Test Series",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark",
+            "image": "http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
             "cat": "Cricket",
             "eventInfo": {
                 "teamA": "AFG",
@@ -1130,7 +1130,7 @@
         {
             "id": 5480,
             "title": "One Day International",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+            "image": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
             "cat": "Cricket",
             "eventInfo": {
                 "teamA": "AUS",
@@ -1157,7 +1157,7 @@
         {
             "id": 5481,
             "title": "ICC World Test Championship",
-            "image": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+            "image": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
             "cat": "Cricket",
             "eventInfo": {
                 "teamA": "SA",
@@ -1169,6 +1169,168 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/15 08:00:00 +0000",
                 "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5482,
+            "title": "U19 Asia Cup",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "IND-U19",
+                "teamB": "UAE-U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213112/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/300266/image",
+                "eventName": "U19 Asia Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 05:00:00 +0000",
+                "endTime": "2026/11/10 09:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5483,
+            "title": "U19 Asia Cup",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "PAK-U19",
+                "teamB": "NEP-U19",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213113/image",
+                "eventName": "U19 Asia Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 05:00:00 +0000",
+                "endTime": "2026/11/10 09:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5484,
+            "title": "FA Cup",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/19/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Parkway",
+                "teamB": "Berkhamsted",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/80011/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/231/image",
+                "eventName": "FA Cup",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/09 19:30:00 +0000",
+                "endTime": "2026/11/09 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5485,
+            "title": "Liga F Moeve",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Atlético de Madrid",
+                "teamB": "FC Badalona Women",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/77879/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/77893/image",
+                "eventName": "Liga F Moeve",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/09 18:00:00 +0000",
+                "endTime": "2026/11/09 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5486,
+            "title": "LaLiga 2",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Las Palmas",
+                "teamB": "Eldense",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/09 19:30:00 +0000",
+                "endTime": "2026/11/09 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5487,
+            "title": "LaLiga 2",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sabadell",
+                "teamB": "Real Sociedad B",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/24335/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+                "eventName": "LaLiga 2",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/09 19:30:00 +0000",
+                "endTime": "2026/11/09 21:50:00 +0000"
             },
             "channels_data": [
                 {

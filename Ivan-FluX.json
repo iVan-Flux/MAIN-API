@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:15:45 PM 09-11-2026",
+    "Last update time": "07:20:44 PM 09-11-2026",
     "Live": "00",
     "Upcoming": "58",
     "Finish": "00",
@@ -372,18 +372,34 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/02gukgvdze/out/v1/2d5390acafa74401a327061967e19558/cenc.mpd?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "2b64d396af9a77e84f76a5bd66b9c901:7715f79f8c4e798959bf61e0885f364d",
+                    "api": "2fc13592451a4ca8b509946c6f908829:eee1b57fd228c32939c764657b04ab65",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/02gukgvdze/out/v1/2d5390acafa74401a327061967e19558/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "2b64d396af9a77e84f76a5bd66b9c901:7715f79f8c4e798959bf61e0885f364d",
+                    "api": "2fc13592451a4ca8b509946c6f908829:eee1b57fd228c32939c764657b04ab65",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "MYCO LIVE HD",
+                    "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:20:46 AM 10-11-2026",
+    "Last update time": "01:25:37 AM 10-11-2026",
     "Live": "00",
     "Upcoming": "68",
     "Finish": "00",
@@ -1341,6 +1341,14 @@
                 "endTime": "2026/11/09 21:50:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "DAZN SPORTS",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iqzrazro8m/out/v1/82394c94cf844ff7a8fe3319bed93568/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b98b17ff9c64c00a415398df3d64b394:7e23e6f8bf9da5a73781dda53e4661ba",
+                    "tokenApi": ""
+                },
                 {
                     "title": "Laliga Hypermotion ES",
                     "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",

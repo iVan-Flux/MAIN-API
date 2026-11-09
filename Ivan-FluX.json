@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:25:38 PM 09-11-2026",
+    "Last update time": "09:31:15 PM 09-11-2026",
     "Live": "00",
-    "Upcoming": "28",
+    "Upcoming": "55",
     "Finish": "00",
     "events": [
         {
@@ -1331,6 +1331,735 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/09 19:30:00 +0000",
                 "endTime": "2026/11/09 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5488,
+            "title": "Copa del Rey",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Anaitasuna",
+                "teamB": "Alavés",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/263773/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+                "eventName": "Copa del Rey",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 18:00:00 +0000",
+                "endTime": "2026/11/10 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5489,
+            "title": "Copa del Rey",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Pamplona",
+                "teamB": "Eibar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/263528/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+                "eventName": "Copa del Rey",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 18:00:00 +0000",
+                "endTime": "2026/11/10 20:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5490,
+            "title": "Copa del Rey",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tavernes",
+                "teamB": "Valencia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1284427/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+                "eventName": "Copa del Rey",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 20:00:00 +0000",
+                "endTime": "2026/11/10 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5491,
+            "title": "UEFA Women's Champions League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "PSG",
+                "teamB": "Bayern",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/55505/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5543/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 20:00:00 +0000",
+                "endTime": "2026/11/10 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5492,
+            "title": "UEFA Women's Champions League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Roma",
+                "teamB": "Servette FCCF",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/301414/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/305811/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 20:00:00 +0000",
+                "endTime": "2026/11/10 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5493,
+            "title": "UEFA Women's Champions League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Real Madrid",
+                "teamB": "Paris",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/264964/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 17:45:00 +0000",
+                "endTime": "2026/11/10 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5494,
+            "title": "UEFA Women's Champions League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Häcken",
+                "teamB": "Chelsea",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1889/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 17:45:00 +0000",
+                "endTime": "2026/11/10 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5495,
+            "title": "UEFA Women's Champions League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Inter",
+                "teamB": "Man City",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/142658/image",
+                "eventName": "UEFA Women's Champions League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 20:00:00 +0000",
+                "endTime": "2026/11/10 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5496,
+            "title": "Club Friendly Games",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/853/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Paderborn",
+                "teamB": "Braunschweig",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
+                "eventName": "Club Friendly Games",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 12:00:00 +0000",
+                "endTime": "2026/11/10 14:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5497,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mansfield",
+                "teamB": "Chesterfield",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/70/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/68/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5498,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Plymouth",
+                "teamB": "Swindon",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/71/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/53/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5499,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Leicester",
+                "teamB": "Walsall",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/26/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5500,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Barnet",
+                "teamB": "Leyton Orient",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/77/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/83/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5501,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Grimsby",
+                "teamB": "Forest U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/18/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/324738/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5502,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Burton",
+                "teamB": "Notts County",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5503,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bromley",
+                "teamB": "MK Dons",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:30:00 +0000",
+                "endTime": "2026/11/10 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5504,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Colchester",
+                "teamB": "Ipswich U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/66/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/325745/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:45:00 +0000",
+                "endTime": "2026/11/10 22:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5505,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bristol Rovers",
+                "teamB": "Reading",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/76/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/28/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5506,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Crewe",
+                "teamB": "Wigan",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/19/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/49/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5507,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Salford",
+                "teamB": "Sunderland U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/37998/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36546/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5508,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Bradford",
+                "teamB": "York",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/73/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:30:00 +0000",
+                "endTime": "2026/11/10 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5509,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Northampton",
+                "teamB": "Gillingham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/57/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/20/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5510,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Stockport County",
+                "teamB": "Tranmere",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/10/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/51/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5511,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Stevenage",
+                "teamB": "Fulham U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36548/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5512,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Huddersfield",
+                "teamB": "Liverpool U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/59/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36556/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5513,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Crawley",
+                "teamB": "Brentford U21",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4875/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/457809/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:30:00 +0000",
+                "endTime": "2026/11/10 21:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5514,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Oxford Utd",
+                "teamB": "Cheltenham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/95/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/69/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/10 19:00:00 +0000",
+                "endTime": "2026/11/10 21:20:00 +0000"
             },
             "channels_data": [
                 {

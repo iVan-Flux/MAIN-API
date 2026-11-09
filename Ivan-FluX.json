@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:45:46 AM 09-11-2026",
+    "Last update time": "10:50:44 AM 09-11-2026",
     "Live": "00",
     "Upcoming": "29",
     "Finish": "00",
@@ -1419,11 +1419,27 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SonyLiv PRIME FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lmd0oo0ics/out/v1/a58b8300d49c4d28b80c38c6a1de142d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ef8ec3d7781779ed00ee749237c093c4:f6dd88b99050c805e2e84e5005169300",
+                    "tokenApi": ""
+                },
+                {
                     "title": "WILLOW ALT",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "94c450ba03f839dd6175a412dfefde4c:4a374f703bfce7300320f01e4791f432",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TEN SPORTS HD",
+                    "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {

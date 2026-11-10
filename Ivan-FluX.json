@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:50:45 AM 10-11-2026",
+    "Last update time": "07:55:35 AM 10-11-2026",
     "Live": "00",
     "Upcoming": "63",
     "Finish": "00",
@@ -1999,6 +1999,14 @@
             },
             "channels_data": [
                 {
+                    "title": "NBA GAMEPASS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqfg5ohciz/out/v1/e24fd468c17640d5a79c1399b2cc39b9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a3c63a2c287f2dbb1c1a037738f33125:17a912f774d92ea96388e7e0841d5314",
+                    "tokenApi": ""
+                },
+                {
                     "title": "NBA HD",
                     "link": "https://chatgpt.hereisman.net/playlist/59729/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
@@ -2009,6 +2017,14 @@
                 {
                     "title": "NBA ATL",
                     "link": "https://tedesco.formaturamaxi.com.br/nba7.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/59743/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2283,6 +2299,14 @@
                 "endTime": "2026/11/10 04:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "NBA GAMEPASS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jr3yv9tjd0/out/v1/2ab624521e3d4d0995d74fa7f2ecceb0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5a86fa6b97343c057c792e95cf6634ba:f18cc1b708b1c2c58aad619df9527d2e",
+                    "tokenApi": ""
+                },
                 {
                     "title": "TSN 2 FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",

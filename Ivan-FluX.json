@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:25:35 PM 10-11-2026",
+    "Last update time": "11:31:16 PM 10-11-2026",
     "Live": "00",
     "Upcoming": "67",
     "Finish": "00",
@@ -1215,8 +1215,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD QUALITY",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4658636.m3u8?txSecret=0a392fea1b6a67c8aa520aafc4d57bf1&txTime=6AF36BE9|Referer=https://player.on8on8.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2095,6 +2103,14 @@
                     "type": 0,
                     "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
                     "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/59753/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2183,6 +2199,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/59754/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

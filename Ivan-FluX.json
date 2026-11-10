@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:01:07 PM 10-11-2026",
+    "Last update time": "03:05:33 PM 10-11-2026",
     "Live": "00",
-    "Upcoming": "55",
+    "Upcoming": "53",
     "Finish": "00",
     "events": [
         {
@@ -1224,6 +1224,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "SonyLiv PRIME FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/urj1hvt4lw/out/v1/e1cfb1743cb24e68a07ce860e9d73c06/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2e79bb5f16ad590344c8b64df4965c33:eb018c62af7d3e7fe1232d15be093f65",
+                    "tokenApi": ""
+                },
+                {
                     "title": "WILLOW ALT",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
                     "logo": "",
@@ -1232,16 +1240,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SonyLiv PRIME FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
-                    "tokenApi": ""
-                },
-                {
                     "title": "SonyLiv (ASIA)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c389b1e808061bc14b4d3ab9559ad06b-1794286200176",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2154,118 +2154,6 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5523,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Canucks",
-                "teamB": "Flyers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/10 02:30:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NOVA SPORT 1 FHD",
-                    "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL ATL",
-                    "link": "https://admin2.formaturamaxi.com.br/nhl2.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL LIVE [FHD]",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/nhl/2026-11-09/phi-van",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5525,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Sharks",
-                "teamB": "Islanders",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/10 03:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59747/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NOVA SPORT 2 FHD",
-                    "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL ATL",
-                    "link": "https://tedesco.formaturamaxi.com.br/nhl3.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL LIVE [FHD]",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/nhl/2026-11-09/nyi-sj",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
                 }
             ]
         }

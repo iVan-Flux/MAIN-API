@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:20:42 AM 10-11-2026",
+    "Last update time": "10:25:38 AM 10-11-2026",
     "Live": "00",
     "Upcoming": "55",
     "Finish": "00",
@@ -1225,15 +1225,31 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "u",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ATL",
-                    "link": "u",
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv PRIME FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (ASIA)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1260,15 +1276,31 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://no.link",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ATL",
-                    "link": "u",
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv PRIME FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (ASIA)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
                     "logo": "",
                     "type": 0,
                     "api": "",

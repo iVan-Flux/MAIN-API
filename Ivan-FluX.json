@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:20:47 AM 10-11-2026",
+    "Last update time": "07:25:34 AM 10-11-2026",
     "Live": "00",
     "Upcoming": "68",
     "Finish": "00",
@@ -26,6 +26,22 @@
             },
             "channels_data": [
                 {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PRIME ENG FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -34,27 +50,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PRIME ENG FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cqbd0spknz/out/v1/71f66b096687482b8139a87814657aee/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d6fa7afe010c5fd6a05338599da7158f:865584ea64ec125cd6524ab3fb7d0e80",
-                    "tokenApi": ""
-                },
-                {
                     "title": "PRIME HINDI FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/kuptqxvclu/out/v1/5f434a56da684ce58ef04a955faeb1d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "8e3eef73bb953c9da96600b47e2190d1:f1dbf72267c0bb24aa5fa2ab61987df8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f",
                     "tokenApi": ""
                 },
                 {
@@ -67,10 +67,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f",
+                    "api": "e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f",
                     "tokenApi": ""
                 },
                 {

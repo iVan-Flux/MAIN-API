@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:20:45 PM 11-11-2026",
+    "Last update time": "04:25:34 PM 11-11-2026",
     "Live": "00",
-    "Upcoming": "29",
+    "Upcoming": "51",
     "Finish": "00",
     "events": [
         {
@@ -1414,6 +1414,600 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/11 17:45:00 +0000",
                 "endTime": "2026/11/11 20:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5539,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sheffield Wed",
+                "teamB": "Accrington",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/12/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/11 19:00:00 +0000",
+                "endTime": "2026/11/11 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5540,
+            "title": "Football League Trophy",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/334/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Barnsley",
+                "teamB": "Oldham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/65/image",
+                "eventName": "Football League Trophy",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/11 19:00:00 +0000",
+                "endTime": "2026/11/11 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5541,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Bucks",
+                "teamB": "Lakers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 01:00:00 +0000",
+                "endTime": "2026/11/12 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5542,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Trail Blazers",
+                "teamB": "Thunder",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 03:00:00 +0000",
+                "endTime": "2026/11/12 05:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5543,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Knicks",
+                "teamB": "Cavaliers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 00:00:00 +0000",
+                "endTime": "2026/11/12 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5544,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Bulls",
+                "teamB": "Spurs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 01:00:00 +0000",
+                "endTime": "2026/11/12 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5545,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Grizzlies",
+                "teamB": "Nuggets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 01:00:00 +0000",
+                "endTime": "2026/11/12 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5546,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Raptors",
+                "teamB": "Celtics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 00:00:00 +0000",
+                "endTime": "2026/11/12 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5547,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Pelicans",
+                "teamB": "Nets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 01:00:00 +0000",
+                "endTime": "2026/11/12 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5548,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Pacers",
+                "teamB": "Wizards",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 00:00:00 +0000",
+                "endTime": "2026/11/12 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5549,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Rockets",
+                "teamB": "Warriors",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 02:30:00 +0000",
+                "endTime": "2026/11/12 05:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5550,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Jazz",
+                "teamB": "Magic",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 02:00:00 +0000",
+                "endTime": "2026/11/12 04:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5551,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Flames",
+                "teamB": "Rangers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 00:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5552,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Golden Knights",
+                "teamB": "Mammoth",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 02:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5553,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Ducks",
+                "teamB": "Predators",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 03:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5554,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Oilers",
+                "teamB": "Flyers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 02:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5555,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Sabres",
+                "teamB": "Lightning",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5556,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Sharks",
+                "teamB": "Penguins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/12 03:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5557,
+            "title": "World Championship Women",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Germany",
+                "teamB": "Switzerland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5727/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5725/image",
+                "eventName": "World Championship Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/11 14:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5558,
+            "title": "World Championship Women",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "USA",
+                "teamB": "Czechia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/72454/image",
+                "eventName": "World Championship Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/11 18:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5559,
+            "title": "World Championship Women",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Canada",
+                "teamB": "Finland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5721/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5728/image",
+                "eventName": "World Championship Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/11 14:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5560,
+            "title": "World Championship Women",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/428/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Japan",
+                "teamB": "Sweden",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22241/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5724/image",
+                "eventName": "World Championship Women",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/11 18:00:00 +0000",
+                "endTime": "  +0000"
             },
             "channels_data": [
                 {

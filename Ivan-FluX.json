@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:01:06 AM 11-11-2026",
+    "Last update time": "10:05:36 AM 11-11-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -142,10 +142,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lspl6vxgj8/out/v1/1a1a94976b6a45a69e5f78a41aaca108/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "cd976e47eff3942879f7d0f243bc82d0:b66a35dcdb61c0f0fd4b60a6c207dfbb",
+                    "api": "e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7",
                     "tokenApi": ""
                 },
                 {
@@ -166,10 +166,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lspl6vxgj8/out/v1/1a1a94976b6a45a69e5f78a41aaca108/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "cd976e47eff3942879f7d0f243bc82d0:b66a35dcdb61c0f0fd4b60a6c207dfbb",
+                    "api": "e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7",
                     "tokenApi": ""
                 },
                 {
@@ -183,6 +183,14 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/D222AW.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAPMAD BD",
+                    "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

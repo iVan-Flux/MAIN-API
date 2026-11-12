@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:25:30 AM 12-11-2026",
+    "Last update time": "10:31:14 AM 12-11-2026",
     "Live": "00",
-    "Upcoming": "32",
+    "Upcoming": "30",
     "Finish": "00",
     "events": [
         {
@@ -373,8 +373,8 @@
                 "eventName": "Abu Dhabi T10 League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/11 13:40:00 +0000",
-                "endTime": "2026/11/11 19:00:00 +0000"
+                "startTime": "2026/11/13 11:30:00 +0000",
+                "endTime": "2026/11/13 19:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -1375,41 +1375,6 @@
             ]
         },
         {
-            "id": 5549,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Rockets",
-                "teamB": "Warriors",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/12 02:30:00 +0000",
-                "endTime": "2026/11/12 05:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/9206808520/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.44/hls/NRRRAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5552,
             "title": "NHL",
             "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -1480,41 +1445,6 @@
                 {
                     "title": "NHL HD",
                     "link": "https://chatgpt.hereisman.net/playlist/59869/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5554,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Oilers",
-                "teamB": "Flyers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/12 02:00:00 +0000",
-                "endTime": "2026/11/12 05:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL LIVE FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5a96525-fc6f-4a42-8be7-2096abf040c0/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59861/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

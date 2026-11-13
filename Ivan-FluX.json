@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:15:46 AM 14-11-2026",
+    "Last update time": "01:20:46 AM 14-11-2026",
     "Live": "00",
     "Upcoming": "76",
     "Finish": "00",
@@ -1906,6 +1906,14 @@
             },
             "channels_data": [
                 {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4518090.m3u8?txSecret=36c6589ae8e81b9923acd27f0e6915b3&txTime=6AF77C8A|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD QUALITY",
                     "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
@@ -1949,6 +1957,14 @@
             },
             "channels_data": [
                 {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4518094.m3u8?txSecret=2d862ca9383cf7adbe0aa0aff1d0dac3&txTime=6AF77E34|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/E777AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -1983,6 +1999,14 @@
                 "endTime": "2026/11/13 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4518093.m3u8?txSecret=3ea3379b7e5a74bd968f36dd4b36da7e&txTime=6AF77CD5|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD QUALITY",
                     "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
@@ -2026,6 +2050,14 @@
                 "endTime": "2026/11/13 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4518088.m3u8?txSecret=ed005e20a031f2b1b96e4533b3e5cb06&txTime=6AF77DCB|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.50/hls/GPPPAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -2092,6 +2124,14 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ASIA]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2112,6 +2152,14 @@
                 "endTime": "2026/11/13 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4518092.m3u8?txSecret=c296f347bd29347c36cb760e681dda59&txTime=6AF77E84|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/E777A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -2337,6 +2385,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NATIONS LEAGUE HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/59949/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4518085.m3u8?txSecret=1e1e95f4f21a2eec07afa68facb7d00d&txTime=6AF77D8B|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 },
                 {

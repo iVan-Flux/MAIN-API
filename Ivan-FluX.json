@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:31:24 PM 13-11-2026",
+    "Last update time": "10:35:35 PM 13-11-2026",
     "Live": "00",
     "Upcoming": "76",
     "Finish": "00",
@@ -2052,6 +2052,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/59938/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/GYGYGYAA.m3u8|Referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER+",
                     "link": "http://162.251.160.53:8089/1030/index.m3u8",
                     "logo": "",
@@ -2061,6 +2077,31 @@
                         "url": "http://162.251.160.53:8089/1030/index.m3u8",
                         "api": "http://162.251.160.53:8089/1030/index.m3u8",
                         "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "SonyLiv (ASIA)",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794630361~acl=/*~id=29281024628665723715919917940190~hmac=042a7f72b08ef1bc44d6dc91eef332d9e5a18737fabb2cfe6685958d3d0c79c0|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/mda-kaz",
+                        "type": "embed",
                         "link_key": "playback_url",
                         "default_string": "N8x7Y%m+6n",
                         "request_type": "get",

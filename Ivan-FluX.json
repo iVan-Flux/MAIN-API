@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:45:47 PM 13-11-2026",
+    "Last update time": "09:50:59 PM 13-11-2026",
     "Live": "00",
     "Upcoming": "80",
     "Finish": "00",
@@ -1828,8 +1828,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/WAWAWAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2180,6 +2180,14 @@
             "channels_data": [
                 {
                     "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/0f998e02-556a-48fb-9751-b1a8bce25185.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
                     "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
@@ -2239,7 +2247,23 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4642728.m3u8?txSecret=de8d7cf5d99199fa9ac5719fb27f7b30&txTime=6AF74C83|referer=https://player.on8on8.com/&origin=https://player.on8on8.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/c29bb39d-a523-4e0d-801e-ac204dcba07b.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
                     "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
@@ -2326,6 +2350,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/be5429c9-a036-4826-aa4b-143acc814b96.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/ZAZAZAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -2395,6 +2427,14 @@
                 },
                 {
                     "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/79d0cd07-bdb5-4490-8dea-dae7073dbb49.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
                     "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
@@ -2446,7 +2486,23 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4642723.m3u8?txSecret=7cd641e98508f698e0381de0fdbe2ca3&txTime=6AF74C44|referer=https://player.on8on8.com/&origin=https://player.on8on8.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/ae9ed21f-95ee-4552-9ff6-dcc35bb34c55.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
                     "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
@@ -2526,6 +2582,14 @@
             "channels_data": [
                 {
                     "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/47a6e8c2-1678-4e1f-ae25-4afe5c0303f1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
                     "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,

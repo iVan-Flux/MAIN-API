@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:25:30 AM 15-11-2026",
+    "Last update time": "01:31:10 AM 15-11-2026",
     "Live": "00",
     "Upcoming": "89",
     "Finish": "00",
@@ -1948,6 +1948,30 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6wdzczg8ai/out/v1/b41d02a57d99446e82a326588b588917/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7aea10fa1e028a72ae2475feac5a9b73:8ecf359f2a9436db1291eaaaaf1ae2b2",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LIVE SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/60028/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/p-3bba53661bb04bddacdc167afca2e272.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/RARARA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -2218,6 +2242,30 @@
                 "endTime": "2026/11/14 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/12gtj56m2g/out/v1/ffeb221c989d4a7a9f6d86d47fcbf4f2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0cb5f89ea0e48185a920e5520d16a471:4b9f7810a5969eac231aef27ddd98415",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/60027/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/p-facfa93b392046948b216449e17397b4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.55/hls/RARARAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",

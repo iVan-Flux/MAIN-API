@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:40:45 AM 14-11-2026",
+    "Last update time": "10:45:41 AM 14-11-2026",
     "Live": "00",
     "Upcoming": "76",
     "Finish": "00",
@@ -256,11 +256,19 @@
             },
             "channels_data": [
                 {
-                    "title": "SonyLiv PRIME FHD",
+                    "title": "PRIME VIDEO [Multi Audio]",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW - AdFree",
+                    "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zx4jlrv9p5/out/v1/7df7e6d0e16745b5ac2cf28d2ab40fc8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ea34a15a1bff7bccd0e54fb079cd5373:97d76953ace3dd3ea44af3db47ae7f75",
                     "tokenApi": ""
                 },
                 {
@@ -280,8 +288,24 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TEN SPORTS HD",
+                    "title": "PTV SPORTS FHD",
+                    "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TEN SPORTS FHD",
                     "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAMASHA FHD",
+                    "link": "https://cdn05khi-n.tamashaweb.com:8087/appcast/ACCMEN-U19-2026-avod-abr/playlist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

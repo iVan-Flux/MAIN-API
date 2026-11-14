@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:20:40 PM 14-11-2026",
+    "Last update time": "02:25:34 PM 14-11-2026",
     "Live": "00",
-    "Upcoming": "109",
+    "Upcoming": "80",
     "Finish": "00",
     "events": [
         {
@@ -1466,228 +1466,6 @@
             ]
         },
         {
-            "id": 5621,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Iraq",
-                "teamB": "Lebanon",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4767/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4774/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 15:00:00 +0000",
-                "endTime": "2026/11/13 17:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/BBBBAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5622,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Qatar",
-                "teamB": "Australia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 14:45:00 +0000",
-                "endTime": "2026/11/13 17:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4650130.m3u8?txSecret=fe0b592ed431dd49ed4a1cee0d6fc34d&txTime=6AF738F7|referer=https://player.on8on8.com/&origin=https://player.on8on8.com|referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/BBBBAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5624,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Saudi Arabia",
-                "teamB": "South Korea",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4834/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 14:30:00 +0000",
-                "endTime": "2026/11/13 16:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4663038.m3u8?txSecret=1419bea43a22798e526178a2b2fb66e8&txTime=6AF736B7|referer=https://player.on8on8.com/&Origin=https://player.on8on8.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/BBBBAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5625,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Argentina",
-                "teamB": "Uruguay",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 23:00:00 +0000",
-                "endTime": "2026/11/14 01:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "VIX TUDN FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/68nwxm1dcd/out/v1/bdab973002a441e59ec79082d0492fb6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "fbf28c5103107048189c3be8a70f0aae:2a41a5a7c58965342252f4ef522fc18b",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SporTV BR FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SporTV BR HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59967/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4663041.m3u8?txSecret=6e5561ca92086441deb5ab5ecba44012&txTime=6AF7AC49|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.50/hls/ZZZZ.m3u8|referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TYC SPORTS HD8",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://la18hd.su/vivo/canales.php?stream=tycsports",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "TYC SPORTS HD",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://streamtp-golden1.click/global1.php?stream=tycsports",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
             "id": 5626,
             "title": "International Friendly Games",
             "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
@@ -1742,57 +1520,6 @@
             ]
         },
         {
-            "id": 5628,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Colombia",
-                "teamB": "Chile",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4820/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 00:00:00 +0000",
-                "endTime": "2026/11/14 02:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "D SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4650132.m3u8?txSecret=4a814bc90ac504f62fa05d1bfc89d71e&txTime=6AF7B6FF|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=131e0e7df498c67b811014949bb8edb4&wsABSTime=1794657720?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/goooa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5629,
             "title": "International Friendly Games",
             "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
@@ -1807,1507 +1534,6 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/14 10:15:00 +0000",
                 "endTime": "2026/11/14 12:35:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5630,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Peru",
-                "teamB": "Bolivia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4790/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4746/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 01:00:00 +0000",
-                "endTime": "2026/11/14 03:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/goooaaaQQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5631,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Jordan",
-                "teamB": "Indonesia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 18:00:00 +0000",
-                "endTime": "2026/11/13 20:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5632,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Bahrain",
-                "teamB": "Yemen",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5161/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4721/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 06:00:00 +0000",
-                "endTime": "2026/11/14 08:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5634,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Ecuador",
-                "teamB": "Costa Rica",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 00:00:00 +0000",
-                "endTime": "2026/11/14 02:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4663042.m3u8?txSecret=5b41d9dd962b9f6668845f8ce68fb537&txTime=6AF7B740|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel22.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/goooaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5635,
-            "title": "International Friendly Games",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Kuwait",
-                "teamB": "Syria",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5368/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
-                "eventName": "International Friendly Games",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 16:30:00 +0000",
-                "endTime": "2026/11/13 18:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel23.m3u8|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/WAWAWAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5636,
-            "title": "Copa del Rey",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/329/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Salamanca",
-                "teamB": "Celta",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/263916/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-                "eventName": "Copa del Rey",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 20:00:00 +0000",
-                "endTime": "2026/11/13 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.41/hls/EBBBAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5637,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Liechtenstein",
-                "teamB": "Azerbaijan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4830/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518095.m3u8?txSecret=f35f9d79edd0bae07edbbdd7a3f98ce5&txTime=6AF77C50|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.41/hls/E777AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5638,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Slovakia",
-                "teamB": "Faroe Islands",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4760/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518090.m3u8?txSecret=36c6589ae8e81b9923acd27f0e6915b3&txTime=6AF77C8A|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.41/hls/E777AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5639,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Andorra",
-                "teamB": "Gibraltar",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518094.m3u8?txSecret=2d862ca9383cf7adbe0aa0aff1d0dac3&txTime=6AF77E34|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.41/hls/E777AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5640,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Bulgaria",
-                "teamB": "Iceland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4716/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518093.m3u8?txSecret=3ea3379b7e5a74bd968f36dd4b36da7e&txTime=6AF77CD5|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.41/hls/E777.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5641,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Slovenia",
-                "teamB": "Switzerland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4484/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518088.m3u8?txSecret=ed005e20a031f2b1b96e4533b3e5cb06&txTime=6AF77DCB|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.50/hls/GPPPAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5642,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Scotland",
-                "teamB": "North Macedonia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4695/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4777/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FOX SOCCER+ HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59945/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518087.m3u8?txSecret=e1f38adfa76b8fa23d3262e50d213f24&txTime=6AF77C23|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.50/hls/GPPPAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5643,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Luxembourg",
-                "teamB": "Estonia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4478/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4759/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518092.m3u8?txSecret=c296f347bd29347c36cb760e681dda59&txTime=6AF77E84|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.41/hls/E777A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5644,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Moldova",
-                "teamB": "Kazakhstan",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4782/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4772/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 17:00:00 +0000",
-                "endTime": "2026/11/13 19:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "beIN ENGLISH FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/59938/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/GYGYGYAA.m3u8|Referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER+",
-                    "link": "http://162.251.160.53:8089/1030/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "http://162.251.160.53:8089/1030/index.m3u8",
-                        "api": "http://162.251.160.53:8089/1030/index.m3u8",
-                        "type": "ls",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "SonyLiv (ASIA)",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794630361~acl=/*~id=29281024628665723715919917940190~hmac=042a7f72b08ef1bc44d6dc91eef332d9e5a18737fabb2cfe6685958d3d0c79c0|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FHD SERVER",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/mda-kaz",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5645,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Serbia",
-                "teamB": "Germany",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "beIN ENGLISH FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FUBO SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TVE La 1 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SPORT 1 CZ FHD",
-                    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NATIONS LEAGUE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59947/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LIVE SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518086.m3u8?txSecret=6afb8be749bd528624d0198e4c0d19cc&txTime=6AF77BC6|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.44/hls/GPPPAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5646,
-            "title": "UEFA Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Netherlands",
-                "teamB": "Greece",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
-                "eventName": "UEFA Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:45:00 +0000",
-                "endTime": "2026/11/13 22:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FOX SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beIN ENGLISH FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NATIONS LEAGUE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59949/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://live.vivo155.com/live/hd-en-1-4518085.m3u8?txSecret=1e1e95f4f21a2eec07afa68facb7d00d&txTime=6AF77D8B|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.44/hls/GPPPAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONYLIV [ASIA]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794641265~acl=/*~id=34298189308765738799114974428712~hmac=80607e0dc909e2296c1883d9366a732507031d540d8f517e301343de2193bac0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5647,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Mali",
-                "teamB": "Rwanda",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4831/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/8037/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:00:00 +0000",
-                "endTime": "2026/11/13 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "beIN SPORTS FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel10.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.59/hls/GPPPA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5648,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Burkina Faso",
-                "teamB": "Mauritania",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4749/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4779/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 16:00:00 +0000",
-                "endTime": "2026/11/13 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4642727.m3u8?txSecret=9a9fc6927594506b2adfb398c7a2bf9e&txTime=6AF743FD|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://www.rtmpcdn.com/live/0f998e02-556a-48fb-9751-b1a8bce25185.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/WAWAWAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER+",
-                    "link": "http://162.251.160.53:8089/prime_us_b0hp6vpc2j/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "http://162.251.160.53:8089/prime_us_b0hp6vpc2j/index.m3u8",
-                        "api": "http://162.251.160.53:8089/prime_us_b0hp6vpc2j/index.m3u8",
-                        "type": "ls",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5649,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "South Africa",
-                "teamB": "Kenya",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4773/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 16:00:00 +0000",
-                "endTime": "2026/11/13 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "beIN ESPNAOL FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4642728.m3u8?txSecret=de8d7cf5d99199fa9ac5719fb27f7b30&txTime=6AF74C83|referer=https://player.on8on8.com/&origin=https://player.on8on8.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://www.rtmpcdn.com/live/c29bb39d-a523-4e0d-801e-ac204dcba07b.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.59/hls/ZAZAZAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER+",
-                    "link": "http://162.251.160.53:8089/prime_us_b0hpfhqdxm/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "http://162.251.160.53:8089/prime_us_b0hpfhqdxm/index.m3u8",
-                        "api": "http://162.251.160.53:8089/prime_us_b0hpfhqdxm/index.m3u8",
-                        "type": "ls",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5650,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Morocco",
-                "teamB": "Niger",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/8031/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 20:00:00 +0000",
-                "endTime": "2026/11/13 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "beIN SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.55/hls/GPPPAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5651,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Tunisia",
-                "teamB": "Libya",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4729/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4775/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 16:00:00 +0000",
-                "endTime": "2026/11/13 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "beIN SPORTS XTRA",
-                    "link": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=lLi8AB39t1Leqsc4dCjaew&e=2094539414&scheme=https|user-agent=Mozilla",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://www.rtmpcdn.com/live/be5429c9-a036-4826-aa4b-143acc814b96.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/ZAZAZAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER+",
-                    "link": "http://162.251.160.53:8089/1670/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "http://162.251.160.53:8089/1670/index.m3u8",
-                        "api": "http://162.251.160.53:8089/1670/index.m3u8",
-                        "type": "ls",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5652,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Nigeria",
-                "teamB": "Tanzania",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4785/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4835/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 16:00:00 +0000",
-                "endTime": "2026/11/13 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "BeIN SPORTS FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beIN SPORTS FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "beIN ENGLISH FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://www.rtmpcdn.com/live/79d0cd07-bdb5-4490-8dea-dae7073dbb49.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.50/hls/ZAZAZAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER+",
-                    "link": "http://162.251.160.53:8089/prime_us_b0hdvxn87j/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "http://162.251.160.53:8089/prime_us_b0hdvxn87j/index.m3u8",
-                        "api": "http://162.251.160.53:8089/prime_us_b0hdvxn87j/index.m3u8",
-                        "type": "ls",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5653,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Gabon",
-                "teamB": "Lesotho",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4761/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/8033/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 16:00:00 +0000",
-                "endTime": "2026/11/13 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4642723.m3u8?txSecret=7cd641e98508f698e0381de0fdbe2ca3&txTime=6AF74C44|referer=https://player.on8on8.com/&origin=https://player.on8on8.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://www.rtmpcdn.com/live/ae9ed21f-95ee-4552-9ff6-dcc35bb34c55.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.50/hls/ZAZAZAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER+",
-                    "link": "http://162.251.160.53:8089/prime_us_b0hpbvhjh4/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "http://162.251.160.53:8089/prime_us_b0hpbvhjh4/index.m3u8",
-                        "api": "http://162.251.160.53:8089/prime_us_b0hpbvhjh4/index.m3u8",
-                        "type": "ls",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5654,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Egypt",
-                "teamB": "Malawi",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4758/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/8043/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:00:00 +0000",
-                "endTime": "2026/11/13 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "beIN SPORTS FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel9.m3u8|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.55/hls/GPPP.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5655,
-            "title": "Africa Cup of Nations Qual.",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Cabo Verde",
-                "teamB": "Liberia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4753/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/8034/image",
-                "eventName": "Africa Cup of Nations Qual.",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 16:00:00 +0000",
-                "endTime": "2026/11/13 18:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4642740.m3u8?txSecret=d7b9e571b550d73c5e4a9d23329362ff&txTime=6AF743C2|Referer=https://player.on8on8.com/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://www.rtmpcdn.com/live/47a6e8c2-1678-4e1f-ae25-4afe5c0303f1.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.50/hls/ZAZAZA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER+",
-                    "link": "http://162.251.160.53:8089/prime_us_b0hpzytsmd/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "http://162.251.160.53:8089/prime_us_b0hpzytsmd/index.m3u8",
-                        "api": "http://162.251.160.53:8089/prime_us_b0hpzytsmd/index.m3u8",
-                        "type": "ls",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5656,
-            "title": "CONCACAF Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Guatemala",
-                "teamB": "Canada",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5163/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4752/image",
-                "eventName": "CONCACAF Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 02:00:00 +0000",
-                "endTime": "2026/11/14 04:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FOX SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN 3 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN 5 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5657,
-            "title": "CONCACAF Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Saint Martin",
-                "teamB": "El Salvador",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/33812/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
-                "eventName": "CONCACAF Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 23:00:00 +0000",
-                "endTime": "2026/11/14 01:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FOX SPORTS 2 US",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5658,
-            "title": "CONCACAF Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Montserrat",
-                "teamB": "Nicaragua",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/21815/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/21817/image",
-                "eventName": "CONCACAF Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 00:00:00 +0000",
-                "endTime": "2026/11/14 02:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5659,
-            "title": "CONCACAF Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Bermuda",
-                "teamB": "Saint Lucia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4745/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/21820/image",
-                "eventName": "CONCACAF Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:00:00 +0000",
-                "endTime": "2026/11/13 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5660,
-            "title": "CONCACAF Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Puerto Rico",
-                "teamB": "Dominica",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/21818/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/21812/image",
-                "eventName": "CONCACAF Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:00:00 +0000",
-                "endTime": "2026/11/13 21:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5661,
-            "title": "CONCACAF Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Grenada",
-                "teamB": "St. Kitts And Nevis",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/21814/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/21819/image",
-                "eventName": "CONCACAF Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:00:00 +0000",
-                "endTime": "2026/11/13 21:20:00 +0000"
             },
             "channels_data": [
                 {
@@ -3340,482 +1566,6 @@
                 {
                     "title": "Link 1",
                     "link": "https://no.link",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5663,
-            "title": "LaLiga 2",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Leganés",
-                "teamB": "Burgos",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-                "eventName": "LaLiga 2",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/13 19:30:00 +0000",
-                "endTime": "2026/11/13 21:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "LaLiga Hypermotion",
-                    "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.41/hls/EBBBAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5664,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Heat",
-                "teamB": "Cavaliers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 01:00:00 +0000",
-                "endTime": "2026/11/14 03:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA PASS FHD",
-                    "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0JF8MXECDZLRGHOSXKY002DXP3.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0JF8MXECDZLRGHOSXKY002DXP3",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59988/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59985/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5665,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Pacers",
-                "teamB": "Knicks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 00:00:00 +0000",
-                "endTime": "2026/11/14 02:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA PASS FHD",
-                    "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0PM3W4TWCHARZA2LM68FIJCGQO.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0PM3W4TWCHARZA2LM68FIJCGQO",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59966/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59979/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59962/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5666,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Rockets",
-                "teamB": "Jazz",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 01:30:00 +0000",
-                "endTime": "2026/11/14 04:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA PASS FHD",
-                    "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0MPXEUJQ5MV2QG879UG8ST6KH4.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0MPXEUJQ5MV2QG879UG8ST6KH4",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TSN 4 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5667,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Kings",
-                "teamB": "Trail Blazers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 03:00:00 +0000",
-                "endTime": "2026/11/14 05:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60008/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LEAGUEPASS FHD",
-                    "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0Q7LB7HJKNLVRSKHPISL9PR95I.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0Q7LB7HJKNLVRSKHPISL9PR95I",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5668,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Pelicans",
-                "teamB": "Grizzlies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 01:00:00 +0000",
-                "endTime": "2026/11/14 03:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA PASS FHD",
-                    "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0HA2K9MM8HL92JUR2U1C8O5VRS.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0HA2K9MM8HL92JUR2U1C8O5VRS",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59981/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59993/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5670,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Spurs",
-                "teamB": "Warriors",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 02:30:00 +0000",
-                "endTime": "2026/11/14 05:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA PASS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jgygiimpim/out/v1/02f930af80e84a9fb8040e478da6e252/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "f420b8baa9b82347fd6f5a8ebf052b9d:fec99ead9eb59c1dd3e1d17205716521",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60005/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60014/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5671,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Clippers",
-                "teamB": "Thunder",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 03:30:00 +0000",
-                "endTime": "2026/11/14 06:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA PASS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lfkqchjfny/out/v1/a7c27e085aa74f91800c984439ff6e74/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "34193d90b22d421857212337573239b3:568a057cdd8707ec6690f6d2d39d9335",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60016/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5672,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Magic",
-                "teamB": "Bucks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 00:00:00 +0000",
-                "endTime": "2026/11/14 02:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA PASS FHD",
-                    "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0Q3VD3NBTMLGWVXAA7D09D1PAE.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0Q3VD3NBTMLGWVXAA7D09D1PAE",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59976/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59965/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5673,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Bulls",
-                "teamB": "Hawks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 01:00:00 +0000",
-                "endTime": "2026/11/14 03:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA PASS FHD",
-                    "link": "https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0MUAJ8IRY6NGZTICWHF5XWZK09.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0MUAJ8IRY6NGZTICWHF5XWZK09",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59986/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/59987/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5674,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Golden Knights",
-                "teamB": "Predators",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 03:00:00 +0000",
-                "endTime": "2026/11/14 06:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/47af8364-c784-476d-8005-c78ef15577da/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60006/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5675,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Canucks",
-                "teamB": "Rangers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/14 02:00:00 +0000",
-                "endTime": "2026/11/14 05:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c7955b60-e53c-424d-b9b3-97e70778ecd2/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3868,8 +1618,8 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "HD SERVER",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -4729,6 +2479,519 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/14 23:00:00 +0000",
                 "endTime": "2026/11/15 01:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5710,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Pelicans",
+                "teamB": "Nuggets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "2026/11/15 02:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5711,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Heat",
+                "teamB": "Pistons",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 01:00:00 +0000",
+                "endTime": "2026/11/15 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5712,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Grizzlies",
+                "teamB": "Nets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 01:00:00 +0000",
+                "endTime": "2026/11/15 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5713,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Timberwolves",
+                "teamB": "Bulls",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 01:00:00 +0000",
+                "endTime": "2026/11/15 03:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5714,
+            "title": "NBA",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+            "cat": "Basketball",
+            "eventInfo": {
+                "teamA": "Cavaliers",
+                "teamB": "Mavericks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+                "eventName": "NBA",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:30:00 +0000",
+                "endTime": "2026/11/15 03:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5715,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Maple Leafs",
+                "teamB": "Oilers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5716,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Canadiens",
+                "teamB": "Avalanche",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5717,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Blackhawks",
+                "teamB": "Jets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/14 20:30:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5718,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Stars",
+                "teamB": "Sabres",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 01:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5719,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Blue Jackets",
+                "teamB": "Flyers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5720,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Mammoth",
+                "teamB": "Sharks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 02:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5721,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Lightning",
+                "teamB": "Red Wings",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5722,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Blues",
+                "teamB": "Panthers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5723,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Kings",
+                "teamB": "Flames",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 03:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5724,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Penguins",
+                "teamB": "Senators",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5725,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Ducks",
+                "teamB": "Islanders",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 03:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5726,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Bruins",
+                "teamB": "Wild",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5727,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Capitals",
+                "teamB": "Devils",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/15 00:00:00 +0000",
+                "endTime": "  +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5728,
+            "title": "NHL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+            "cat": "Hockey",
+            "eventInfo": {
+                "teamA": "Hurricanes",
+                "teamB": "Kraken",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+                "eventName": "NHL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/14 18:00:00 +0000",
+                "endTime": "  +0000"
             },
             "channels_data": [
                 {

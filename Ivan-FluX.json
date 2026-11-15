@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:45:44 AM 15-11-2026",
+    "Last update time": "10:50:54 AM 15-11-2026",
     "Live": "00",
     "Upcoming": "39",
     "Finish": "00",
@@ -416,8 +416,8 @@
                 "eventName": "Women's Big Bash League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/15 00:00:00 +0000",
-                "endTime": "2026/11/15 04:30:00 +0000"
+                "startTime": "2026/11/16 08:10:00 +0000",
+                "endTime": "2026/11/16 12:50:00 +0000"
             },
             "channels_data": [
                 {
@@ -1684,11 +1684,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "ICC TV FHD",
+                    "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794747162~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=703533e15aacdfe118bb0670a65b1bd8cb4a1fc5b474e004a57b98c852359c01/manifest.mpd?vcfilter=faf519ce-04cb-42eb-a76d-37a2444c8315|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
                     "tokenApi": ""
                 }
             ]

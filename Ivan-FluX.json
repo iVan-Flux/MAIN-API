@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:25:33 AM 15-11-2026",
+    "Last update time": "07:31:12 AM 15-11-2026",
     "Live": "00",
     "Upcoming": "86",
     "Finish": "00",
@@ -34,19 +34,19 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "PRIME HINDI FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PRIME ENG FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcu7rpwyvi/out/v1/05f98d7430fd4ceeb3317fe61cc536b0/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "2a074c6c1178670701cbfeca48c0abe5:d7d84ab8144591ba0a49e443c571bf10",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PRIME HINDI FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/x9rbps3nff/out/v1/737eb86856de4824b26f7af699a34b56/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "4ccabc091fc06e2c983228d547530c5d:0dad1a9082f3e94f66b3b38864ff0f08",
                     "tokenApi": ""
                 },
                 {
@@ -3243,12 +3243,20 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/11/15 00:00:00 +0000",
-                "endTime": "  +0000"
+                "endTime": "2026/11/15 03:00:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NHL FHD",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5f9b94d9-e0fa-42d4-b50b-8918ac56934d/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NHL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60100/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3297,12 +3305,20 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/11/15 00:00:00 +0000",
-                "endTime": "  +0000"
+                "endTime": "2026/11/15 03:00:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NHL FHD",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/36a9ca70-9834-492e-80bb-2ac884d5edf8/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NHL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60095/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:35:35 AM 15-11-2026",
+    "Last update time": "07:40:43 AM 15-11-2026",
     "Live": "00",
     "Upcoming": "86",
     "Finish": "00",
@@ -3181,12 +3181,20 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/11/15 02:00:00 +0000",
-                "endTime": "  +0000"
+                "endTime": "2026/11/15 05:00:00 +0000"
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no.link",
+                    "title": "NHL FHD",
+                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a5289e57-4e10-498c-a30c-7837d85ce160/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NHL HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60127/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:08:29 PM 16-11-2026",
+    "Last update time": "02:10:41 PM 16-11-2026",
     "Live": "00",
     "Upcoming": "29",
     "Finish": "00",
@@ -291,11 +291,19 @@
             },
             "channels_data": [
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+                    "title": "WILLOW - AdFree",
+                    "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7yhinlobdn/out/v1/430116b6e951437d8c90a67b7105c846/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53",
+                    "api": "077bdd2fee1dc89e58097d1e98c84b9b:5d4c89d27590ea7b084ce01023b73d52",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
                     "tokenApi": ""
                 },
                 {
@@ -340,10 +348,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7yhinlobdn/out/v1/430116b6e951437d8c90a67b7105c846/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53",
+                    "api": "077bdd2fee1dc89e58097d1e98c84b9b:5d4c89d27590ea7b084ce01023b73d52",
                     "tokenApi": ""
                 },
                 {

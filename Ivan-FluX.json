@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:26:24 PM 17-11-2026",
+    "Last update time": "01:28:23 PM 17-11-2026",
     "Live": "00",
-    "Upcoming": "52",
+    "Upcoming": "73",
     "Finish": "00",
     "events": [
         {
@@ -2148,6 +2148,573 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/17 19:45:00 +0000",
                 "endTime": "2026/11/17 22:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5807,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mauritania",
+                "teamB": "Burkina Faso",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4779/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4749/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5808,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Guinea-Bissau",
+                "teamB": "Madagascar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/23478/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/8035/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 16:00:00 +0000",
+                "endTime": "2026/11/17 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5809,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Congo Republic",
+                "teamB": "Comoros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/8040/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/23494/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5810,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Rwanda",
+                "teamB": "Mali",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/8037/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4831/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5811,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Liberia",
+                "teamB": "Cabo Verde",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/8034/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4753/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5812,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Togo",
+                "teamB": "Algeria",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4836/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4691/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 16:00:00 +0000",
+                "endTime": "2026/11/17 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5813,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Niger",
+                "teamB": "Morocco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/8031/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 20:00:00 +0000",
+                "endTime": "2026/11/17 22:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5814,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Libya",
+                "teamB": "Tunisia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4775/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4729/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 16:00:00 +0000",
+                "endTime": "2026/11/17 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5815,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Kenya",
+                "teamB": "South Africa",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4773/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4736/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 16:00:00 +0000",
+                "endTime": "2026/11/17 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5816,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Botswana",
+                "teamB": "Uganda",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4747/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4726/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5817,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Gambia",
+                "teamB": "Côte d'Ivoire",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4762/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 16:00:00 +0000",
+                "endTime": "2026/11/17 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5818,
+            "title": "Africa Cup of Nations Qual.",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Sierra Leone",
+                "teamB": "DR Congo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4737/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+                "eventName": "Africa Cup of Nations Qual.",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 16:00:00 +0000",
+                "endTime": "2026/11/17 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5819,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "French Guiana",
+                "teamB": "Saint Vincent and the Grenadines",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/52906/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21821/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/18 00:00:00 +0000",
+                "endTime": "2026/11/18 02:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5820,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Belize",
+                "teamB": "Sint Maarten",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21809/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/298263/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5821,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "El Salvador",
+                "teamB": "Saint Martin",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4825/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/18 01:00:00 +0000",
+                "endTime": "2026/11/18 03:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5822,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Saint Lucia",
+                "teamB": "Barbados",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21820/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21808/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5823,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Mexico",
+                "teamB": "Jamaica",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4769/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/18 02:30:00 +0000",
+                "endTime": "2026/11/18 04:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5824,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "St. Kitts And Nevis",
+                "teamB": "Bonaire",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21819/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/180236/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5825,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "USA",
+                "teamB": "Haiti",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7229/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/18 00:00:00 +0000",
+                "endTime": "2026/11/18 02:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5826,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Dominica",
+                "teamB": "Cayman Islands",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21812/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21811/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/17 19:00:00 +0000",
+                "endTime": "2026/11/17 21:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no.link",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5827,
+            "title": "CONCACAF Nations League",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Nicaragua",
+                "teamB": "Montserrat",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/21817/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/21815/image",
+                "eventName": "CONCACAF Nations League",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/18 03:00:00 +0000",
+                "endTime": "2026/11/18 05:20:00 +0000"
             },
             "channels_data": [
                 {

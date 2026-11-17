@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:28:25 PM 17-11-2026",
+    "Last update time": "07:31:16 PM 17-11-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -513,10 +513,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqmsydyhc/out/v1/edc6ed0eeadf4639aa13be40fabaf289/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4b1eceb456bf99c799c594be747c678a:3db93c12c61be53ebc775ffd57aa6041",
+                    "api": "b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044",
                     "tokenApi": ""
                 },
                 {
@@ -529,10 +529,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yqqmsydyhc/out/v1/edc6ed0eeadf4639aa13be40fabaf289/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "4b1eceb456bf99c799c594be747c678a:3db93c12c61be53ebc775ffd57aa6041",
+                    "api": "b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044",
                     "tokenApi": ""
                 },
                 {
@@ -2092,7 +2092,7 @@
             },
             "channels_data": [
                 {
-                    "title": "LIVE SERVER",
+                    "title": "HD SERVER",
                     "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
@@ -2100,7 +2100,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "BTV BD - AQ",
+                    "title": "BTV BD FHD",
                     "link": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
                     "logo": "",
                     "type": 0,
@@ -2108,7 +2108,15 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "Tsports",
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/DGGGAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "T SPORTS HD",
                     "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
                     "logo": "",
                     "type": 0,
@@ -2126,14 +2134,6 @@
                 {
                     "title": "Myco (PAK)",
                     "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "https://fctv33.bideshimurgifarm.xyz/?url=https://zac01.superabbit77hd.xyz/football/saff-championship-4530022/india-vs-bhutan.html?icg=TVk&ilang=en",
                     "logo": "",
                     "type": 0,
                     "api": "",

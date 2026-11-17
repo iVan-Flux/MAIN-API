@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:02:27 PM 17-11-2026",
+    "Last update time": "09:04:38 PM 17-11-2026",
     "Live": "00",
     "Upcoming": "76",
     "Finish": "00",
@@ -1822,6 +1822,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4663052.m3u8?txSecret=7fa9cec9d21f5e7108d291ff5d8ac90e&txTime=6AFC6F91|Referer=https://player.on8on8.com/&Origin=https://player.on8on8.com&User-Agent=Mozilla/5.0 (Linux; Android 16; 2607DPC18G Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/157.0.8103.50 Mobile Safari/537.36&sec-ch-ua=\"Not-A.Brand\";v=\"99\", \"Android WebView\";v=\"157\", \"Chromium\";v=\"157\"&sec-ch-ua-mobile=?1&Accept=*/*&sec-ch-ua-platform=\"Android\"",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/DGGGAAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2011,6 +2019,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4667937.m3u8?txSecret=c1025a1942ad8e3b38cd56fda2f6ef37&txTime=6AFC71ED|Referer=https://player.on8on8.com/&Origin=https://player.on8on8.com&User-Agent=Mozilla/5.0 (Linux; Android 16; 2607DPC18G Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/157.0.8103.50 Mobile Safari/537.36&sec-ch-ua=\"Not-A.Brand\";v=\"99\", \"Android WebView\";v=\"157\", \"Chromium\";v=\"157\"&sec-ch-ua-mobile=?1&Accept=*/*&sec-ch-ua-platform=\"Android\"",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/DGGGAAAAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2100,8 +2116,49 @@
             },
             "channels_data": [
                 {
-                    "title": "FAST SERVER",
-                    "link": "https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/",
+                    "title": "MYCO FHD",
+                    "link": "https://ml-pull-hwc.myco.io/Court4/hls/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FHD SERVER",
+                    "link": "https://kick.com/api/v2/channels/ed323ue",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "https://kick.com/api/v2/channels/ed323ue",
+                        "api": "https://kick.com/api/v2/channels/ed323ue",
+                        "type": "sp",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "VETO (IND)",
+                    "link": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "MYCO (PAK)",
+                    "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "http://80.97.161.64/r/saff/master.m3u8|Referer=https://blablabla.com&Origin=https://blablabla.com",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2126,22 +2183,6 @@
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/DGGGAAAAX.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "VETO (IND)",
-                    "link": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "MYCO (PAK)",
-                    "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
                     "logo": "",
                     "type": 0,
                     "api": "",

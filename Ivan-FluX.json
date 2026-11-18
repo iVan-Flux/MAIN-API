@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:08:25 AM 19-11-2026",
+    "Last update time": "02:10:42 AM 19-11-2026",
     "Live": "00",
-    "Upcoming": "51",
+    "Upcoming": "52",
     "Finish": "00",
     "events": [
         {
@@ -2087,6 +2087,33 @@
                 {
                     "title": "Ivan-FluX",
                     "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5887,
+            "title": "Men,s Asia Cup Rising Stars 2026",
+            "image": "https://sportzpower.com/wp-content/uploads/2026/02/Womens-Asia-Cup-Rising-Stars.png",
+            "cat": "Cricket",
+            "eventInfo": {
+                "teamA": "BAN-A",
+                "teamB": "HK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+                "eventName": "Men,s Asia Cup Rising Stars 2026",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/19 05:50:00 +0000",
+                "endTime": "2026/11/20 09:30:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "yg",
                     "logo": "",
                     "type": 0,
                     "api": "",

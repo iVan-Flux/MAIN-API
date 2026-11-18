@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:31:11 PM 18-11-2026",
+    "Last update time": "01:32:34 PM 18-11-2026",
     "Live": "00",
-    "Upcoming": "31",
+    "Upcoming": "25",
     "Finish": "00",
     "events": [
         {
@@ -292,10 +292,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+                    "api": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
                     "tokenApi": ""
                 },
                 {
@@ -332,10 +332,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+                    "api": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
                     "tokenApi": ""
                 },
                 {
@@ -1268,232 +1268,6 @@
                 {
                     "title": "SonyLiv (BEN)",
                     "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=55d1c3519fa130d9ef3a140f2050099d-1794058203021",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5823,
-            "title": "CONCACAF Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Mexico",
-                "teamB": "Jamaica",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/4769/image",
-                "eventName": "CONCACAF Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/18 02:30:00 +0000",
-                "endTime": "2026/11/18 04:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "CANAL5 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TUDN MEXICO FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://chatgpt.hereisman.net/playlist/60362/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER+",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5827,
-            "title": "CONCACAF Nations League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Nicaragua",
-                "teamB": "Montserrat",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/21817/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/21815/image",
-                "eventName": "CONCACAF Nations League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/18 03:00:00 +0000",
-                "endTime": "2026/11/18 05:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.59/hls/BHHHAAAAAQ.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5836,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Golden Knights",
-                "teamB": "Stars",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/18 03:00:00 +0000",
-                "endTime": "2026/11/18 06:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60368/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5838,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Sharks",
-                "teamB": "Flames",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/18 03:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60369/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5843,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Clippers",
-                "teamB": "Jazz",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/18 03:30:00 +0000",
-                "endTime": "2026/11/18 06:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60373/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.55/hls/RUUUAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5847,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Lakers",
-                "teamB": "Hornets",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/18 04:00:00 +0000",
-                "endTime": "2026/11/18 06:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SKY SPORTS MIX",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SKY TOP EVENT",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60380/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60382/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

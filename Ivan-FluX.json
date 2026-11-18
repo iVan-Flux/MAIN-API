@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:04:27 AM 19-11-2026",
+    "Last update time": "03:06:26 AM 19-11-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -60,6 +60,46 @@
                 {
                     "title": "TEN SPORTS HD",
                     "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ENG]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795080576~acl=/*~id=95369160428898255684400381061578~hmac=b232c7435260cfa8de28983f0c4405207b8d54246a2be578a20d734abf60fbd7",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [HIN]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795080576~acl=/*~id=95369160428898255684400381061578~hmac=b232c7435260cfa8de28983f0c4405207b8d54246a2be578a20d734abf60fbd7",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TAM]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795080576~acl=/*~id=95369160428898255684400381061578~hmac=b232c7435260cfa8de28983f0c4405207b8d54246a2be578a20d734abf60fbd7",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TEL]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795080576~acl=/*~id=95369160428898255684400381061578~hmac=b232c7435260cfa8de28983f0c4405207b8d54246a2be578a20d734abf60fbd7",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [KAN]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795080576~acl=/*~id=95369160428898255684400381061578~hmac=b232c7435260cfa8de28983f0c4405207b8d54246a2be578a20d734abf60fbd7",
                     "logo": "",
                     "type": 0,
                     "api": "",

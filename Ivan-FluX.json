@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:48:29 AM 19-11-2026",
+    "Last update time": "11:50:41 AM 19-11-2026",
     "Live": "00",
     "Upcoming": "26",
     "Finish": "00",
@@ -1373,6 +1373,14 @@
                 "endTime": "2026/11/19 10:30:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "SonyLiv PRIME FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6re2sw5cd/out/v1/8e8f93ec4fe2435c885a283151852080/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6300bd600d0c9e459bd1a3d023e2270d:edf53fad044c43f8aae91ad2576cccfd",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SONY TEN HD",
                     "link": "https://toffee.aliflaila.live/channel/3.m3u8",

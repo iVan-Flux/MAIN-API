@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:16:25 PM 19-11-2026",
+    "Last update time": "05:18:23 PM 19-11-2026",
     "Live": "00",
     "Upcoming": "26",
     "Finish": "00",
@@ -375,10 +375,18 @@
             "channels_data": [
                 {
                     "title": "NPL LIVE FHD",
-                    "link": "https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
                     "tokenApi": ""
                 },
                 {
@@ -397,6 +405,14 @@
                         "request_body_type": "text",
                         "ip_api": "https://api.ipify.org/"
                     }
+                },
+                {
+                    "title": "FANCODE (IND)",
+                    "link": "https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -462,10 +478,10 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bqomrupxmu/out/v1/aa2ba2cef1554767a9bb3a18d418f71b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tdnip8cggf/out/v1/ea8813b9d3a848da9d51d94d5a79aa73/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "f57608d741bd9eeb53fee59e054a318d:9ff99be42923aa8fbe6dcadbc399f3a1",
+                    "api": "b51f981b4a44e1b874a7958276b765d6:bc42638f3ec4d015524143a6d40ebfd5",
                     "tokenApi": ""
                 },
                 {
@@ -478,10 +494,10 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bqomrupxmu/out/v1/aa2ba2cef1554767a9bb3a18d418f71b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tdnip8cggf/out/v1/ea8813b9d3a848da9d51d94d5a79aa73/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "f57608d741bd9eeb53fee59e054a318d:9ff99be42923aa8fbe6dcadbc399f3a1",
+                    "api": "b51f981b4a44e1b874a7958276b765d6:bc42638f3ec4d015524143a6d40ebfd5",
                     "tokenApi": ""
                 },
                 {

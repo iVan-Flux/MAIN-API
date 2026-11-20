@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:01:03 PM 20-11-2026",
+    "Last update time": "07:02:27 PM 20-11-2026",
     "Live": "00",
     "Upcoming": "29",
     "Finish": "00",
@@ -429,16 +429,16 @@
                 "eventName": "Abu Dhabi T10 League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/20 13:45:00 +0000",
+                "startTime": "2026/11/20 13:30:00 +0000",
                 "endTime": "2026/11/20 19:00:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9pmqm12bbc/out/v1/146c80140c0e4791baad2a67c947ae27/cenc.mpd",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e4htfkwtdn/out/v1/d88e790408ad45d98c84ffe9f812f9d8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "1e1eb151be522900a4bcbce463f764d4:49b4c6df12c9459d6d7641341270d890",
+                    "api": "b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f",
                     "tokenApi": ""
                 },
                 {
@@ -451,23 +451,23 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9pmqm12bbc/out/v1/146c80140c0e4791baad2a67c947ae27/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e4htfkwtdn/out/v1/d88e790408ad45d98c84ffe9f812f9d8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "1e1eb151be522900a4bcbce463f764d4:49b4c6df12c9459d6d7641341270d890",
+                    "api": "b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f",
                     "tokenApi": ""
                 },
                 {
-                    "title": "MYCO LIVE HD",
-                    "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
+                    "title": "A SPORTS HD",
+                    "link": "https://live.msnetworks.net/a-sports/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "A SPORTS HD",
-                    "link": "https://live.msnetworks.net/a-sports/master.m3u8",
+                    "title": "MYCO LIVE HD",
+                    "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
                     "logo": "",
                     "type": 0,
                     "api": "",

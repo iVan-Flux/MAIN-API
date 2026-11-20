@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:28:31 AM 21-11-2026",
+    "Last update time": "04:31:17 AM 21-11-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -26,6 +26,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PRIME ENG FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fda7a391d6346eb3176d0379fdc094d0:1ee285d5bec7f6855d51e3e5f630ad1f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0",
                     "logo": "",
@@ -34,35 +50,19 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "PRIME ENG FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2crmhngewx/out/v1/7005e762d047462aa11136773a136dfa/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "ebc640cb03dbdf8677190f7e4b2e96b0:7ab2c0204d41d1eefeca0cc04622c4cc",
-                    "tokenApi": ""
-                },
-                {
                     "title": "PRIME HINDI FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0edrlrm8n/out/v1/769e4d71dfec4c4cb8189a0bf5051266/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "080deb5f5141f1274093066904865667:af9d012f808345520ac2d3b2cc9026de",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
+                    "api": "424a04fa4464fdb9d5f3d61ddf48776a:85a5da47db9f57cdccdbac01c980aece",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1rio9enthp/out/v1/349d14aa7815498f8c11ab98f7100aaa/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0",
+                    "api": "a478f5af8b826d44778571031c84e257:ceabaa285b51b50a60cf5240715a6f28",
                     "tokenApi": ""
                 },
                 {
@@ -91,7 +91,7 @@
                 },
                 {
                     "title": "SONYLIV [ENG]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795167970~acl=/*~id=12263412584410383978972599538886~hmac=d2485a51f28c177e4a12553063461612e4d057b3200959e055416f775cff60a3|User-Agent=Mozilla/5.0 (Linux; Android 13; sdk_gphone_x86_64 Build/TE1A.220922.033) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.71 Mobile Safari/537.36",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795258017~acl=/*~id=54737499384020081101979554821708~hmac=d4c55f153f2f80fb06ee7e5cf62c05d7e7b7fd6a0c23ba417e87b8ac45e1e62a",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -99,7 +99,7 @@
                 },
                 {
                     "title": "SONYLIV [HIN]",
-                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1911/HIN/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795258017~acl=/*~id=54737499384020081101979554821708~hmac=d4c55f153f2f80fb06ee7e5cf62c05d7e7b7fd6a0c23ba417e87b8ac45e1e62a",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -107,7 +107,7 @@
                 },
                 {
                     "title": "SONYLIV [TAM]",
-                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1911/TAM/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795258017~acl=/*~id=54737499384020081101979554821708~hmac=d4c55f153f2f80fb06ee7e5cf62c05d7e7b7fd6a0c23ba417e87b8ac45e1e62a",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -115,7 +115,7 @@
                 },
                 {
                     "title": "SONYLIV [TEL]",
-                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1911/TEL/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795258017~acl=/*~id=54737499384020081101979554821708~hmac=d4c55f153f2f80fb06ee7e5cf62c05d7e7b7fd6a0c23ba417e87b8ac45e1e62a",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -123,7 +123,7 @@
                 },
                 {
                     "title": "SONYLIV [KAN]",
-                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1911/KAN/master.m3u8?hdnea=exp=1795166897~acl=/*~id=cc222ab9545e24a793c920601723ff4c-1795123696649~hmac=7e42512cbb70ecd0b406c8a76f09f0010ee0b67004dd297f4338e32fedad0137|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0%26Referer=https://www.sonyliv.com/%26Origin=https://www.sonyliv.com",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795258017~acl=/*~id=54737499384020081101979554821708~hmac=d4c55f153f2f80fb06ee7e5cf62c05d7e7b7fd6a0c23ba417e87b8ac45e1e62a",
                     "logo": "",
                     "type": 0,
                     "api": "",

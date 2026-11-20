@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:04:27 PM 20-11-2026",
+    "Last update time": "07:06:28 PM 20-11-2026",
     "Live": "00",
-    "Upcoming": "29",
+    "Upcoming": "39",
     "Finish": "00",
     "events": [
         {
@@ -1628,6 +1628,276 @@
                 {
                     "title": "STREAM TV + HD",
                     "link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5931,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Fiji U17",
+                "teamB": "Morocco U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1096685/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/48862/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/20 16:00:00 +0000",
+                "endTime": "2026/11/20 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5932,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Italy U17",
+                "teamB": "Jamaica U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22616/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22617/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/20 15:00:00 +0000",
+                "endTime": "2026/11/20 17:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5933,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Japan U17",
+                "teamB": "Colombia U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22618/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22592/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/21 12:30:00 +0000",
+                "endTime": "2026/11/21 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5934,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Tanzania U17",
+                "teamB": "Costa Rica U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1231931/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22593/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/21 13:00:00 +0000",
+                "endTime": "2026/11/21 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5935,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Serbia U17",
+                "teamB": "Honduras U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22478/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7764/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/21 12:30:00 +0000",
+                "endTime": "2026/11/21 14:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5936,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Côte d'Ivoire U17",
+                "teamB": "Uzbekistan U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/48857/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22662/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/20 16:00:00 +0000",
+                "endTime": "2026/11/20 18:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5937,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Senegal U17",
+                "teamB": "Croatia U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/323076/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22594/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/20 15:30:00 +0000",
+                "endTime": "2026/11/20 17:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5938,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Cameroon U17",
+                "teamB": "Venezuela U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/313112/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/48841/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/21 13:30:00 +0000",
+                "endTime": "2026/11/21 15:50:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5939,
+            "title": "U17 World Championship",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Spain U17",
+                "teamB": "China U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/22479/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/468402/image",
+                "eventName": "U17 World Championship",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/20 14:00:00 +0000",
+                "endTime": "2026/11/20 16:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 5940,
+            "title": "AFC U17 Asian Cup Qualification",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/23981/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "India U17",
+                "teamB": "Malaysia U17",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/233785/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/468398/image",
+                "eventName": "AFC U17 Asian Cup Qualification",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/20 13:00:00 +0000",
+                "endTime": "2026/11/20 15:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

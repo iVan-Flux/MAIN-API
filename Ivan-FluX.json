@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:56:25 AM 20-11-2026",
+    "Last update time": "07:58:25 AM 20-11-2026",
     "Live": "00",
-    "Upcoming": "51",
+    "Upcoming": "39",
     "Finish": "00",
     "events": [
         {
@@ -1483,222 +1483,6 @@
             ]
         },
         {
-            "id": 5899,
-            "title": "UEFA Women's Champions League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Benfica",
-                "teamB": "Roma",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/297853/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image",
-                "eventName": "UEFA Women's Champions League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/19 20:00:00 +0000",
-                "endTime": "2026/11/19 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel9.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5900,
-            "title": "UEFA Women's Champions League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Paris",
-                "teamB": "HB Køge",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/264964/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/333128/image",
-                "eventName": "UEFA Women's Champions League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/19 17:45:00 +0000",
-                "endTime": "2026/11/19 20:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5901,
-            "title": "UEFA Women's Champions League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Austria Wien",
-                "teamB": "Bayern",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/229911/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-                "eventName": "UEFA Women's Champions League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/19 17:45:00 +0000",
-                "endTime": "2026/11/19 20:05:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FANCODE FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE HD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD QUALITY",
-                    "link": "https://www.rtmpcdn.com/live/0e161892-a360-4bdb-a91a-ad23032c29a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "LOW QUALITY",
-                    "link": "http://193.47.62.41/hls/RARARADA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "ESPN DEPORTES HD",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://la18hd.su/vivo/canales.php?stream=espndeportes",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 5902,
-            "title": "UEFA Women's Champions League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "FC Barcelona",
-                "teamB": "Servette FCCF",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/305811/image",
-                "eventName": "UEFA Women's Champions League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/19 20:00:00 +0000",
-                "endTime": "2026/11/19 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FANCODE 1 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "FANCODE 2 FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5903,
-            "title": "UEFA Women's Champions League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Arsenal",
-                "teamB": "Lyonnes",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/26245/image",
-                "eventName": "UEFA Women's Champions League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/19 20:00:00 +0000",
-                "endTime": "2026/11/19 22:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "CBS NETWORK FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD QUALITY",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5904,
             "title": "Campeonato Brasileiro Série A",
             "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
@@ -1716,65 +1500,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5905,
-            "title": "Campeonato Brasileiro Série A",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Vasco",
-                "teamB": "Internacional",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
-                "eventName": "Campeonato Brasileiro Série A",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/19 22:30:00 +0000",
-                "endTime": "2026/11/20 00:50:00 +0000"
-            },
-            "channels_data": [
-                {
                     "title": "PREMIERER BR",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5906,
-            "title": "Campeonato Brasileiro Série A",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Vitória",
-                "teamB": "RB Bragantino",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-                "eventName": "Campeonato Brasileiro Série A",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/19 22:30:00 +0000",
-                "endTime": "2026/11/20 00:50:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PREMIERER BR",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+                    "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
                     "tokenApi": ""
                 }
             ]
@@ -1840,8 +1570,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+                    "title": "NBC SPORTS HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60506/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60491/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.44/hls/SZSZSZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1952,60 +1698,6 @@
             ]
         },
         {
-            "id": 5911,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Hurricanes",
-                "teamB": "Canadiens",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/20 00:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5912,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Senators",
-                "teamB": "Flyers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/20 00:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 5913,
             "title": "NHL",
             "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -2060,87 +1752,6 @@
                 {
                     "title": "NHL HD",
                     "link": "https://chatgpt.hereisman.net/playlist/60507/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5915,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Maple Leafs",
-                "teamB": "Kings",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/20 00:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5916,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Capitals",
-                "teamB": "Sabres",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/20 00:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5917,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Penguins",
-                "teamB": "Blues",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/20 00:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Ivan-FluX",
-                    "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:28:26 PM 20-11-2026",
+    "Last update time": "07:31:17 PM 20-11-2026",
     "Live": "00",
     "Upcoming": "37",
     "Finish": "00",
@@ -1202,13 +1202,13 @@
                 "eventName": "Indian Super League",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/20 11:30:00 +0000",
+                "startTime": "2026/11/20 14:00:00 +0000",
                 "endTime": "2026/11/20 16:30:00 +0000"
             },
             "channels_data": [
                 {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=29d19762bebd39e052f71ad318d3bdf9-1795170763140",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=001dbfecd73c7f06135c7b7a1f729e32-1795181563139",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1216,23 +1216,7 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=29d19762bebd39e052f71ad318d3bdf9-1795170763140",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SonyLiv (BEN)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=29d19762bebd39e052f71ad318d3bdf9-1795170763140",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HD SERVER",
-                    "link": "https://live2.jorvakstreamcache.com/live/channel23.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=001dbfecd73c7f06135c7b7a1f729e32-1795181563139",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1799,8 +1783,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "HD SERVER",
+                    "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/tiiiA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

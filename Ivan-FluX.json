@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:34:27 PM 21-11-2026",
+    "Last update time": "12:36:32 PM 21-11-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -469,24 +469,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TEN SPORTS HD",
-                    "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SONY TEN HD",
-                    "link": "https://toffee.aliflaila.live/channel/3.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "SonyLiv (Asia)",
-                    "link": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5bf5ae4468a1a3c73851fd8c4e2573a3-1795240363106",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -494,15 +478,7 @@
                 },
                 {
                     "title": "HD SERVER",
-                    "link": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CRICBUZZ (IND)",
-                    "link": "https://dai.google.com/linear/hls/event/k2gxF4_aQw-gqVnpnhFr6w/master.m3u8",
+                    "link": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -511,6 +487,14 @@
                 {
                     "title": "TAMASHA PK",
                     "link": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICBUZZ (IND)",
+                    "link": "https://dai.google.com/linear/hls/event/k2gxF4_aQw-gqVnpnhFr6w/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

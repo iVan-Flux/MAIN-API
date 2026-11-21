@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:31:09 PM 21-11-2026",
+    "Last update time": "03:32:27 PM 21-11-2026",
     "Live": "00",
-    "Upcoming": "53",
+    "Upcoming": "52",
     "Finish": "00",
     "events": [
         {
@@ -21,8 +21,8 @@
                 "eventName": "ICC World Test Championship",
                 "isHot": "0",
                 "Status": "Upcoming",
-                "startTime": "2026/11/20 22:00:00 +0000",
-                "endTime": "2026/11/21 07:00:00 +0000"
+                "startTime": "2026/11/21 22:00:00 +0000",
+                "endTime": "2026/11/22 07:00:00 +0000"
             },
             "channels_data": [
                 {
@@ -546,81 +546,6 @@
                 {
                     "title": "TEN SPORTS HD",
                     "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 5259,
-            "title": "Abu Dhabi T10 League",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-            "cat": "Cricket",
-            "eventInfo": {
-                "teamA": "T10 LEAGUE",
-                "teamB": "T10 LEAGUE",
-                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-                "eventName": "Abu Dhabi T10 League",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/20 13:30:00 +0000",
-                "endTime": "2026/11/20 19:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ekkbhu8smy/out/v1/86d8291f825543f8ba6f2373474aac78/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "7e762ae016686583246f1959850eea6e:7ea4fb4356c76bf242b3189458ecea2e",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "A SPORTS HD",
-                    "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "MYCO LIVE HD",
-                    "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "TAMASHA FHD",
-                    "link": "https://cdn04khi-n.tamashaweb.com:8087/appcast/abudhabi-t10-adfree-2026-abr/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "HOTSTAR (IND)",
-                    "link": "https://livetv.hotstar.com/mp2/gec-india-1540068298/9f99e1af0bdc465b8a3015e3a1a689d8/index.mpd|Cookie=hdntl=exp=1794990986~acl=%2f*~id=0719a606b19c47a7f45e69090e0a55f2~data=hdntl~hmac=1280c60d06d7d9e31d6c485a55b4a758761a031cb2b3dee25f5c0a82811c7509&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=effcadcbcc634296a6cf65e231f10000:569c794c69ea496e9ad1887f557ea4dc",
                     "logo": "",
                     "type": 0,
                     "api": "",

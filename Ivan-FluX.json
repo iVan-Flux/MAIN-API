@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:56:25 AM 22-11-2026",
+    "Last update time": "02:58:27 AM 22-11-2026",
     "Live": "00",
     "Upcoming": "81",
     "Finish": "00",
@@ -2509,12 +2509,38 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "SERVER 1",
+                    "link": "",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://taifood-blog.asia/embed/mls/2026-11-21/mia-clb#player=clappr&autoplay=true",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "SERVER 2",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://taifood-blog.asia/embed/mls/2026-11-21/mia-clb_540p#player=clappr&autoplay=true",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },

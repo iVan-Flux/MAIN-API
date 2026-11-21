@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:38:34 PM 21-11-2026",
+    "Last update time": "08:40:46 PM 21-11-2026",
     "Live": "00",
     "Upcoming": "116",
     "Finish": "00",
@@ -2690,6 +2690,14 @@
                 "endTime": "2026/11/21 17:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6hasfv0pr/out/v1/de058960bb97403fa0291d38b662be1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "6f0182919ffd6a672db5bea95b4a4385:d38e879c036ee188aee15cdea359e094",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/60600/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",

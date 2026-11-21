@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "05:08:26 PM 21-11-2026",
+    "Last update time": "05:10:47 PM 21-11-2026",
     "Live": "00",
     "Upcoming": "115",
     "Finish": "00",
@@ -333,7 +333,7 @@
                 },
                 {
                     "title": "FANCODE (IND)",
-                    "link": "https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG",
+                    "link": "https://dai-fancode.pages.dev/mumbai/4250374_english_hls_b7c929ff7638952_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1321,7 +1321,7 @@
             "channels_data": [
                 {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=001dbfecd73c7f06135c7b7a1f729e32-1795181563139",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ad9334dfd4dce8c25ae8eab3bce84023-1795257163122",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1329,7 +1329,15 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=001dbfecd73c7f06135c7b7a1f729e32-1795181563139",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/2120301/Footlive2111/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ad9334dfd4dce8c25ae8eab3bce84023-1795257163122",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SonyLiv (TAM)",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/2120301/Footlive2111/TAM/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ad9334dfd4dce8c25ae8eab3bce84023-1795257163122",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1572,7 +1580,7 @@
             "channels_data": [
                 {
                     "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "link": "http://193.47.62.41/hls/YUUUAAAQQQQA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",

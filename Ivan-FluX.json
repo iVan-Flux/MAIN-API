@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:46:23 AM 21-11-2026",
+    "Last update time": "07:48:27 AM 21-11-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -2786,8 +2786,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60545/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ATALANTA Live HD",
+                    "link": "https://justpasstheball.online/live/charlotte-hornets-vs-atlanta-hawks.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NBA PASS FHD",
+                    "link": "https://fernfiber.s3.ca-central-1.amazonaws.com/hornets.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2813,8 +2829,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "NBA HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60547/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NBA PASS FHD",
+                    "link": "https://justpasstheball.online/live/indiana-pacers-vs-cleveland-cavaliers.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

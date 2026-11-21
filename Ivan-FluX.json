@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:42:26 PM 21-11-2026",
+    "Last update time": "07:44:32 PM 21-11-2026",
     "Live": "00",
-    "Upcoming": "115",
+    "Upcoming": "116",
     "Finish": "00",
     "events": [
         {
@@ -2358,6 +2358,14 @@
             },
             "channels_data": [
                 {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4566402.m3u8?txSecret=0cab6466c4e908e707fcc85037917e62&txTime=6B01B73C|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/Y444A.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2419,6 +2427,14 @@
                 "endTime": "2026/11/21 16:50:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4566409.m3u8?txSecret=ffa99c544fc5ed93ec871a545479bb3c&txTime=6B01B7E9|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/Y444AAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
@@ -4161,6 +4177,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/22 03:00:00 +0000",
                 "endTime": "2026/11/22 05:20:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6043,
+            "title": "UFC",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+            "cat": "Boxing",
+            "eventInfo": {
+                "teamA": "J. Procházka",
+                "teamB": "N. Stirling",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/467400/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/863998/image",
+                "eventName": "UFC",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/21 17:00:00 +0000",
+                "endTime": "2026/11/21 18:00:00 +0000"
             },
             "channels_data": [
                 {

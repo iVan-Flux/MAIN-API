@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:40:50 AM 22-11-2026",
+    "Last update time": "12:42:24 AM 22-11-2026",
     "Live": "00",
     "Upcoming": "81",
     "Finish": "00",
@@ -1193,6 +1193,83 @@
                     "type": 0,
                     "api": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a",
                     "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6068,
+            "title": "DARTS PDC",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+            "cat": "Other",
+            "eventInfo": {
+                "teamA": "DARTS PDC",
+                "teamB": "DARTS PDC",
+                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+                "eventName": "DARTS PDC",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/21 19:00:00 +0000",
+                "endTime": "2026/11/22 01:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "SPORT 1 DE FHD",
+                    "link": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "NOVA2 SPORTS FHD",
+                    "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.59/hls/BEEEAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "XTREME+ FHD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-8-32258",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
+                },
+                {
+                    "title": "XTREME+ SD",
+                    "link": "",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": {
+                        "url": "",
+                        "api": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-8-32258_540p",
+                        "type": "embed",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 }
             ]
         },
@@ -3210,83 +3287,6 @@
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6068,
-            "title": "DARTS PDC",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-            "cat": "Other",
-            "eventInfo": {
-                "teamA": "DARTS PDC",
-                "teamB": "DARTS PDC",
-                "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-                "eventName": "DARTS PDC",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/21 19:00:00 +0000",
-                "endTime": "2026/11/22 01:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "SPORT 1 DE FHD",
-                    "link": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NOVA2 SPORTS FHD",
-                    "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.59/hls/BEEEAAA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "XTREME+ FHD",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-8-32258",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "XTREME+ SD",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-8-32258_540p",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
                 }
             ]
         }

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:26:28 AM 21-11-2026",
+    "Last update time": "11:28:29 AM 21-11-2026",
     "Live": "00",
     "Upcoming": "56",
     "Finish": "00",
@@ -368,18 +368,18 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayibqpy7eg/out/v1/fe38511af6f54d7db4ba768f02ba106b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wxizovddui/out/v1/184506c2d6ae4bd7a6e64e76f6b14223/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "9182aacd8a009ac915fc6c53e13c8223:f7d76ec4abba54f282b5647142603b17",
+                    "api": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayibqpy7eg/out/v1/fe38511af6f54d7db4ba768f02ba106b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wxizovddui/out/v1/184506c2d6ae4bd7a6e64e76f6b14223/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "9182aacd8a009ac915fc6c53e13c8223:f7d76ec4abba54f282b5647142603b17",
+                    "api": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76",
                     "tokenApi": ""
                 },
                 {
@@ -461,35 +461,11 @@
             },
             "channels_data": [
                 {
-                    "title": "SonyLiv PRIME FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "2ca5224cf3b5604c216670133f47b34c:9c0cf6c1c33edbcb63508c4b237b7e79",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8rgzkfd4z8/out/v1/8313cc919df746e1b030ec7912cb7eaf/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a",
-                    "tokenApi": ""
-                },
-                {
                     "title": "STARZPLAY FHD",
                     "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8rgzkfd4z8/out/v1/8313cc919df746e1b030ec7912cb7eaf/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a",
                     "tokenApi": ""
                 },
                 {
@@ -510,7 +486,7 @@
                 },
                 {
                     "title": "SonyLiv (Asia)",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795195986~acl=/*~id=32385250455894596018551937938511~hmac=ef41163e4f8a27bafd051dcb0026e1fca2e8145200b1c4c636a0a88c142c75ec",
+                    "link": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -518,7 +494,15 @@
                 },
                 {
                     "title": "HD SERVER",
-                    "link": "https://dai.google.com/linear/hls/event/6dEZMiaVRcGRWf7lwwBO7Q/master.m3u8",
+                    "link": "https://dai.google.com/linear/hls/event/yaROyE-bScOVYZWWXQoBdQ/master.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "CRICBUZZ (IND)",
+                    "link": "https://dai.google.com/linear/hls/event/k2gxF4_aQw-gqVnpnhFr6w/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

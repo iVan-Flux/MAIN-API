@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:08:23 PM 21-11-2026",
+    "Last update time": "09:10:45 PM 21-11-2026",
     "Live": "00",
     "Upcoming": "116",
     "Finish": "00",
@@ -2707,6 +2707,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/2a0b89ad-710b-4872-80ca-4fdfed1b1410.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.59/hls/MMMMA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
@@ -2744,6 +2752,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4558466.m3u8?txSecret=757ba12d237938d258da3327620cb799&txTime=6B01C437|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/b423198e-6d99-400c-8859-e8aa7b52d0f5.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2846,6 +2862,14 @@
                 {
                     "title": "FAST SERVER",
                     "link": "https://live.vivo155.com/live/hd-en-1-4558513.m3u8?txSecret=e20a57db07f81d105bb36719cb0988ed&txTime=6B01C421|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/424cc67a-9b78-49da-a5d2-db83c652cf60.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

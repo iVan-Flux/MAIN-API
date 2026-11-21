@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:18:36 PM 21-11-2026",
+    "Last update time": "06:20:42 PM 21-11-2026",
     "Live": "00",
     "Upcoming": "115",
     "Finish": "00",
@@ -1807,6 +1807,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/26c749ff-3215-45cc-b319-160c5a27fe6a.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/Z888AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -1815,7 +1823,7 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "HD SERVER",
+                    "title": "HD SERVER+",
                     "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,
@@ -1851,6 +1859,14 @@
                 },
                 {
                     "title": "HD SERVER",
+                    "link": "https://www.rtmpcdn.com/live/82182685-23b4-4312-ab08-5110544d0780.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
                     "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
                     "logo": "",
                     "type": 0,

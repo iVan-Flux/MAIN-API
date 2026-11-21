@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:14:24 PM 21-11-2026",
+    "Last update time": "06:16:25 PM 21-11-2026",
     "Live": "00",
     "Upcoming": "115",
     "Finish": "00",
@@ -1977,8 +1977,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "PREMIER SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "ESPN DEPORTES HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60593/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4565604.m3u8?txSecret=caa0d6d0dced0b6a1caf4b4a2e13c04c&txTime=6B01A632|Referer=https://player.on8on8.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2003,6 +2019,22 @@
                 "endTime": "2026/11/21 15:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "SKY SPORTS EPL FHD",
+                    "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4603747.m3u8?txSecret=82f187affe4e83f8450969aea1e96b02&txTime=6B01A58A|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.41/hls/QAQAQAAAQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
@@ -2058,8 +2090,24 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "beIN SPORTS 1 FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "beIN SPORTS 3 FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/sd-1-4581371.m3u8?txSecret=6d15b0d80a44fcff63fd7a2e400ef6f5&txTime=6B01A6E0|Referer=https://player.on8on8.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

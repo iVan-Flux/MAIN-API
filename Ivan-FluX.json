@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:40:46 PM 21-11-2026",
+    "Last update time": "08:42:23 PM 21-11-2026",
     "Live": "00",
     "Upcoming": "116",
     "Finish": "00",
@@ -2879,7 +2879,23 @@
             },
             "channels_data": [
                 {
-                    "title": "PARAMOUNT+ HD",
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2vymmad2st/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1790bcaba3ab56be928ab458f11bac7e:6c2b33413d2847d4e1408639b44558cf",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS ALT",
+                    "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/2vymmad2st/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1790bcaba3ab56be928ab458f11bac7e:6c2b33413d2847d4e1408639b44558cf",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PEACOCK TV HD",
                     "link": "https://chatgpt.hereisman.net/playlist/60599/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,

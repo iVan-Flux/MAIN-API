@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:28:27 PM 22-11-2026",
+    "Last update time": "07:31:14 PM 22-11-2026",
     "Live": "00",
     "Upcoming": "108",
     "Finish": "00",
@@ -2476,11 +2476,35 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxxah1myjm/out/v1/9b0c7bbcc99a4539b6eb2ffe77048ca6/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a3905df77a0f4f5409bfbf901345bb69:1a6bc6e46e0339630faca2ed34b71513",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/potbuhlawn/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "fcd4a3d9f5fe24e9c3eb323458680c59:2b21cb04e30e401ebd07bf64dfeb066e",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN ENGLISH FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN ITALIA FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/opusseeono/out/v1/6fecb0e242fa414487a3a2103a171cf1/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a40dac702f4fa560f92dee486609b84a:f17ad4671c9a0922c70c0287f55d4d18",
                     "tokenApi": ""
                 },
                 {
@@ -2526,6 +2550,30 @@
                 "endTime": "2026/11/22 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utp0jaxcpq/out/v1/8846b7e7b68b437d9a06647cafb901c8/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a727e03a101df463348104481170974b:9fa7a8421ef51fc71568c47b7adba99c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FUBO SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/abhcvjycnc/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3080a1d03f04e372d158546582b0be02:fc33d5bbe9ddec8d0d6ac827f05baff1",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN ITALIA FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rio6tigoty/out/v1/3c7d11bd69944e609356b0aaa40e7e40/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c245bc06e9aaa08f200d755d96c0c830:2a79e43dd90b60b74fdddb5c8cd206c6",
+                    "tokenApi": ""
+                },
                 {
                     "title": "PARAMOUNT+ HD",
                     "link": "https://chatgpt.hereisman.net/playlist/60729/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
@@ -2709,6 +2757,14 @@
                 "endTime": "2026/11/22 16:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xro2gyk2cu/out/v1/6d331f47338144659db9d29c573bce4d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cfaddfc5e6aba2f2df59b4f52adc819d:f9b3013d3af1d4ab6bbb2aa42c766cde",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.44/hls/Z666AA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",

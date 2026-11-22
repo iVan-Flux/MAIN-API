@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:44:26 AM 23-11-2026",
+    "Last update time": "03:46:31 AM 23-11-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -26,7 +26,7 @@
             },
             "channels_data": [
                 {
-                    "title": "WILLOW FHD",
+                    "title": "WILLOW (Ad free)",
                     "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd",
                     "logo": "",
                     "type": 0,
@@ -42,11 +42,27 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW ALT",
+                    "title": "WILLOW (ALT)",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PRIME ENG",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o9fyqfx7wg/out/v1/eb45b4e886ca4a62b695acee5e1ddb79/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "12f1283670b8a23881a2cc0ff97a271a:c1340f9ceb0fb7fcb250e05e7f45c5cc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PRIME (HINDI)",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/re6jn4yuac/out/v1/3ededfa0158147a99ed09d6abb96158a/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
+                    "logo": "",
+                    "type": 0,
+                    "api": "9e28fce884744efb8a8c25ce440eeb18:1df3a79a8ceac8373de0ffa9aaee6330",
                     "tokenApi": ""
                 },
                 {

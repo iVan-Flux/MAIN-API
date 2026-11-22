@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:01:02 AM 22-11-2026",
+    "Last update time": "09:02:28 AM 22-11-2026",
     "Live": "00",
-    "Upcoming": "81",
+    "Upcoming": "80",
     "Finish": "00",
     "events": [
         {
@@ -3477,41 +3477,6 @@
                 {
                     "title": "NHL HD",
                     "link": "https://chatgpt.hereisman.net/playlist/60682/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6055,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Senators",
-                "teamB": "Kings",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/22 00:00:00 +0000",
-                "endTime": "2026/11/22 15:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60680/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",

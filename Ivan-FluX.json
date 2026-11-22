@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:16:25 PM 22-11-2026",
+    "Last update time": "12:18:26 PM 22-11-2026",
     "Live": "00",
-    "Upcoming": "107",
+    "Upcoming": "110",
     "Finish": "00",
     "events": [
         {
@@ -1395,60 +1395,6 @@
             ]
         },
         {
-            "id": 6039,
-            "title": "A-League Men",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Wellington",
-                "teamB": "Macarthur",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/7568/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/371682/image",
-                "eventName": "A-League Men",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/22 02:00:00 +0000",
-                "endTime": "2026/11/22 04:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "TNT SPORTS 3",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0",
-                    "logo": "",
-                    "type": 0,
-                    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6042,
-            "title": "Liga MX, Apertura",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-            "cat": "Football",
-            "eventInfo": {
-                "teamA": "Tigres",
-                "teamB": "América",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-                "eventName": "Liga MX, Apertura",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/22 03:00:00 +0000",
-                "endTime": "2026/11/22 05:20:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "FOX DEPORTES",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 6044,
             "title": "Womens Emerging Nations Trophy",
             "image": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
@@ -1530,239 +1476,6 @@
                 {
                     "title": "TAMASHA FHD",
                     "link": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6047,
-            "title": "NBA",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-            "cat": "Basketball",
-            "eventInfo": {
-                "teamA": "Kings",
-                "teamB": "Celtics",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-                "eventName": "NBA",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/22 03:00:00 +0000",
-                "endTime": "2026/11/22 05:30:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NBA HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60719/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.59/hls/YEEEAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NBA FHD",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://watchthematch.online/embed/aHR0cHM6Ly9zcG9ydHNlbWJlZC5zdG9yZS9uYmEvY2VsdGljcy5odG1s",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "NBA 2",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/nba/2026-11-21/bos-sac#player=clappr&autoplay=true",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "NBA 3",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/nba/2026-11-21/bos-sac_540p#player=clappr&autoplay=true",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "NBA 4",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/nba/2026-11-21/bos-sac/away#player=clappr&autoplay=true",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                },
-                {
-                    "title": "NBA 5",
-                    "link": "",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": {
-                        "url": "",
-                        "api": "https://taifood-blog.asia/embed/nba/2026-11-21/bos-sac/away_540p#player=clappr&autoplay=true",
-                        "type": "embed",
-                        "link_key": "playback_url",
-                        "default_string": "N8x7Y%m+6n",
-                        "request_type": "get",
-                        "request_body_type": "text",
-                        "ip_api": "https://api.ipify.org/"
-                    }
-                }
-            ]
-        },
-        {
-            "id": 6056,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Sharks",
-                "teamB": "Kraken",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/22 03:00:00 +0000",
-                "endTime": "2026/11/22 06:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60717/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6058,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Canucks",
-                "teamB": "Wild",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/22 03:00:00 +0000",
-                "endTime": "2026/11/22 06:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "PREMIER SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                    "logo": "",
-                    "type": 0,
-                    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NOVA SPORT 1",
-                    "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60718/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6064,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Mammoth",
-                "teamB": "Ducks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/22 02:00:00 +0000",
-                "endTime": "2026/11/22 05:00:00 +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "NHL FHD",
-                    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4704096f-7b21-41b6-b901-bb11ed078f12/master.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60713/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "NHL LIVE HD",
-                    "link": "https://chatgpt.hereisman.net/playlist/60714/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -3778,6 +3491,249 @@
                 "teamB": "Titans",
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/4431/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 18:00:00 +0000",
+                "endTime": "2026/11/22 21:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6144,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Chiefs",
+                "teamB": "Cardinals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4412/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 18:00:00 +0000",
+                "endTime": "2026/11/22 21:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6145,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Bears",
+                "teamB": "Saints",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4425/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 18:00:00 +0000",
+                "endTime": "2026/11/22 21:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6146,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Giants",
+                "teamB": "Jaguars",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4426/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 21:25:00 +0000",
+                "endTime": "2026/11/23 00:25:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6147,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Chargers",
+                "teamB": "Jets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4429/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4427/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 21:05:00 +0000",
+                "endTime": "2026/11/23 00:05:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6148,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Broncos",
+                "teamB": "Raiders",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4390/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 21:25:00 +0000",
+                "endTime": "2026/11/23 00:25:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6149,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Bills",
+                "teamB": "Manatees",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 18:00:00 +0000",
+                "endTime": "2026/11/22 21:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6150,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Lions",
+                "teamB": "Buccaneers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4388/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 18:00:00 +0000",
+                "endTime": "2026/11/22 21:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6151,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Eagles",
+                "teamB": "Steelers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+                "eventName": "NFL",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/22 18:00:00 +0000",
+                "endTime": "2026/11/22 21:00:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6152,
+            "title": "NFL",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+            "cat": "American football",
+            "eventInfo": {
+                "teamA": "Panthers",
+                "teamB": "Ravens",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/4415/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/4413/image",
                 "eventName": "NFL",
                 "isHot": "0",
                 "Status": "Upcoming",

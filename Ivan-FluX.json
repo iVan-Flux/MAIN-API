@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:40:52 AM 22-11-2026",
+    "Last update time": "11:42:29 AM 22-11-2026",
     "Live": "00",
     "Upcoming": "32",
     "Finish": "00",
@@ -416,6 +416,14 @@
                 "endTime": "2026/11/22 15:00:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c",
+                    "tokenApi": ""
+                },
                 {
                     "title": "STARZPLAY FHD",
                     "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",

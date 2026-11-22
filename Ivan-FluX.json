@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:26:25 AM 23-11-2026",
+    "Last update time": "01:28:29 AM 23-11-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -2300,6 +2300,30 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rv18eheaug/out/v1/ea5e2d08a35f4d6c9a43fd1d68370dec/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ee0577140768e1fdae120d93c8527974:16a64bac7f9ebdc6118f367db20c4a4a",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/78mxfggxt3/out/v1/1f1702d38aea434483572727f3eea11d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "2e201f3537273253ceb77612b1a96f58:c35633b30827c9f4fc7012f6f6579a6f",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PEACOCK ES FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ywz41qddrc/out/v1/62cbbcecc14e4ff5946ce7e91fce643b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e4bcb9ce8aab55c11f87e557bc782059:8215267454af1f8ef4a56a92aefd2de7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2351,6 +2375,14 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoxqykj4uv/out/v1/a026f7904421436792b9ab4857cd3c8c/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "63dd3d8aa2787977a2897f6307b45c13:62391a3ff3c2513e3575aedbf0ce3e8b",
+                    "tokenApi": ""
+                },
+                {
                     "title": "beIN SPORTS FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -2364,6 +2396,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/78939542-3087-49ab-bb2d-a9308d36cf32.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

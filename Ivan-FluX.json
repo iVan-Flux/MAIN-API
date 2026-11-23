@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:54:28 PM 23-11-2026",
+    "Last update time": "01:56:34 PM 23-11-2026",
     "Live": "00",
-    "Upcoming": "69",
+    "Upcoming": "70",
     "Finish": "00",
     "events": [
         {
@@ -2679,6 +2679,33 @@
                 "Status": "Upcoming",
                 "startTime": "2026/11/24 01:15:00 +0000",
                 "endTime": "2026/11/24 04:15:00 +0000"
+            },
+            "channels_data": [
+                {
+                    "title": "Link 1",
+                    "link": "https://no_link.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                }
+            ]
+        },
+        {
+            "id": 6172,
+            "title": "AFC Champions League Elite",
+            "image": "https://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+            "cat": "Football",
+            "eventInfo": {
+                "teamA": "Công An Hà Nội",
+                "teamB": "Vissel Kobe",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/193616/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3146/image",
+                "eventName": "AFC Champions League Elite",
+                "isHot": "0",
+                "Status": "Upcoming",
+                "startTime": "2026/11/24 12:15:00 +0000",
+                "endTime": "2026/11/24 14:35:00 +0000"
             },
             "channels_data": [
                 {

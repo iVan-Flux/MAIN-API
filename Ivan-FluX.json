@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:58:28 PM 23-11-2026",
+    "Last update time": "10:01:07 PM 23-11-2026",
     "Live": "00",
     "Upcoming": "81",
     "Finish": "00",
@@ -2740,6 +2740,22 @@
                 "endTime": "2026/11/23 18:20:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "TAPMAD FHD",
+                    "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8?|Referer:https://tapmad.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FAST SERVER",
+                    "link": "https://live.vivo155.com/live/hd-en-1-4621447.m3u8?txSecret=a7174047b4e7ab572613fc2f1441ec89&txTime=6B04778F|Referer=https://player.on8on8.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "SD SERVER",
                     "link": "http://193.47.62.55/hls/GIIIAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",

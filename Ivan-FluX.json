@@ -3,9 +3,9 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:32:35 AM 24-11-2026",
+    "Last update time": "08:34:25 AM 24-11-2026",
     "Live": "00",
-    "Upcoming": "79",
+    "Upcoming": "74",
     "Finish": "00",
     "events": [
         {
@@ -2678,87 +2678,6 @@
             ]
         },
         {
-            "id": 6165,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Canadiens",
-                "teamB": "Kings",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/24 00:30:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6166,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Jets",
-                "teamB": "Mammoth",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/24 00:30:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6167,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Senators",
-                "teamB": "Flames",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/24 00:30:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
             "id": 6168,
             "title": "NHL",
             "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -2772,60 +2691,6 @@
                 "isHot": "0",
                 "Status": "Upcoming",
                 "startTime": "2026/11/24 02:40:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6169,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Devils",
-                "teamB": "Blue Jackets",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/24 00:00:00 +0000",
-                "endTime": "  +0000"
-            },
-            "channels_data": [
-                {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                }
-            ]
-        },
-        {
-            "id": 6170,
-            "title": "NHL",
-            "image": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-            "cat": "Hockey",
-            "eventInfo": {
-                "teamA": "Islanders",
-                "teamB": "Maple Leafs",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-                "eventName": "NHL",
-                "isHot": "0",
-                "Status": "Upcoming",
-                "startTime": "2026/11/24 00:30:00 +0000",
                 "endTime": "  +0000"
             },
             "channels_data": [

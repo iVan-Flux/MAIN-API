@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:32:32 PM 24-11-2026",
+    "Last update time": "11:34:28 PM 24-11-2026",
     "Live": "00",
     "Upcoming": "72",
     "Finish": "00",
@@ -2213,11 +2213,75 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ygundphgss/out/v1/148913821ef94326a0badc185fd9e695/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "02c201cae3279e572e7b4329c1b82191:3e5202799487332390e72649d335450c",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hlwwhvp5xi/out/v1/6efea8351ab84ac2b773d73076edc2d2/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "ccfcb2bb28e67fcf5ec4487aa95e3def:bf47582fbb2754109c4ed3cfda000bde",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ze6ljlfh3p/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "7a0c8b0f02a47fcfaf1a1ef22658ea05:e1e2e7ecb44d0e640f402141f6e2bd0b",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
                     "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vpng0vu98t/out/v1/93c2ab57454d4e03b185817166955043/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "b7e261c5e3d6b4ce5ff9a7f51faebcfb:7794d2b05c99697cc0c8dd1fb19596bb",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ HD",
+                    "link": "https://chatgpt.hereisman.net/playlist/60903/load-playlist.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/4a9995714e1c7ef93cd4a02232017997b9f71e6acb6f743c8632dbc70fc62f82.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.50/hls/9SSSAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

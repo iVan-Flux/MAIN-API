@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:24:28 AM 25-11-2026",
+    "Last update time": "02:26:29 AM 25-11-2026",
     "Live": "00",
     "Upcoming": "72",
     "Finish": "00",
@@ -2590,6 +2590,14 @@
                 "endTime": "2026/11/24 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/60e1acec07faaa94e900c6050cf162f9f0f1f8a2109d202bbf887867fe1b7a48.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://play.lacrima2000.com/live/c84b1719baddd5d5.m3u8?wsSecret=BB0EF07DE06849638A35ACC404EE67E6&wsTime=1795549273|Referer=https://www.goaldaddyth.com/",

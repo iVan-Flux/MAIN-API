@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:20:43 AM 24-11-2026",
+    "Last update time": "11:22:26 AM 24-11-2026",
     "Live": "00",
     "Upcoming": "37",
     "Finish": "00",
@@ -449,19 +449,19 @@
             },
             "channels_data": [
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "3968540132a25dff11a7aa9d1d25b82c:df967625371e49195245672740e152d8",
-                    "tokenApi": ""
-                },
-                {
                     "title": "STARZPLAY FHD",
                     "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3968540132a25dff11a7aa9d1d25b82c:df967625371e49195245672740e152d8",
                     "tokenApi": ""
                 },
                 {

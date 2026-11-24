@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:36:43 AM 25-11-2026",
+    "Last update time": "01:38:27 AM 25-11-2026",
     "Live": "00",
     "Upcoming": "72",
     "Finish": "00",
@@ -2908,6 +2908,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/phtt5mrfi5/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0ddfb373646c342db2b98ce7a49d809f:f6cc546957d8c96fb5c041b3b3ff4a3a",
+                    "tokenApi": ""
+                },
+                {
                     "title": "TNT SPORTS FHD",
                     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -3189,6 +3197,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "9ac1496dda1c7d2c6fcdc62460637522:8884748a8df4a11e631141ab2b90e331",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gflhvok5yf/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "300c393f79ee86f623539484485015e3:07b69251ddc247d07e38b3d7863acbd3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN DE FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7j2ggxaixn/out/v1/9899c0bf5ea24fc39220402ac748234b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c9c9765a54458360d5bf0ceaac280752:00edb69fc3ffcedf03cb046d70a53fe7",
                     "tokenApi": ""
                 },
                 {

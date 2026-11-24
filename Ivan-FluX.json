@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:38:31 PM 24-11-2026",
+    "Last update time": "07:40:49 PM 24-11-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -1409,7 +1409,7 @@
             "channels_data": [
                 {
                     "title": "SonyLiv (ENG)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Footlive2211/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b458c6751c559d22abe8e40116484c2-1795353071260",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive2411/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7bc503ab43a470ecb7fc073d97c910c0-1795527264142",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -1417,15 +1417,15 @@
                 },
                 {
                     "title": "SonyLiv (HIN)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/Footlive2211/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b458c6751c559d22abe8e40116484c2-1795353071260",
+                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2411/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7bc503ab43a470ecb7fc073d97c910c0-1795527264142",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "SonyLiv (BEN)",
-                    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2211/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6b458c6751c559d22abe8e40116484c2-1795353071260",
+                    "title": "HD SERVER",
+                    "link": "https://dai.google.com/linear/hls/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

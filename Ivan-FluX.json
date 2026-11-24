@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:22:46 AM 25-11-2026",
+    "Last update time": "02:24:28 AM 25-11-2026",
     "Live": "00",
     "Upcoming": "72",
     "Finish": "00",
@@ -2462,6 +2462,14 @@
             },
             "channels_data": [
                 {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b669g4bit4/out/v1/92105b8e7cb74dc5bcd3804b4104c42f/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a8afafae05e7d60a882ea59a85d3f39d:2dda740bbc1d2a349741d1421f2ecf44",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/GTGTGT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -2488,6 +2496,14 @@
                 "endTime": "2026/11/24 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/11cfcc5647564778b06c1182e45322ea76d54561a0a3f80d768e5f5360365965.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://pull.fmp.live/sla/1-6ae6098c0bd04a161f8040e0.m3u8?auth_key=1795570861-0-0-d73a1e9c8057192df58f2b2405e52ff1|Referer=https://www.goaldaddyth.com/",
@@ -2523,6 +2539,14 @@
                 "endTime": "2026/11/24 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/28a4d0d4267442e2d0c865449eed68494209cb7045cafb8cf39cf72886842a01.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "HD SERVER",
                     "link": "https://pull.fmp.live/sla/1-6ae6098c0bd04a161f8040e7.m3u8?auth_key=1795570861-0-0-45adeaa56ec40f2326bd06074321ae17|Referer=https://fmp.live/",
@@ -2645,6 +2669,14 @@
             },
             "channels_data": [
                 {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/fb3154a7a19a9f3c0da28eeaf61256b1b087e75393726ea774875e28d6eeff5c.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/GTGTGTQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
                     "logo": "",
@@ -2671,6 +2703,14 @@
                 "endTime": "2026/11/24 22:05:00 +0000"
             },
             "channels_data": [
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/3c2e5a6b827c1f26ee64c0183e63c205670061125dc84746480aea317322c3d1.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.41/hls/2JJJA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",

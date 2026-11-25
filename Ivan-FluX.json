@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:34:30 AM 26-11-2026",
+    "Last update time": "01:36:35 AM 26-11-2026",
     "Live": "00",
     "Upcoming": "77",
     "Finish": "00",
@@ -2058,6 +2058,22 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9bxyrwrhcg/out/v1/bd0409ec39af4ddfb223dcb573be39d9/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cc60816345f0773b136d2eb499a9f699:eb57302db97a0ff664ec2706f7d080bc",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hbst72ztdu/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f3bf1d832cceeb0d624603cfc25950da:f5bf9765976642f789eaa8edd2f91f9c",
+                    "tokenApi": ""
+                },
+                {
                     "title": "DAZN DE FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/js25rpkw5e/out/v1/8420c1ce3967490ca16b8846b8cc37a1/cenc.mpd",
                     "logo": "",
@@ -2272,6 +2288,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "bd53b68ea6d6c3f0607406eb9a60c6ca:bf1103bd2a674decf82ce34994f125fa",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9q9qkskwgn/out/v1/e61fcdabf6be4765a2da49305cd1e806/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e5e97e3979f4aa9bac0ff5ffa9c26701:5132c7780e3eb734a64c10ad458da609",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a6z36g01sa/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3c6c39d6c7b945651cd8a36029cea49d:60da32bfde8dac18d4d1344b3f68a2eb",
                     "tokenApi": ""
                 },
                 {

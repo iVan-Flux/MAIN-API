@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:18:28 AM 26-11-2026",
+    "Last update time": "01:20:44 AM 26-11-2026",
     "Live": "00",
     "Upcoming": "77",
     "Finish": "00",
@@ -2323,6 +2323,46 @@
                 {
                     "title": "LOW QUALITY",
                     "link": "http://193.47.62.50/hls/PMMMAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [ENG]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [HIN]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2043696/Footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TAM]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2118672/Footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [TEL]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SONYLIV [KAN]",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795678710~acl=/*~id=87955302994783933907960865414712~hmac=e4a9bd3c668bd8bff1716d4a622fc2cfd4b8aa4e4020d89661cbaf785f37ef9a",
                     "logo": "",
                     "type": 0,
                     "api": "",

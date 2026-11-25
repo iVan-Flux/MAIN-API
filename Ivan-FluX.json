@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:12:30 AM 26-11-2026",
+    "Last update time": "01:14:28 AM 26-11-2026",
     "Live": "00",
     "Upcoming": "77",
     "Finish": "00",
@@ -2378,11 +2378,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "PREMIER BR FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
                     "tokenApi": ""
                 }
             ]
@@ -2567,11 +2567,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "SKY SPORT MIX FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY TOP EVENT FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
                     "tokenApi": ""
                 }
             ]

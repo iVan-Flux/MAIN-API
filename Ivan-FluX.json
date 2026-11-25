@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:54:27 PM 25-11-2026",
+    "Last update time": "01:56:38 PM 25-11-2026",
     "Live": "00",
     "Upcoming": "96",
     "Finish": "00",
@@ -241,7 +241,7 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/23pcq587cm/out/v1/ee8c4d2ac4094688a867f0d1a76aef2b/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df",
@@ -281,7 +281,7 @@
                 },
                 {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/23pcq587cm/out/v1/ee8c4d2ac4094688a867f0d1a76aef2b/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df",
@@ -316,15 +316,23 @@
             "channels_data": [
                 {
                     "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac",
                     "tokenApi": ""
                 },
                 {
+                    "title": "FANCODE FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+                    "tokenApi": ""
+                },
+                {
                     "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac",
@@ -344,6 +352,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE SD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
                     "tokenApi": ""
                 }
             ]

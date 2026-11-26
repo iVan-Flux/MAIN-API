@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:01:01 AM 27-11-2026",
+    "Last update time": "02:02:24 AM 27-11-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -2556,6 +2556,14 @@
                     "tokenApi": ""
                 },
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dcqxxnyvxx/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0a247b643241ff5ecaddf3b1c62e6033:75201ababa80fdb9a6458f0ebb673ae7",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SPORT 1 CZ FHD",
                     "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
                     "logo": "",
@@ -2785,6 +2793,14 @@
                     "type": 0,
                     "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
                     "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/br5b9somea/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "bb08ace238c57af73556d628f2d05034:3e839c0fe2db5bb79b3c8f741a2d44f0",
+                    "tokenApi": ""
                 }
             ]
         },
@@ -2897,6 +2913,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "03b792ed89384753406fdf0438ded2f0:2fc6bad1309ab8bd07c8b6f02d9b2822",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r23a6pv2cr/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "a72d49a731cd807bab10d856f62e4585:bbb8deb9b5222a0035dbda1c750ae292",
                     "tokenApi": ""
                 }
             ]

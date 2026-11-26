@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:44:26 AM 27-11-2026",
+    "Last update time": "01:46:29 AM 27-11-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -2287,6 +2287,14 @@
             },
             "channels_data": [
                 {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ljv91ssvaf/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "11489e74f183c6efde6937ade246d534:7f1a2054803b986ea67f7a687cb18b74",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6urbdoci3k/out/v1/a3c0af7f01ee43adb93a41b5b628270f/cenc.mpd",
                     "logo": "",
@@ -2882,8 +2890,16 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "SD SERVER",
+                    "link": "https://play.lacrima2000.com/live/35c3392c05451f6c.m3u8?wsSecret=F14C0F1D54ADE29ECBBDC31883A23838&wsTime=1795722973|Referer=https://www.goaldaddyth.com/",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "FANCODE - IND",
+                    "link": "https://in-mc-vod.fancode.com/mumbai/4251203_english_hls_009971867012513_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
                     "logo": "",
                     "type": 0,
                     "api": "",

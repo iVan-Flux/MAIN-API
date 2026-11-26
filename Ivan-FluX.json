@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:16:30 PM 26-11-2026",
+    "Last update time": "03:18:32 PM 26-11-2026",
     "Live": "00",
     "Upcoming": "86",
     "Finish": "00",
@@ -470,6 +470,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "STARZPLAY FHD",
+                    "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
                     "tokenApi": ""
                 },
                 {

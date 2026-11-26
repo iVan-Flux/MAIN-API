@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:28:28 PM 26-11-2026",
+    "Last update time": "03:31:14 PM 26-11-2026",
     "Live": "00",
     "Upcoming": "86",
     "Finish": "00",
@@ -473,19 +473,28 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "STARZPLAY FHD",
-                    "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+                    "title": "SonyLiv HINDI SD",
+                    "link": "http://c8.vfruitfairy.com/Hindi/index.m3u8",
                     "logo": "",
                     "type": 0,
-                    "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
-                    "tokenApi": ""
+                    "api": "",
+                    "tokenApi": {
+                        "url": "http://c8.vfruitfairy.com/Hindi/index.m3u8",
+                        "api": "http://c8.vfruitfairy.com/Hindi/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 },
                 {
                     "title": "WILLOW ALT",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+                    "api": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
                     "tokenApi": ""
                 },
                 {
@@ -497,16 +506,25 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "TAMASHA PK",
-                    "link": "https://cdn07khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
+                    "title": "SonyLiv ENG SD",
+                    "link": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
-                    "tokenApi": ""
+                    "tokenApi": {
+                        "url": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8",
+                        "api": "http://c8.vfruitfairy.com/ICCWomen1/index.m3u8",
+                        "type": "ls",
+                        "link_key": "playback_url",
+                        "default_string": "N8x7Y%m+6n",
+                        "request_type": "get",
+                        "request_body_type": "text",
+                        "ip_api": "https://api.ipify.org/"
+                    }
                 },
                 {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.44/hls/C444A.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
+                    "title": "TAMASHA PK",
+                    "link": "https://cdn07khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

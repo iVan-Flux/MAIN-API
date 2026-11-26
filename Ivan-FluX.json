@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:34:30 AM 27-11-2026",
+    "Last update time": "01:36:27 AM 27-11-2026",
     "Live": "00",
     "Upcoming": "70",
     "Finish": "00",
@@ -2333,11 +2333,27 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxeswgsoq3/out/v1/5819e6e83e5446f9b824c6a0d724c7ec/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "68624ac9b3773bf50172e715d7f82ff8:5c27cdaa83a530940953af8565215968",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgjktud12d/out/v1/2f7fd823b18747a6a9b490a7c5dd2c7d/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "f8bf18a059f3797f0eab665948de7cf0:1437fbf59db0e00b9a1f240dca71bed2",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY TOP EVENT FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
                     "tokenApi": ""
                 }
             ]
@@ -2387,11 +2403,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b5pbwl1cne/out/v1/50c08b0c9e264918af62eeb3f268c2ba/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "124fab59784417d9b78fe1369571712b:182610e03e1b1925385eb13fa90449f9",
                     "tokenApi": ""
                 }
             ]
@@ -2414,11 +2430,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1pd1mojapn/out/v1/2f3d0a26cd724ecba544def690bbf788/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "f40bf13f64c926d6e45f3dbb21fc388b:6e845b0b01a882963c3fca4e5c6d30e7",
                     "tokenApi": ""
                 }
             ]
@@ -2756,6 +2772,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "c2678fb72f3c7779d17492a9f7b0b138:04f68e9e61f1c8faa7fab0d9910dfea4",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ct9mx5npak/out/v1/206b509094744f4d99da3d82acc201a3/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "dd3c66bee767c44c347e01e245a499ed:278aafbfb1dd7a19125c1e10088b819d",
                     "tokenApi": ""
                 }
             ]

@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:20:51 PM 26-11-2026",
+    "Last update time": "11:22:26 PM 26-11-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -1923,6 +1923,14 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/raqupag2xn/out/v1/c82abc750fd94081a80ec6f336beb942/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "72719a409bea60fb496719e66663f9eb:d93a1b6b75eca45ed0bf53ee394d1610",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sufpagg0uu/out/v1/5cfa9f5aed4f471f9e9b8589a8b93196/cenc.mpd",
                     "logo": "",
@@ -1936,6 +1944,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mpiqpar5mq/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "3d346573a7f8c45874f504316bc2ed7d:b80c34a49416b64e24e7929a8ce8e704",
                     "tokenApi": ""
                 }
             ]
@@ -2055,11 +2071,27 @@
             },
             "channels_data": [
                 {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sml41rrgvv/out/v1/c1b7524c122d453985a73c7bb9b8f420/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "d122f0e2658e24fa3deb4012780c9efb:c9bbe113dff17a5f5da35ab2d3aa28c2",
+                    "tokenApi": ""
+                },
+                {
                     "title": "PARAMOUNT+ FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyfcv7ruof/out/v1/a6ea7f29aa204b159e9c517ae78762e7/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "2a68df24ec78920e6aece0d131aeaf75:b91bf889803ea4ed78ae40286e9c34e8",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6oluktaljg/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "0bdc839e16c9cbf909b51b1c29c5ab68:4137e8a7e828b78935b6393df845f2ba",
                     "tokenApi": ""
                 }
             ]
@@ -2326,6 +2358,14 @@
                     "logo": "",
                     "type": 0,
                     "api": "c21e9b8527df8aa55bc140393e1fad00:d7b34a0884b623956697da4d50bdd27d",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "VIX Español FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ngrx8c2bw1/out/v1/3bb7be9163524e72bc8ec72519235803/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "1dab511b152a961779597faa6899a1ac:859da1e684f8b9f346748abe394cf80c",
                     "tokenApi": ""
                 }
             ]

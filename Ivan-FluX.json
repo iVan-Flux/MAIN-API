@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:08:32 PM 26-11-2026",
+    "Last update time": "11:10:45 PM 26-11-2026",
     "Live": "00",
     "Upcoming": "75",
     "Finish": "00",
@@ -1883,11 +1883,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sufpagg0uu/out/v1/5cfa9f5aed4f471f9e9b8589a8b93196/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "461105240d6a2df4477712a1dcbf28e4:f709771c09623dfe8cf09cfed3331037",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
                     "tokenApi": ""
                 }
             ]
@@ -1999,11 +2007,11 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyfcv7ruof/out/v1/a6ea7f29aa204b159e9c517ae78762e7/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "2a68df24ec78920e6aece0d131aeaf75:b91bf889803ea4ed78ae40286e9c34e8",
                     "tokenApi": ""
                 }
             ]
@@ -2080,8 +2088,32 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsungy1bkk/out/v1/8ecc213717ee4e69bc5db0a3faddf750/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "792800ec8390ba20ea105242b6143e04:6bb0935a5200ea6fd5fd9b4b0d34e208",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r7hpdszryi/out/v1/c3ba8911e82e403fb11c697d7ab7dd82/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "e36b4f43fe3f829f6dfe0ed0c58417e3:884741f5b9a98811a230b3a666edf623",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+                    "logo": "",
+                    "type": 0,
+                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER",
+                    "link": "https://chatgpt.hereisman.net/playlist/61071/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2161,11 +2193,19 @@
             },
             "channels_data": [
                 {
-                    "title": "Link 1",
-                    "link": "https://no_link.m3u8",
+                    "title": "PARAMOUNT+ FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cxta6wlwp1/out/v1/96c7261ded824ca39d451e33d3e6d875/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "",
+                    "api": "a551b3d6acde3b8129a73c8959cba2c8:b34fa2c92050fc7fcdee926bb22f3e86",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "DAZN SPORTS FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0ffjvt1wlh/out/v1/69ed4fc09d9445a0b59979961006b728/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "c21e9b8527df8aa55bc140393e1fad00:d7b34a0884b623956697da4d50bdd27d",
                     "tokenApi": ""
                 }
             ]

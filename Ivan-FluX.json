@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "03:18:36 PM 27-11-2026",
+    "Last update time": "03:20:50 PM 27-11-2026",
     "Live": "00",
     "Upcoming": "76",
     "Finish": "00",
@@ -457,32 +457,32 @@
             },
             "channels_data": [
                 {
-                    "title": "SonyLiv (Multi Audio)",
-                    "link": "h",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "WILLOW ALT",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "TAMASHA PK",
+                    "link": "https://cdn07khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "WILLOW ALT",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd",
-                    "logo": "",
-                    "type": 0,
-                    "api": "ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f",
-                    "tokenApi": ""
-                },
-                {
                     "title": "SonyLiv (Asia)",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795555554~acl=/*~id=76403202165520569836578998371927~hmac=17acd14f3505e58b7359fb6fb8b258a8bbe5517eba4abdb627980f1f6b8032ee",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814834~acl=/*~id=51782647347076923355059385508694~hmac=94940f6df206c8440c3f88f64b3df390c718b49c7862016462ed0b3b957e9a9e",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -490,15 +490,15 @@
                 },
                 {
                     "title": "SonyLiv HD",
-                    "link": "https://dai.google.com/linear/hls/event/YEM-gkNKSaaG0VB4X6KiMg/master.m3u8",
+                    "link": "https://sonymtmnew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198",
                     "logo": "",
                     "type": 0,
                     "api": "",
                     "tokenApi": ""
                 },
                 {
-                    "title": "TAMASHA PK",
-                    "link": "https://cdn07khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8",
+                    "title": "TEN SPORTS HD",
+                    "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
                     "logo": "",
                     "type": 0,
                     "api": "",

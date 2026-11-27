@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "01:26:37 AM 28-11-2026",
+    "Last update time": "01:28:27 AM 28-11-2026",
     "Live": "00",
     "Upcoming": "62",
     "Finish": "00",
@@ -1660,6 +1660,22 @@
             },
             "channels_data": [
                 {
+                    "title": "PEACOCK ES FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/maanoeqzs8/out/v1/38cc1e025cec427fa8cef5fa4983f6be/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "85e4f481b44e70c30aded405b26c962d:f934839b98c7e6dbefc00a7fe8b63d53",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SKY BUNDESLIGA FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lf6ajotsgb/out/v1/5cb3ebc857154f9a94ab114037adb683/cenc.mpd",
+                    "logo": "",
+                    "type": 0,
+                    "api": "453f2209b8018ef19deb3d73862dab69:a1a6f566ced17173f4636f38e9be5970",
+                    "tokenApi": ""
+                },
+                {
                     "title": "SKY TOP EVENT FHD",
                     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
@@ -1939,6 +1955,22 @@
                     "logo": "",
                     "type": 0,
                     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD QUALITY",
+                    "link": "https://www.rtmpcdn.com/live/644a23ba-7dbc-47c8-9e1a-e000bd326f12.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "LOW QUALITY",
+                    "link": "http://193.47.62.41/hls/V444AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
                     "tokenApi": ""
                 }
             ]

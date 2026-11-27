@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "04:06:27 AM 28-11-2026",
+    "Last update time": "04:08:35 AM 28-11-2026",
     "Live": "00",
     "Upcoming": "62",
     "Finish": "00",
@@ -26,27 +26,27 @@
             },
             "channels_data": [
                 {
-                    "title": "TNT SPORTS FHD",
-                    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0",
+                    "title": "WILLOW FHD",
+                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ceu0ha7wnn/out/v1/b7d8b57a595e4f35be5e0134316be2b1/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+                    "api": "3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b",
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW FHD",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmg4c4thvp/out/v1/5bd93b9533004a2fab3f1825ce4c41e6/cenc.mpd",
+                    "title": "TNT SPORTS FHD",
+                    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
                     "logo": "",
                     "type": 0,
-                    "api": "bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171",
+                    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
                     "tokenApi": ""
                 },
                 {
                     "title": "WILLOW (ALT)",
-                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rmg4c4thvp/out/v1/5bd93b9533004a2fab3f1825ce4c41e6/cenc.mpd",
+                    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ceu0ha7wnn/out/v1/b7d8b57a595e4f35be5e0134316be2b1/cenc.mpd",
                     "logo": "",
                     "type": 0,
-                    "api": "bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171",
+                    "api": "3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b",
                     "tokenApi": ""
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "title": "SONYLIV [ENG]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795433010~acl=/*~id=84262797111671136049678097809464~hmac=2a1422e71de71081bb05d61df93ab79a1814c7fe338ffb30a3b303cb0b7a85f1",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -91,7 +91,7 @@
                 },
                 {
                     "title": "SONYLIV [HIN]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795433010~acl=/*~id=84262797111671136049678097809464~hmac=2a1422e71de71081bb05d61df93ab79a1814c7fe338ffb30a3b303cb0b7a85f1",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -99,7 +99,7 @@
                 },
                 {
                     "title": "SONYLIV [TAM]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795433010~acl=/*~id=84262797111671136049678097809464~hmac=2a1422e71de71081bb05d61df93ab79a1814c7fe338ffb30a3b303cb0b7a85f1",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -107,7 +107,7 @@
                 },
                 {
                     "title": "SONYLIV [TEL]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795433010~acl=/*~id=84262797111671136049678097809464~hmac=2a1422e71de71081bb05d61df93ab79a1814c7fe338ffb30a3b303cb0b7a85f1",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -115,7 +115,7 @@
                 },
                 {
                     "title": "SONYLIV [KAN]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795433010~acl=/*~id=84262797111671136049678097809464~hmac=2a1422e71de71081bb05d61df93ab79a1814c7fe338ffb30a3b303cb0b7a85f1",
+                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
                     "logo": "",
                     "type": 0,
                     "api": "",

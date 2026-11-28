@@ -3,7 +3,7 @@
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:02:40 AM 28-11-2026",
+    "Last update time": "07:04:38 AM 28-11-2026",
     "Live": "00",
     "Upcoming": "62",
     "Finish": "00",
@@ -42,19 +42,11 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "WILLOW (ALT)",
+                    "title": "WILLOW ALT",
                     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ceu0ha7wnn/out/v1/b7d8b57a595e4f35be5e0134316be2b1/cenc.mpd",
                     "logo": "",
                     "type": 0,
                     "api": "3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "PRIME (HINDI)",
-                    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/re6jn4yuac/out/v1/3ededfa0158147a99ed09d6abb96158a/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
-                    "logo": "",
-                    "type": 0,
-                    "api": "9e28fce884744efb8a8c25ce440eeb18:1df3a79a8ceac8373de0ffa9aaee6330",
                     "tokenApi": ""
                 },
                 {
@@ -74,16 +66,8 @@
                     "tokenApi": ""
                 },
                 {
-                    "title": "SD SERVER",
-                    "link": "http://193.47.62.41/hls/viii.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
                     "title": "SONYLIV [ENG]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
+                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -91,7 +75,7 @@
                 },
                 {
                     "title": "SONYLIV [HIN]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
+                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2711/HIN/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -99,7 +83,7 @@
                 },
                 {
                     "title": "SONYLIV [TAM]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
+                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -107,7 +91,7 @@
                 },
                 {
                     "title": "SONYLIV [TEL]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
+                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -115,15 +99,7 @@
                 },
                 {
                     "title": "SONYLIV [KAN]",
-                    "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795862112~acl=/*~id=66659998724643601744357237794940~hmac=5942e02a724de535f0516555cc86b5ff03bc06d0073602b0d40150d81a612b24",
-                    "logo": "",
-                    "type": 0,
-                    "api": "",
-                    "tokenApi": ""
-                },
-                {
-                    "title": "CRICBUZZ (IND)",
-                    "link": "https://dai.google.com/linear/hls/event/cNE9Z_P5TsuAQ5jxVJ1ADg/master.m3u8",
+                    "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
                     "logo": "",
                     "type": 0,
                     "api": "",
@@ -2244,6 +2220,22 @@
                 {
                     "title": "HD SERVER",
                     "link": "https://chatgpt.hereisman.net/playlist/61216/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "HD SERVER+",
+                    "link": "https://www.rtmpcdn.com/live/9e9b613b-73a8-4037-80a6-832e62b0bc58.m3u8",
+                    "logo": "",
+                    "type": 0,
+                    "api": "",
+                    "tokenApi": ""
+                },
+                {
+                    "title": "SD SERVER",
+                    "link": "http://193.47.62.41/hls/WQWQWQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.8037.101 Mobile Safari/537.36&origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
                     "logo": "",
                     "type": 0,
                     "api": "",
